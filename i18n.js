@@ -136,18 +136,22 @@
   }
 
   /* ---------- 重要新聞：英文原文＋播放/慢速/跟讀 ---------- */
-  let NEWS_MAP = null;
-  async function loadNewsMap() {
-    if (NEWS_MAP) return NEWS_MAP;
-    try {
-      const r = await fetch(MBE_DATA_BASE + 'news.json?t=' + Date.now());
-      const d = await r.json();
-      NEWS_MAP = new Map();
-      (d.sections || []).forEach(s => (s.items || []).forEach(it => {
-        if (it.title_zh && it.title_en) NEWS_MAP.set(it.title_zh.trim(), it);
-      }));
-    } catch (e) { NEWS_MAP = new Map(); }
-    return NEWS_MAP;
+  let NEWS_MAP_PROMISE = null;
+  function loadNewsMap() {
+    /* 用 promise 快取：多次同時呼叫只 fetch 一次 */
+    if (!NEWS_MAP_PROMISE) {
+      NEWS_MAP_PROMISE = fetch(MBE_DATA_BASE + 'news.json?t=' + Date.now())
+        .then(r => r.json())
+        .then(d => {
+          const m = new Map();
+          (d.sections || []).forEach(s => (s.items || []).forEach(it => {
+            if (it.title_zh && it.title_en) m.set(it.title_zh.trim(), it);
+          }));
+          return m;
+        })
+        .catch(() => new Map());
+    }
+    return NEWS_MAP_PROMISE;
   }
 
   function makeShadowBlock(it) {
@@ -208,11 +212,13 @@
   }
 
   async function enhanceNews() {
-    const items = document.querySelectorAll('.news-item > details:not([data-mbe])');
+    const items = Array.from(document.querySelectorAll('.news-item > details:not([data-mbe])'));
     if (!items.length) return;
+    /* 先同步標記再等資料，避免 news.json 下載期間重複插入 */
+    items.forEach(det => { det.dataset.mbe = '1'; });
     const map = await loadNewsMap();
     items.forEach(det => {
-      det.dataset.mbe = '1';
+      if (!det.isConnected || det.querySelector(':scope > .mbe-news')) return;
       const sum = det.querySelector('summary');
       if (!sum || !sum.firstChild || sum.firstChild.nodeType !== 3) return;
       const it = map.get((sum.firstChild.nodeValue || '').trim());
