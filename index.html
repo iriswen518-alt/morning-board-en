@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>理財小幫手 中英文版</title>
+<meta name="theme-color" content="#019AB3">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="理財中英">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;0,7..72,700;1,7..72,400&display=swap" rel="stylesheet">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='14' fill='%23019ab3'/><path d='M14 20h22a4 4 0 0 1 4 4v8a4 4 0 0 1-4 4H24l-7 6v-6h-3a4 4 0 0 1-4-4v-8a4 4 0 0 1 4-4z' fill='none' stroke='%23ffffff' stroke-width='4' stroke-linejoin='round'/><path d='M30 44h16l6 5v-5h-2' fill='none' stroke='%23e8c25a' stroke-width='4' stroke-linejoin='round'/></svg>">
+<style>
+  :root {
+    --primary: #019ab3;
+    --primary-deep: #003d91;
+    --gold: #c79a00;
+    --gold-soft: #e8c25a;
+    --active: #e3f1f5;
+    --active-text: #003d91;
+    --bg: #f3f7f9;
+    --card: #ffffff;
+    --text: #16232e;
+    --muted: #5f6d7a;
+    --border: #dfe8ed;
+    --up: #c94f4f;
+    --down: #0e7d5b;
+    --font-en: 'Literata', Georgia, 'Times New Roman', serif;
+    --shadow-card: 0 4px 20px rgba(0, 31, 77, .06);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { height: 100%; font-size: 17.5px; }
+  body {
+    height: 100%; height: 100dvh; display: flex; flex-direction: column;
+    font-family: 'PingFang TC', 'Noto Sans TC', 'Microsoft JhengHei', system-ui, sans-serif;
+    background: linear-gradient(180deg, #ecf4f7 0%, var(--bg) 340px);
+    color: var(--text); letter-spacing: .01em;
+    -webkit-font-smoothing: antialiased;
+  }
+  #page-scroll { flex: 1; overflow-y: auto; -webkit-overflow-scrolling: touch; padding-bottom: calc(64px + env(safe-area-inset-bottom, 0px)); }
+  a { color: var(--primary); }
+
+  .hero {
+    background:
+      radial-gradient(120% 150% at 88% -25%, rgba(1, 154, 179, .55), transparent 55%),
+      radial-gradient(90% 130% at -5% 115%, rgba(23, 181, 173, .38), transparent 60%),
+      linear-gradient(125deg, #002a66 0%, #003d91 45%, #0181a5 100%);
+    color: #eef4fb; padding: 1.4rem 1.4rem 1.6rem; text-align: center; position: relative; overflow: hidden;
+  }
+  .hero::after {
+    content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 3px;
+    background: linear-gradient(90deg, var(--gold), var(--gold-soft), var(--gold));
+  }
+  .hero h1 { font-size: clamp(1.45rem, 5vw, 2.05rem); font-weight: 800; letter-spacing: .12em; display: inline-flex; align-items: center; gap: .55rem; flex-wrap: wrap; justify-content: center; }
+  .hero .ver-badge { font-size: .62rem; font-weight: 700; letter-spacing: .1em; color: #ffefc2; border: 1px solid rgba(232,194,90,.8); border-radius: 999px; padding: .16rem .6rem; vertical-align: middle; }
+  .hero p { font-family: var(--font-en); font-style: italic; font-size: .92rem; opacity: .85; margin-top: .45rem; }
+  .hero .test-note { font-family: inherit; font-style: normal; font-size: .68rem; opacity: .68; margin-top: .5rem; }
+
+  .bottom-nav {
+    position: fixed; left: 0; right: 0; bottom: 0; z-index: 9000; background: rgba(255,255,255,.96);
+    backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+    border-top: 1px solid var(--border); box-shadow: 0 -2px 16px rgba(0,31,77,.08);
+    display: flex; justify-content: space-around; align-items: stretch; gap: 2px;
+    padding: 4px 5px calc(4px + env(safe-area-inset-bottom, 0px));
+  }
+  .bottom-nav button {
+    flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 3px;
+    background: none; border: none; border-radius: 12px; padding: 7px 0 8px; cursor: pointer;
+    color: var(--muted); font-size: .72rem; font-weight: 700; font-family: inherit; white-space: nowrap;
+    -webkit-tap-highlight-color: transparent; transition: color .18s, background .18s;
+  }
+  .bottom-nav button.active { color: var(--active-text); background: var(--active); }
+  .ic-svg { width: 22px; height: 22px; display: block; }
+
+  .wrap { max-width: 820px; margin: 0 auto; padding: 1.2rem 1rem 2.5rem; }
+  .tab { display: none; }
+  .tab.active { display: block; }
+  .tab.active > * { animation: rise .45s cubic-bezier(.22,.7,.3,1) both; }
+  .tab.active > *:nth-child(2) { animation-delay: .05s; }
+  .tab.active > *:nth-child(3) { animation-delay: .1s; }
+  .tab.active > *:nth-child(n+4) { animation-delay: .15s; }
+  @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+  @keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+  .sec-head { display: flex; align-items: center; justify-content: space-between; margin-bottom: .4rem; }
+  .sec-head h2 { font-size: 1.3rem; color: var(--primary-deep); font-weight: 800; letter-spacing: .06em; display: flex; align-items: center; gap: .5rem; }
+  .sec-head h2::before { content: ''; width: 4px; height: 1.05em; border-radius: 4px; background: linear-gradient(180deg, var(--gold-soft), var(--gold)); }
+  .date-chip { font-size: .7rem; font-weight: 700; color: var(--active-text); background: var(--active); border-radius: 20px; padding: .14rem .65rem; }
+  .lead { color: var(--muted); font-size: .89rem; line-height: 1.7; margin-bottom: 1.1rem; }
+
+  .card { background: var(--card); border: 1px solid var(--border); border-radius: 18px; padding: 1.05rem 1.15rem; margin-bottom: 1rem; box-shadow: var(--shadow-card); }
+
+  /* accordion（沿用小學堂 acc-sec 樣式；展開＝黃底） */
+  .acc-sec { background: var(--card); border: 1px solid var(--border); border-radius: 16px; margin-bottom: .65rem; overflow: hidden; box-shadow: 0 2px 10px rgba(0,31,77,.04); }
+  .acc-head {
+    width: 100%; display: flex; align-items: center; justify-content: space-between; gap: .6rem;
+    background: none; border: none; font-family: inherit; cursor: pointer;
+    padding: .85rem 1.05rem; font-size: .98rem; font-weight: 800; color: var(--text); text-align: left;
+    transition: background .18s;
+  }
+  .acc-head .en-sub { font-family: var(--font-en); font-weight: 600; font-size: .78rem; color: var(--muted); margin-left: .45rem; }
+  .acc-sec.open > .acc-head { background: #fdf6e0; color: #6b5307; }
+  .acc-sec.open > .acc-head .en-sub { color: #8a6d1a; }
+  .acc-head .arrow { transition: transform .2s; color: var(--muted); flex-shrink: 0; }
+  .acc-sec.open > .acc-head .arrow { transform: rotate(90deg); }
+  .acc-body { display: none; padding: .25rem 1.05rem 1rem; }
+  .acc-sec.open > .acc-body { display: block; animation: fade .22s ease; }
+
+  .btn { display: inline-block; background: linear-gradient(135deg, #019ab3, #003d91); color: #fff; font-weight: 800; font-size: .92rem; font-family: inherit; border: none; border-radius: 999px; padding: .55rem 1.3rem; cursor: pointer; box-shadow: 0 3px 10px rgba(0,31,77,.25); transition: transform .15s, box-shadow .15s; }
+  .btn:hover { transform: translateY(-1px); box-shadow: 0 5px 14px rgba(0,31,77,.3); }
+  .btn:active { transform: scale(.97); }
+  .btn-ghost { background: #fff; color: var(--primary); border: 1.5px solid var(--primary); box-shadow: none; }
+  .btn-ghost:hover { box-shadow: 0 3px 10px rgba(1,154,179,.18); }
+  .btn-sm { font-size: .8rem; padding: .35rem .9rem; }
+  .hint { font-size: .78rem; color: var(--muted); margin-top: .5rem; text-align: center; }
+
+  /* 中英句子項目（播放／慢速／跟讀／原文） */
+  .sh-item { border-bottom: 1px dashed var(--border); padding: .8rem 0; }
+  .sh-item:last-child { border-bottom: none; }
+  .sh-en { font-family: var(--font-en); font-size: 1.14rem; font-weight: 600; line-height: 1.65; }
+  .sh-zh { font-size: .92rem; color: var(--muted); margin-top: .25rem; line-height: 1.6; }
+  .sh-btns { display: flex; gap: .5rem; margin-top: .55rem; flex-wrap: wrap; align-items: center; }
+  .sh-src { font-size: .74rem; color: var(--muted); margin-left: auto; }
+  .sh-result { margin-top: .6rem; font-family: var(--font-en); font-size: 1rem; line-height: 1.75; display: none; animation: fade .3s ease; }
+  .sh-result .score { font-family: 'PingFang TC', 'Noto Sans TC', system-ui, sans-serif; font-weight: 800; margin-right: .45rem; }
+  .sh-result .w-hit { color: #0e7d5b; }
+  .sh-result .w-miss { color: var(--up); text-decoration: underline wavy; text-underline-offset: 3px; }
+  .sh-heard { font-size: .86rem; color: var(--muted); margin-top: .25rem; }
+
+  /* 新聞：閱讀內容再放大一級 */
+  #newsList .sh-en { font-size: 1.2rem; }
+  #newsList .sh-zh { font-size: 1rem; line-height: 1.7; }
+  #newsList .sh-sum-en { font-family: var(--font-en); font-size: 1rem; font-weight: 400; color: var(--text); margin-top: .45rem; line-height: 1.7; }
+
+  /* 今日重點 */
+  .tldr-list { list-style: none; }
+  .tldr-list li { display: flex; gap: .55rem; padding: .45rem 0; border-bottom: 1px dashed var(--border); font-size: .93rem; line-height: 1.65; }
+  .tldr-list li:last-child { border-bottom: none; }
+  .tldr-list li::before { content: ''; flex-shrink: 0; width: 7px; height: 7px; border-radius: 50%; background: var(--primary); margin-top: .55rem; }
+
+  footer.disclaimer { text-align: center; font-size: .7rem; color: var(--muted); padding: 0 1rem 1rem; }
+
+  @media (max-width: 520px) {
+    .hero { padding: 1.15rem 1rem 1.35rem; }
+  }
+</style>
+</head>
+<body>
+
+<div id="page-scroll">
+  <div class="hero">
+    <h1>理財小幫手 <span class="ver-badge">中英文版</span></h1>
+    <p>Today's markets and money news — in Chinese and English.</p>
+    <p class="test-note">本網站僅供測試使用，資料僅供參考，非投資建議。For testing only; not investment advice.</p>
+  </div>
+
+  <div class="wrap">
+
+    <!-- ============ 市場盤勢 ============ -->
+    <section class="tab active" id="tab-market">
+      <div class="sec-head"><h2>市場盤勢</h2><span class="date-chip" id="marketDate">--/--</span></div>
+      <p class="lead">取自「理財小幫手」每日收盤資料，把行情變成中英對照句：先按「播放」聽，再按「跟讀」開口唸，練到 80 分以上。中文原始儀表板在 <a href="https://iriswen518-alt.github.io/morning-board/" target="_blank" rel="noopener">理財小幫手 中文版</a>。</p>
+      <div id="marketList"><p class="hint">載入今日行情中…</p></div>
+    </section>
+
+    <!-- ============ 重要新聞 ============ -->
+    <section class="tab" id="tab-news">
+      <div class="sec-head"><h2>重要新聞</h2><span class="date-chip" id="newsDate">--/--</span></div>
+      <p class="lead">每日重要財經新聞中英對照：英文標題與摘要可「播放」朗讀、「慢速」聽清楚、「跟讀」練發音，「原文」連到新聞來源。</p>
+      <div class="acc-sec" id="tldrSec">
+        <button class="acc-head"><span>今日重點<span class="en-sub">Top Stories</span></span><svg class="arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg></button>
+        <div class="acc-body"><ul class="tldr-list" id="tldrList"></ul></div>
+      </div>
+      <div id="newsList"><p class="hint">載入今日新聞中…</p></div>
+    </section>
+
+  </div>
+
+  <footer class="disclaimer">資料僅供內部參考，不構成任何投資建議 · Data for internal reference only.</footer>
+</div>
+
+<nav class="bottom-nav">
+  <button data-tab="market" class="active">
+    <svg class="ic-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12h3l2.5 6 4-13 2.5 9 1.5-3H21"/></svg>
+    市場盤勢
+  </button>
+  <button data-tab="news">
+    <svg class="ic-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h13a2 2 0 0 1 2 2v11a2 2 0 0 0 2-2V8"/><path d="M4 5v13a2 2 0 0 0 2 2h13"/><path d="M8 9h7M8 13h7M8 17h5"/></svg>
+    重要新聞
+  </button>
+</nav>
+
+<script>
+'use strict';
+const MB_BASE = 'https://iriswen518-alt.github.io/morning-board/data/';
+
+/* ---------- tabs（聰明預設值：記住上次分頁） ---------- */
+function activateTab(name){
+  var btn = document.querySelector('.bottom-nav button[data-tab="' + name + '"]');
+  var pane = document.getElementById('tab-' + name);
+  if (!btn || !pane) return false;
+  document.querySelectorAll('.bottom-nav button').forEach(function(x){ x.classList.remove('active'); });
+  document.querySelectorAll('.tab').forEach(function(x){ x.classList.remove('active'); });
+  btn.classList.add('active');
+  pane.classList.add('active');
+  document.getElementById('page-scroll').scrollTop = 0;
+  return true;
+}
+document.querySelectorAll('.bottom-nav button').forEach(function(b){
+  b.addEventListener('click', function(){
+    if (activateTab(b.dataset.tab)) {
+      try { localStorage.setItem('mbe_lastTab', b.dataset.tab); } catch (_) {}
+    }
+  });
+});
+try {
+  var last = localStorage.getItem('mbe_lastTab');
+  if (last) activateTab(last);
+} catch (_) {}
+
+document.getElementById('tldrSec').querySelector('.acc-head').addEventListener('click', function(){
+  document.getElementById('tldrSec').classList.toggle('open');
+});
+
+/* ---------- TTS：挑最自然的英文聲音 ---------- */
+let enVoice = null;
+function scoreVoice(v){
+  if (v.lang.indexOf('en') !== 0) return -1;
+  let s = 0;
+  if (/premium/i.test(v.name)) s += 50;
+  else if (/enhanced/i.test(v.name)) s += 40;
+  else if (/natural|neural|online/i.test(v.name)) s += 35;
+  else if (/siri/i.test(v.name)) s += 30;
+  else if (/^Google US English/i.test(v.name)) s += 25;
+  else if (v.name === 'Samantha') s += 10;
+  if (/compact|eloquence|novelty|Albert|Bahh|Bells|Boing|Bubbles|Cellos|Wobble|Fred|Jester|Junior|Kathy|Organ|Ralph|Superstar|Trinoids|Whisper|Zarvox|Good News|Bad News/i.test(v.name)) s -= 60;
+  if (v.lang === 'en-US') s += 5;
+  return s;
+}
+function pickVoice(){
+  const vs = speechSynthesis.getVoices();
+  let best = null, bestS = 0;
+  vs.forEach(function(v){ const s = scoreVoice(v); if (s > bestS) { bestS = s; best = v; } });
+  enVoice = best;
+}
+pickVoice();
+if (speechSynthesis.onvoiceschanged !== undefined) speechSynthesis.onvoiceschanged = pickVoice;
+
+function speak(text, rate){
+  try {
+    speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = 'en-US'; u.rate = rate || 0.95;
+    if (enVoice) u.voice = enVoice;
+    speechSynthesis.speak(u);
+  } catch(e){}
+}
+
+/* ---------- 語音辨識（跟讀評分） ---------- */
+const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+function makeRecognizer(onFinal, onInterim, onEnd){
+  if (!SR) return null;
+  const r = new SR();
+  r.lang = 'en-US'; r.interimResults = true; r.continuous = false; r.maxAlternatives = 1;
+  let finalText = '', interimText = '';
+  r.onresult = function(ev){
+    let interim = '';
+    for (let i = ev.resultIndex; i < ev.results.length; i++) {
+      if (ev.results[i].isFinal) finalText += ev.results[i][0].transcript;
+      else interim += ev.results[i][0].transcript;
+    }
+    /* iOS Safari 常整段只給 interim、不標 isFinal，故留存最後一段當結束時的結果 */
+    if (interim) interimText = interim;
+    if (interim && onInterim) onInterim(finalText + interim);
+  };
+  r.onend = function(){
+    if (onEnd) onEnd();
+    const text = (finalText.trim() || interimText.trim());
+    if (text && onFinal) onFinal(text);
+    finalText = ''; interimText = '';
+  };
+  r.onerror = function(){ finalText=''; interimText=''; };
+  return r;
+}
+
+function normWords(s){
+  return s.toLowerCase()
+    .replace(/(\d),(\d)/g, '$1$2')      /* 7,458 -> 7458，與語音辨識結果一致 */
+    .replace(/%/g, ' percent ')
+    .replace(/[^a-z0-9'. ]+/g, ' ')
+    .replace(/(\d)\.(\d)/g, '$1 point $2')
+    .replace(/\./g, ' ')
+    .split(/\s+/).filter(Boolean);
+}
+function lcsMatch(target, heard){
+  const a = target, b = heard, m = a.length, n = b.length;
+  const dp = Array.from({length: m+1}, function(){ return new Array(n+1).fill(0); });
+  for (let i = m-1; i >= 0; i--) for (let j = n-1; j >= 0; j--)
+    dp[i][j] = a[i] === b[j] ? dp[i+1][j+1] + 1 : Math.max(dp[i+1][j], dp[i][j+1]);
+  const hit = new Array(m).fill(false);
+  let i = 0, j = 0;
+  while (i < m && j < n) {
+    if (a[i] === b[j]) { hit[i] = true; i++; j++; }
+    else if (dp[i+1][j] >= dp[i][j+1]) i++; else j++;
+  }
+  return hit;
+}
+
+/* ---------- 中英句子項目 ----------
+   opts: { en, zh, sumEn, sumZh, shadowTarget, playText, sourceUrl, sourceName } */
+function makeItem(opts){
+  const d = document.createElement('div');
+  d.className = 'sh-item';
+  d.innerHTML = '<div class="sh-en"></div><div class="sh-zh zh1"></div>' +
+    '<div class="sh-sum-en" style="display:none"></div><div class="sh-zh zh2" style="display:none"></div>' +
+    '<div class="sh-btns">' +
+    '<button class="btn btn-ghost btn-sm b-play">播放</button>' +
+    '<button class="btn btn-ghost btn-sm b-slow">慢速</button>' +
+    '<button class="btn btn-sm b-rec">跟讀</button>' +
+    '</div><div class="sh-result"></div><div class="sh-heard"></div>';
+  d.querySelector('.sh-en').textContent = opts.en;
+  d.querySelector('.zh1').textContent = opts.zh || '';
+  if (opts.sumEn) { const el = d.querySelector('.sh-sum-en'); el.style.display = 'block'; el.textContent = opts.sumEn; }
+  if (opts.sumZh) { const el = d.querySelector('.zh2'); el.style.display = 'block'; el.textContent = opts.sumZh; }
+  const playText = opts.playText || opts.en;
+  d.querySelector('.b-play').addEventListener('click', function(){ speak(playText, 0.95); });
+  d.querySelector('.b-slow').addEventListener('click', function(){ speak(playText, 0.65); });
+
+  const btns = d.querySelector('.sh-btns');
+  if (opts.sourceUrl) {
+    const a = document.createElement('a');
+    a.className = 'btn btn-ghost btn-sm';
+    a.style.textDecoration = 'none';
+    a.target = '_blank'; a.rel = 'noopener';
+    a.href = opts.sourceUrl; a.textContent = '原文';
+    btns.appendChild(a);
+  }
+  if (opts.sourceName) {
+    const s = document.createElement('span');
+    s.className = 'sh-src'; s.textContent = opts.sourceName;
+    btns.appendChild(s);
+  }
+
+  const target = opts.shadowTarget || opts.en;
+  const recBtn = d.querySelector('.b-rec');
+  let rec = null, recTimer = null;
+  recBtn.addEventListener('click', function(){
+    if (!SR) { alert('此瀏覽器不支援語音辨識，請改用 Chrome 或 Safari'); return; }
+    if (rec) { try { rec.stop(); } catch(e){} return; }   /* 再按一次＝唸完，立即評分 */
+    speechSynthesis.cancel();
+    recBtn.textContent = '完成';
+    const r = makeRecognizer(function(heardText){
+      const tw = normWords(target), hw = normWords(heardText);
+      const hit = lcsMatch(tw, hw);
+      const pct = tw.length ? Math.round(hit.filter(Boolean).length / tw.length * 100) : 0;
+      const res = d.querySelector('.sh-result');
+      res.style.display = 'block';
+      res.innerHTML = '<span class="score"></span>';
+      res.querySelector('.score').textContent = pct + '分';
+      res.querySelector('.score').style.color = pct >= 80 ? '#0e7d5b' : (pct >= 50 ? '#c79a00' : '#c94f4f');
+      /* 逐字比對上色：normWords 可能把一個原字拆成多個 token（如 1.01 -> 1 point 01），
+         以該字對應的所有 token 是否全中來決定顏色 */
+      const orig = target.split(/\s+/);
+      let wi = 0;
+      orig.forEach(function(w){
+        const span = document.createElement('span');
+        span.textContent = w + ' ';
+        const toks = normWords(w);
+        if (toks.length) {
+          let ok = true;
+          for (let k = 0; k < toks.length; k++) { if (!hit[wi + k]) ok = false; }
+          wi += toks.length;
+          span.className = ok ? 'w-hit' : 'w-miss';
+        }
+        res.appendChild(span);
+      });
+      d.querySelector('.sh-heard').textContent = '你唸的: ' + heardText;
+    }, null, function(){ recBtn.textContent = '跟讀'; rec = null; clearTimeout(recTimer); });
+    try {
+      r.start(); rec = r;
+      /* iOS 靜音自動結束不可靠，15 秒保險自動收音評分 */
+      recTimer = setTimeout(function(){ try { if (rec) rec.stop(); } catch(e){} }, 15000);
+    } catch(e){ recBtn.textContent = '跟讀'; rec = null; }
+  });
+  return d;
+}
+
+function makeAccSection(titleZh, titleEn, open){
+  const sec = document.createElement('div');
+  sec.className = 'acc-sec' + (open ? ' open' : '');
+  const head = document.createElement('button');
+  head.className = 'acc-head';
+  head.innerHTML = '<span><span class="t"></span><span class="en-sub"></span></span>' +
+    '<svg class="arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg>';
+  head.querySelector('.t').textContent = titleZh;
+  head.querySelector('.en-sub').textContent = titleEn || '';
+  head.addEventListener('click', function(){ sec.classList.toggle('open'); });
+  sec.appendChild(head);
+  const body = document.createElement('div');
+  body.className = 'acc-body';
+  sec.appendChild(body);
+  return { sec: sec, body: body };
+}
+
+/* ---------- 行情 → 中英句子 ---------- */
+function verbEn(p){
+  if (p == null) return null;
+  if (p >= 3) return 'soared'; if (p >= 1.5) return 'jumped'; if (p >= 0.5) return 'rose';
+  if (p > 0) return 'edged up';
+  if (p <= -3) return 'plunged'; if (p <= -1.5) return 'tumbled'; if (p <= -0.5) return 'fell';
+  if (p < 0) return 'slipped';
+  return 'was little changed';
+}
+function verbZh(p){
+  if (p == null) return null;
+  if (p >= 3) return '飆漲'; if (p >= 1.5) return '大漲'; if (p >= 0.5) return '上漲';
+  if (p > 0) return '微漲';
+  if (p <= -3) return '重挫'; if (p <= -1.5) return '大跌'; if (p <= -0.5) return '下跌';
+  if (p < 0) return '微跌';
+  return '持平';
+}
+function fmt(v, dec){
+  if (v == null) return null;
+  return Number(v).toLocaleString('en-US', { minimumFractionDigits: dec, maximumFractionDigits: dec });
+}
+function absPct(p){ return Math.abs(p).toFixed(2).replace(/\.?0+$/, ''); }
+
+const IDX_MAP = {
+  'S&P 500':            { en: 'The S&P 500', zh: '標普五百' },
+  'Nasdaq Composite':   { en: 'The Nasdaq Composite', zh: '那斯達克指數' },
+  'Dow Jones':          { en: 'The Dow Jones Industrial Average', zh: '道瓊工業指數' },
+  'PHLX Semiconductor': { en: 'The Philadelphia Semiconductor Index', zh: '費城半導體指數' },
+  'Euro Stoxx 50':      { en: 'The Euro Stoxx 50', zh: '歐元區STOXX 50指數' },
+  'DAX':                { en: "Germany's DAX", zh: '德國DAX指數' },
+  'FTSE 100':           { en: "Britain's FTSE 100", zh: '英國富時100指數' },
+  'CAC 40':             { en: "France's CAC 40", zh: '法國CAC 40指數' },
+  'Nikkei 225':         { en: "Japan's Nikkei 225", zh: '日經225指數' },
+  'TAIEX 加權指數':      { en: "Taiwan's TAIEX weighted index", zh: '台股加權指數' },
+  'OTC 櫃買加權':        { en: "Taiwan's Taipei Exchange index", zh: '櫃買指數' },
+  '台指期(近月)':        { en: 'Taiwan index futures', zh: '台指期近月' },
+  'KOSPI':              { en: "South Korea's KOSPI", zh: '韓國KOSPI指數' },
+  'Hang Seng 恆生':      { en: "Hong Kong's Hang Seng Index", zh: '香港恆生指數' },
+  'Shanghai 上證':       { en: 'The Shanghai Composite', zh: '上證指數' },
+  'CSI 300 滬深300':     { en: 'The CSI 300', zh: '滬深300指數' },
+  'Nifty 50':           { en: "India's Nifty 50", zh: '印度Nifty 50指數' },
+  'S&P/ASX 200':        { en: "Australia's S&P/ASX 200", zh: '澳洲ASX 200指數' },
+};
+function idxSentence(ix){
+  if (ix.close == null) return null;
+  const sp = IDX_MAP[ix.name] || { en: ix.name.replace(/[一-鿿（）()]+/g, '').trim() || ix.name, zh: ix.name };
+  const price = fmt(Math.round(ix.close), 0);
+  const p = ix.daily_pct;
+  if (p == null || p === 0) {
+    return { en: sp.en + ' was little changed, closing at ' + price + ' points.',
+             zh: sp.zh + '持平，收' + price + '點。' };
+  }
+  return { en: sp.en + ' ' + verbEn(p) + ' ' + absPct(p) + ' percent to close at ' + price + ' points.',
+           zh: sp.zh + verbZh(p) + absPct(p) + '%，收' + price + '點。' };
+}
+
+const FX_MAP = {
+  'DXY 美元指數':   { solo: 'The US dollar index', zh: '美元指數', dec: 2 },
+  'EUR/USD 歐元':   { base: 'The euro', quote: 'against the dollar', zh: '歐元兌美元', dec: 4 },
+  'USD/JPY 日圓':   { base: 'The dollar', quote: 'against the Japanese yen', zh: '美元兌日圓', dec: 2 },
+  'GBP/USD 英鎊':   { base: 'The British pound', quote: 'against the dollar', zh: '英鎊兌美元', dec: 4 },
+  'USD/CNY 人民幣': { base: 'The dollar', quote: 'against the Chinese yuan', zh: '美元兌人民幣', dec: 3 },
+  'USD/TWD 新台幣': { base: 'The dollar', quote: 'against the Taiwan dollar', zh: '美元兌新台幣', dec: 3 },
+  'JPY/TWD 日圓兌台幣': { base: 'The Japanese yen', quote: 'against the Taiwan dollar', zh: '日圓兌新台幣', dec: 4 },
+};
+function fxSentence(x){
+  if (x.close == null) return null;
+  const sp = FX_MAP[x.name];
+  const dec = sp ? sp.dec : 2;
+  const price = fmt(x.close, dec);
+  const p = x.daily_pct;
+  if (!sp) {
+    if (p == null || p === 0) return { en: x.name + ' was little changed at ' + price + '.', zh: x.name + '持平，收' + price + '。' };
+    return { en: x.name + ' ' + verbEn(p) + ' ' + absPct(p) + ' percent to ' + price + '.',
+             zh: x.name + verbZh(p) + absPct(p) + '%，收' + price + '。' };
+  }
+  if (sp.solo) {
+    if (p == null || p === 0) return { en: sp.solo + ' was little changed at ' + price + '.', zh: sp.zh + '持平，收' + price + '。' };
+    return { en: sp.solo + ' ' + verbEn(p) + ' ' + absPct(p) + ' percent to ' + price + '.',
+             zh: sp.zh + verbZh(p) + absPct(p) + '%，收' + price + '。' };
+  }
+  if (p == null || p === 0) return { en: sp.base + ' was little changed ' + sp.quote + ' at ' + price + '.', zh: sp.zh + '持平，收' + price + '。' };
+  return { en: sp.base + ' ' + verbEn(p) + ' ' + absPct(p) + ' percent ' + sp.quote + ' to ' + price + '.',
+           zh: sp.zh + verbZh(p) + absPct(p) + '%，收' + price + '。' };
+}
+
+const BOND_MAP = {
+  'US 10-Year':      { en: 'The US 10-year Treasury yield', zh: '美國10年期公債殖利率' },
+  'US 2-Year':       { en: 'The US 2-year Treasury yield', zh: '美國2年期公債殖利率' },
+  'Germany 10-Year': { en: "Germany's 10-year bund yield", zh: '德國10年期公債殖利率' },
+  'Japan 10-Year':   { en: "Japan's 10-year government bond yield", zh: '日本10年期公債殖利率' },
+  'UK 10-Year':      { en: 'The UK 10-year gilt yield', zh: '英國10年期公債殖利率' },
+  'TW 10-Year':      { en: "Taiwan's 10-year government bond yield", zh: '台灣10年期公債殖利率' },
+};
+function bondSentence(b){
+  if (b.yield_pct == null) return null;
+  const sp = BOND_MAP[b.name] || { en: 'The ' + b.name + ' yield', zh: b.name + '殖利率' };
+  const y = Number(b.yield_pct).toFixed(2);
+  const bps = b.daily_bps;
+  if (bps == null || bps === 0) {
+    return { en: sp.en + ' was unchanged at ' + y + ' percent.', zh: sp.zh + '持平於' + y + '%。' };
+  }
+  const v = bps > 0 ? 'rose' : 'fell';
+  const vz = bps > 0 ? '上升' : '下降';
+  const a = Math.abs(bps).toFixed(1).replace(/\.0$/, '');
+  return { en: sp.en + ' ' + v + ' ' + a + ' basis points to ' + y + ' percent.',
+           zh: sp.zh + vz + a + '個基點，至' + y + '%。' };
+}
+
+const CMD_MAP = {
+  '黃金 (USD/oz)':        { en: 'Gold', zh: '黃金', unitEn: 'dollars an ounce', unitZh: '美元', per: '每盎司', dec: 0 },
+  '白銀 (USD/oz)':        { en: 'Silver', zh: '白銀', unitEn: 'dollars an ounce', unitZh: '美元', per: '每盎司', dec: 2 },
+  'WTI 原油 (USD/bbl)':   { en: 'WTI crude oil', zh: 'WTI原油', unitEn: 'dollars a barrel', unitZh: '美元', per: '每桶', dec: 1 },
+  '布蘭特原油 (USD/bbl)': { en: 'Brent crude', zh: '布蘭特原油', unitEn: 'dollars a barrel', unitZh: '美元', per: '每桶', dec: 1 },
+  '比特幣 (USD)':         { en: 'Bitcoin', zh: '比特幣', unitEn: 'dollars', unitZh: '美元', per: '', dec: 0 },
+};
+function cmdSentence(c){
+  if (c.close == null) return null;
+  const sp = CMD_MAP[c.name] || { en: c.name, zh: c.name, unitEn: 'dollars', unitZh: '美元', per: '', dec: 2 };
+  const price = fmt(c.close, sp.dec);
+  const p = c.daily_pct;
+  if (p == null || p === 0) {
+    return { en: sp.en + ' was little changed at ' + price + ' ' + sp.unitEn + '.',
+             zh: sp.zh + '持平，收' + sp.per + price + sp.unitZh + '。' };
+  }
+  const upVerbs = { 'soared':'soared', 'jumped':'jumped', 'rose':'climbed', 'edged up':'edged up' };
+  let v = verbEn(p); v = upVerbs[v] || v;
+  return { en: sp.en + ' ' + v + ' ' + absPct(p) + ' percent to ' + price + ' ' + sp.unitEn + '.',
+           zh: sp.zh + verbZh(p) + absPct(p) + '%，收' + sp.per + price + sp.unitZh + '。' };
+}
+
+/* ---------- 載入資料 ---------- */
+async function loadAll(){
+  const marketList = document.getElementById('marketList');
+  const newsList = document.getElementById('newsList');
+  let market = null, news = null;
+  try {
+    const rs = await Promise.all([
+      fetch(MB_BASE + 'market.json', { cache: 'no-cache' }),
+      fetch(MB_BASE + 'news.json',   { cache: 'no-cache' }),
+    ]);
+    market = await rs[0].json();
+    news = await rs[1].json();
+  } catch(e){
+    marketList.innerHTML = ''; newsList.innerHTML = '';
+    marketList.appendChild(Object.assign(document.createElement('p'), { className: 'hint', textContent: '今日資料載入失敗，請確認網路後重新整理' }));
+    newsList.appendChild(Object.assign(document.createElement('p'), { className: 'hint', textContent: '今日資料載入失敗，請確認網路後重新整理' }));
+    return;
+  }
+
+  /* 日期 chip */
+  const cd = (market && market.closing_date) || '';
+  if (cd.length === 10) document.getElementById('marketDate').textContent = cd.slice(5).replace('-', '/');
+  const nd = (news && news.news_date) || '';
+  if (nd.length === 10) document.getElementById('newsDate').textContent = nd.slice(5).replace('-', '/');
+
+  /* ---- 市場盤勢 ---- */
+  marketList.innerHTML = '';
+  const groups = [
+    { zh: '全球指數', en: 'Global Indices', rows: (market.indices || []), toSent: idxSentence, open: true },
+    { zh: '匯率動態', en: 'Currencies',     rows: (market.fx || []),      toSent: fxSentence },
+    { zh: '公債殖利', en: 'Bond Yields',    rows: (market.bonds || []),   toSent: bondSentence },
+    { zh: '商品行情', en: 'Commodities',    rows: (market.commodities || []), toSent: cmdSentence },
+  ];
+  let any = false;
+  groups.forEach(function(g){
+    const sents = g.rows.map(function(row){
+      const s = g.toSent(row);
+      /* 收盤日與主日期不同的列，句尾標明實際日期，避免舊數據被當成今天 */
+      if (s && row.closing_date && cd && row.closing_date !== cd) {
+        const md = row.closing_date.slice(5).replace('-', '/');
+        s.en = s.en.replace(/\.$/, ' (as of ' + md + ').');
+        s.zh = s.zh.replace(/。$/, '（' + md + ' 收盤）。');
+      }
+      return s;
+    }).filter(Boolean);
+    if (!sents.length) return;
+    any = true;
+    const acc = makeAccSection(g.zh, g.en, !!g.open);
+    sents.forEach(function(s){ acc.body.appendChild(makeItem({ en: s.en, zh: s.zh })); });
+    marketList.appendChild(acc.sec);
+  });
+  if (!any) marketList.appendChild(Object.assign(document.createElement('p'), { className: 'hint', textContent: '今日尚無行情資料' }));
+
+  /* ---- 今日重點（中文摘要） ---- */
+  const tldrList = document.getElementById('tldrList');
+  tldrList.innerHTML = '';
+  ((news && news.tldr) || []).forEach(function(t){
+    const li = document.createElement('li');
+    li.appendChild(Object.assign(document.createElement('span'), { textContent: t }));
+    tldrList.appendChild(li);
+  });
+  if (tldrList.children.length) document.getElementById('tldrSec').classList.add('open');
+  else document.getElementById('tldrSec').style.display = 'none';
+
+  /* ---- 重要新聞 ---- */
+  newsList.innerHTML = '';
+  let newsAny = false;
+  ((news && news.sections) || []).forEach(function(secData, si){
+    if (!secData.items || !secData.items.length) return;
+    const items = secData.items.filter(function(it){ return it.title_en; });
+    if (!items.length) return;
+    newsAny = true;
+    const acc = makeAccSection(secData.section_zh || secData.section, secData.section, si === 0);
+    items.forEach(function(it){
+      acc.body.appendChild(makeItem({
+        en: it.title_en,
+        zh: it.title_zh || '',
+        sumEn: it.summary_en || '',
+        sumZh: it.summary_zh || '',
+        playText: it.title_en + '. ' + (it.summary_en || ''),
+        shadowTarget: it.title_en,
+        sourceUrl: it.source_url || '',
+        sourceName: it.source_name || '',
+      }));
+    });
+    newsList.appendChild(acc.sec);
+  });
+  if (!newsAny) newsList.appendChild(Object.assign(document.createElement('p'), { className: 'hint', textContent: '今日尚無新聞資料' }));
+}
+loadAll();
+</script>
+</body>
+</html>
