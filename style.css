@@ -157,7 +157,7 @@ body::before {
   align-items: center;
   margin-bottom: 2px;
 }
-.topbar-title-row h1 { margin: 0; }
+.topbar-title-row h1 { margin: 0; flex: 1 1 auto; min-width: 0; }
 .topbar .updated {
   margin: 0;
   padding: 0;
@@ -3085,22 +3085,32 @@ table.indices.stock-cols col.c-num { width: 11%; }
 /* ================= 中英文版（mbe）對照層 ================= */
 /* 語言切換鈕：右上角膠囊 */
 .mbe-lang-toggle {
-  position: absolute;
-  top: calc(env(safe-area-inset-top, 0px) + 14px);
-  right: 16px;
+  flex: 0 0 auto;
+  align-self: flex-start;
   z-index: 3;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
   font-family: inherit;
-  font-size: 12px;
-  font-weight: 700;
+  font-size: 13px;
+  font-weight: 800;
   letter-spacing: .01em;
-  color: #fff;
-  background: rgba(255, 255, 255, 0.16);
-  border: 1.5px solid rgba(255, 255, 255, 0.6);
+  color: #0a6b8a;
+  background: #fff;
+  border: 1.5px solid #fff;
   border-radius: 999px;
-  padding: 4px 12px;
+  padding: 6px 14px;
+  margin-left: 8px;
   cursor: pointer;
-  -webkit-backdrop-filter: blur(2px);
-  backdrop-filter: blur(2px);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, .18);
+}
+.mbe-lang-toggle::before {
+  content: "";
+  width: 14px;
+  height: 14px;
+  background: currentColor;
+  -webkit-mask: no-repeat center / contain url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a15 15 0 010 18M12 3a15 15 0 000 18"/></svg>');
+  mask: no-repeat center / contain url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a15 15 0 010 18M12 3a15 15 0 000 18"/></svg>');
 }
 .mbe-lang-toggle:active { transform: scale(.96); }
 /* 全英文模式：確保任何殘留的 .mbe-en 標註不再顯示 */
