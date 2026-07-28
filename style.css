@@ -3104,11 +3104,10 @@ th .mbe-en, .sortable-th .mbe-en { display: block; margin-left: 0; font-size: .7
   margin: 8px 0 4px;
   padding: 10px 12px;
   background: var(--bg-alt);
-  border-left: 3px solid var(--brand-primary);
-  border-radius: 0 8px 8px 0;
+  border-radius: 8px;
 }
-.mbe-news-en { font-weight: 700; font-size: 1.02em; line-height: 1.55; }
-.mbe-news-sum { font-size: .93em; color: var(--text); margin-top: .35em; line-height: 1.65; }
+.mbe-news-en { font-weight: 700; font-size: 1.18em; line-height: 1.55; }
+.mbe-news-sum { font-size: 1.06em; color: var(--text); margin-top: .35em; line-height: 1.65; }
 .mbe-btns { display: flex; gap: .5rem; margin-top: .55rem; flex-wrap: wrap; align-items: center; }
 .mbe-btn {
   font-family: inherit; font-size: .8rem; font-weight: 700;
