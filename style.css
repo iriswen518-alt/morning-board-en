@@ -3104,14 +3104,7 @@ table.indices.stock-cols col.c-num { width: 11%; }
   cursor: pointer;
   box-shadow: 0 2px 6px rgba(0, 0, 0, .18);
 }
-.mbe-lang-toggle::before {
-  content: "";
-  width: 14px;
-  height: 14px;
-  background: currentColor;
-  -webkit-mask: no-repeat center / contain url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a15 15 0 010 18M12 3a15 15 0 000 18"/></svg>');
-  mask: no-repeat center / contain url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a15 15 0 010 18M12 3a15 15 0 000 18"/></svg>');
-}
+.mbe-lang-toggle .mbe-globe { flex: 0 0 auto; }
 .mbe-lang-toggle:active { transform: scale(.96); }
 /* 全英文模式：確保任何殘留的 .mbe-en 標註不再顯示 */
 html[data-mbe-mode="en"] .mbe-en { display: none !important; }

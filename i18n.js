@@ -281,7 +281,8 @@
     btn.type = 'button';
     btn.id = 'mbe-lang-toggle';
     btn.className = 'mbe-lang-toggle';
-    btn.textContent = EN_ONLY ? 'Bilingual' : 'English';
+    var globe = '<svg class="mbe-globe" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><line x1="3" y1="12" x2="21" y2="12"></line><path d="M12 3a15 15 0 0 1 0 18a15 15 0 0 1 0-18"></path></svg>';
+    btn.innerHTML = globe + '<span>' + (EN_ONLY ? 'Bilingual' : 'English') + '</span>';
     btn.setAttribute('aria-label', EN_ONLY ? 'Switch to bilingual view' : '切換全英文版');
     btn.addEventListener('click', () => {
       try { localStorage.setItem('mbe_mode', EN_ONLY ? 'both' : 'en'); } catch (e) {}
