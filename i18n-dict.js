@@ -659,5 +659,14 @@ window.MBE_DICT = {
 "點該列名稱可開啟 SITCA 來源頁": "Click a row name to open the SITCA source page",
 "點選名稱可至板信即時報價頁": "Click a name to open Panhsin's live quote page",
 "點選排序": "Click to Sort",
-"點開可驗證）": "click to verify)"
+"點開可驗證）": "click to verify)",
+"載入中…": "Loading…",
+"載入中": "Loading",
+"標普500": "S&P 500",
+"標普": "S&P",
+"費城半導體": "Philadelphia Semiconductor",
+"中英文版": "Bilingual",
+"英文版": "English",
+"搜尋關鍵字（基金、主題、稅務、新聞⋯）": "Search (funds, topics, tax, news…)",
+"本網站僅供測試使用，所有數據與試算僅供參考，非投資建議或要約。For testing only; not investment advice.": "For testing only; all data and calculators are for reference, not investment advice or an offer."
 };

@@ -3083,6 +3083,29 @@ table.indices.stock-cols col.c-num { width: 11%; }
 }
 
 /* ================= 中英文版（mbe）對照層 ================= */
+/* 語言切換鈕：右上角膠囊 */
+.mbe-lang-toggle {
+  position: absolute;
+  top: calc(env(safe-area-inset-top, 0px) + 14px);
+  right: 16px;
+  z-index: 3;
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .01em;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.16);
+  border: 1.5px solid rgba(255, 255, 255, 0.6);
+  border-radius: 999px;
+  padding: 4px 12px;
+  cursor: pointer;
+  -webkit-backdrop-filter: blur(2px);
+  backdrop-filter: blur(2px);
+}
+.mbe-lang-toggle:active { transform: scale(.96); }
+/* 全英文模式：確保任何殘留的 .mbe-en 標註不再顯示 */
+html[data-mbe-mode="en"] .mbe-en { display: none !important; }
+
 .mbe-en {
   font-size: .82em;
   color: var(--text-mute);

@@ -7,6 +7,26 @@
   const DICT = (window.MBE_DICT || {});
   const processed = new WeakSet();
 
+  /* ---------- 語言模式：both=中英對照 / en=全英文 ---------- */
+  const MODE = (function () {
+    try { return localStorage.getItem('mbe_mode') === 'en' ? 'en' : 'both'; }
+    catch (e) { return 'both'; }
+  })();
+  const EN_ONLY = MODE === 'en';
+  /* 全英文專用：標籤+數值黏在同一文字節點（字典無法整段命中）時，改用前綴替換 */
+  const EN_PREFIX = [
+    ['上次更新：', 'Last Updated: '],
+    ['上次更新', 'Last Updated'],
+    ['資料時間 ', 'As of '],
+    ['資料時間', 'As of '],
+    ['台灣 ', 'Taiwan '],
+    ['台灣', 'Taiwan']
+  ];
+  if (EN_ONLY) {
+    document.documentElement.lang = 'en';
+    document.documentElement.setAttribute('data-mbe-mode', 'en');
+  }
+
   /* ---------- 中英對照：文字節點 ---------- */
   function translateNode(node) {
     if (processed.has(node)) return;
@@ -21,7 +41,19 @@
     if (!en && t.endsWith('：') && DICT[t.slice(0, -1)]) { en = DICT[t.slice(0, -1)]; tail = '：'; }
     if (!en && t.endsWith('…') && DICT[t.slice(0, -1)]) { en = DICT[t.slice(0, -1)]; tail = '…'; }
     processed.add(node);
+    if ((!en || en === t) && EN_ONLY) {
+      /* 字典整段沒命中：試前綴替換（標籤黏數值的情況，如「上次更新：xxx」） */
+      for (const [zh, enp] of EN_PREFIX) {
+        if (t.startsWith(zh)) { node.nodeValue = v.replace(t, enp + t.slice(zh.length)); return; }
+      }
+      return;
+    }
     if (!en || en === t) return;
+    if (EN_ONLY) {
+      /* 全英文：直接把中文文字節點換成英文（保留原本前後空白），字體全尺寸 */
+      node.nodeValue = v.replace(t, en + tail);
+      return;
+    }
     const span = document.createElement('span');
     span.className = 'mbe-en';
     span.textContent = en + tail.replace('：', '');
@@ -36,7 +68,7 @@
         const v = el.getAttribute(a);
         if (!v || !/[一-鿿]/.test(v) || el.dataset[key]) return;
         const en = DICT[v.trim()];
-        if (en) el.setAttribute(a, v + ' ' + en);
+        if (en) el.setAttribute(a, EN_ONLY ? en : (v + ' ' + en));
         el.dataset[key] = '1';
       });
     });
@@ -154,16 +186,19 @@
     return NEWS_MAP_PROMISE;
   }
 
+  const L = (zh, en) => (EN_ONLY ? en : zh);
+
   function makeShadowBlock(it) {
     const d = document.createElement('div');
     d.className = 'mbe-news';
     d.innerHTML = '<div class="mbe-news-en"></div><div class="mbe-news-sum"></div>' +
       '<div class="mbe-btns">' +
-      '<button type="button" class="mbe-btn b-play">播放</button>' +
-      '<button type="button" class="mbe-btn b-slow">慢速</button>' +
-      '<button type="button" class="mbe-btn b-rec">跟讀</button>' +
+      '<button type="button" class="mbe-btn b-play">' + L('播放', 'Play') + '</button>' +
+      '<button type="button" class="mbe-btn b-slow">' + L('慢速', 'Slow') + '</button>' +
+      '<button type="button" class="mbe-btn b-rec">' + L('跟讀', 'Read Aloud') + '</button>' +
       '</div><div class="mbe-result"></div><div class="mbe-heard"></div>';
-    d.querySelector('.mbe-news-en').textContent = it.title_en;
+    if (EN_ONLY) d.querySelector('.mbe-news-en').style.display = 'none';
+    else d.querySelector('.mbe-news-en').textContent = it.title_en;
     d.querySelector('.mbe-news-sum').textContent = it.summary_en || '';
     const full = it.title_en + '. ' + (it.summary_en || '');
     d.querySelector('.b-play').addEventListener('click', e => { e.stopPropagation(); speak(full, 0.95); });
@@ -173,10 +208,10 @@
     let rec = null, recTimer = null;
     recBtn.addEventListener('click', e => {
       e.stopPropagation();
-      if (!SR) { alert('此瀏覽器不支援語音辨識，請改用 Chrome 或 Safari'); return; }
+      if (!SR) { alert(L('此瀏覽器不支援語音辨識，請改用 Chrome 或 Safari', 'Speech recognition is not supported in this browser; please use Chrome or Safari')); return; }
       if (rec) { try { rec.stop(); } catch (_) {} return; } /* 再按一次＝唸完，立即評分 */
       speechSynthesis.cancel();
-      recBtn.textContent = '完成';
+      recBtn.textContent = L('完成', 'Done');
       const r = makeRecognizer(heard => {
         const tw = normWords(target), hw = normWords(heard);
         const hit = lcsMatch(tw, hw);
@@ -185,7 +220,7 @@
         res.style.display = 'block';
         res.innerHTML = '<span class="mbe-score"></span>';
         const sc = res.querySelector('.mbe-score');
-        sc.textContent = pct + '分';
+        sc.textContent = EN_ONLY ? (pct + '%') : (pct + '分');
         sc.style.color = pct >= 80 ? '#0e7d5b' : (pct >= 50 ? '#c79a00' : '#c94f4f');
         const orig = target.split(/\s+/);
         let wi = 0;
@@ -201,12 +236,12 @@
           }
           res.appendChild(span);
         });
-        d.querySelector('.mbe-heard').textContent = '你唸的: ' + heard;
-      }, () => { recBtn.textContent = '跟讀'; rec = null; clearTimeout(recTimer); });
+        d.querySelector('.mbe-heard').textContent = L('你唸的: ', 'You said: ') + heard;
+      }, () => { recBtn.textContent = L('跟讀', 'Read Aloud'); rec = null; clearTimeout(recTimer); });
       try {
         r.start(); rec = r;
         recTimer = setTimeout(() => { try { if (rec) rec.stop(); } catch (_) {} }, 15000);
-      } catch (_) { recBtn.textContent = '跟讀'; rec = null; }
+      } catch (_) { recBtn.textContent = L('跟讀', 'Read Aloud'); rec = null; }
     });
     return d;
   }
@@ -224,6 +259,8 @@
       const it = map.get((sum.firstChild.nodeValue || '').trim());
       if (!it) return;
       const block = makeShadowBlock(it);
+      /* 全英文：把中文標題換成英文原標題（全尺寸） */
+      if (EN_ONLY && it.title_en) sum.firstChild.nodeValue = it.title_en;
       sum.insertAdjacentElement('afterend', block);
     });
   }
@@ -236,7 +273,32 @@
     setTimeout(() => { scheduled = false; translatePage(); }, 60);
   }
   const mo = new MutationObserver(schedule);
+
+  /* ---------- 語言切換鈕 ---------- */
+  function mountToggle() {
+    if (document.getElementById('mbe-lang-toggle')) return;
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.id = 'mbe-lang-toggle';
+    btn.className = 'mbe-lang-toggle';
+    btn.textContent = EN_ONLY ? 'Bilingual' : 'English';
+    btn.setAttribute('aria-label', EN_ONLY ? 'Switch to bilingual view' : '切換全英文版');
+    btn.addEventListener('click', () => {
+      try { localStorage.setItem('mbe_mode', EN_ONLY ? 'both' : 'en'); } catch (e) {}
+      location.reload();
+    });
+    const row = document.querySelector('.topbar-title-row') || document.querySelector('.topbar');
+    if (row) row.appendChild(btn);
+    /* 全英文：標題徽章顯示 English，並更新分頁標題 */
+    if (EN_ONLY) {
+      const badge = document.querySelector('.test-badge');
+      if (badge) badge.textContent = 'English';
+      document.title = 'Morning Board (English) — for testing only';
+    }
+  }
+
   function start() {
+    mountToggle();
     translatePage();
     mo.observe(document.body, { childList: true, subtree: true });
   }
