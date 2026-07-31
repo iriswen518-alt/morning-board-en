@@ -717,6 +717,7 @@ table.indices th.sortable-th {
 .news-item .news-body p:last-child { margin-bottom: 0; }
 .news-item .source { font-size: 13px; color: var(--brand-primary); margin-top: 8px; display: inline-block; }
 /* 鉅亨網獨立新聞：站內全文中英並陳（不外連）。英文段落淡色斜體與中文區隔 */
+.news-body, .news-body p, .news-body .cnyes-en, .news-item details summary { font-style: normal; }
 .news-body .cnyes-en { color: #4a6a8a; }
 .news-body .cnyes-en-title { font-weight: 600; font-style: normal; color: var(--brand-primary); }
 .news-body .cnyes-en-block { border-top: 1px dashed var(--border); margin-top: 10px; padding-top: 10px; }
