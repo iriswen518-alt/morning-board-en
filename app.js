@@ -3296,18 +3296,19 @@ function renderLiveNewsTicker() {
   if (!items.length) return "";
   if (LIVE_NEWS_IDX >= items.length) LIVE_NEWS_IDX = 0;
   const it = items[LIVE_NEWS_IDX] || items[0];
+  // 不外連鉅亨網：點跑馬燈改切到站內「新聞」分頁看全文
   return `
-    <a class="live-news-ticker" id="live-news-ticker" href="${escapeHtml(it.url)}" target="_blank" rel="noopener"
-       title="開啟鉅亨網原文"
+    <div class="live-news-ticker" id="live-news-ticker" role="button" tabindex="0"
+       onclick="switchTab('news')" title="到站內新聞分頁看全文"
        style="display:flex;align-items:center;gap:8px;padding:8px 12px;margin-bottom:10px;
               background:var(--card,#fff);border:1px solid var(--border,#e5e7eb);border-radius:10px;
-              text-decoration:none;color:inherit;overflow:hidden;">
+              text-decoration:none;color:inherit;overflow:hidden;cursor:pointer;">
       <span style="flex-shrink:0;font-size:12px;font-weight:700;color:#fff;background:#e8453c;
                    padding:2px 8px;border-radius:6px;letter-spacing:1px;">快訊</span>
       <span class="lnt-item" id="lnt-item"
             style="flex:1;min-width:0;font-size:13px;white-space:nowrap;overflow:hidden;
                    text-overflow:ellipsis;transition:opacity .2s ease;">${escapeHtml(it.title)}</span>
-    </a>`;
+    </div>`;
 }
 function startLiveNewsTicker() {
   stopLiveNewsTicker();
@@ -3324,7 +3325,6 @@ function startLiveNewsTicker() {
     el.style.opacity = "0";
     setTimeout(() => {
       el.textContent = it.title;
-      bar.href = it.url;
       el.style.opacity = "1";
     }, 220);
   }, 5000);
