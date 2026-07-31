@@ -589,7 +589,7 @@ async function init() {
   // 每個來源各自有 fallback：一個壞不拖垮全頁
   // 失敗時記到 FAILED_LOADS，使用者切到對應 tab 時會背景重試
   const safe = (name, fallback) => load(name).catch(() => { FAILED_LOADS.add(name); return fallback; });
-  const [meta, market, news, tax, funds, stocks, popular, stock_brief, insurance, obonds, obonds_all, targets, allocation, dca, wealth, beatetf, presets, fund_compare, tw_stocks, rankings, quotes_built_at, premarket, popular_funds, live, live_news, etf0050, weekly] = await Promise.all([
+  const [meta, market, news, tax, funds, stocks, popular, stock_brief, insurance, obonds, obonds_all, targets, allocation, dca, wealth, beatetf, presets, fund_compare, tw_stocks, rankings, quotes_built_at, premarket, popular_funds, live, live_news, cnyes_news, etf0050, weekly] = await Promise.all([
     safe("meta", { built_at: "", today: "", sources_status: {} }),
     safe("market", { closing_date: "", indices: [], bonds: [], fx: [], summary: "" }),
     safe("news", { news_date: "", tldr: [], sections: [] }),
@@ -615,10 +615,11 @@ async function init() {
     safe("popular_funds", { funds: [] }),
     safe("live_indices", { built_at: "", indices: [] }),
     safe("live_news", { built_at: "", items: [] }),
+    safe("cnyes_news", { built_at: "", categories: [] }),
     safe("etf0050", { built_at: "", market_date: "", stocks: [] }),
     safe("weekly_report", null),
   ]);
-  DATA = { meta, market, news, tax, funds, stocks, popular, stock_brief, insurance, obonds, obonds_all, targets, allocation, dca, wealth, beatetf, presets, fund_compare, tw_stocks, rankings, quotes_built_at, premarket, popular_funds, live, live_news, etf0050, weekly };
+  DATA = { meta, market, news, tax, funds, stocks, popular, stock_brief, insurance, obonds, obonds_all, targets, allocation, dca, wealth, beatetf, presets, fund_compare, tw_stocks, rankings, quotes_built_at, premarket, popular_funds, live, live_news, cnyes_news, etf0050, weekly };
   LAST_DATA_TS = Date.now();
   const _updatedAt = latestBuiltAt();
   if (!_updatedAt) {
@@ -1019,7 +1020,7 @@ async function refreshData() {
     FAILED_LOADS.add(name);
     return DATA[name === "insurances" ? "insurance" : name] || fallback;
   });
-  const [meta, market, news, tax, funds, stocks, popular, stock_brief, insurance, obonds, obonds_all, targets, allocation, dca, wealth, beatetf, presets, fund_compare, tw_stocks, rankings, quotes_built_at, premarket, popular_funds, live, live_news, etf0050, weekly] = await Promise.all([
+  const [meta, market, news, tax, funds, stocks, popular, stock_brief, insurance, obonds, obonds_all, targets, allocation, dca, wealth, beatetf, presets, fund_compare, tw_stocks, rankings, quotes_built_at, premarket, popular_funds, live, live_news, cnyes_news, etf0050, weekly] = await Promise.all([
     safe("meta", { built_at: "", today: "", sources_status: {} }),
     safe("market", { closing_date: "", indices: [], bonds: [], fx: [], summary: "" }),
     safe("news", { news_date: "", tldr: [], sections: [] }),
@@ -1045,10 +1046,11 @@ async function refreshData() {
     safe("popular_funds", { funds: [] }),
     safe("live_indices", { built_at: "", indices: [] }),
     safe("live_news", { built_at: "", items: [] }),
+    safe("cnyes_news", { built_at: "", categories: [] }),
     safe("etf0050", { built_at: "", market_date: "", stocks: [] }),
     safe("weekly_report", null),
   ]);
-  DATA = { meta, market, news, tax, funds, stocks, popular, stock_brief, insurance, obonds, obonds_all, targets, allocation, dca, wealth, beatetf, presets, fund_compare, tw_stocks, rankings, quotes_built_at, premarket, popular_funds, live, live_news, etf0050, weekly };
+  DATA = { meta, market, news, tax, funds, stocks, popular, stock_brief, insurance, obonds, obonds_all, targets, allocation, dca, wealth, beatetf, presets, fund_compare, tw_stocks, rankings, quotes_built_at, premarket, popular_funds, live, live_news, cnyes_news, etf0050, weekly };
   LAST_DATA_TS = Date.now();
   SEARCH_INDEX = buildSearchIndex();
   const _updatedAt = latestBuiltAt();
@@ -6463,6 +6465,53 @@ function renderMarketHighlights(m) {
     </div>`;
 }
 
+// ── 鉅亨網（cnyes）多分類即時新聞：獨立於編輯精選 news.json，直接鏡射鉅亨網站 ──
+// 資料來自雲端 cnyes_news.json（每 20 分鐘更新）；每則為外連原文，點擊開啟鉅亨網。
+function cnyesTimeFmt(ts) {
+  if (!ts) return "";
+  const d = new Date(ts * 1000);
+  if (isNaN(d.getTime())) return "";
+  const p = (n) => String(n).padStart(2, "0");
+  return `${p(d.getMonth() + 1)}/${p(d.getDate())} ${p(d.getHours())}:${p(d.getMinutes())}`;
+}
+
+// 分類子區塊：外連清單、原生 details 折疊；預設只展開第一類，避免整牆展開。
+function cnyesCatSection(label, inner, open) {
+  return `
+    <details class="news-sec"${open ? " open" : ""}>
+      <summary class="news-sec-head">
+        <span class="news-sec-title">${escapeHtml(label)}</span>
+        <svg class="news-caret" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+      </summary>
+      <div class="news-sec-body">${inner}</div>
+    </details>`;
+}
+
+function renderCnyesNews() {
+  const cn = DATA.cnyes_news || {};
+  const cats = (cn.categories || []).filter(c => (c.items || []).some(it => it.title && it.url));
+  if (!cats.length) {
+    return `<p style="color:var(--text-mute); padding:20px 0">鉅亨網新聞暫時無法載入，稍後自動重試。</p>`;
+  }
+  const body = cats.map((c, ci) => {
+    const items = (c.items || []).filter(it => it.title && it.url);
+    const inner = items.map(it => {
+      const t = cnyesTimeFmt(it.publish_at);
+      return `
+        <div class="news-item">
+          <a class="cnyes-link mbe-news" href="${escapeHtml(it.url)}" target="_blank" rel="noopener" title="開啟鉅亨網原文">
+            <span class="cnyes-title">${escapeHtml(it.title)}</span>
+            ${t ? `<span class="news-date">${escapeHtml(t)}</span>` : ""}
+          </a>
+        </div>`;
+    }).join("");
+    return cnyesCatSection(c.label || "鉅亨新聞", inner, ci === 0);
+  }).join("");
+  const builtFmt = cn.built_at ? cn.built_at.replace("T", " ") : "";
+  const credit = `<p class="live-credit" style="margin-top:10px">資料來源 鉅亨網（cnyes）即時新聞，盤中每 20 分鐘更新${builtFmt ? `（${escapeHtml(builtFmt)}）` : ""}；點擊看鉅亨網原文，內容以鉅亨網為準，非投資建議或要約。</p>`;
+  return body + credit;
+}
+
 function renderNewsSheet() {
   // 以瀏覽器實際日期為準（meta.today 由完整 build 產生，可能落後於已更新的新聞）。
   const _n = new Date();
@@ -6477,6 +6526,7 @@ function renderNewsSheet() {
   ` : "";
   return `
     ${staleBanner}
+    ${accSection("news-cnyes", "鉅亨新聞", renderCnyesNews(), true)}
     ${accSection("news-market", "市場焦點", renderNewsByCategory("market"))}
     ${accSection("news-wm", "財管焦點", renderNewsByCategory("wm"))}
     ${accSection("news-tax", "稅務焦點", renderNewsByCategory("tax"))}

@@ -716,6 +716,10 @@ table.indices th.sortable-th {
 .news-item .news-body p { margin: 0 0 8px; }
 .news-item .news-body p:last-child { margin-bottom: 0; }
 .news-item .source { font-size: 13px; color: var(--brand-primary); margin-top: 8px; display: inline-block; }
+/* 鉅亨網獨立新聞：外連清單列（無展開內文，整列可點開原文） */
+.cnyes-link { display: flex; align-items: baseline; gap: 6px; text-decoration: none; color: var(--text); font-size: 14px; line-height: 1.45; }
+.cnyes-link .cnyes-title { flex: 1; min-width: 0; }
+.cnyes-link:hover .cnyes-title { color: var(--brand-primary); text-decoration: underline; }
 /* English toggle removed — site is Chinese-only */
 
 .disclaimer {
