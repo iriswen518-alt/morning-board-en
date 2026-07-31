@@ -6487,28 +6487,58 @@ function cnyesCatSection(label, inner, open) {
     </details>`;
 }
 
+// 單則全文（站內直接顯示，不外連）：中英並陳。中文段落與英文段落數一致時逐段
+// 交錯（中→英），否則中文整塊後接英文整塊；全英文模式只出英文（缺英文退回中文）。
+function cnyesItemBody(it) {
+  const enOnly = (() => {
+    try { return localStorage.getItem("mbe_mode") === "en"; } catch (_) { return false; }
+  })();
+  const zh = it.paras || [];
+  const en = it.paras_en || [];
+  const zhP = (t) => `<p>${escapeHtml(t)}</p>`;
+  const enP = (t) => `<p class="cnyes-en">${escapeHtml(t)}</p>`;
+  let paras;
+  if (enOnly && en.length) {
+    paras = en.map(enP).join("");
+  } else if (!en.length) {
+    paras = zh.map(zhP).join("");
+  } else if (zh.length === en.length) {
+    paras = zh.map((p, i) => zhP(p) + enP(en[i])).join("");
+  } else {
+    paras = zh.map(zhP).join("") + `<div class="cnyes-en-block">${en.map(enP).join("")}</div>`;
+  }
+  const enTitle = !enOnly && it.title_en
+    ? `<p class="cnyes-en cnyes-en-title">${escapeHtml(it.title_en)}</p>` : "";
+  return `<div class="news-body">${enTitle}${paras}</div>`;
+}
+
 function renderCnyesNews() {
   const cn = DATA.cnyes_news || {};
-  const cats = (cn.categories || []).filter(c => (c.items || []).some(it => it.title && it.url));
+  const enOnly = (() => {
+    try { return localStorage.getItem("mbe_mode") === "en"; } catch (_) { return false; }
+  })();
+  const cats = (cn.categories || []).filter(c => (c.items || []).some(it => it.title && (it.paras || []).length));
   if (!cats.length) {
     return `<p style="color:var(--text-mute); padding:20px 0">鉅亨網新聞暫時無法載入，稍後自動重試。</p>`;
   }
   const body = cats.map((c, ci) => {
-    const items = (c.items || []).filter(it => it.title && it.url);
+    const items = (c.items || []).filter(it => it.title && (it.paras || []).length);
     const inner = items.map(it => {
       const t = cnyesTimeFmt(it.publish_at);
+      // data-mbe=1：告知 i18n 層此則已自帶中英，不需再比對 news.json 加工
+      const headTitle = enOnly && it.title_en ? it.title_en : it.title;
       return `
         <div class="news-item">
-          <a class="cnyes-link mbe-news" href="${escapeHtml(it.url)}" target="_blank" rel="noopener" title="開啟鉅亨網原文">
-            <span class="cnyes-title">${escapeHtml(it.title)}</span>
-            ${t ? `<span class="news-date">${escapeHtml(t)}</span>` : ""}
-          </a>
+          <details data-mbe="1">
+            <summary>${escapeHtml(headTitle)}${t ? `<span class="news-date">${escapeHtml(t)}</span>` : ""}</summary>
+            ${cnyesItemBody(it)}
+          </details>
         </div>`;
     }).join("");
     return cnyesCatSection(c.label || "鉅亨新聞", inner, ci === 0);
   }).join("");
   const builtFmt = cn.built_at ? cn.built_at.replace("T", " ") : "";
-  const credit = `<p class="live-credit" style="margin-top:10px">資料來源 鉅亨網（cnyes）即時新聞，盤中每 20 分鐘更新${builtFmt ? `（${escapeHtml(builtFmt)}）` : ""}；點擊看鉅亨網原文，內容以鉅亨網為準，非投資建議或要約。</p>`;
+  const credit = `<p class="live-credit" style="margin-top:10px">資料來源 鉅亨網（cnyes）即時新聞，盤中每 20 分鐘更新${builtFmt ? `（${escapeHtml(builtFmt)}）` : ""}；英文為 AI 翻譯僅供參考，內容以鉅亨網為準，非投資建議或要約。新文章英文稍後自動補上。</p>`;
   return body + credit;
 }
 
