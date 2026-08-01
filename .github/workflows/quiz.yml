@@ -1,0 +1,25 @@
+name: Daily quiz
+
+on:
+  schedule:
+    - cron: "20 0 * * *"   # 08:20 台灣時間，中文版新聞 07:10 產生後
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-quiz:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build quiz.json from today's news
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python3 scripts/build_quiz.py
+      - name: Commit if changed
+        run: |
+          git config user.name "quiz-bot"
+          git config user.email "actions@github.com"
+          git add data/quiz.json
+          git diff --cached --quiet && echo "no change" || (git commit -m "quiz: $(date -u +%F)" && git push)

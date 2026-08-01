@@ -1,0 +1,170 @@
+{
+ "date": "2026-08-01",
+ "questions": [
+  {
+   "type": "comprehension",
+   "question": "By how many points did the TAIEX index close higher on that Friday?",
+   "options": [
+    "1,746 points",
+    "2,425 points",
+    "3,186.45 points",
+    "9.19 points"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the index surged 3,186.45 points to close at 43,119.75.",
+   "explain_zh": "摘要中說指數上漲了 3,186.45 點，收在 43,119.75 點。",
+   "news_title_en": "TAIEX rockets a record 3,186 points as TSMC locks limit-up",
+   "id": "2026-08-01-00"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"repricing\" mean?",
+   "options": [
+    "Changing the price again",
+    "Setting a new price based on new information",
+    "Removing the price completely",
+    "Keeping the price the same"
+   ],
+   "answer": 1,
+   "explain_en": "Here \"repricing\" means investors are setting new prices for stocks based on fresh expectations.",
+   "explain_zh": "這裡的「repricing」是指投資人根據新資訊重新給股票定價。",
+   "news_title_en": "Mature-node and packaging chipmakers surge as AI demand broadens",
+   "id": "2026-08-01-01"
+  },
+  {
+   "type": "comprehension",
+   "question": "Which companies were mentioned as OSAT leaders in the summary?",
+   "options": [
+    "ASE Technology and King Yuan Electronics",
+    "Vanguard and Powerchip",
+    "Powerchip and UMC",
+    "UMC and Vanguard"
+   ],
+   "answer": 0,
+   "explain_en": "The summary lists ASE Technology and King Yuan Electronics as the OSAT leaders.",
+   "explain_zh": "摘要中提到 ASE Technology 與 King Yuan Electronics 是 OSAT 領導廠商。",
+   "news_title_en": "Mature-node and packaging chipmakers surge as AI demand broadens",
+   "id": "2026-08-01-02"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"freeing up room\" mean?",
+   "options": [
+    "Reducing the number of employees",
+    "Increasing the amount of money a bank can lend or pay dividends",
+    "Creating physical space in the bank's office",
+    "Closing down unprofitable branches"
+   ],
+   "answer": 1,
+   "explain_en": "It means the banks have more capacity to lend money or pay dividends because the IRB approach lowers the capital they must hold.",
+   "explain_zh": "意思是因為 IRB 方法降低了必須保留的資本，銀行可以有更多資金用於放款或發放股息。",
+   "news_title_en": "FSC releases first-batch results for banks' internal-ratings-based capital approach",
+   "id": "2026-08-01-03"
+  },
+  {
+   "type": "comprehension",
+   "question": "What did the Financial Supervisory Commission announce in the first round of approvals?",
+   "options": [
+    "A reduction in the Basel capital standards",
+    "A new tax on bank dividends",
+    "The approval results for domestic banks using the IRB approach",
+    "That all banks must adopt the IRB approach immediately"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the commission announced the first round of approval results for banks applying the IRB approach.",
+   "explain_zh": "摘要中說明金融監督管理委員會公布了第一批使用 IRB 方法的本土銀行的核准結果。",
+   "news_title_en": "FSC releases first-batch results for banks' internal-ratings-based capital approach",
+   "id": "2026-08-01-04"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"compound annual rate\" mean?",
+   "options": [
+    "The total growth over the whole period divided by the number of years",
+    "The yearly growth rate that is added each year without considering previous growth",
+    "The average yearly growth rate that includes the effect of previous years' growth",
+    "A rate that only applies to the first year of the period"
+   ],
+   "answer": 2,
+   "explain_en": "A compound annual rate means the growth each year builds on the previous year's growth, so the rate is applied to the accumulated amount.",
+   "explain_zh": "「compound annual rate」指的是每年的成長會累積到前一年的金額上，形成複利式的年增率。",
+   "news_title_en": "E.SUN–KPMG report: high-net-worth ranks to compound ~10% a year",
+   "id": "2026-08-01-05"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the survey, what percentage of clients with net worth above NT$1 billion hold overseas assets?",
+   "options": [
+    "86%",
+    "69%",
+    "10%",
+    "100%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that 86% of the ultra‑wealthy (those above NT$1 billion) already hold overseas assets.",
+   "explain_zh": "摘要中提到，超過 NT$1 億的超高淨值族群中，有 86% 已持有海外資產。",
+   "news_title_en": "E.SUN–KPMG report: high-net-worth ranks to compound ~10% a year",
+   "id": "2026-08-01-06"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"scope\" mean?",
+   "options": [
+    "The amount of money involved",
+    "The legal ownership",
+    "The speed of a transaction",
+    "The range of things covered"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"scope\" refers to the range of transactions that the tax applies to.",
+   "explain_zh": "這裡的「scope」指的是稅法適用的範圍。",
+   "news_title_en": "MOF clarifies capital-gains tax scope for pre-sale housing contracts",
+   "id": "2026-08-01-07"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the MOF guidance, a pre‑sale home contracted before 1 January 2016 is taxed if its title was registered after that date and later sold. What does this rule affect?",
+   "options": [
+    "The property’s market value",
+    "The eligibility for a repurchase preference",
+    "The mortgage interest rate",
+    "The amount of the capital‑gains tax owed"
+   ],
+   "answer": 3,
+   "explain_en": "The rule determines whether the sale falls within the capital‑gains tax, affecting the tax amount owed.",
+   "explain_zh": "此規定決定該交易是否屬於資本利得稅範圍，進而影響應繳稅額。",
+   "news_title_en": "MOF clarifies capital-gains tax scope for pre-sale housing contracts",
+   "id": "2026-08-01-08"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"engine\" mean?",
+   "options": [
+    "A type of car",
+    "The main reason or driving force",
+    "A financial institution",
+    "A computer program"
+   ],
+   "answer": 1,
+   "explain_en": "Here \"engine\" refers to the main factor that drives growth, i.e., AI-driven exports and record capital spending.",
+   "explain_zh": "此處的「engine」指的是推動成長的主要因素，如 AI 促進的出口與創紀錄的資本支出。",
+   "news_title_en": "Forecasters split on Taiwan's 2026 growth: DGBAS 9.64% vs CIER 7.22%",
+   "id": "2026-08-01-09"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what is the projected GDP growth rate for Taiwan in the first half of 2026 according to CIER?",
+   "options": [
+    "About 9.64%",
+    "About 7.22%",
+    "About 4.10%",
+    "About 10.69%"
+   ],
+   "answer": 3,
+   "explain_en": "The CIER forecast mentions a \"high-then-steady\" path with first‑half growth near 10.69%.",
+   "explain_zh": "CIER 的預測指出，2026 年上半年成長率約為 10.69%。",
+   "news_title_en": "Forecasters split on Taiwan's 2026 growth: DGBAS 9.64% vs CIER 7.22%",
+   "id": "2026-08-01-10"
+  }
+ ]
+}

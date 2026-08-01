@@ -1,4 +1,12 @@
 window.MBE_DICT = {
+"每日測驗": "Daily Quiz",
+"今日進度": "Today's Progress",
+"字彙題": "Vocabulary",
+"理解題": "Comprehension",
+"本題解說": "Explanation",
+"繼續作答": "Next Question",
+"今日完成": "All Done Today",
+"重新練習": "Practice Again",
 "三大法人買賣超": "Institutional Net Buy/Sell",
 "三表 + 毛利率／營益率／EPS 三大關鍵": "3 Statements + Gross Margin / Operating Margin / EPS",
 "上方搜尋輸入股票代號或公司名": "Search above by ticker or company name",
