@@ -1,170 +1,140 @@
 {
- "date": "2026-08-01",
+ "date": "2026-08-02",
  "questions": [
   {
-   "type": "comprehension",
-   "question": "By how many points did the TAIEX index close higher on that Friday?",
+   "type": "vocab",
+   "question": "In the summary, what does the word \"rotating\" mean?",
    "options": [
-    "1,746 points",
-    "2,425 points",
-    "3,186.45 points",
-    "9.19 points"
+    "Changing the direction of a fan",
+    "Moving money from one type of investment to another",
+    "Turning a page in a book",
+    "Spinning a wheel quickly"
    ],
-   "answer": 2,
-   "explain_en": "The summary states the index surged 3,186.45 points to close at 43,119.75.",
-   "explain_zh": "摘要中說指數上漲了 3,186.45 點，收在 43,119.75 點。",
-   "news_title_en": "TAIEX rockets a record 3,186 points as TSMC locks limit-up",
-   "id": "2026-08-01-00"
+   "answer": 1,
+   "explain_en": "Here \"rotating\" means investors are shifting their money from one sector to another.",
+   "explain_zh": "在此句中「rotating」指的是投資人把資金從一種投資轉移到另一種投資。",
+   "news_title_en": "Foreign and policy funds pile into AI as the sole battleground",
+   "id": "2026-08-02-00"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"repricing\" mean?",
+   "question": "In the summary, what does the word \"packaging\" mean?",
    "options": [
-    "Changing the price again",
-    "Setting a new price based on new information",
-    "Removing the price completely",
-    "Keeping the price the same"
+    "The process of wrapping chips for sale",
+    "The method of protecting and connecting semiconductor dies",
+    "The design of chip layouts on a board",
+    "The software used to program chips"
    ],
    "answer": 1,
-   "explain_en": "Here \"repricing\" means investors are setting new prices for stocks based on fresh expectations.",
-   "explain_zh": "這裡的「repricing」是指投資人根據新資訊重新給股票定價。",
-   "news_title_en": "Mature-node and packaging chipmakers surge as AI demand broadens",
-   "id": "2026-08-01-01"
+   "explain_en": "Here \"packaging\" refers to the method of protecting and connecting semiconductor dies, not wrapping or software.",
+   "explain_zh": "這裡的「packaging」指的是保護與連接半導體晶片的方式，而不是包裝或軟體。",
+   "news_title_en": "Global chip market seen hitting a record US$760.7bn in 2026",
+   "id": "2026-08-02-01"
   },
   {
    "type": "comprehension",
-   "question": "Which companies were mentioned as OSAT leaders in the summary?",
+   "question": "According to the summary, what is the projected size of the global semiconductor market in 2026?",
    "options": [
-    "ASE Technology and King Yuan Electronics",
-    "Vanguard and Powerchip",
-    "Powerchip and UMC",
-    "UMC and Vanguard"
+    "US$700.0 billion",
+    "US$800.0 billion",
+    "US$850.5 billion",
+    "US$760.7 billion"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the market is expected to be about US$760.7 billion in 2026.",
+   "explain_zh": "摘要中說明2026年全球半導體市場預計約為7607億美元。",
+   "news_title_en": "Global chip market seen hitting a record US$760.7bn in 2026",
+   "id": "2026-08-02-02"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the term \"micro‑insurance\" mean?",
+   "options": [
+    "Small‑scale insurance that covers low‑income or vulnerable people",
+    "Short‑term travel insurance",
+    "Insurance for microchips and electronic devices",
+    "Insurance for large corporations"
    ],
    "answer": 0,
-   "explain_en": "The summary lists ASE Technology and King Yuan Electronics as the OSAT leaders.",
-   "explain_zh": "摘要中提到 ASE Technology 與 King Yuan Electronics 是 OSAT 領導廠商。",
-   "news_title_en": "Mature-node and packaging chipmakers surge as AI demand broadens",
-   "id": "2026-08-01-02"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"freeing up room\" mean?",
-   "options": [
-    "Reducing the number of employees",
-    "Increasing the amount of money a bank can lend or pay dividends",
-    "Creating physical space in the bank's office",
-    "Closing down unprofitable branches"
-   ],
-   "answer": 1,
-   "explain_en": "It means the banks have more capacity to lend money or pay dividends because the IRB approach lowers the capital they must hold.",
-   "explain_zh": "意思是因為 IRB 方法降低了必須保留的資本，銀行可以有更多資金用於放款或發放股息。",
-   "news_title_en": "FSC releases first-batch results for banks' internal-ratings-based capital approach",
-   "id": "2026-08-01-03"
+   "explain_en": "Micro‑insurance is a type of insurance designed for people with low incomes, offering small coverage amounts and affordable premiums.",
+   "explain_zh": "微型保險是為低收入或弱勢族群設計的保險，保額小、保費負擔較低。",
+   "news_title_en": "FSC sets three supervisory priorities for insurers",
+   "id": "2026-08-02-03"
   },
   {
    "type": "comprehension",
-   "question": "What did the Financial Supervisory Commission announce in the first round of approvals?",
+   "question": "Which of the following is NOT one of the three supervisory priorities set by Taiwan's FSC for insurers?",
    "options": [
-    "A reduction in the Basel capital standards",
-    "A new tax on bank dividends",
-    "The approval results for domestic banks using the IRB approach",
-    "That all banks must adopt the IRB approach immediately"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the commission announced the first round of approval results for banks applying the IRB approach.",
-   "explain_zh": "摘要中說明金融監督管理委員會公布了第一批使用 IRB 方法的本土銀行的核准結果。",
-   "news_title_en": "FSC releases first-batch results for banks' internal-ratings-based capital approach",
-   "id": "2026-08-01-04"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"compound annual rate\" mean?",
-   "options": [
-    "The total growth over the whole period divided by the number of years",
-    "The yearly growth rate that is added each year without considering previous growth",
-    "The average yearly growth rate that includes the effect of previous years' growth",
-    "A rate that only applies to the first year of the period"
-   ],
-   "answer": 2,
-   "explain_en": "A compound annual rate means the growth each year builds on the previous year's growth, so the rate is applied to the accumulated amount.",
-   "explain_zh": "「compound annual rate」指的是每年的成長會累積到前一年的金額上，形成複利式的年增率。",
-   "news_title_en": "E.SUN–KPMG report: high-net-worth ranks to compound ~10% a year",
-   "id": "2026-08-01-05"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the survey, what percentage of clients with net worth above NT$1 billion hold overseas assets?",
-   "options": [
-    "86%",
-    "69%",
-    "10%",
-    "100%"
+    "Reducing premium taxes",
+    "Building an all‑ages financial system with expanded micro‑insurance",
+    "Guiding green‑finance investment",
+    "Promoting AI‑driven transformation"
    ],
    "answer": 0,
-   "explain_en": "The summary states that 86% of the ultra‑wealthy (those above NT$1 billion) already hold overseas assets.",
-   "explain_zh": "摘要中提到，超過 NT$1 億的超高淨值族群中，有 86% 已持有海外資產。",
-   "news_title_en": "E.SUN–KPMG report: high-net-worth ranks to compound ~10% a year",
-   "id": "2026-08-01-06"
+   "explain_en": "The summary lists AI transformation, green‑finance investment, and an all‑ages system with micro‑insurance as the three priorities; reducing premium taxes is not mentioned.",
+   "explain_zh": "摘要中提到的三大重點是 AI 轉型、綠色金融投資，以及涵蓋微型保險的全齡金融體系，並未提到減少保費稅。",
+   "news_title_en": "FSC sets three supervisory priorities for insurers",
+   "id": "2026-08-02-04"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"scope\" mean?",
+   "question": "In the summary, what does the word \"yield\" mean?",
    "options": [
-    "The amount of money involved",
-    "The legal ownership",
-    "The speed of a transaction",
-    "The range of things covered"
+    "The price at which a fund is traded",
+    "The number of shares a fund holds",
+    "The length of time a fund has existed",
+    "The amount of profit a fund makes for investors"
    ],
    "answer": 3,
-   "explain_en": "Here \"scope\" refers to the range of transactions that the tax applies to.",
-   "explain_zh": "這裡的「scope」指的是稅法適用的範圍。",
-   "news_title_en": "MOF clarifies capital-gains tax scope for pre-sale housing contracts",
-   "id": "2026-08-01-07"
+   "explain_en": "Here \"yield\" refers to the return or income that investors receive from the ETF, expressed as a percentage.",
+   "explain_zh": "此處的「yield」指的是投資人從ETF獲得的報酬率，以百分比表示。",
+   "news_title_en": "July marks peak ETF ex-dividend season in Taiwan",
+   "id": "2026-08-02-05"
   },
   {
    "type": "comprehension",
-   "question": "According to the MOF guidance, a pre‑sale home contracted before 1 January 2016 is taxed if its title was registered after that date and later sold. What does this rule affect?",
+   "question": "Which ETF had the highest annualised yield mentioned in the summary?",
    "options": [
-    "The property’s market value",
-    "The eligibility for a repurchase preference",
-    "The mortgage interest rate",
-    "The amount of the capital‑gains tax owed"
+    "Fund 00666",
+    "Fund 00888",
+    "Fund 00961",
+    "Fund 00777"
    ],
-   "answer": 3,
-   "explain_en": "The rule determines whether the sale falls within the capital‑gains tax, affecting the tax amount owed.",
-   "explain_zh": "此規定決定該交易是否屬於資本利得稅範圍，進而影響應繳稅額。",
-   "news_title_en": "MOF clarifies capital-gains tax scope for pre-sale housing contracts",
-   "id": "2026-08-01-08"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"engine\" mean?",
-   "options": [
-    "A type of car",
-    "The main reason or driving force",
-    "A financial institution",
-    "A computer program"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"engine\" refers to the main factor that drives growth, i.e., AI-driven exports and record capital spending.",
-   "explain_zh": "此處的「engine」指的是推動成長的主要因素，如 AI 促進的出口與創紀錄的資本支出。",
-   "news_title_en": "Forecasters split on Taiwan's 2026 growth: DGBAS 9.64% vs CIER 7.22%",
-   "id": "2026-08-01-09"
+   "answer": 2,
+   "explain_en": "The summary states that Fund 00961 topped the yield rankings with about an 18% annualised return.",
+   "explain_zh": "摘要中提到 00961 基金的年化收益率約為 18%，排名最高。",
+   "news_title_en": "July marks peak ETF ex-dividend season in Taiwan",
+   "id": "2026-08-02-06"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what is the projected GDP growth rate for Taiwan in the first half of 2026 according to CIER?",
+   "question": "According to the new tax rules, what tax rate applies to a property held for three years?",
    "options": [
-    "About 9.64%",
-    "About 7.22%",
-    "About 4.10%",
-    "About 10.69%"
+    "35%",
+    "20%",
+    "15%",
+    "45%"
    ],
-   "answer": 3,
-   "explain_en": "The CIER forecast mentions a \"high-then-steady\" path with first‑half growth near 10.69%.",
-   "explain_zh": "CIER 的預測指出，2026 年上半年成長率約為 10.69%。",
-   "news_title_en": "Forecasters split on Taiwan's 2026 growth: DGBAS 9.64% vs CIER 7.22%",
-   "id": "2026-08-01-10"
+   "answer": 0,
+   "explain_en": "The summary states holdings over two to five years are taxed at 35%.",
+   "explain_zh": "摘要說明，持有超過兩年但不到五年的房產稅率為35%。",
+   "news_title_en": "Property gains tax 2.0 keeps steep short-holding rates",
+   "id": "2026-08-02-07"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what is the expected inflation rate (CPI) in Taiwan?",
+   "options": [
+    "Around 2%",
+    "Around 10%",
+    "Around 5%",
+    "Around 0%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that CPI is running around 2%.",
+   "explain_zh": "摘要中說明消費者物價指數大約在 2%。",
+   "news_title_en": "Central bank sees steady growth with contained inflation",
+   "id": "2026-08-02-08"
   }
  ]
 }
