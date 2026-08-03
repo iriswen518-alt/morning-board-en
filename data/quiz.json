@@ -1,140 +1,170 @@
 {
- "date": "2026-08-02",
+ "date": "2026-08-03",
  "questions": [
   {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"rotating\" mean?",
-   "options": [
-    "Changing the direction of a fan",
-    "Moving money from one type of investment to another",
-    "Turning a page in a book",
-    "Spinning a wheel quickly"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"rotating\" means investors are shifting their money from one sector to another.",
-   "explain_zh": "在此句中「rotating」指的是投資人把資金從一種投資轉移到另一種投資。",
-   "news_title_en": "Foreign and policy funds pile into AI as the sole battleground",
-   "id": "2026-08-02-00"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"packaging\" mean?",
-   "options": [
-    "The process of wrapping chips for sale",
-    "The method of protecting and connecting semiconductor dies",
-    "The design of chip layouts on a board",
-    "The software used to program chips"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"packaging\" refers to the method of protecting and connecting semiconductor dies, not wrapping or software.",
-   "explain_zh": "這裡的「packaging」指的是保護與連接半導體晶片的方式，而不是包裝或軟體。",
-   "news_title_en": "Global chip market seen hitting a record US$760.7bn in 2026",
-   "id": "2026-08-02-01"
-  },
-  {
    "type": "comprehension",
-   "question": "According to the summary, what is the projected size of the global semiconductor market in 2026?",
+   "question": "By how many points did the TAIEX increase on that Friday?",
    "options": [
-    "US$700.0 billion",
-    "US$800.0 billion",
-    "US$850.5 billion",
-    "US$760.7 billion"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the market is expected to be about US$760.7 billion in 2026.",
-   "explain_zh": "摘要中說明2026年全球半導體市場預計約為7607億美元。",
-   "news_title_en": "Global chip market seen hitting a record US$760.7bn in 2026",
-   "id": "2026-08-02-02"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the term \"micro‑insurance\" mean?",
-   "options": [
-    "Small‑scale insurance that covers low‑income or vulnerable people",
-    "Short‑term travel insurance",
-    "Insurance for microchips and electronic devices",
-    "Insurance for large corporations"
-   ],
-   "answer": 0,
-   "explain_en": "Micro‑insurance is a type of insurance designed for people with low incomes, offering small coverage amounts and affordable premiums.",
-   "explain_zh": "微型保險是為低收入或弱勢族群設計的保險，保額小、保費負擔較低。",
-   "news_title_en": "FSC sets three supervisory priorities for insurers",
-   "id": "2026-08-02-03"
-  },
-  {
-   "type": "comprehension",
-   "question": "Which of the following is NOT one of the three supervisory priorities set by Taiwan's FSC for insurers?",
-   "options": [
-    "Reducing premium taxes",
-    "Building an all‑ages financial system with expanded micro‑insurance",
-    "Guiding green‑finance investment",
-    "Promoting AI‑driven transformation"
-   ],
-   "answer": 0,
-   "explain_en": "The summary lists AI transformation, green‑finance investment, and an all‑ages system with micro‑insurance as the three priorities; reducing premium taxes is not mentioned.",
-   "explain_zh": "摘要中提到的三大重點是 AI 轉型、綠色金融投資，以及涵蓋微型保險的全齡金融體系，並未提到減少保費稅。",
-   "news_title_en": "FSC sets three supervisory priorities for insurers",
-   "id": "2026-08-02-04"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"yield\" mean?",
-   "options": [
-    "The price at which a fund is traded",
-    "The number of shares a fund holds",
-    "The length of time a fund has existed",
-    "The amount of profit a fund makes for investors"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"yield\" refers to the return or income that investors receive from the ETF, expressed as a percentage.",
-   "explain_zh": "此處的「yield」指的是投資人從ETF獲得的報酬率，以百分比表示。",
-   "news_title_en": "July marks peak ETF ex-dividend season in Taiwan",
-   "id": "2026-08-02-05"
-  },
-  {
-   "type": "comprehension",
-   "question": "Which ETF had the highest annualised yield mentioned in the summary?",
-   "options": [
-    "Fund 00666",
-    "Fund 00888",
-    "Fund 00961",
-    "Fund 00777"
+    "4,000 points",
+    "2,500 points",
+    "3,186.45 points",
+    "3,000 points"
    ],
    "answer": 2,
-   "explain_en": "The summary states that Fund 00961 topped the yield rankings with about an 18% annualised return.",
-   "explain_zh": "摘要中提到 00961 基金的年化收益率約為 18%，排名最高。",
-   "news_title_en": "July marks peak ETF ex-dividend season in Taiwan",
-   "id": "2026-08-02-06"
+   "explain_en": "The summary states the index rocketed 3,186.45 points, its biggest single‑day gain.",
+   "explain_zh": "摘要中說明指數上漲了 3,186.45 點，為史上最大單日漲幅。",
+   "news_title_en": "TAIEX surges a record 3,186 points to reclaim 43,000",
+   "id": "2026-08-03-00"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"price targets\" mean?",
+   "options": [
+    "The exact price a company will charge for its products",
+    "The cost of producing each semiconductor chip",
+    "The future stock price that analysts expect the company to reach",
+    "The amount of money a company plans to invest in research"
+   ],
+   "answer": 2,
+   "explain_en": "A \"price target\" is the stock price analysts predict a company will achieve in the future.",
+   "explain_zh": "「price target」指的是分析師預測公司未來的股價目標。",
+   "news_title_en": "AI wave drives fresh TSMC target-price upgrades",
+   "id": "2026-08-03-01"
   },
   {
    "type": "comprehension",
-   "question": "According to the new tax rules, what tax rate applies to a property held for three years?",
+   "question": "According to the summary, why have fund inflows increased for mature‑process and packaging/testing companies?",
    "options": [
-    "35%",
-    "20%",
-    "15%",
-    "45%"
+    "Because they lowered their product prices",
+    "Because they merged with TSMC",
+    "Because demand for AI servers and expectations for AI‑chip packaging capacity have become clearer",
+    "Because they announced new AI chip designs"
+   ],
+   "answer": 2,
+   "explain_en": "The summary says fund inflows grew as second‑half demand and AI‑chip packaging capacity expectations firm up.",
+   "explain_zh": "摘要指出，隨著下半年需求與 AI 晶片封裝產能預期趨於明朗，資金流入成熟製程與封測公司增加。",
+   "news_title_en": "AI wave drives fresh TSMC target-price upgrades",
+   "id": "2026-08-03-02"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the phrase \"freeing up capital\" mean?",
+   "options": [
+    "Making more capital available for lending and other uses",
+    "Increasing the amount of money a bank must keep in reserve",
+    "Reducing the amount of money a bank has to hold as reserve",
+    "Eliminating the need for any capital altogether"
    ],
    "answer": 0,
-   "explain_en": "The summary states holdings over two to five years are taxed at 35%.",
-   "explain_zh": "摘要說明，持有超過兩年但不到五年的房產稅率為35%。",
-   "news_title_en": "Property gains tax 2.0 keeps steep short-holding rates",
-   "id": "2026-08-02-07"
+   "explain_en": "\"Freeing up capital\" means the bank can use more of its capital for lending or other activities instead of keeping it locked in reserves.",
+   "explain_zh": "「freeing up capital」指的是讓銀行可以把更多資本用於放款或其他用途，而不是被鎖在準備金裡。",
+   "news_title_en": "Seven banks cleared to adopt internal ratings-based capital method from August",
+   "id": "2026-08-03-03"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what is the expected inflation rate (CPI) in Taiwan?",
+   "question": "When will the seven banks be allowed to use the internal ratings-based (IRB) approach?",
    "options": [
-    "Around 2%",
-    "Around 10%",
-    "Around 5%",
-    "Around 0%"
+    "April",
+    "June",
+    "August",
+    "January"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that the banks can start using the IRB approach from August.",
+   "explain_zh": "摘要中說明這七家銀行將從八月開始使用 IRB 方法。",
+   "news_title_en": "Seven banks cleared to adopt internal ratings-based capital method from August",
+   "id": "2026-08-03-04"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the phrase \"integrated advisory\" mean?",
+   "options": [
+    "A type of insurance product for high‑net‑worth clients",
+    "A government regulation about banking",
+    "A single, combined service that gives overall financial advice",
+    "A software tool for trading stocks"
+   ],
+   "answer": 2,
+   "explain_en": "\"Integrated advisory\" refers to a comprehensive service that provides overall financial advice, not just separate products.",
+   "explain_zh": "「integrated advisory」指的是提供整體理財建議的綜合服務，而不是單一的產品。",
+   "news_title_en": "HNW wealth-management assets approach NT$2.7 trillion",
+   "id": "2026-08-03-05"
+  },
+  {
+   "type": "comprehension",
+   "question": "By how much did the number of high‑tier clients increase year‑on‑year?",
+   "options": [
+    "More than 70%",
+    "Around 50%",
+    "Around 30%",
+    "Exactly 100%"
    ],
    "answer": 0,
-   "explain_en": "The summary states that CPI is running around 2%.",
-   "explain_zh": "摘要中說明消費者物價指數大約在 2%。",
-   "news_title_en": "Central bank sees steady growth with contained inflation",
-   "id": "2026-08-02-08"
+   "explain_en": "The summary states that high‑tier client numbers are up more than 70% year‑on‑year.",
+   "explain_zh": "摘要中說明高階客戶數量較去年同期增加了超過 70%。",
+   "news_title_en": "HNW wealth-management assets approach NT$2.7 trillion",
+   "id": "2026-08-03-06"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"exemptions\" mean?",
+   "options": [
+    "Amounts that are taxed at a higher rate",
+    "Amounts that are not taxed",
+    "Amounts that must be paid immediately",
+    "Amounts that are illegal"
+   ],
+   "answer": 1,
+   "explain_en": "\"Exemptions\" are portions of income or value that are not subject to tax.",
+   "explain_zh": "「exemptions」指的是免稅的金額或範圍，這部分不需要繳稅。",
+   "news_title_en": "2026 marks a pivotal year for wealth-transfer tax rules",
+   "id": "2026-08-03-07"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the current gift‑tax exemption amount in Taiwan?",
+   "options": [
+    "NT$5.00 million",
+    "NT$1.00 million",
+    "NT$10.00 million",
+    "NT$2.44 million"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that the gift‑tax exemption stays at NT$2.44 million.",
+   "explain_zh": "摘要中說明，贈與稅免稅額維持在新台幣 2.44 百萬。",
+   "news_title_en": "2026 marks a pivotal year for wealth-transfer tax rules",
+   "id": "2026-08-03-08"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"underpinning\" mean?",
+   "options": [
+    "Removing tariffs between countries",
+    "Supporting or forming the basis of something",
+    "Predicting future growth",
+    "Increasing the price of goods"
+   ],
+   "answer": 1,
+   "explain_en": "Here \"underpinning\" means that strong exports are supporting or forming the basis of the growth upgrade.",
+   "explain_zh": "這裡的「underpinning」指的是強勁的出口在支撐或構成成長升級的基礎。",
+   "news_title_en": "Think tank sharply upgrades Taiwan's 2026 growth outlook",
+   "id": "2026-08-03-09"
+  },
+  {
+   "type": "comprehension",
+   "question": "Why did Academia Sinica lift its 2026 GDP growth forecast for Taiwan?",
+   "options": [
+    "Because of the removal of Taiwan‑US tariff uncertainty and a global AI‑investment boom",
+    "Because household cost‑of‑living pressure decreased dramatically",
+    "Because Taiwan stopped exporting advanced chips",
+    "Because the think tank changed its research staff"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states the forecast was raised due to the removal of tariff uncertainty and the global AI‑investment boom.",
+   "explain_zh": "摘要說明，預測上調是因為台美關稅不確定性解除以及全球 AI 投資熱潮。",
+   "news_title_en": "Think tank sharply upgrades Taiwan's 2026 growth outlook",
+   "id": "2026-08-03-10"
   }
  ]
 }
