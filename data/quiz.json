@@ -1,170 +1,185 @@
 {
- "date": "2026-08-03",
+ "date": "2026-08-04",
  "questions": [
   {
-   "type": "comprehension",
-   "question": "By how many points did the TAIEX increase on that Friday?",
-   "options": [
-    "4,000 points",
-    "2,500 points",
-    "3,186.45 points",
-    "3,000 points"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the index rocketed 3,186.45 points, its biggest single‑day gain.",
-   "explain_zh": "摘要中說明指數上漲了 3,186.45 點，為史上最大單日漲幅。",
-   "news_title_en": "TAIEX surges a record 3,186 points to reclaim 43,000",
-   "id": "2026-08-03-00"
-  },
-  {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"price targets\" mean?",
+   "question": "In the summary, what does the word \"turnover\" mean?",
    "options": [
-    "The exact price a company will charge for its products",
-    "The cost of producing each semiconductor chip",
-    "The future stock price that analysts expect the company to reach",
-    "The amount of money a company plans to invest in research"
-   ],
-   "answer": 2,
-   "explain_en": "A \"price target\" is the stock price analysts predict a company will achieve in the future.",
-   "explain_zh": "「price target」指的是分析師預測公司未來的股價目標。",
-   "news_title_en": "AI wave drives fresh TSMC target-price upgrades",
-   "id": "2026-08-03-01"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, why have fund inflows increased for mature‑process and packaging/testing companies?",
-   "options": [
-    "Because they lowered their product prices",
-    "Because they merged with TSMC",
-    "Because demand for AI servers and expectations for AI‑chip packaging capacity have become clearer",
-    "Because they announced new AI chip designs"
-   ],
-   "answer": 2,
-   "explain_en": "The summary says fund inflows grew as second‑half demand and AI‑chip packaging capacity expectations firm up.",
-   "explain_zh": "摘要指出，隨著下半年需求與 AI 晶片封裝產能預期趨於明朗，資金流入成熟製程與封測公司增加。",
-   "news_title_en": "AI wave drives fresh TSMC target-price upgrades",
-   "id": "2026-08-03-02"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the phrase \"freeing up capital\" mean?",
-   "options": [
-    "Making more capital available for lending and other uses",
-    "Increasing the amount of money a bank must keep in reserve",
-    "Reducing the amount of money a bank has to hold as reserve",
-    "Eliminating the need for any capital altogether"
-   ],
-   "answer": 0,
-   "explain_en": "\"Freeing up capital\" means the bank can use more of its capital for lending or other activities instead of keeping it locked in reserves.",
-   "explain_zh": "「freeing up capital」指的是讓銀行可以把更多資本用於放款或其他用途，而不是被鎖在準備金裡。",
-   "news_title_en": "Seven banks cleared to adopt internal ratings-based capital method from August",
-   "id": "2026-08-03-03"
-  },
-  {
-   "type": "comprehension",
-   "question": "When will the seven banks be allowed to use the internal ratings-based (IRB) approach?",
-   "options": [
-    "April",
-    "June",
-    "August",
-    "January"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that the banks can start using the IRB approach from August.",
-   "explain_zh": "摘要中說明這七家銀行將從八月開始使用 IRB 方法。",
-   "news_title_en": "Seven banks cleared to adopt internal ratings-based capital method from August",
-   "id": "2026-08-03-04"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the phrase \"integrated advisory\" mean?",
-   "options": [
-    "A type of insurance product for high‑net‑worth clients",
-    "A government regulation about banking",
-    "A single, combined service that gives overall financial advice",
-    "A software tool for trading stocks"
-   ],
-   "answer": 2,
-   "explain_en": "\"Integrated advisory\" refers to a comprehensive service that provides overall financial advice, not just separate products.",
-   "explain_zh": "「integrated advisory」指的是提供整體理財建議的綜合服務，而不是單一的產品。",
-   "news_title_en": "HNW wealth-management assets approach NT$2.7 trillion",
-   "id": "2026-08-03-05"
-  },
-  {
-   "type": "comprehension",
-   "question": "By how much did the number of high‑tier clients increase year‑on‑year?",
-   "options": [
-    "More than 70%",
-    "Around 50%",
-    "Around 30%",
-    "Exactly 100%"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that high‑tier client numbers are up more than 70% year‑on‑year.",
-   "explain_zh": "摘要中說明高階客戶數量較去年同期增加了超過 70%。",
-   "news_title_en": "HNW wealth-management assets approach NT$2.7 trillion",
-   "id": "2026-08-03-06"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"exemptions\" mean?",
-   "options": [
-    "Amounts that are taxed at a higher rate",
-    "Amounts that are not taxed",
-    "Amounts that must be paid immediately",
-    "Amounts that are illegal"
-   ],
-   "answer": 1,
-   "explain_en": "\"Exemptions\" are portions of income or value that are not subject to tax.",
-   "explain_zh": "「exemptions」指的是免稅的金額或範圍，這部分不需要繳稅。",
-   "news_title_en": "2026 marks a pivotal year for wealth-transfer tax rules",
-   "id": "2026-08-03-07"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the current gift‑tax exemption amount in Taiwan?",
-   "options": [
-    "NT$5.00 million",
-    "NT$1.00 million",
-    "NT$10.00 million",
-    "NT$2.44 million"
+    "The amount of taxes paid",
+    "The number of new companies listed",
+    "The total profit of a company",
+    "The amount of money traded in the market"
    ],
    "answer": 3,
-   "explain_en": "The summary states that the gift‑tax exemption stays at NT$2.44 million.",
-   "explain_zh": "摘要中說明，贈與稅免稅額維持在新台幣 2.44 百萬。",
-   "news_title_en": "2026 marks a pivotal year for wealth-transfer tax rules",
-   "id": "2026-08-03-08"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"underpinning\" mean?",
-   "options": [
-    "Removing tariffs between countries",
-    "Supporting or forming the basis of something",
-    "Predicting future growth",
-    "Increasing the price of goods"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"underpinning\" means that strong exports are supporting or forming the basis of the growth upgrade.",
-   "explain_zh": "這裡的「underpinning」指的是強勁的出口在支撐或構成成長升級的基礎。",
-   "news_title_en": "Think tank sharply upgrades Taiwan's 2026 growth outlook",
-   "id": "2026-08-03-09"
+   "explain_en": "Turnover refers to the total value of shares that were bought and sold during the session, about NT$845.8 billion.",
+   "explain_zh": "「turnover」指的是當天成交的總金額，約 845.8 億新台幣。",
+   "news_title_en": "TAIEX edges higher to close at 43,386 on Aug 3 (2026-08-03)",
+   "id": "2026-08-04-00"
   },
   {
    "type": "comprehension",
-   "question": "Why did Academia Sinica lift its 2026 GDP growth forecast for Taiwan?",
+   "question": "By how many points did the TAIEX rise on August 3, 2026?",
    "options": [
-    "Because of the removal of Taiwan‑US tariff uncertainty and a global AI‑investment boom",
-    "Because household cost‑of‑living pressure decreased dramatically",
-    "Because Taiwan stopped exporting advanced chips",
-    "Because the think tank changed its research staff"
+    "300.00 points",
+    "266.66 points",
+    "150.25 points",
+    "200.10 points"
    ],
-   "answer": 0,
-   "explain_en": "The summary states the forecast was raised due to the removal of tariff uncertainty and the global AI‑investment boom.",
-   "explain_zh": "摘要說明，預測上調是因為台美關稅不確定性解除以及全球 AI 投資熱潮。",
-   "news_title_en": "Think tank sharply upgrades Taiwan's 2026 growth outlook",
-   "id": "2026-08-03-10"
+   "answer": 1,
+   "explain_en": "The summary states the index rose 266.66 points, or 0.62%, to finish at 43,386.41.",
+   "explain_zh": "摘要說指數上漲了 266.66 點，收於 43,386.41。",
+   "news_title_en": "TAIEX edges higher to close at 43,386 on Aug 3 (2026-08-03)",
+   "id": "2026-08-04-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"footprint\" mean?",
+   "options": [
+    "A type of computer chip",
+    "The amount of money spent",
+    "A financial report",
+    "The physical area or presence of the company"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"footprint\" refers to TSMC's physical presence and operations in Arizona.",
+   "explain_zh": "此處的「footprint」指的是台積電在亞利桑那的實體佈局與營運規模。",
+   "news_title_en": "TSMC deepens US$265bn Arizona push to capture AI-chip demand (2026-08-03)",
+   "id": "2026-08-04-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much is TSMC's Arizona investment expected to total?",
+   "options": [
+    "US$365 billion",
+    "US$465 billion",
+    "US$265 billion",
+    "US$165 billion"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the commitment is roughly US$265 billion.",
+   "explain_zh": "摘要中說明台積電在亞利桑那的投資規模大約是 265 億美元。",
+   "news_title_en": "TSMC deepens US$265bn Arizona push to capture AI-chip demand (2026-08-03)",
+   "id": "2026-08-04-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"AI-led technology transformation\" mean?",
+   "options": [
+    "Hiring AI robots to replace all employees",
+    "Building AI machines for insurance sales",
+    "Applying artificial intelligence to create new laws",
+    "Using artificial intelligence to change how technology works"
+   ],
+   "answer": 3,
+   "explain_en": "It refers to using artificial intelligence to improve and change the way technology is used in the insurance industry.",
+   "explain_zh": "指的是利用人工智慧來改變和提升保險業的技術運作方式。",
+   "news_title_en": "FSC sets three supervisory priorities for insurers (2026-07-22)",
+   "id": "2026-08-04-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, which of the following is NOT one of the three supervisory priorities set by the FSC?",
+   "options": [
+    "Driving AI-led technology transformation",
+    "Increasing short-term profit targets",
+    "Expanding micro-insurance for an aging society",
+    "Steering green-finance investment"
+   ],
+   "answer": 1,
+   "explain_en": "The summary lists AI transformation, green‑finance investment, and a broader micro‑insurance framework, but does not mention short‑term profit targets.",
+   "explain_zh": "摘要提到的三大重點是 AI 轉型、綠色金融投資與擴大微型保險，沒有提到短期獲利目標。",
+   "news_title_en": "FSC sets three supervisory priorities for insurers (2026-07-22)",
+   "id": "2026-08-04-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the phrase \"high-asset-client regime\" mean?",
+   "options": [
+    "A special account for foreign tourists",
+    "A new type of investment product for small investors",
+    "A government program to lower taxes",
+    "A set of rules for banks that serve very wealthy customers"
+   ],
+   "answer": 3,
+   "explain_en": "It refers to the regulatory framework that relaxes rules for banks when dealing with clients who have very high assets.",
+   "explain_zh": "指的是針對資產非常龐大的客戶，放寬銀行規範的制度。",
+   "news_title_en": "Land Bank cleared to serve high-asset clients (2026-07)",
+   "id": "2026-08-04-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what asset level must a client have to be considered a high-asset client?",
+   "options": [
+    "NT$500 million",
+    "NT$10 million",
+    "NT$50 million",
+    "NT$100 million"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that the regime applies to customers with NT$100 million or more in assets.",
+   "explain_zh": "摘要中說明，客戶資產需達到新台幣一億以上才屬於高資產客戶。",
+   "news_title_en": "Land Bank cleared to serve high-asset clients (2026-07)",
+   "id": "2026-08-04-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"threshold\" mean?",
+   "options": [
+    "A type of tax form",
+    "A financial institution",
+    "The exact amount where something changes",
+    "A legal document"
+   ],
+   "answer": 2,
+   "explain_en": "A threshold is the point at which a rule or condition starts to apply, here the 10% inflation level that triggers indexation.",
+   "explain_zh": "「threshold」指的是某個條件開始生效的界線，本文指的是通膨達到 10% 時會啟動指數調整。",
+   "news_title_en": "2026 estate & gift tax brackets widened as cumulative CPI tops 10%",
+   "id": "2026-08-04-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "Why were Taiwan's estate and gift tax brackets adjusted upward for 2026?",
+   "options": [
+    "Because the government wanted to raise more revenue",
+    "Because the population grew significantly",
+    "Because cumulative inflation reached 12.42%, above the 10% trigger",
+    "Because new international tax rules were adopted"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the brackets were raised after inflation hit 12.42%, exceeding the 10% threshold that triggers indexation.",
+   "explain_zh": "摘要說明稅率調整是因為累計通膨達到 12.42%，超過 10% 的指數調整門檻。",
+   "news_title_en": "2026 estate & gift tax brackets widened as cumulative CPI tops 10%",
+   "id": "2026-08-04-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"ebbs\" mean?",
+   "options": [
+    "gets stronger",
+    "decreases",
+    "increases",
+    "remains the same"
+   ],
+   "answer": 1,
+   "explain_en": "\"Ebbs\" means to decrease or lessen, as used to describe the momentum of export and investment.",
+   "explain_zh": "「ebbs」在文中表示減少、衰退，指的是出口與投資動能的下降。",
+   "news_title_en": "Central bank pegs 2026 growth near 2.7%, inflation around 2%",
+   "id": "2026-08-04-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the projected per-capita GDP for Taiwan in 2026?",
+   "options": [
+    "US$75,000",
+    "US$45,610",
+    "US$60,000",
+    "US$30,000"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that per-capita GDP is around US$45,610.",
+   "explain_zh": "摘要中提到人均GDP約為45,610美元。",
+   "news_title_en": "Central bank pegs 2026 growth near 2.7%, inflation around 2%",
+   "id": "2026-08-04-11"
   }
  ]
 }
