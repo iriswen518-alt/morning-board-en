@@ -36,9 +36,9 @@
     ".qz-src{font-size:12.5px;color:var(--text-mute,#77839a)}" +
     ".qz-q{font-size:17px;line-height:1.55;font-weight:600;margin:0 0 14px}" +
     ".qz-opts{display:flex;flex-direction:column;gap:8px;margin:0 0 16px}" +
-    ".qz-opt{text-align:left;font-size:15.5px;line-height:1.45;padding:11px 14px;border:1px solid #d7dfeb;border-radius:8px;background:#fff;cursor:pointer;color:inherit;font-family:inherit}" +
+    ".qz-opt{text-align:left;font-size:15.5px;line-height:1.45;padding:11px 14px;border:1px solid #d7dfeb;border-radius:8px;background:var(--card-bg);cursor:pointer;color:inherit;font-family:inherit}" +
     ".qz-opt:hover{border-color:var(--brand-deep,#123a6b)}" +
-    ".qz-opt.qz-wrong{background:#fdecec;border-color:#e08a8a;color:#a33;cursor:not-allowed;opacity:.85}" +
+    ".qz-opt.qz-wrong{background:var(--up-soft);border-color:#e08a8a;color:#a33;cursor:not-allowed;opacity:.85}" +
     ".qz-opt.qz-right{background:#e8f6ec;border-color:#5cab74;color:#1d6b36;font-weight:600}" +
     ".qz-opt[disabled]{cursor:not-allowed}" +
     ".qz-verdict{font-size:15px;font-weight:700;margin:0 0 8px}" +
@@ -49,10 +49,10 @@
     ".qz-actions{display:flex;gap:10px;margin-top:16px}" +
     ".qz-actions button{flex:1;font-size:15px;font-weight:600;padding:11px 0;border-radius:8px;border:1px solid var(--brand-deep,#123a6b);cursor:pointer;font-family:inherit}" +
     ".qz-actions .qz-primary{background:var(--brand-deep,#123a6b);color:#fff}" +
-    ".qz-actions .qz-ghost{background:#fff;color:var(--brand-deep,#123a6b)}" +
+    ".qz-actions .qz-ghost{background:var(--card-bg);color:var(--brand-deep,#123a6b)}" +
     ".qz-done{ text-align:center;padding:26px 0}" +
     ".qz-done .qz-score{font-size:34px;font-weight:700;color:var(--brand-deep,#123a6b);margin:10px 0 4px}" +
-    ".qz-note{background:#fff4e6;border:1px solid #ffb74d;border-radius:6px;padding:10px 14px;margin:0 0 14px;color:#5a3a00;font-size:14.5px;line-height:1.5}";
+    ".qz-note{background:var(--warn-soft);border:1px solid #ffb74d;border-radius:6px;padding:10px 14px;margin:0 0 14px;color:#5a3a00;font-size:14.5px;line-height:1.5}";
   var styleEl = document.createElement("style");
   styleEl.textContent = css;
   document.head.appendChild(styleEl);
