@@ -111,7 +111,10 @@
       var rec = map[0] ? lv[map[0]] : null;
       var v = null, isLive = false;
       if (period === "daily") {
-        if (rec && rec.ok !== false && rec.change_pct != null) { v = rec.change_pct; isLive = true; }
+        // 盤中報價偶有壞值（前收抓錯 → 出現 -99% 這種數字），會把整張圖的刻度拉爆；
+        // 指數單日超過 ±25% 視為不可信，退回 market.json 的收盤漲跌。
+        var lp = rec && rec.ok !== false && rec.change_pct != null ? rec.change_pct : null;
+        if (lp != null && Math.abs(lp) < 25) { v = lp; isLive = true; }
         else if (it.daily_pct != null) v = it.daily_pct;
       } else if (period === "mtd") {
         v = it.mtd_pct != null ? it.mtd_pct : null;
