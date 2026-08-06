@@ -1,170 +1,185 @@
 {
- "date": "2026-08-05",
+ "date": "2026-08-06",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"rotation\" mean?",
+   "question": "In the summary, what does the phrase \"hot money\" mean?",
    "options": [
-    "A type of financial instrument",
-    "Moving money from one sector to another",
-    "Spinning a wheel",
-    "Changing the direction of the market trend"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"rotation\" refers to investors moving their money from one industry sector to another.",
-   "explain_zh": "這裡的「rotation」指的是投資人把資金從一個產業板塊轉移到另一個板塊。",
-   "news_title_en": "TAIEX closes near flat at 43,360.66 after a 1,000-point intraday swing (2026-08-04)",
-   "id": "2026-08-05-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "By how many points did the TAIEX swing intraday according to the summary?",
-   "options": [
-    "Exactly 25.75 points",
-    "Around 43,000 points",
-    "About 500 points",
-    "More than 1,000 points"
-   ],
-   "answer": 3,
-   "explain_en": "The summary says the index swung more than 1,000 points during the session.",
-   "explain_zh": "摘要中提到指數在當天盤中波動超過 1,000 點。",
-   "news_title_en": "TAIEX closes near flat at 43,360.66 after a 1,000-point intraday swing (2026-08-04)",
-   "id": "2026-08-05-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"order visibility\" mean?",
-   "options": [
-    "The speed at which orders are delivered",
-    "The number of orders a company receives each day",
-    "The secrecy of a company's order details",
-    "How clearly a company can see its future orders"
-   ],
-   "answer": 3,
-   "explain_en": "\"Order visibility\" refers to how clearly a company can see its upcoming orders and demand.",
-   "explain_zh": "「order visibility」指的是公司能多清楚看到未來的訂單與需求。",
-   "news_title_en": "Investors rotate into memory, CPO and AI-server supply chains (2026-08-04)",
-   "id": "2026-08-05-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, which sectors are favored by investors on Tuesday?",
-   "options": [
-    "Memory makers, CPO suppliers, and AI-server assemblers",
-    "Automotive parts, renewable energy, and biotech companies",
-    "Smartphone manufacturers, cloud service providers, and fintech firms",
-    "Retail chains, logistics firms, and real estate developers"
+    "Money that is quickly moved into a market to take advantage of short‑term gains",
+    "Money that is invested in heating companies",
+    "Money that is used to buy hot food",
+    "Money that is saved in a bank for a long time"
    ],
    "answer": 0,
-   "explain_en": "The text states investors favored memory makers, co‑packaged optics (CPO) suppliers, and AI‑server assemblers.",
-   "explain_zh": "文中說明投資人偏好記憶體製造商、CPO 供應商與 AI 伺服器組裝商。",
-   "news_title_en": "Investors rotate into memory, CPO and AI-server supply chains (2026-08-04)",
-   "id": "2026-08-05-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"absorption\" mean?",
-   "options": [
-    "to reject a merger proposal",
-    "to increase interest rates",
-    "to take over and combine with another bank",
-    "to buy another company"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"absorption\" means Taishin Bank will take over Shin Kong Bank and combine them into one entity.",
-   "explain_zh": "此處的「absorption」指的是台新銀行將收購並合併新光銀行，成為同一個實體。",
-   "news_title_en": "FSC approves Taishin–Shin Kong bank merger, creating NT$4.7tn lender (2026-08-04)",
-   "id": "2026-08-05-04"
+   "explain_en": "Here \"hot money\" refers to short‑term capital flows that move quickly into a market when conditions look favorable.",
+   "explain_zh": "「hot money」指的是在市場條件有利時，快速流入的短期資金。",
+   "news_title_en": "TAIEX surges 1,251 points to 44,611.6 as foreign funds post third-largest daily buy (2026-08-05)",
+   "id": "2026-08-06-00"
   },
   {
    "type": "comprehension",
-   "question": "When is the tentative effective date for the Taishin–Shin Kong bank merger?",
+   "question": "How much did foreign investors buy on that day, according to the summary?",
    "options": [
-    "December 31, 2027",
-    "January 1, 2026",
-    "January 1, 2027",
-    "July 1, 2027"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the merger is tentatively effective on Jan 1, 2027.",
-   "explain_zh": "摘要中說明合併的暫定生效日期是2027年1月1日。",
-   "news_title_en": "FSC approves Taishin–Shin Kong bank merger, creating NT$4.7tn lender (2026-08-04)",
-   "id": "2026-08-05-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"assets under management\" mean?",
-   "options": [
-    "The number of bank branches in a region",
-    "The profit a bank earned last year",
-    "The total amount of money a bank controls for its clients",
-    "The interest rate set by the central bank"
-   ],
-   "answer": 2,
-   "explain_en": "It refers to the total value of investments that the bank manages on behalf of its clients.",
-   "explain_zh": "指的是銀行為客戶管理的投資總金額。",
-   "news_title_en": "Banks' high-asset \"Wealth Management 2.0\" AUM grows 2.7x to NT$2.7tn",
-   "id": "2026-08-05-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many clients did banks' high‑net‑worth business serve as of May 2026?",
-   "options": [
-    "About 10,000",
-    "About 50,000",
-    "About 25,000",
-    "About 100,000"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the business served roughly 25,000 clients by May 2026.",
-   "explain_zh": "摘要中說明截至2026年5月，該業務大約服務了2.5萬名客戶。",
-   "news_title_en": "Banks' high-asset \"Wealth Management 2.0\" AUM grows 2.7x to NT$2.7tn",
-   "id": "2026-08-05-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"exemptions\" mean?",
-   "options": [
-    "Amounts that are taxed higher",
-    "Amounts that are not taxed",
-    "Amounts that are paid early",
-    "Amounts that are borrowed"
-   ],
-   "answer": 1,
-   "explain_en": "\"Exemptions\" are parts of income or value that are not subject to tax.",
-   "explain_zh": "「免稅額」指的是不需要繳稅的部分。",
-   "news_title_en": "2026 estate and gift tax brackets widened as cumulative CPI tops 10%",
-   "id": "2026-08-05-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "Why were the estate and gift tax brackets widened for 2026?",
-   "options": [
-    "Because the CPI fell below 5% in 2025",
-    "Because the government wanted to raise more revenue",
-    "Because the core exemptions were increased",
-    "Because cumulative inflation since 2017 exceeded the 10% indexation threshold"
+    "NT$44,611.60",
+    "NT$85 million",
+    "NT$1 trillion",
+    "NT$90.3 billion"
    ],
    "answer": 3,
-   "explain_en": "The brackets were widened because inflation since 2017 went over the 10% threshold, triggering indexation.",
-   "explain_zh": "因為自 2017 年以來的累計通膨超過 10%門檻，稅級被調整寬鬆。",
-   "news_title_en": "2026 estate and gift tax brackets widened as cumulative CPI tops 10%",
-   "id": "2026-08-05-09"
+   "explain_en": "The summary states that foreign investors bought a net NT$90.3 bn, which was the third‑largest single‑day total on record.",
+   "explain_zh": "摘要中說外資當天淨買入 NT$90.3 億，為史上第三大單日買入金額。",
+   "news_title_en": "TAIEX surges 1,251 points to 44,611.6 as foreign funds post third-largest daily buy (2026-08-05)",
+   "id": "2026-08-06-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"reciprocal\" mean?",
+   "question": "What does the word \"tailwind\" mean as used in the text?",
    "options": [
-    "Unrelated",
-    "Mutual or shared",
-    "One way only",
-    "Temporary"
+    "A type of wind that blows from behind a plane",
+    "A new product line",
+    "A financial loss",
+    "A factor that helps a company grow"
+   ],
+   "answer": 3,
+   "explain_en": "In the article, \"tailwind\" refers to something that gives the company extra help, like a favorable condition.",
+   "explain_zh": "在文中，「tailwind」指的是對公司有幫助的有利因素。",
+   "news_title_en": "Universal Microwave sees optical-component demand outstripping supply into year-end (2026-08-05)",
+   "id": "2026-08-06-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the percentage increase in Universal Microwave's net profit year‑over‑year in Q2?",
+   "options": [
+    "43.3%",
+    "572%",
+    "672%",
+    "57.2%"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that net profit jumped 672% YoY in Q2.",
+   "explain_zh": "摘要中說明第二季淨利年增率為 672%。",
+   "news_title_en": "Universal Microwave sees optical-component demand outstripping supply into year-end (2026-08-05)",
+   "id": "2026-08-06-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"buoyant\" mean?",
+   "options": [
+    "Very active and lively",
+    "Very sad and gloomy",
+    "Very slow and stagnant",
+    "Very cheap and low-priced"
+   ],
+   "answer": 0,
+   "explain_en": "\"Buoyant\" describes markets that are active and rising, not sad or slow.",
+   "explain_zh": "「buoyant」指的是市場活躍、上揚，並非悲觀或停滯。",
+   "news_title_en": "Taiwan's financial sector books record H1 profit of NT$904.2bn, up 139% (2026-08-05)",
+   "id": "2026-08-06-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "What percentage of the total first‑half profit did banks contribute?",
+   "options": [
+    "44%",
+    "21%",
+    "34%",
+    "50%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary says banks contributed about 44% of earnings.",
+   "explain_zh": "摘要中指出，銀行貢獻了大約 44% 的盈餘。",
+   "news_title_en": "Taiwan's financial sector books record H1 profit of NT$904.2bn, up 139% (2026-08-05)",
+   "id": "2026-08-06-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"AI capex\" mean?",
+   "options": [
+    "Revenue from AI services",
+    "Profit from AI companies",
+    "Money spent on artificial intelligence projects",
+    "Taxes on AI products"
+   ],
+   "answer": 2,
+   "explain_en": "\"AI capex\" refers to capital expenditures, i.e., money a company invests in AI-related equipment or projects.",
+   "explain_zh": "「AI capex」指的是在人工智慧相關設備或專案上的資本支出，即公司投入的資金。",
+   "news_title_en": "22 overseas-equity ETFs hit record highs; Uni-President FANG+ leads with a 12% surge (2026-08-05)",
+   "id": "2026-08-06-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "Which ETF had the biggest percentage increase on August 5?",
+   "options": [
+    "Da Hua US MAG7+ ETF",
+    "All ETFs rose the same amount",
+    "Uni-President FANG+ ETF",
+    "Cathay Cybersecurity ETF"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that Uni-President FANG+ ETF rallied 12.35%, the highest among the listed ETFs.",
+   "explain_zh": "摘要指出，統一企業 FANG+ ETF 漲幅 12.35%，是當天所有 ETF 中最高的。",
+   "news_title_en": "22 overseas-equity ETFs hit record highs; Uni-President FANG+ leads with a 12% surge (2026-08-05)",
+   "id": "2026-08-06-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"threshold\" mean?",
+   "options": [
+    "a type of tax rate",
+    "a financial loss",
+    "a government department",
+    "the exact amount that must be reached before a rule applies"
+   ],
+   "answer": 3,
+   "explain_en": "A threshold is the specific level that must be met before something happens, like a tax rule kicking in.",
+   "explain_zh": "「threshold」指的是必須達到的特定金額或水平，才能讓規則生效，例如稅率的適用門檻。",
+   "news_title_en": "2026 estate and gift tax brackets widened after cumulative inflation tops 10%",
+   "id": "2026-08-06-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "Why were the core exemptions and deductions left unchanged for 2026?",
+   "options": [
+    "Because they were already too high",
+    "Because the government decided to cut taxes overall",
+    "Because the 2025 CPI did not reach the 10% increase needed to adjust them",
+    "Because a new law prohibited any changes"
+   ],
+   "answer": 2,
+   "explain_en": "The 2025 consumer price index stayed below the 10% rise needed, so the thresholds for exemptions and deductions stayed the same.",
+   "explain_zh": "2025 年的 CPI 沒有超過 10% 的增幅，因此核心免稅額與扣除額的門檻未被調整，保持不變。",
+   "news_title_en": "2026 estate and gift tax brackets widened after cumulative inflation tops 10%",
+   "id": "2026-08-06-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"sovereign AI computing power\" mean?",
+   "options": [
+    "AI computers that are cheaper than regular ones",
+    "AI computers owned and controlled by the government",
+    "AI computers that can make independent decisions",
+    "AI computers used only by private companies"
    ],
    "answer": 1,
-   "explain_en": "\"Reciprocal\" means something that is mutual or done in return, like a tariff that both sides apply.",
-   "explain_zh": "「reciprocal」指的是互相的、相互的意思，例如雙方互相徵收的關稅。",
-   "news_title_en": "US 20% reciprocal tariff on Taiwan takes effect Aug 7; Taipei readies NT$88bn support",
-   "id": "2026-08-05-10"
+   "explain_en": "The text says the government will invest in \"sovereign AI computing power,\" meaning AI computing resources that are owned and managed by the state.",
+   "explain_zh": "文中提到「sovereign AI computing power」指的是由政府擁有與管理的 AI 計算資源。",
+   "news_title_en": "Taiwan sets record NT$182.3bn 2027 science and technology budget, up 9.5% (2026-08-05)",
+   "id": "2026-08-06-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much is the 2027 science and technology budget expected to increase compared to 2026?",
+   "options": [
+    "About 12% more",
+    "It stays the same",
+    "About 9.5% more",
+    "About 5% more"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the budget is up 9.47%, which is roughly a 9.5% increase.",
+   "explain_zh": "摘要中說預算比 2026 年增加 9.47%，約為 9.5% 的提升。",
+   "news_title_en": "Taiwan sets record NT$182.3bn 2027 science and technology budget, up 9.5% (2026-08-05)",
+   "id": "2026-08-06-11"
   }
  ]
 }
