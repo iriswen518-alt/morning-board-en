@@ -6487,8 +6487,8 @@ function cnyesCatSection(label, inner, open) {
     </details>`;
 }
 
-// 單則全文（站內直接顯示，不外連）：中英並陳。中文段落與英文段落數一致時逐段
-// 交錯（中→英），否則中文整塊後接英文整塊；全英文模式只出英文（缺英文退回中文）。
+// 單則全文（站內直接顯示，不外連）：逐段中英對照，一段一組（英文在上、中文在下），
+// 方便對照學英文；全英文模式只出英文（缺英文退回中文）。
 function cnyesItemBody(it) {
   const enOnly = (() => {
     try { return localStorage.getItem("mbe_mode") === "en"; } catch (_) { return false; }
@@ -6500,12 +6500,14 @@ function cnyesItemBody(it) {
   let paras;
   if (enOnly && en.length) {
     paras = en.map(enP).join("");
-  } else if (!en.length) {
-    paras = zh.map(zhP).join("");
-  } else if (zh.length === en.length) {
-    paras = zh.map((p, i) => zhP(p) + enP(en[i])).join("");
   } else {
-    paras = zh.map(zhP).join("") + `<div class="cnyes-en-block">${en.map(enP).join("")}</div>`;
+    // 段數不一致時仍以索引配對，多出來的段落單獨成組
+    const n = Math.max(zh.length, en.length);
+    paras = "";
+    for (let i = 0; i < n; i++) {
+      const pair = (en[i] ? enP(en[i]) : "") + (zh[i] ? zhP(zh[i]) : "");
+      paras += `<div class="cnyes-pair">${pair}</div>`;
+    }
   }
   const enTitle = !enOnly && it.title_en
     ? `<p class="cnyes-en cnyes-en-title">${escapeHtml(it.title_en)}</p>` : "";
