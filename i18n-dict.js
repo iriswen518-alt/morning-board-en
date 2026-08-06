@@ -1,5 +1,7 @@
 window.MBE_DICT = {
 "市場儀表": "Dashboard",
+"當日盤勢": "Today's Move",
+"今年表現": "Year-to-Date",
 "零軸置中，紅色為漲、綠色為跌": "Zero line centred; red = up, green = down",
 "滿刻度": "Full scale",
 "當日盤中每分鐘更新，休市時為最近收盤": "Intraday values refresh every minute; last close when markets are shut",

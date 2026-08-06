@@ -3403,3 +3403,134 @@ th .mbe-en, .sortable-th .mbe-en { display: block; margin-left: 0; font-size: .7
   margin-bottom: 0 !important;
 }
 .t-section:first-of-type, .fund-card:first-of-type { border-top: none !important; }
+
+/* ===== 第三批扁平化：表格無底色、只留格線；區塊一律不畫底 =====
+   2026-08-06 用戶要求：「區塊不要有底色，表格不要有底色，表格有格線即可」。
+   放在檔案最後，覆蓋前面所有表頭白底／斑馬紋／hover 底色。
+   例外：sticky 表頭與凍結欄仍需不透明底才不會透出捲動內容，
+   改用與頁面同色的 var(--bg-alt)（深淺色模式各自對應），視覺上等同「沒有底色」。 */
+#content table,
+#content table th,
+#content table td,
+#content table tbody tr,
+#content table thead tr {
+  background: transparent !important;
+}
+#content table tbody tr:hover td,
+#content table tbody tr:nth-child(even) td,
+.cmp-row-self td,
+.position-constituents tr:nth-child(even) td {
+  background: transparent !important;
+}
+/* 格線：上下左右細線構成表格，取代底色分區 */
+#content table th,
+#content table td,
+.cmp-table th, .cmp-table td,
+.position-list th, .position-list td,
+.position-constituents th, .position-constituents td,
+.position-perf th, .position-perf td,
+.position-perf-each th, .position-perf-each td,
+.swap-table th, .swap-table td {
+  border: 1px solid var(--border) !important;
+}
+/* sticky 表頭／凍結欄：改頁面同色底、去掉右緣陰影（靠格線區隔即可） */
+#content table thead th,
+#content table th:first-child:not([colspan]),
+#content table td:first-child:not([colspan]),
+#content table.ranking-table th:nth-child(2),
+#content table.ranking-table td:nth-child(2) {
+  background: var(--bg-alt) !important;
+  box-shadow: none !important;
+}
+
+/* 區塊（第三批）：仍有底色的內容方塊一併拿掉，改用細線分隔 */
+.idx-card,
+.idx-cards .idx-card,
+.news-card,
+.t-detail,
+.live-stat,
+.acc-sec .acc-sec,
+.tw-snap, .tw-chips {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+}
+.idx-card + .idx-card { border-top: 1px solid var(--line-soft) !important; }
+
+/* ===== 標題層級：分頁內的小節標題要與分頁大標題有區別 =====
+   2026-08-06 用戶要求。外層折疊（＝分頁大標題，如「美股分析」）維持深藍 19px 粗體；
+   內層小節（「美股盤勢」「美股排行」…）改水藍、字級小一階、略縮排，一眼看出從屬關係。 */
+.acc-sec > .acc-sec-head > .acc-sec-title,
+#content > .acc-sec > .acc-sec-head > .acc-sec-title {
+  font-size: 19px;
+  font-weight: 700;
+  color: var(--brand-deep) !important;
+  letter-spacing: 0.02em;
+}
+.acc-sec .acc-sec > .acc-sec-head > .acc-sec-title,
+.acc-sec .acc-sec[open] > .acc-sec-head > .acc-sec-title,
+.acc-sec .news-sec > .news-sec-head > .news-sec-title {
+  font-size: 17px !important;
+  font-weight: 600 !important;
+  color: var(--brand-primary) !important;
+  letter-spacing: 0;
+}
+.acc-sec .acc-sec > .acc-sec-head { padding-left: 10px; }
+.acc-sec .acc-sec > .acc-sec-body { padding-left: 10px; }
+
+/* 產業龍頭（台股分析內）：環節分隔列＋公司代號／市場別小字 */
+.ic-chain-tabs { margin-bottom: 10px; }
+/* 產業下拉一律顯示（桌機 chip 只放前 12 大，其餘產業從這裡選） */
+.ic-chain-select-wrap { display: block; margin-bottom: 14px; }
+/* 環節分隔列：全站表格底色被扁平化規則設為 transparent !important，
+   所以改用粗體＋品牌深藍＋上方分隔線來區隔，不再另加底色。
+   選擇器要壓過 table.indices td:first-child（會把文字置中），故連 table 一起指定。 */
+table.indices.ic-chain-table tr.ic-seg-row td,
+table.indices.ic-chain-table tr.ic-seg-row td:first-child {
+  font-weight: 700;
+  color: var(--brand-deep, #003D91);
+  text-align: left;
+  padding-top: 16px;
+  padding-bottom: 6px;
+  border-top: 2px solid var(--brand-primary, #019AB3);
+}
+table.indices.ic-chain-table tbody tr.ic-seg-row:first-child td { padding-top: 8px; }
+.ic-stage {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--brand-primary, #019AB3);
+  margin-left: 8px;
+}
+.ic-seg-n { font-size: 13px; font-weight: 400; color: var(--text-mute); margin-left: 8px; }
+table.indices.ic-chain-table tbody td:first-child { text-align: left; }
+.ic-code { font-size: 13px; color: var(--text-mute); margin-left: 6px; white-space: nowrap; }
+.ic-news { list-style: none; margin: 0; padding: 0; }
+.ic-news li { padding: 8px 0; border-bottom: 1px solid var(--line); font-size: 16px; line-height: 1.7; }
+.ic-news li:last-child { border-bottom: none; }
+.ic-news a { color: var(--brand-primary, #019AB3); text-decoration: none; }
+.ic-news b { margin-right: 8px; }
+@media (max-width: 640px) {
+  /* 47 個產業 chip 在手機上會 wrap 成一大片，改用下拉（沿用 .tw-ind-select 慣例） */
+  .ic-chain-tabs.tabs { display: none; }
+}
+
+/* ===== 新聞：標題與內文用不同顏色（字級不動）=====
+   2026-08-06 用戶要求。標題（折疊 summary／h3）改深藍，內文維持一般文字色；
+   只換顏色，字體大小與粗細一律沿用原設定。深色模式 --brand-deep 自動換成亮藍。 */
+.news-item h3,
+.news-item details summary {
+  color: var(--brand-deep) !important;
+}
+.news-item .summary,
+.news-item .news-body,
+.news-item .news-body p {
+  color: var(--text) !important;
+}
+
+/* ===== 全英文模式的導覽列：英文標籤比中文長，flex:1 1 0 會被壓到互相重疊 =====
+   2026-08-06 起預設全英文，改成各自照內容寬度、整條可橫向捲動（.main-nav 本來就 overflow-x:auto）。 */
+html[data-mbe-mode="en"] .main-tab {
+  flex: 0 0 auto;
+  padding: 14px 14px;
+}

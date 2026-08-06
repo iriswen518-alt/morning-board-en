@@ -9,7 +9,8 @@
 
   /* ---------- 語言模式：both=中英對照 / en=全英文 ---------- */
   const MODE = (function () {
-    try { return localStorage.getItem('mbe_mode') === 'en' ? 'en' : 'both'; }
+    /* 2026-08-06 起預設全英文：沒設定過就是 'en'，按過切換鈕存 'both' 才回中英對照 */
+    try { return localStorage.getItem('mbe_mode') === 'both' ? 'both' : 'en'; }
     catch (e) { return 'both'; }
   })();
   const EN_ONLY = MODE === 'en';
