@@ -3253,7 +3253,28 @@ th .mbe-en, .sortable-th .mbe-en { display: block; margin-left: 0; font-size: .7
   to { opacity: 1; transform: translate(-50%, -130%); }
 }
 
-/* 連按三下切換語言：畫面中央短暫提示 */
+/* 右下角語言切換 FAB：沿用原理財聊聊按鈕位置與量體，內容改文字 */
+.mbe-lang-fab {
+  position: fixed;
+  right: 20px;
+  bottom: calc(20px + env(safe-area-inset-bottom, 0px));
+  z-index: 96;
+  width: 58px; height: 58px;
+  border: none; border-radius: 50%;
+  background: linear-gradient(135deg, #2aa6d6, var(--brand-deep));
+  color: #fff; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  font-family: inherit;
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: .02em;
+  box-shadow: 0 8px 22px rgba(0, 154, 179, 0.40);
+  transition: transform .15s ease, box-shadow .15s ease;
+}
+.mbe-lang-fab:hover { transform: translateY(-2px) scale(1.04); box-shadow: 0 12px 28px rgba(0, 154, 179, 0.46); }
+.mbe-lang-fab:active { transform: scale(0.96); }
+
+/* 切換語言：畫面中央短暫提示 */
 .mbe-mode-toast {
   position: fixed;
   z-index: 10000;
