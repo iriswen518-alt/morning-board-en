@@ -1,185 +1,185 @@
 {
- "date": "2026-08-06",
+ "date": "2026-08-07",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"hot money\" mean?",
+   "question": "In the summary, what does the phrase \"high-level consolidation\" mean?",
    "options": [
-    "Money that is quickly moved into a market to take advantage of short‑term gains",
-    "Money that is invested in heating companies",
-    "Money that is used to buy hot food",
-    "Money that is saved in a bank for a long time"
+    "Prices are staying roughly the same after a big move",
+    "Prices are rising quickly",
+    "Prices are falling sharply",
+    "Prices are fluctuating wildly"
    ],
    "answer": 0,
-   "explain_en": "Here \"hot money\" refers to short‑term capital flows that move quickly into a market when conditions look favorable.",
-   "explain_zh": "「hot money」指的是在市場條件有利時，快速流入的短期資金。",
-   "news_title_en": "TAIEX surges 1,251 points to 44,611.6 as foreign funds post third-largest daily buy (2026-08-05)",
-   "id": "2026-08-06-00"
+   "explain_en": "It means the market is moving sideways after a strong previous rise, with little change in price levels.",
+   "explain_zh": "指的是在大幅上漲之後，市場價格大致持平，變動不大。",
+   "news_title_en": "TSMC drags TAIEX lower as thousand-dollar stocks shine",
+   "id": "2026-08-07-00"
   },
   {
    "type": "comprehension",
-   "question": "How much did foreign investors buy on that day, according to the summary?",
+   "question": "According to the summary, what happened to the TAIEX on August 6?",
    "options": [
-    "NT$44,611.60",
-    "NT$85 million",
-    "NT$1 trillion",
-    "NT$90.3 billion"
+    "It stayed unchanged",
+    "It rose by 40 points",
+    "It rose by 214 points",
+    "It fell by 214 points"
    ],
    "answer": 3,
-   "explain_en": "The summary states that foreign investors bought a net NT$90.3 bn, which was the third‑largest single‑day total on record.",
-   "explain_zh": "摘要中說外資當天淨買入 NT$90.3 億，為史上第三大單日買入金額。",
-   "news_title_en": "TAIEX surges 1,251 points to 44,611.6 as foreign funds post third-largest daily buy (2026-08-05)",
-   "id": "2026-08-06-01"
+   "explain_en": "The summary states that TSMC closed down NT$40, pulling the TAIEX 214 points lower.",
+   "explain_zh": "摘要說台積電收跌40元，導致台指跌了214點。",
+   "news_title_en": "TSMC drags TAIEX lower as thousand-dollar stocks shine",
+   "id": "2026-08-07-01"
   },
   {
    "type": "vocab",
-   "question": "What does the word \"tailwind\" mean as used in the text?",
+   "question": "In the summary, what does the word \"upcycle\" mean?",
    "options": [
-    "A type of wind that blows from behind a plane",
-    "A new product line",
-    "A financial loss",
-    "A factor that helps a company grow"
+    "A decrease in the quality of a product over time",
+    "A method of reducing production costs",
+    "A process of recycling old materials into new ones",
+    "A rise in demand that leads to higher prices for a product"
    ],
    "answer": 3,
-   "explain_en": "In the article, \"tailwind\" refers to something that gives the company extra help, like a favorable condition.",
-   "explain_zh": "在文中，「tailwind」指的是對公司有幫助的有利因素。",
-   "news_title_en": "Universal Microwave sees optical-component demand outstripping supply into year-end (2026-08-05)",
-   "id": "2026-08-06-02"
+   "explain_en": "Here \"upcycle\" refers to an upward trend in the market that increases demand and prices for AI‑driven memory.",
+   "explain_zh": "在此文中「upcycle」指的是 AI 記憶體需求上升，導致需求與價格提升的趨勢。",
+   "news_title_en": "Nanya lifts 2026 capex 34% to NT$69.7bn for 5A fab",
+   "id": "2026-08-07-02"
   },
   {
    "type": "comprehension",
-   "question": "What was the percentage increase in Universal Microwave's net profit year‑over‑year in Q2?",
+   "question": "What is the new 2026 capex ceiling that Nanya Technology set?",
    "options": [
-    "43.3%",
-    "572%",
-    "672%",
-    "57.2%"
+    "35,900 wafers per month",
+    "NT$346.6 billion",
+    "NT$52 billion",
+    "NT$69.7 billion"
    ],
-   "answer": 2,
-   "explain_en": "The summary states that net profit jumped 672% YoY in Q2.",
-   "explain_zh": "摘要中說明第二季淨利年增率為 672%。",
-   "news_title_en": "Universal Microwave sees optical-component demand outstripping supply into year-end (2026-08-05)",
-   "id": "2026-08-06-03"
+   "answer": 3,
+   "explain_en": "The board raised the 2026 capex ceiling to NT$69.7 bn, up from NT$52 bn.",
+   "explain_zh": "董事會將 2026 年資本支出上限提升至新台幣 697 億元，原本是 520 億元。",
+   "news_title_en": "Nanya lifts 2026 capex 34% to NT$69.7bn for 5A fab",
+   "id": "2026-08-07-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"buoyant\" mean?",
+   "question": "What does the word \"pre‑tax\" mean in the sentence \"Banks alone posted pre‑tax profit of NT$400.2bn\"?",
    "options": [
-    "Very active and lively",
-    "Very sad and gloomy",
-    "Very slow and stagnant",
-    "Very cheap and low-priced"
+    "Profit earned before any taxes are deducted",
+    "Profit that comes from tax refunds",
+    "Profit after all taxes have been paid",
+    "Profit that is taxed at a lower rate"
    ],
    "answer": 0,
-   "explain_en": "\"Buoyant\" describes markets that are active and rising, not sad or slow.",
-   "explain_zh": "「buoyant」指的是市場活躍、上揚，並非悲觀或停滯。",
-   "news_title_en": "Taiwan's financial sector books record H1 profit of NT$904.2bn, up 139% (2026-08-05)",
-   "id": "2026-08-06-04"
+   "explain_en": "The term \"pre‑tax\" refers to profit calculated before any tax expenses are subtracted.",
+   "explain_zh": "「pre‑tax」指的是在扣除稅金之前的盈餘。",
+   "news_title_en": "Financial trio earns record NT$904.2bn in H1 2026",
+   "id": "2026-08-07-04"
   },
   {
    "type": "comprehension",
-   "question": "What percentage of the total first‑half profit did banks contribute?",
+   "question": "By how much did the combined earnings of Taiwan's financial firms increase year‑on‑year in the first half of 2026?",
    "options": [
-    "44%",
-    "21%",
-    "34%",
-    "50%"
-   ],
-   "answer": 0,
-   "explain_en": "The summary says banks contributed about 44% of earnings.",
-   "explain_zh": "摘要中指出，銀行貢獻了大約 44% 的盈餘。",
-   "news_title_en": "Taiwan's financial sector books record H1 profit of NT$904.2bn, up 139% (2026-08-05)",
-   "id": "2026-08-06-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"AI capex\" mean?",
-   "options": [
-    "Revenue from AI services",
-    "Profit from AI companies",
-    "Money spent on artificial intelligence projects",
-    "Taxes on AI products"
-   ],
-   "answer": 2,
-   "explain_en": "\"AI capex\" refers to capital expenditures, i.e., money a company invests in AI-related equipment or projects.",
-   "explain_zh": "「AI capex」指的是在人工智慧相關設備或專案上的資本支出，即公司投入的資金。",
-   "news_title_en": "22 overseas-equity ETFs hit record highs; Uni-President FANG+ leads with a 12% surge (2026-08-05)",
-   "id": "2026-08-06-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "Which ETF had the biggest percentage increase on August 5?",
-   "options": [
-    "Da Hua US MAG7+ ETF",
-    "All ETFs rose the same amount",
-    "Uni-President FANG+ ETF",
-    "Cathay Cybersecurity ETF"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that Uni-President FANG+ ETF rallied 12.35%, the highest among the listed ETFs.",
-   "explain_zh": "摘要指出，統一企業 FANG+ ETF 漲幅 12.35%，是當天所有 ETF 中最高的。",
-   "news_title_en": "22 overseas-equity ETFs hit record highs; Uni-President FANG+ leads with a 12% surge (2026-08-05)",
-   "id": "2026-08-06-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"threshold\" mean?",
-   "options": [
-    "a type of tax rate",
-    "a financial loss",
-    "a government department",
-    "the exact amount that must be reached before a rule applies"
-   ],
-   "answer": 3,
-   "explain_en": "A threshold is the specific level that must be met before something happens, like a tax rule kicking in.",
-   "explain_zh": "「threshold」指的是必須達到的特定金額或水平，才能讓規則生效，例如稅率的適用門檻。",
-   "news_title_en": "2026 estate and gift tax brackets widened after cumulative inflation tops 10%",
-   "id": "2026-08-06-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "Why were the core exemptions and deductions left unchanged for 2026?",
-   "options": [
-    "Because they were already too high",
-    "Because the government decided to cut taxes overall",
-    "Because the 2025 CPI did not reach the 10% increase needed to adjust them",
-    "Because a new law prohibited any changes"
-   ],
-   "answer": 2,
-   "explain_en": "The 2025 consumer price index stayed below the 10% rise needed, so the thresholds for exemptions and deductions stayed the same.",
-   "explain_zh": "2025 年的 CPI 沒有超過 10% 的增幅，因此核心免稅額與扣除額的門檻未被調整，保持不變。",
-   "news_title_en": "2026 estate and gift tax brackets widened after cumulative inflation tops 10%",
-   "id": "2026-08-06-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"sovereign AI computing power\" mean?",
-   "options": [
-    "AI computers that are cheaper than regular ones",
-    "AI computers owned and controlled by the government",
-    "AI computers that can make independent decisions",
-    "AI computers used only by private companies"
+    "200 percent",
+    "139 percent",
+    "50 percent",
+    "100 percent"
    ],
    "answer": 1,
-   "explain_en": "The text says the government will invest in \"sovereign AI computing power,\" meaning AI computing resources that are owned and managed by the state.",
-   "explain_zh": "文中提到「sovereign AI computing power」指的是由政府擁有與管理的 AI 計算資源。",
-   "news_title_en": "Taiwan sets record NT$182.3bn 2027 science and technology budget, up 9.5% (2026-08-05)",
-   "id": "2026-08-06-10"
+   "explain_en": "The summary states the earnings were up 139% year on year.",
+   "explain_zh": "摘要中說收益較去年同期增長了 139%。",
+   "news_title_en": "Financial trio earns record NT$904.2bn in H1 2026",
+   "id": "2026-08-07-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"hub\" mean?",
+   "options": [
+    "A government agency",
+    "A type of financial instrument",
+    "A central place where many related activities happen",
+    "A small island"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"hub\" refers to a central location that attracts many asset‑management activities.",
+   "explain_zh": "這裡的「hub」指的是一個聚集許多資產管理活動的中心位置。",
+   "news_title_en": "Taiwan's asset-management hub push hits AUM target early",
+   "id": "2026-08-07-06"
   },
   {
    "type": "comprehension",
-   "question": "How much is the 2027 science and technology budget expected to increase compared to 2026?",
+   "question": "By the end of 2025, what achievement had Taiwan's assets under management reached?",
    "options": [
-    "About 12% more",
-    "It stays the same",
-    "About 9.5% more",
-    "About 5% more"
+    "They stopped growing altogether",
+    "They doubled the target amount",
+    "They fell short of the target",
+    "They met the two‑year policy target early"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that Taiwan's AUM reached its two‑year policy target ahead of schedule by the end of 2025.",
+   "explain_zh": "摘要中說明，台灣的資產管理規模在2025年底提前達成了兩年政策目標。",
+   "news_title_en": "Taiwan's asset-management hub push hits AUM target early",
+   "id": "2026-08-07-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word “exemption” mean?",
+   "options": [
+    "A type of investment account",
+    "A penalty for late filing",
+    "An amount of income that is not taxed",
+    "A bonus paid by the government"
    ],
    "answer": 2,
-   "explain_en": "The summary states the budget is up 9.47%, which is roughly a 9.5% increase.",
-   "explain_zh": "摘要中說預算比 2026 年增加 9.47%，約為 9.5% 的提升。",
-   "news_title_en": "Taiwan sets record NT$182.3bn 2027 science and technology budget, up 9.5% (2026-08-05)",
-   "id": "2026-08-06-11"
+   "explain_en": "An exemption is a portion of income that is excluded from tax calculation, so it is not taxed.",
+   "explain_zh": "「免稅額」指的是收入中不需要繳稅的那一部分，亦即不計入課稅。",
+   "news_title_en": "2026 income-tax thresholds raised, long-term-care deduction lifted",
+   "id": "2026-08-07-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the personal exemption amount for the 2026 tax year in Taiwan?",
+   "options": [
+    "NT$97,000",
+    "NT$227,000",
+    "NT$101,000",
+    "NT$136,000"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the personal exemption is raised to NT$101,000 for 2026.",
+   "explain_zh": "摘要中說明，2026 年的個人免稅額提升至新台幣 101,000 元。",
+   "news_title_en": "2026 income-tax thresholds raised, long-term-care deduction lifted",
+   "id": "2026-08-07-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"front-loaded\" mean?",
+   "options": [
+    "Reduced gradually",
+    "Spread evenly over time",
+    "Concentrated at the beginning",
+    "Delayed until the end"
+   ],
+   "answer": 2,
+   "explain_en": "\"Front-loaded\" means that most of the growth is expected early in the period, not later.",
+   "explain_zh": "「front-loaded」表示大部分成長會在期間的前半段出現，而不是之後。",
+   "news_title_en": "Taiwan 2026 growth seen at 7.22% on AI-led exports",
+   "id": "2026-08-07-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the estimated full-year CPI for Taiwan in 2026?",
+   "options": [
+    "2.10%",
+    "1.98%",
+    "1.50%",
+    "2.50%"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the full-year consumer price index is estimated near 1.98%.",
+   "explain_zh": "摘要中提到全年消費者物價指數約為 1.98%。",
+   "news_title_en": "Taiwan 2026 growth seen at 7.22% on AI-led exports",
+   "id": "2026-08-07-11"
   }
  ]
 }
