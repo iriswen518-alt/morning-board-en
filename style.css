@@ -3220,6 +3220,38 @@ th .mbe-en, .sortable-th .mbe-en { display: block; margin-left: 0; font-size: .7
 .mbe-hit { color: #0e7d5b; }
 .mbe-miss { color: #c94f4f; text-decoration: underline wavy; text-underline-offset: 3px; }
 .mbe-heard { font-size: .82em; color: var(--text-mute); margin-top: .25rem; }
+
+/* 點單字朗讀＋翻譯：跟著點擊位置浮出的小氣泡 */
+.mbe-word-bubble {
+  position: fixed;
+  z-index: 9999;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  transform: translate(-50%, -130%);
+  background: #0a2a55;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.3;
+  padding: 7px 13px;
+  border-radius: 999px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, .28);
+  cursor: pointer;
+  white-space: nowrap;
+  max-width: 86vw;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  animation: mbeBubbleIn .16s ease-out;
+}
+.mbe-word-bubble svg { flex: 0 0 auto; }
+.mbe-word-bubble .mbe-word-zh { font-weight: 600; opacity: .92; }
+.mbe-word-bubble .mbe-word-zh:not(:empty)::before { content: '·'; margin-right: 6px; opacity: .6; }
+.mbe-word-bubble.fade { opacity: 0; transition: opacity .3s; }
+@keyframes mbeBubbleIn {
+  from { opacity: 0; transform: translate(-50%, -110%); }
+  to { opacity: 1; transform: translate(-50%, -130%); }
+}
 @media (max-width: 520px) {
   .topbar h1 .mbe-en { display: none; }
 }
@@ -3533,4 +3565,19 @@ table.indices.ic-chain-table tbody td:first-child { text-align: left; }
 html[data-mbe-mode="en"] .main-tab {
   flex: 0 0 auto;
   padding: 14px 14px;
+}
+
+/* ===== 新聞內文字級＝標題字級 =====
+   2026-08-06 用戶要求。原本手機端內文 23px、標題 20px（內文刻意放大好閱讀），
+   現在統一：內文一律跟著標題走，桌機 18px、手機 20px。 */
+.news-item .summary,
+.news-item .news-body,
+.news-item .news-body p {
+  font-size: 18px;
+}
+@media (max-width: 768px) {
+  .news-item details summary { font-size: 20px; line-height: 1.55; }
+  .news-item .summary,
+  .news-item .news-body,
+  .news-item .news-body p { font-size: 20px; }
 }

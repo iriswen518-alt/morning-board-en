@@ -120,6 +120,111 @@
     } catch (e) {}
   }
 
+  /* ---------- 點單字朗讀：點頁面上任何英文單字就唸給你聽 ---------- */
+  const WORD_CH = /[A-Za-z'’-]/;
+  function wordFromPoint(x, y, target) {
+    let node = null, offset = 0;
+    if (document.caretRangeFromPoint) {
+      const r = document.caretRangeFromPoint(x, y);
+      if (!r) return null;
+      node = r.startContainer; offset = r.startOffset;
+    } else if (document.caretPositionFromPoint) {
+      const p = document.caretPositionFromPoint(x, y);
+      if (!p) return null;
+      node = p.offsetNode; offset = p.offset;
+    }
+    if (!node || node.nodeType !== 3) return null;
+    /* caretRangeFromPoint 會吸附到最近的文字：確認命中的節點真的在點擊目標裡 */
+    if (target && node.parentElement && !target.contains(node.parentElement) && !node.parentElement.contains(target)) return null;
+    const text = node.nodeValue || '';
+    if (!WORD_CH.test(text[offset] || '') && !WORD_CH.test(text[offset - 1] || '')) return null;
+    let s = offset, e = offset;
+    while (s > 0 && WORD_CH.test(text[s - 1])) s--;
+    while (e < text.length && WORD_CH.test(text[e])) e++;
+    /* 再驗一次：點擊座標要真的落在這個單字的框裡（容差 3px），避免點空白處誤唸鄰近字 */
+    try {
+      const rg = document.createRange();
+      rg.setStart(node, s); rg.setEnd(node, e);
+      let inside = false;
+      const rects = rg.getClientRects();
+      for (let i = 0; i < rects.length; i++) {
+        const rc = rects[i];
+        if (x >= rc.left - 3 && x <= rc.right + 3 && y >= rc.top - 3 && y <= rc.bottom + 3) { inside = true; break; }
+      }
+      if (!inside) return null;
+    } catch (err) { return null; }
+    const w = text.slice(s, e).replace(/^['’-]+|['’-]+$/g, '');
+    if (!/[A-Za-z]/.test(w) || w.length > 30) return null;
+    return w;
+  }
+
+  /* 單字中譯：Google 免費端點＋localStorage 快取（無金鑰、離線時氣泡只顯示單字） */
+  const WCACHE_KEY = 'mbe_word_zh';
+  let wcache = {};
+  try { wcache = JSON.parse(localStorage.getItem(WCACHE_KEY) || '{}'); } catch (e) { wcache = {}; }
+  function saveWordCache() {
+    try {
+      const ks = Object.keys(wcache);
+      if (ks.length > 800) ks.slice(0, ks.length - 800).forEach(k => delete wcache[k]);
+      localStorage.setItem(WCACHE_KEY, JSON.stringify(wcache));
+    } catch (e) {}
+  }
+  function translateWord(word) {
+    const key = word.toLowerCase();
+    if (wcache[key]) return Promise.resolve(wcache[key]);
+    const url = 'https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=zh-TW&dt=t&q=' + encodeURIComponent(word);
+    return fetch(url)
+      .then(r => r.json())
+      .then(d => {
+        const zh = d && d[0] && d[0][0] && d[0][0][0] ? String(d[0][0][0]).trim() : '';
+        if (zh && zh.toLowerCase() !== key) { wcache[key] = zh; saveWordCache(); return zh; }
+        return '';
+      })
+      .catch(() => '');
+  }
+
+  let wordBubble = null, wordBubbleTimer = null;
+  function fadeBubble(b, delay) {
+    clearTimeout(wordBubbleTimer);
+    wordBubbleTimer = setTimeout(() => {
+      b.classList.add('fade');
+      setTimeout(() => { if (wordBubble === b) { b.remove(); wordBubble = null; } }, 350);
+    }, delay);
+  }
+  function showWordBubble(word, x, y) {
+    if (wordBubble) wordBubble.remove();
+    clearTimeout(wordBubbleTimer);
+    const b = document.createElement('div');
+    b.className = 'mbe-word-bubble';
+    b.innerHTML = '<svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon><path d="M15.5 8.5a5 5 0 0 1 0 7"></path><path d="M18.5 5.5a9 9 0 0 1 0 13"></path></svg><span class="mbe-word-w"></span><span class="mbe-word-zh"></span>';
+    b.querySelector('.mbe-word-w').textContent = word;
+    b.style.left = Math.min(Math.max(x, 50), window.innerWidth - 50) + 'px';
+    b.style.top = Math.max(y, 44) + 'px';
+    /* 點氣泡＝再唸一次 */
+    b.addEventListener('click', e => { e.stopPropagation(); speak(word, 0.8); });
+    document.body.appendChild(b);
+    wordBubble = b;
+    fadeBubble(b, 2000);
+    translateWord(word).then(zh => {
+      if (!zh || wordBubble !== b) return;
+      b.querySelector('.mbe-word-zh').textContent = zh;
+      b.classList.remove('fade');
+      fadeBubble(b, 2600); /* 翻譯到了，多留一點時間看 */
+    });
+  }
+
+  document.addEventListener('click', ev => {
+    const t = ev.target;
+    if (!t || !t.closest) return;
+    if (t.closest('button, a, input, select, textarea, label, .mbe-lang-toggle, .mbe-word-bubble')) return;
+    const sel = window.getSelection();
+    if (sel && sel.type === 'Range') return; /* 使用者在選取文字，不搶 */
+    const w = wordFromPoint(ev.clientX, ev.clientY, t);
+    if (!w) return;
+    speak(w, 0.8);
+    showWordBubble(w, ev.clientX, ev.clientY);
+  });
+
   /* ---------- 語音辨識（跟讀評分） ---------- */
   const SR = window.SpeechRecognition || window.webkitSpeechRecognition;
   function makeRecognizer(onFinal, onEnd) {
