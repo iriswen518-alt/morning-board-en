@@ -7,13 +7,16 @@
   const DICT = (window.MBE_DICT || {});
   const processed = new WeakSet();
 
-  /* ---------- 語言模式：both=中英對照 / en=全英文 ---------- */
+  /* ---------- 語言模式：both=中英對照 / en=全英文 / zh=純中文 ---------- */
   const MODE = (function () {
-    /* 2026-08-06 起預設全英文：沒設定過就是 'en'，按過切換鈕存 'both' 才回中英對照 */
-    try { return localStorage.getItem('mbe_mode') === 'both' ? 'both' : 'en'; }
-    catch (e) { return 'both'; }
+    /* 2026-08-06 起預設全英文：沒設定過就是 'en'，存過 'both'/'zh' 才是對照或純中文 */
+    try {
+      const m = localStorage.getItem('mbe_mode');
+      return (m === 'both' || m === 'zh') ? m : 'en';
+    } catch (e) { return 'both'; }
   })();
   const EN_ONLY = MODE === 'en';
+  const ZH_ONLY = MODE === 'zh';
   /* 全英文專用：標籤+數值黏在同一文字節點（字典無法整段命中）時，改用前綴替換 */
   const EN_PREFIX = [
     ['上次更新：', 'Last Updated: '],
@@ -27,6 +30,30 @@
     document.documentElement.lang = 'en';
     document.documentElement.setAttribute('data-mbe-mode', 'en');
   }
+  if (ZH_ONLY) document.documentElement.setAttribute('data-mbe-mode', 'zh');
+
+  /* ---------- 連按三下：純英文 ↔ 純中文 ----------
+     螢幕任意處快速點三下（表單控件/連結除外）就在兩個純語言版之間切換；
+     中英對照模式按三下先進純英文。切回對照仍走右上角切換鈕。 */
+  function setMode(next) {
+    try { localStorage.setItem('mbe_mode', next); } catch (e) {}
+    const toast = document.createElement('div');
+    toast.className = 'mbe-mode-toast';
+    toast.textContent = next === 'zh' ? '切換純中文' : 'English Only';
+    document.body.appendChild(toast);
+    setTimeout(() => location.reload(), 450);
+  }
+  let tapN = 0, tapTimer = null, tapX = 0, tapY = 0;
+  document.addEventListener('click', ev => {
+    const t = ev.target;
+    if (t && t.closest && t.closest('button, a, input, select, textarea, label')) { tapN = 0; return; }
+    if (tapN && (Math.abs(ev.clientX - tapX) > 60 || Math.abs(ev.clientY - tapY) > 60)) tapN = 0;
+    tapX = ev.clientX; tapY = ev.clientY;
+    tapN++;
+    clearTimeout(tapTimer);
+    if (tapN >= 3) { tapN = 0; setMode(EN_ONLY ? 'zh' : 'en'); return; }
+    tapTimer = setTimeout(() => { tapN = 0; }, 500);
+  });
 
   /* ---------- 中英對照：文字節點 ---------- */
   function translateNode(node) {
@@ -406,6 +433,7 @@
 
   function start() {
     mountToggle();
+    if (ZH_ONLY) return; /* 純中文＝原站原樣，不補英文、不加新聞英文區塊 */
     translatePage();
     mo.observe(document.body, { childList: true, subtree: true });
   }
