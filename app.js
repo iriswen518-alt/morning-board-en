@@ -6490,18 +6490,25 @@ function cnyesCatSection(label, inner, open) {
 // 單則全文（站內直接顯示，不外連）：逐段中英對照，一段一組（英文在上、中文在下），
 // 方便對照學英文；全英文模式只出英文（缺英文退回中文）。
 function cnyesItemBody(it) {
-  const enOnly = (() => {
-    try { return localStorage.getItem("mbe_mode") !== "both"; } catch (_) { return true; }
+  // mbe_mode 三值：both=中英對照 / zh=純中文 / 其餘=全英文
+  const mbeMode = (() => {
+    try {
+      const m = localStorage.getItem("mbe_mode");
+      return (m === "both" || m === "zh") ? m : "en";
+    } catch (_) { return "en"; }
   })();
   const zh = it.paras || [];
   const en = it.paras_en || [];
   const zhP = (t) => `<p>${escapeHtml(t)}</p>`;
   const enP = (t) => `<p class="cnyes-en">${escapeHtml(t)}</p>`;
   let paras;
-  if (enOnly && en.length) {
+  if (mbeMode === "en" && en.length) {
     paras = en.map(enP).join("");
+  } else if (mbeMode === "zh" || !en.length) {
+    // 純中文（或缺英文退回中文）：只出中文段
+    paras = zh.map(zhP).join("");
   } else {
-    // 段數不一致時仍以索引配對，多出來的段落單獨成組
+    // 中英對照：段數不一致時仍以索引配對，多出來的段落單獨成組
     const n = Math.max(zh.length, en.length);
     paras = "";
     for (let i = 0; i < n; i++) {
@@ -6509,7 +6516,7 @@ function cnyesItemBody(it) {
       paras += `<div class="cnyes-pair">${pair}</div>`;
     }
   }
-  const enTitle = !enOnly && it.title_en
+  const enTitle = mbeMode === "both" && it.title_en
     ? `<p class="cnyes-en cnyes-en-title">${escapeHtml(it.title_en)}</p>` : "";
   return `<div class="news-body">${enTitle}${paras}</div>`;
 }
@@ -6517,7 +6524,10 @@ function cnyesItemBody(it) {
 function renderCnyesNews() {
   const cn = DATA.cnyes_news || {};
   const enOnly = (() => {
-    try { return localStorage.getItem("mbe_mode") !== "both"; } catch (_) { return true; }
+    try {
+      const m = localStorage.getItem("mbe_mode");
+      return m !== "both" && m !== "zh";
+    } catch (_) { return true; }
   })();
   const cats = (cn.categories || []).filter(c => (c.items || []).some(it => it.title && (it.paras || []).length));
   if (!cats.length) {
