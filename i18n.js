@@ -32,10 +32,74 @@
   }
   if (ZH_ONLY) document.documentElement.setAttribute('data-mbe-mode', 'zh');
 
+  /* ---------- 換語言保留展開狀態 ----------
+     切語言＝location.reload()，重繪後所有 details 折疊區會回到預設收合。
+     reload 前先把每個 details 的開合快照進 sessionStorage（一次性），
+     重繪後用 interval 輪詢還原（app.js 各分頁是非同步渲染，元素會陸續出現）。
+     鍵的設計要跨語言穩定：不能用標題文字（中英模式文字不同），
+     改用 data-key / data-asec-acc / 所屬容器內序號。 */
+  const SNAP_KEY = 'mbe_open_snap';
+  function detailsSnapKey(d, gi) {
+    if (d.dataset.asecAcc) return 'acc:' + d.dataset.asecAcc;
+    if (d.dataset.key) return 'key:' + d.dataset.key;
+    const anc = d.parentElement && d.parentElement.closest('details[data-key], details[data-asec-acc]');
+    if (anc) {
+      const ak = anc.dataset.key || ('acc:' + anc.dataset.asecAcc);
+      const idx = Array.prototype.indexOf.call(anc.querySelectorAll('details'), d);
+      return 'in:' + ak + ':' + idx;
+    }
+    return 'gi:' + gi;
+  }
+  function snapshotOpenState() {
+    try {
+      const snap = {};
+      document.querySelectorAll('details').forEach((d, gi) => {
+        snap[detailsSnapKey(d, gi)] = d.open ? 1 : 0;
+      });
+      sessionStorage.setItem(SNAP_KEY, JSON.stringify(snap));
+    } catch (e) {}
+  }
+  function restoreOpenState() {
+    let snap = null;
+    try {
+      snap = JSON.parse(sessionStorage.getItem(SNAP_KEY) || 'null');
+      sessionStorage.removeItem(SNAP_KEY);
+    } catch (e) {}
+    if (!snap) return;
+    const keys = Object.keys(snap);
+    if (!keys.length) return;
+    const done = new Set();
+    const deadline = Date.now() + 10000;
+    let timer = null;
+    function apply() {
+      const all = document.querySelectorAll('details');
+      for (let gi = 0; gi < all.length; gi++) {
+        const d = all[gi];
+        const k = detailsSnapKey(d, gi);
+        if (done.has(k) || !(k in snap)) continue;
+        const want = !!snap[k];
+        if (k.indexOf('acc:') === 0 && want && !d.open) {
+          /* 資產配置折疊區：內容要透過 summary 點擊才會渲染（rerenderAlloc），
+             直接設 open 只會開出空殼。點擊會同步重繪整個分頁，剩下的下一輪再處理 */
+          const s = d.querySelector('summary');
+          done.add(k);
+          if (s) { s.click(); return; }
+          continue;
+        }
+        if (d.open !== want) d.open = want;
+        done.add(k);
+      }
+      if (done.size >= keys.length || Date.now() > deadline) clearInterval(timer);
+    }
+    timer = setInterval(apply, 300);
+    apply();
+  }
+
   /* ---------- 右下角浮動鈕：純英文 ↔ 純中文 ----------
      位置沿用原「理財聊聊」FAB；顯示的是「按下去會切到」的語言。
      中英對照模式按下先進純英文；切回對照仍走右上角切換鈕。 */
   function setMode(next) {
+    snapshotOpenState();
     try { localStorage.setItem('mbe_mode', next); } catch (e) {}
     const toast = document.createElement('div');
     toast.className = 'mbe-mode-toast';
@@ -418,6 +482,7 @@
     btn.innerHTML = globe + '<span>' + (EN_ONLY ? 'Bilingual' : 'English') + '</span>';
     btn.setAttribute('aria-label', EN_ONLY ? 'Switch to bilingual view' : '切換全英文版');
     btn.addEventListener('click', () => {
+      snapshotOpenState();
       try { localStorage.setItem('mbe_mode', EN_ONLY ? 'both' : 'en'); } catch (e) {}
       location.reload();
     });
@@ -434,6 +499,7 @@
   function start() {
     mountToggle();
     mountLangFab();
+    restoreOpenState(); /* 換語言 reload 後還原展開狀態（三種模式都要） */
     if (ZH_ONLY) return; /* 純中文＝原站原樣，不補英文、不加新聞英文區塊 */
     translatePage();
     mo.observe(document.body, { childList: true, subtree: true });
