@@ -1,185 +1,170 @@
 {
- "date": "2026-08-07",
+ "date": "2026-08-08",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"high-level consolidation\" mean?",
+   "question": "In the summary, what does the word \"bucked\" mean?",
    "options": [
-    "Prices are staying roughly the same after a big move",
-    "Prices are rising quickly",
-    "Prices are falling sharply",
-    "Prices are fluctuating wildly"
+    "Closed at a record high",
+    "Stayed unchanged",
+    "Dropped sharply in price",
+    "Moved in the opposite direction of the overall trend"
    ],
-   "answer": 0,
-   "explain_en": "It means the market is moving sideways after a strong previous rise, with little change in price levels.",
-   "explain_zh": "指的是在大幅上漲之後，市場價格大致持平，變動不大。",
-   "news_title_en": "TSMC drags TAIEX lower as thousand-dollar stocks shine",
-   "id": "2026-08-07-00"
+   "answer": 3,
+   "explain_en": "Here \"bucked the trend\" means TSMC moved opposite to the market’s decline.",
+   "explain_zh": "「bucked」在文中指的是台積電的走勢與大盤相反，走高。",
+   "news_title_en": "TAIEX reverses lower and loses its quarterly line on thin volume",
+   "id": "2026-08-08-00"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what happened to the TAIEX on August 6?",
+   "question": "By how many points did the TAIEX index swing during the day?",
    "options": [
-    "It stayed unchanged",
-    "It rose by 40 points",
-    "It rose by 214 points",
-    "It fell by 214 points"
+    "170.79 points",
+    "819 points",
+    "885 points",
+    "404 points"
    ],
-   "answer": 3,
-   "explain_en": "The summary states that TSMC closed down NT$40, pulling the TAIEX 214 points lower.",
-   "explain_zh": "摘要說台積電收跌40元，導致台指跌了214點。",
-   "news_title_en": "TSMC drags TAIEX lower as thousand-dollar stocks shine",
-   "id": "2026-08-07-01"
+   "answer": 2,
+   "explain_en": "The summary states the index swung 885 points on the day.",
+   "explain_zh": "摘要中說明指數當天波動了 885 點。",
+   "news_title_en": "TAIEX reverses lower and loses its quarterly line on thin volume",
+   "id": "2026-08-08-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"upcycle\" mean?",
+   "question": "In the text, what does the word \"pull‑in\" mean?",
    "options": [
-    "A decrease in the quality of a product over time",
-    "A method of reducing production costs",
-    "A process of recycling old materials into new ones",
-    "A rise in demand that leads to higher prices for a product"
+    "to pull something physically",
+    "to delay a project",
+    "to increase the price",
+    "to attract or bring in customers"
    ],
    "answer": 3,
-   "explain_en": "Here \"upcycle\" refers to an upward trend in the market that increases demand and prices for AI‑driven memory.",
-   "explain_zh": "在此文中「upcycle」指的是 AI 記憶體需求上升，導致需求與價格提升的趨勢。",
-   "news_title_en": "Nanya lifts 2026 capex 34% to NT$69.7bn for 5A fab",
-   "id": "2026-08-07-02"
+   "explain_en": "\"Pull‑in\" here means attracting or bringing in demand, such as AI‑server shipments.",
+   "explain_zh": "「pull‑in」在文中指的是吸引或帶來需求，例如 AI 伺服器的出貨。",
+   "news_title_en": "Hon Hai's July revenue tops NT$946.5bn record on AI-server pull-in",
+   "id": "2026-08-08-02"
   },
   {
    "type": "comprehension",
-   "question": "What is the new 2026 capex ceiling that Nanya Technology set?",
+   "question": "What was Hon Hai's July revenue according to the summary?",
    "options": [
-    "35,900 wafers per month",
-    "NT$346.6 billion",
-    "NT$52 billion",
-    "NT$69.7 billion"
-   ],
-   "answer": 3,
-   "explain_en": "The board raised the 2026 capex ceiling to NT$69.7 bn, up from NT$52 bn.",
-   "explain_zh": "董事會將 2026 年資本支出上限提升至新台幣 697 億元，原本是 520 億元。",
-   "news_title_en": "Nanya lifts 2026 capex 34% to NT$69.7bn for 5A fab",
-   "id": "2026-08-07-03"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the word \"pre‑tax\" mean in the sentence \"Banks alone posted pre‑tax profit of NT$400.2bn\"?",
-   "options": [
-    "Profit earned before any taxes are deducted",
-    "Profit that comes from tax refunds",
-    "Profit after all taxes have been paid",
-    "Profit that is taxed at a lower rate"
-   ],
-   "answer": 0,
-   "explain_en": "The term \"pre‑tax\" refers to profit calculated before any tax expenses are subtracted.",
-   "explain_zh": "「pre‑tax」指的是在扣除稅金之前的盈餘。",
-   "news_title_en": "Financial trio earns record NT$904.2bn in H1 2026",
-   "id": "2026-08-07-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "By how much did the combined earnings of Taiwan's financial firms increase year‑on‑year in the first half of 2026?",
-   "options": [
-    "200 percent",
-    "139 percent",
-    "50 percent",
-    "100 percent"
+    "about NT$846.5bn",
+    "about NT$946.5bn",
+    "about NT$746.5bn",
+    "about NT$1.046tn"
    ],
    "answer": 1,
-   "explain_en": "The summary states the earnings were up 139% year on year.",
-   "explain_zh": "摘要中說收益較去年同期增長了 139%。",
-   "news_title_en": "Financial trio earns record NT$904.2bn in H1 2026",
-   "id": "2026-08-07-05"
+   "explain_en": "The summary states the July revenue was about NT$946.5bn, a record.",
+   "explain_zh": "摘要中說明七月營收約為新台幣 9465 億元，創下新高。",
+   "news_title_en": "Hon Hai's July revenue tops NT$946.5bn record on AI-server pull-in",
+   "id": "2026-08-08-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"hub\" mean?",
+   "question": "In the summary, what does the word \"solvency\" mean?",
    "options": [
-    "A government agency",
-    "A type of financial instrument",
-    "A central place where many related activities happen",
-    "A small island"
+    "The level of customer satisfaction",
+    "The speed at which a market transaction occurs",
+    "The ability to pay debts and meet financial obligations",
+    "The amount of profit a company makes"
    ],
    "answer": 2,
-   "explain_en": "Here \"hub\" refers to a central location that attracts many asset‑management activities.",
-   "explain_zh": "這裡的「hub」指的是一個聚集許多資產管理活動的中心位置。",
-   "news_title_en": "Taiwan's asset-management hub push hits AUM target early",
-   "id": "2026-08-07-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "By the end of 2025, what achievement had Taiwan's assets under management reached?",
-   "options": [
-    "They stopped growing altogether",
-    "They doubled the target amount",
-    "They fell short of the target",
-    "They met the two‑year policy target early"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that Taiwan's AUM reached its two‑year policy target ahead of schedule by the end of 2025.",
-   "explain_zh": "摘要中說明，台灣的資產管理規模在2025年底提前達成了兩年政策目標。",
-   "news_title_en": "Taiwan's asset-management hub push hits AUM target early",
-   "id": "2026-08-07-07"
+   "explain_en": "Solvency refers to an insurer's ability to meet its long‑term financial obligations and pay claims.",
+   "explain_zh": "「solvency」指的是保險公司能否長期償付債務、支付理賠的能力。",
+   "news_title_en": "FSC eases monthly-revenue timeline as insurers adopt IFRS 17 and ICS",
+   "id": "2026-08-08-04"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word “exemption” mean?",
+   "question": "In the summary, what does the phrase \"ex-dividend\" mean?",
    "options": [
-    "A type of investment account",
-    "A penalty for late filing",
-    "An amount of income that is not taxed",
-    "A bonus paid by the government"
-   ],
-   "answer": 2,
-   "explain_en": "An exemption is a portion of income that is excluded from tax calculation, so it is not taxed.",
-   "explain_zh": "「免稅額」指的是收入中不需要繳稅的那一部分，亦即不計入課稅。",
-   "news_title_en": "2026 income-tax thresholds raised, long-term-care deduction lifted",
-   "id": "2026-08-07-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the personal exemption amount for the 2026 tax year in Taiwan?",
-   "options": [
-    "NT$97,000",
-    "NT$227,000",
-    "NT$101,000",
-    "NT$136,000"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the personal exemption is raised to NT$101,000 for 2026.",
-   "explain_zh": "摘要中說明，2026 年的個人免稅額提升至新台幣 101,000 元。",
-   "news_title_en": "2026 income-tax thresholds raised, long-term-care deduction lifted",
-   "id": "2026-08-07-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"front-loaded\" mean?",
-   "options": [
-    "Reduced gradually",
-    "Spread evenly over time",
-    "Concentrated at the beginning",
-    "Delayed until the end"
-   ],
-   "answer": 2,
-   "explain_en": "\"Front-loaded\" means that most of the growth is expected early in the period, not later.",
-   "explain_zh": "「front-loaded」表示大部分成長會在期間的前半段出現，而不是之後。",
-   "news_title_en": "Taiwan 2026 growth seen at 7.22% on AI-led exports",
-   "id": "2026-08-07-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the estimated full-year CPI for Taiwan in 2026?",
-   "options": [
-    "2.10%",
-    "1.98%",
-    "1.50%",
-    "2.50%"
+    "The date when a company announces a new dividend amount",
+    "The date when a stock or ETF stops paying a dividend to new buyers",
+    "The date when a dividend is actually paid to shareholders",
+    "The date when a dividend is taxed by the government"
    ],
    "answer": 1,
-   "explain_en": "The summary states the full-year consumer price index is estimated near 1.98%.",
-   "explain_zh": "摘要中提到全年消費者物價指數約為 1.98%。",
-   "news_title_en": "Taiwan 2026 growth seen at 7.22% on AI-led exports",
-   "id": "2026-08-07-11"
+   "explain_en": "Ex-dividend is the cutoff date; investors who buy after that date do not receive the upcoming dividend.",
+   "explain_zh": "除息日是截止日，之後買進的投資人不會收到本次的股息。",
+   "news_title_en": "August ETF dividend season heats up as 00878 pays a record NT$1.01",
+   "id": "2026-08-08-05"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much dividend per unit did Cathay Sustainability High Dividend (00878) declare for August?",
+   "options": [
+    "NT$1.50",
+    "NT$1.01",
+    "NT$0.78",
+    "NT$0.50"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that the fund declared a record dividend of NT$1.01 per unit.",
+   "explain_zh": "摘要中說明該基金宣佈每單位派發新台幣 1.01 元的股息。",
+   "news_title_en": "August ETF dividend season heats up as 00878 pays a record NT$1.01",
+   "id": "2026-08-08-06"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"succession\" mean?",
+   "options": [
+    "Passing on assets to heirs",
+    "A type of tax form",
+    "A legal penalty",
+    "A financial market index"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"succession\" refers to the process of passing wealth or assets to the next generation.",
+   "explain_zh": "這裡的「succession」指的是把財產傳給下一代的過程。",
+   "news_title_en": "2026 gift-tax exemption holds at NT$2.44m, keeping phased gifting key",
+   "id": "2026-08-08-07"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the annual gift‑tax exemption amount in Taiwan for 2026?",
+   "options": [
+    "NT$3.50 million",
+    "NT$2.44 million",
+    "NT$5.00 million",
+    "NT$1.00 million"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the exemption stays at NT$2.44 million per donor for 2026.",
+   "explain_zh": "摘要中說明2026年的年度贈與稅免稅額仍為新台幣 244 萬元。",
+   "news_title_en": "2026 gift-tax exemption holds at NT$2.44m, keeping phased gifting key",
+   "id": "2026-08-08-08"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"momentum\" mean?",
+   "options": [
+    "A sudden drop in price",
+    "A government policy",
+    "A type of financial report",
+    "A strong and continuing force that keeps something moving forward"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"momentum\" refers to the ongoing strength of AI‑driven exports that keeps growth moving forward.",
+   "explain_zh": "在此句中「momentum」指的是 AI 相關出口持續帶動成長的動能。",
+   "news_title_en": "Central bank sees H2 growth cooling to 2.51% with mild inflation",
+   "id": "2026-08-08-09"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the central bank's forecast for Taiwan's CPI in 2026?",
+   "options": [
+    "2.51%",
+    "4.55%",
+    "1.90%",
+    "1.91%"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the bank nudged its 2026 CPI forecast to 1.91%. The 1.90% figure is for core CPI, not the overall CPI.",
+   "explain_zh": "摘要中提到央行將 2026 年的 CPI 預測調整為 1.91%。1.90% 是核心 CPI 的數字。",
+   "news_title_en": "Central bank sees H2 growth cooling to 2.51% with mild inflation",
+   "id": "2026-08-08-10"
   }
  ]
 }
