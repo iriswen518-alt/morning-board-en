@@ -1,170 +1,125 @@
 {
- "date": "2026-08-08",
+ "date": "2026-08-10",
  "questions": [
   {
    "type": "vocab",
    "question": "In the summary, what does the word \"bucked\" mean?",
    "options": [
-    "Closed at a record high",
-    "Stayed unchanged",
-    "Dropped sharply in price",
+    "Lost value quickly",
+    "Reached a new high price",
+    "Stopped trading for the day",
     "Moved in the opposite direction of the overall trend"
    ],
    "answer": 3,
-   "explain_en": "Here \"bucked the trend\" means TSMC moved opposite to the market’s decline.",
-   "explain_zh": "「bucked」在文中指的是台積電的走勢與大盤相反，走高。",
-   "news_title_en": "TAIEX reverses lower and loses its quarterly line on thin volume",
-   "id": "2026-08-08-00"
+   "explain_en": "Here \"bucked the softness\" means TSMC moved opposite to the market's decline.",
+   "explain_zh": "「bucked」在文中指的是台積電的走勢與整體市場的下跌相反。",
+   "news_title_en": "Taiex falls 170 points below quarterly line as TSMC holds NT$2,370",
+   "id": "2026-08-10-00"
   },
   {
    "type": "comprehension",
-   "question": "By how many points did the TAIEX index swing during the day?",
+   "question": "By how many points did the Taiex index fall on Friday, Aug 7?",
    "options": [
-    "170.79 points",
-    "819 points",
-    "885 points",
-    "404 points"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the index swung 885 points on the day.",
-   "explain_zh": "摘要中說明指數當天波動了 885 點。",
-   "news_title_en": "TAIEX reverses lower and loses its quarterly line on thin volume",
-   "id": "2026-08-08-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"pull‑in\" mean?",
-   "options": [
-    "to pull something physically",
-    "to delay a project",
-    "to increase the price",
-    "to attract or bring in customers"
+    "200 points",
+    "120.5 points",
+    "150 points",
+    "170.79 points"
    ],
    "answer": 3,
-   "explain_en": "\"Pull‑in\" here means attracting or bringing in demand, such as AI‑server shipments.",
-   "explain_zh": "「pull‑in」在文中指的是吸引或帶來需求，例如 AI 伺服器的出貨。",
-   "news_title_en": "Hon Hai's July revenue tops NT$946.5bn record on AI-server pull-in",
-   "id": "2026-08-08-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was Hon Hai's July revenue according to the summary?",
-   "options": [
-    "about NT$846.5bn",
-    "about NT$946.5bn",
-    "about NT$746.5bn",
-    "about NT$1.046tn"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the July revenue was about NT$946.5bn, a record.",
-   "explain_zh": "摘要中說明七月營收約為新台幣 9465 億元，創下新高。",
-   "news_title_en": "Hon Hai's July revenue tops NT$946.5bn record on AI-server pull-in",
-   "id": "2026-08-08-03"
+   "explain_en": "The summary states the index shed 170.79 points on that day.",
+   "explain_zh": "摘要中說明指數在當天下跌了 170.79 點。",
+   "news_title_en": "Taiex falls 170 points below quarterly line as TSMC holds NT$2,370",
+   "id": "2026-08-10-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"solvency\" mean?",
+   "question": "What does the word \"compound\" mean in the phrase \"compound annual growth rate\" as used in the text?",
    "options": [
-    "The level of customer satisfaction",
-    "The speed at which a market transaction occurs",
-    "The ability to pay debts and meet financial obligations",
-    "The amount of profit a company makes"
+    "A type of financial loan",
+    "A chemical substance",
+    "A single-year increase",
+    "Combined over several years"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"compound\" means the growth is calculated by combining the growth each year over multiple years.",
+   "explain_zh": "這裡的 \"compound\" 指的是把每年的成長加總起來，算出多年的總增長率。",
+   "news_title_en": "TSMC raises 2026 outlook as AI revenue CAGR nears 60%",
+   "id": "2026-08-10-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "What percentage of TSMC's total wafer revenue comes from advanced-node sales according to the summary?",
+   "options": [
+    "60%",
+    "90%",
+    "30%",
+    "74%"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that advanced-node sales now account for 74% of total wafer revenue.",
+   "explain_zh": "摘要中說明先進製程的銷售佔晶圓總收入的 74%。",
+   "news_title_en": "TSMC raises 2026 outlook as AI revenue CAGR nears 60%",
+   "id": "2026-08-10-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"consolidating\" mean?",
+   "options": [
+    "Ignoring the data",
+    "Separating different parts",
+    "Combining several things into one",
+    "Delaying the report"
    ],
    "answer": 2,
-   "explain_en": "Solvency refers to an insurer's ability to meet its long‑term financial obligations and pay claims.",
-   "explain_zh": "「solvency」指的是保險公司能否長期償付債務、支付理賠的能力。",
-   "news_title_en": "FSC eases monthly-revenue timeline as insurers adopt IFRS 17 and ICS",
-   "id": "2026-08-08-04"
+   "explain_en": "Here \"consolidating\" means bringing together the insurance results into a single set of numbers.",
+   "explain_zh": "在此處「consolidating」指的是把保險結果合併成一套數字。",
+   "news_title_en": "Insurance-holding financials get later earnings-disclosure deadline",
+   "id": "2026-08-10-04"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"ex-dividend\" mean?",
+   "question": "In the summary, what does the word \"assets\" mean?",
    "options": [
-    "The date when a company announces a new dividend amount",
-    "The date when a stock or ETF stops paying a dividend to new buyers",
-    "The date when a dividend is actually paid to shareholders",
-    "The date when a dividend is taxed by the government"
+    "A financial report",
+    "Money or property owned by someone",
+    "A government regulation",
+    "A type of stock market index"
    ],
    "answer": 1,
-   "explain_en": "Ex-dividend is the cutoff date; investors who buy after that date do not receive the upcoming dividend.",
-   "explain_zh": "除息日是截止日，之後買進的投資人不會收到本次的股息。",
-   "news_title_en": "August ETF dividend season heats up as 00878 pays a record NT$1.01",
-   "id": "2026-08-08-05"
+   "explain_en": "Here \"assets\" refers to the money or property that the asset‑management center is handling for its clients.",
+   "explain_zh": "此處的「assets」指的是資產管理中心為客戶管理的金錢或財產。",
+   "news_title_en": "Asset-management-hub push hits two-year AUM target early",
+   "id": "2026-08-10-05"
   },
   {
    "type": "comprehension",
-   "question": "How much dividend per unit did Cathay Sustainability High Dividend (00878) declare for August?",
+   "question": "By when did the Asian Asset Management Center reach its two‑year AUM target?",
    "options": [
-    "NT$1.50",
-    "NT$1.01",
-    "NT$0.78",
-    "NT$0.50"
+    "End of 2026",
+    "Mid 2025",
+    "End of 2024",
+    "End of 2025"
    ],
-   "answer": 1,
-   "explain_en": "The summary states that the fund declared a record dividend of NT$1.01 per unit.",
-   "explain_zh": "摘要中說明該基金宣佈每單位派發新台幣 1.01 元的股息。",
-   "news_title_en": "August ETF dividend season heats up as 00878 pays a record NT$1.01",
-   "id": "2026-08-08-06"
+   "answer": 3,
+   "explain_en": "The summary says the target was reached ahead of schedule by the end of 2025.",
+   "explain_zh": "摘要指出，該中心在2025年底前已提前達成兩年資產管理目標。",
+   "news_title_en": "Asset-management-hub push hits two-year AUM target early",
+   "id": "2026-08-10-06"
   },
   {
-   "type": "vocab",
-   "question": "In the text, what does the word \"succession\" mean?",
+   "type": "comprehension",
+   "question": "Why did Taiwan keep the estate and gift tax exemptions unchanged for 2026?",
    "options": [
-    "Passing on assets to heirs",
-    "A type of tax form",
-    "A legal penalty",
-    "A financial market index"
+    "The CPI change since 2022 was less than 10%",
+    "The government decided to raise taxes",
+    "The gift‑tax exemption was increased",
+    "The tax brackets were narrowed"
    ],
    "answer": 0,
-   "explain_en": "Here \"succession\" refers to the process of passing wealth or assets to the next generation.",
-   "explain_zh": "這裡的「succession」指的是把財產傳給下一代的過程。",
-   "news_title_en": "2026 gift-tax exemption holds at NT$2.44m, keeping phased gifting key",
-   "id": "2026-08-08-07"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the annual gift‑tax exemption amount in Taiwan for 2026?",
-   "options": [
-    "NT$3.50 million",
-    "NT$2.44 million",
-    "NT$5.00 million",
-    "NT$1.00 million"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the exemption stays at NT$2.44 million per donor for 2026.",
-   "explain_zh": "摘要中說明2026年的年度贈與稅免稅額仍為新台幣 244 萬元。",
-   "news_title_en": "2026 gift-tax exemption holds at NT$2.44m, keeping phased gifting key",
-   "id": "2026-08-08-08"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"momentum\" mean?",
-   "options": [
-    "A sudden drop in price",
-    "A government policy",
-    "A type of financial report",
-    "A strong and continuing force that keeps something moving forward"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"momentum\" refers to the ongoing strength of AI‑driven exports that keeps growth moving forward.",
-   "explain_zh": "在此句中「momentum」指的是 AI 相關出口持續帶動成長的動能。",
-   "news_title_en": "Central bank sees H2 growth cooling to 2.51% with mild inflation",
-   "id": "2026-08-08-09"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the central bank's forecast for Taiwan's CPI in 2026?",
-   "options": [
-    "2.51%",
-    "4.55%",
-    "1.90%",
-    "1.91%"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the bank nudged its 2026 CPI forecast to 1.91%. The 1.90% figure is for core CPI, not the overall CPI.",
-   "explain_zh": "摘要中提到央行將 2026 年的 CPI 預測調整為 1.91%。1.90% 是核心 CPI 的數字。",
-   "news_title_en": "Central bank sees H2 growth cooling to 2.51% with mild inflation",
-   "id": "2026-08-08-10"
+   "explain_en": "The summary states that the cumulative CPI change did not reach the 10% trigger, so the exemptions stayed flat.",
+   "explain_zh": "摘要說累計的 CPI 變動未達到 10% 的門檻，因此免稅額保持不變。",
+   "news_title_en": "Estate and gift tax exemptions unchanged for 2026 as brackets widen",
+   "id": "2026-08-10-07"
   }
  ]
 }
