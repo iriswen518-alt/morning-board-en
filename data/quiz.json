@@ -1,125 +1,185 @@
 {
- "date": "2026-08-10",
+ "date": "2026-08-11",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"bucked\" mean?",
+   "question": "In the summary, what does the phrase \"limit‑up\" mean?",
    "options": [
-    "Lost value quickly",
-    "Reached a new high price",
-    "Stopped trading for the day",
-    "Moved in the opposite direction of the overall trend"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"bucked the softness\" means TSMC moved opposite to the market's decline.",
-   "explain_zh": "「bucked」在文中指的是台積電的走勢與整體市場的下跌相反。",
-   "news_title_en": "Taiex falls 170 points below quarterly line as TSMC holds NT$2,370",
-   "id": "2026-08-10-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "By how many points did the Taiex index fall on Friday, Aug 7?",
-   "options": [
-    "200 points",
-    "120.5 points",
-    "150 points",
-    "170.79 points"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the index shed 170.79 points on that day.",
-   "explain_zh": "摘要中說明指數在當天下跌了 170.79 點。",
-   "news_title_en": "Taiex falls 170 points below quarterly line as TSMC holds NT$2,370",
-   "id": "2026-08-10-01"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the word \"compound\" mean in the phrase \"compound annual growth rate\" as used in the text?",
-   "options": [
-    "A type of financial loan",
-    "A chemical substance",
-    "A single-year increase",
-    "Combined over several years"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"compound\" means the growth is calculated by combining the growth each year over multiple years.",
-   "explain_zh": "這裡的 \"compound\" 指的是把每年的成長加總起來，算出多年的總增長率。",
-   "news_title_en": "TSMC raises 2026 outlook as AI revenue CAGR nears 60%",
-   "id": "2026-08-10-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "What percentage of TSMC's total wafer revenue comes from advanced-node sales according to the summary?",
-   "options": [
-    "60%",
-    "90%",
-    "30%",
-    "74%"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that advanced-node sales now account for 74% of total wafer revenue.",
-   "explain_zh": "摘要中說明先進製程的銷售佔晶圓總收入的 74%。",
-   "news_title_en": "TSMC raises 2026 outlook as AI revenue CAGR nears 60%",
-   "id": "2026-08-10-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"consolidating\" mean?",
-   "options": [
-    "Ignoring the data",
-    "Separating different parts",
-    "Combining several things into one",
-    "Delaying the report"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"consolidating\" means bringing together the insurance results into a single set of numbers.",
-   "explain_zh": "在此處「consolidating」指的是把保險結果合併成一套數字。",
-   "news_title_en": "Insurance-holding financials get later earnings-disclosure deadline",
-   "id": "2026-08-10-04"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"assets\" mean?",
-   "options": [
-    "A financial report",
-    "Money or property owned by someone",
-    "A government regulation",
-    "A type of stock market index"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"assets\" refers to the money or property that the asset‑management center is handling for its clients.",
-   "explain_zh": "此處的「assets」指的是資產管理中心為客戶管理的金錢或財產。",
-   "news_title_en": "Asset-management-hub push hits two-year AUM target early",
-   "id": "2026-08-10-05"
-  },
-  {
-   "type": "comprehension",
-   "question": "By when did the Asian Asset Management Center reach its two‑year AUM target?",
-   "options": [
-    "End of 2026",
-    "Mid 2025",
-    "End of 2024",
-    "End of 2025"
-   ],
-   "answer": 3,
-   "explain_en": "The summary says the target was reached ahead of schedule by the end of 2025.",
-   "explain_zh": "摘要指出，該中心在2025年底前已提前達成兩年資產管理目標。",
-   "news_title_en": "Asset-management-hub push hits two-year AUM target early",
-   "id": "2026-08-10-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "Why did Taiwan keep the estate and gift tax exemptions unchanged for 2026?",
-   "options": [
-    "The CPI change since 2022 was less than 10%",
-    "The government decided to raise taxes",
-    "The gift‑tax exemption was increased",
-    "The tax brackets were narrowed"
+    "The stock price reached the highest allowed increase for the day",
+    "The stock was sold out completely",
+    "The market closed early for that stock",
+    "The company stopped production temporarily"
    ],
    "answer": 0,
-   "explain_en": "The summary states that the cumulative CPI change did not reach the 10% trigger, so the exemptions stayed flat.",
-   "explain_zh": "摘要說累計的 CPI 變動未達到 10% 的門檻，因此免稅額保持不變。",
-   "news_title_en": "Estate and gift tax exemptions unchanged for 2026 as brackets widen",
-   "id": "2026-08-10-07"
+   "explain_en": "\"Limit‑up\" means the price hit the maximum rise allowed in one trading session.",
+   "explain_zh": "「limit‑up」指的是股票當天漲幅已達交易所允許的最高上限。",
+   "news_title_en": "Taiex surges 702 points to 44,928, a fresh rebound high as TSMC and memory lead",
+   "id": "2026-08-11-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the closing level of Taiwan's benchmark index on August 10?",
+   "options": [
+    "44,500.00",
+    "45,000.00",
+    "44,928.76",
+    "44,200.00"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the index closed at 44,928.76 on that day.",
+   "explain_zh": "摘要中說明指數在當天收盤於44,928.76點。",
+   "news_title_en": "Taiex surges 702 points to 44,928, a fresh rebound high as TSMC and memory lead",
+   "id": "2026-08-11-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"relentless\" mean?",
+   "options": [
+    "extremely rare",
+    "quickly changing",
+    "never stopping",
+    "very cheap"
+   ],
+   "answer": 2,
+   "explain_en": "\"Relentless\" describes something that continues without stopping, as the AI infrastructure buildout keeps going.",
+   "explain_zh": "「relentless」指的是持續不斷、沒有停止的意思，形容 AI 基礎建設持續推進。",
+   "news_title_en": "TSMC July revenue hits record NT$467.58bn, seven-month sales near NT$2.87tn",
+   "id": "2026-08-11-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "By what percentage did TSMC's July revenue increase compared to June?",
+   "options": [
+    "37.0%",
+    "0%",
+    "5.6%",
+    "44.7%"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states July revenue was up 5.6% from June.",
+   "explain_zh": "摘要中說七月營收較六月成長 5.6%。",
+   "news_title_en": "TSMC July revenue hits record NT$467.58bn, seven-month sales near NT$2.87tn",
+   "id": "2026-08-11-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"buoyant\" mean?",
+   "options": [
+    "weak and declining",
+    "steady and unchanged",
+    "slow and sluggish",
+    "energetic and lively"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"buoyant\" describes the stock‑market trading as lively and strong, not weak.",
+   "explain_zh": "此處的「buoyant」指的是股市交易活躍、強勁，而非疲弱。",
+   "news_title_en": "13 listed financial holding companies earn record NT$440.8bn in first half",
+   "id": "2026-08-11-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much did the combined after‑tax profit of the 13 listed financial holding companies increase compared to the previous year?",
+   "options": [
+    "about 75%",
+    "about 50%",
+    "about 101%",
+    "about 150%"
+   ],
+   "answer": 2,
+   "explain_en": "The summary says the profit roughly doubled, which is a 101% increase from a year earlier.",
+   "explain_zh": "摘要中指出獲利約翻倍，亦即較去年增加約101%。",
+   "news_title_en": "13 listed financial holding companies earn record NT$440.8bn in first half",
+   "id": "2026-08-11-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"underlying\" mean?",
+   "options": [
+    "a financial institution",
+    "a type of dividend",
+    "the main cause or source",
+    "the surface appearance"
+   ],
+   "answer": 2,
+   "explain_en": "\"Underlying\" refers to the basic or fundamental source of something, here the dividend income that supports the payout.",
+   "explain_zh": "「underlying」指的是基本或根本的來源，這裡指支撐配息的股息收入。",
+   "news_title_en": "August ETF dividend season kicks off; Cathay 00878 pays record NT$1.01",
+   "id": "2026-08-11-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the quarterly distribution per unit for the Cathay Sustainability High Dividend ETF in this announcement?",
+   "options": [
+    "NT$1.20",
+    "NT$1.01",
+    "NT$0.66",
+    "NT$0.85"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the ETF declared a quarterly distribution of NT$1.01 per unit.",
+   "explain_zh": "摘要中說明該ETF的每單位季配息為新台幣1.01元。",
+   "news_title_en": "August ETF dividend season kicks off; Cathay 00878 pays record NT$1.01",
+   "id": "2026-08-11-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"curb\" mean?",
+   "options": [
+    "to increase",
+    "to celebrate",
+    "to stop or limit",
+    "to ignore"
+   ],
+   "answer": 2,
+   "explain_en": "\"Curb\" means to stop or limit something, here it refers to stopping estate‑tax avoidance.",
+   "explain_zh": "「curb」在此指阻止或限制，這裡是指阻止遺產稅規避行為。",
+   "news_title_en": "Estate-tax bill would fold two-year pre-death gifts to family into taxable estate",
+   "id": "2026-08-11-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, gifts made within how many years before death will be added back into the taxable estate?",
+   "options": [
+    "five years",
+    "two years",
+    "three years",
+    "one year"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that gifts made within two years before death are added back into the estate.",
+   "explain_zh": "摘要說明，死亡前兩年內的贈與會被重新計入遺產稅。",
+   "news_title_en": "Estate-tax bill would fold two-year pre-death gifts to family into taxable estate",
+   "id": "2026-08-11-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"sticky price pressure\" mean?",
+   "options": [
+    "Prices are rising quickly and then falling",
+    "Prices are decreasing steadily over time",
+    "Prices are fluctuating wildly each day",
+    "Prices are staying high and not decreasing easily"
+   ],
+   "answer": 3,
+   "explain_en": "It means that prices remain high and are difficult to bring down.",
+   "explain_zh": "指的是物價持續偏高，難以下降。",
+   "news_title_en": "Taiwan July CPI up 2.54%, third month above the 2% alert line",
+   "id": "2026-08-11-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "For how many consecutive months has Taiwan's CPI stayed above the 2% inflation-warning threshold?",
+   "options": [
+    "Two months",
+    "Four months",
+    "One month",
+    "Three months"
+   ],
+   "answer": 3,
+   "explain_en": "The summary says it has been above the threshold for a third straight month.",
+   "explain_zh": "摘要中提到已連續三個月高於2%警戒線。",
+   "news_title_en": "Taiwan July CPI up 2.54%, third month above the 2% alert line",
+   "id": "2026-08-11-11"
   }
  ]
 }
