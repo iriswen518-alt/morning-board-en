@@ -1,185 +1,125 @@
 {
- "date": "2026-08-11",
+ "date": "2026-08-12",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"limit‑up\" mean?",
+   "question": "In the summary, what does the word \"rebound\" mean?",
    "options": [
-    "The stock price reached the highest allowed increase for the day",
-    "The stock was sold out completely",
-    "The market closed early for that stock",
-    "The company stopped production temporarily"
+    "A new product launch",
+    "A rise after a fall",
+    "A financial penalty",
+    "A type of stock order"
+   ],
+   "answer": 1,
+   "explain_en": "Here \"rebound\" refers to the market going up again after previously dropping.",
+   "explain_zh": "這裡的「rebound」指的是指數在下跌之後再次上升。",
+   "news_title_en": "Taiex adds 192 points to reclaim 45,000 as TSMC holds gains",
+   "id": "2026-08-12-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the closing level of the Taiwan benchmark index on August 11?",
+   "options": [
+    "45,200.50 points",
+    "45,120.72 points",
+    "45,000.00 points",
+    "44,900.15 points"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the index closed at 45,120.72 points.",
+   "explain_zh": "摘要中說明指數收盤於 45,120.72 點。",
+   "news_title_en": "Taiex adds 192 points to reclaim 45,000 as TSMC holds gains",
+   "id": "2026-08-12-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"extremely strong\" mean?",
+   "options": [
+    "Not related to demand",
+    "Very powerful",
+    "Slightly above average",
+    "Very weak"
+   ],
+   "answer": 1,
+   "explain_en": "\"Extremely strong\" describes demand that is very high and vigorous.",
+   "explain_zh": "「extremely strong」表示需求非常旺盛，需求量很大。",
+   "news_title_en": "TSMC lifts 2026 dollar-revenue guidance toward the mid-40s% as AI demand stays \"extremely strong\"",
+   "id": "2026-08-12-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "What revenue growth rate did TSMC raise its 2026 guidance to?",
+   "options": [
+    "Over 30%",
+    "Exactly 40%",
+    "Below 30%",
+    "Slightly above 40%"
+   ],
+   "answer": 3,
+   "explain_en": "The summary says TSMC lifted its guidance to \"slightly above 40%\" for 2026 revenue growth.",
+   "explain_zh": "摘要中提到台積電將2026年的收入成長指引提升至「略高於40%」。",
+   "news_title_en": "TSMC lifts 2026 dollar-revenue guidance toward the mid-40s% as AI demand stays \"extremely strong\"",
+   "id": "2026-08-12-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"deficiencies\" mean?",
+   "options": [
+    "weaknesses",
+    "profits",
+    "regulations",
+    "strengths"
    ],
    "answer": 0,
-   "explain_en": "\"Limit‑up\" means the price hit the maximum rise allowed in one trading session.",
-   "explain_zh": "「limit‑up」指的是股票當天漲幅已達交易所允許的最高上限。",
-   "news_title_en": "Taiex surges 702 points to 44,928, a fresh rebound high as TSMC and memory lead",
-   "id": "2026-08-11-00"
+   "explain_en": "\"Deficiencies\" refers to the weaknesses or shortcomings in how the bank handled disputed charges.",
+   "explain_zh": "「deficiencies」指的是該銀行在處理爭議收費時的缺失或不足。",
+   "news_title_en": "FSC fines Taiwan Cooperative Bank over credit-card disputed-charge lapses; releases June card and e-payment data",
+   "id": "2026-08-12-04"
   },
   {
    "type": "comprehension",
-   "question": "What was the closing level of Taiwan's benchmark index on August 10?",
+   "question": "On what date did the Financial Supervisory Commission publish the sanction against Taiwan Cooperative Bank?",
    "options": [
-    "44,500.00",
-    "45,000.00",
-    "44,928.76",
-    "44,200.00"
+    "Aug 11",
+    "Aug 20",
+    "Aug 9",
+    "Aug 15"
    ],
-   "answer": 2,
-   "explain_en": "The summary states the index closed at 44,928.76 on that day.",
-   "explain_zh": "摘要中說明指數在當天收盤於44,928.76點。",
-   "news_title_en": "Taiex surges 702 points to 44,928, a fresh rebound high as TSMC and memory lead",
-   "id": "2026-08-11-01"
+   "answer": 0,
+   "explain_en": "The summary states that the sanction was published on Aug 11.",
+   "explain_zh": "摘要中說明，罰單於 8 月 11 日發布。",
+   "news_title_en": "FSC fines Taiwan Cooperative Bank over credit-card disputed-charge lapses; releases June card and e-payment data",
+   "id": "2026-08-12-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"relentless\" mean?",
+   "question": "In the summary, what does the word \"inflation\" mean?",
    "options": [
-    "extremely rare",
-    "quickly changing",
-    "never stopping",
-    "very cheap"
-   ],
-   "answer": 2,
-   "explain_en": "\"Relentless\" describes something that continues without stopping, as the AI infrastructure buildout keeps going.",
-   "explain_zh": "「relentless」指的是持續不斷、沒有停止的意思，形容 AI 基礎建設持續推進。",
-   "news_title_en": "TSMC July revenue hits record NT$467.58bn, seven-month sales near NT$2.87tn",
-   "id": "2026-08-11-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "By what percentage did TSMC's July revenue increase compared to June?",
-   "options": [
-    "37.0%",
-    "0%",
-    "5.6%",
-    "44.7%"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states July revenue was up 5.6% from June.",
-   "explain_zh": "摘要中說七月營收較六月成長 5.6%。",
-   "news_title_en": "TSMC July revenue hits record NT$467.58bn, seven-month sales near NT$2.87tn",
-   "id": "2026-08-11-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"buoyant\" mean?",
-   "options": [
-    "weak and declining",
-    "steady and unchanged",
-    "slow and sluggish",
-    "energetic and lively"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"buoyant\" describes the stock‑market trading as lively and strong, not weak.",
-   "explain_zh": "此處的「buoyant」指的是股市交易活躍、強勁，而非疲弱。",
-   "news_title_en": "13 listed financial holding companies earn record NT$440.8bn in first half",
-   "id": "2026-08-11-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "How much did the combined after‑tax profit of the 13 listed financial holding companies increase compared to the previous year?",
-   "options": [
-    "about 75%",
-    "about 50%",
-    "about 101%",
-    "about 150%"
-   ],
-   "answer": 2,
-   "explain_en": "The summary says the profit roughly doubled, which is a 101% increase from a year earlier.",
-   "explain_zh": "摘要中指出獲利約翻倍，亦即較去年增加約101%。",
-   "news_title_en": "13 listed financial holding companies earn record NT$440.8bn in first half",
-   "id": "2026-08-11-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"underlying\" mean?",
-   "options": [
-    "a financial institution",
-    "a type of dividend",
-    "the main cause or source",
-    "the surface appearance"
-   ],
-   "answer": 2,
-   "explain_en": "\"Underlying\" refers to the basic or fundamental source of something, here the dividend income that supports the payout.",
-   "explain_zh": "「underlying」指的是基本或根本的來源，這裡指支撐配息的股息收入。",
-   "news_title_en": "August ETF dividend season kicks off; Cathay 00878 pays record NT$1.01",
-   "id": "2026-08-11-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the quarterly distribution per unit for the Cathay Sustainability High Dividend ETF in this announcement?",
-   "options": [
-    "NT$1.20",
-    "NT$1.01",
-    "NT$0.66",
-    "NT$0.85"
+    "A measure of how fast the stock market grows",
+    "A rise in the overall price level of goods and services",
+    "A government policy to lower taxes",
+    "A decrease in the amount of money people earn"
    ],
    "answer": 1,
-   "explain_en": "The summary states the ETF declared a quarterly distribution of NT$1.01 per unit.",
-   "explain_zh": "摘要中說明該ETF的每單位季配息為新台幣1.01元。",
-   "news_title_en": "August ETF dividend season kicks off; Cathay 00878 pays record NT$1.01",
-   "id": "2026-08-11-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"curb\" mean?",
-   "options": [
-    "to increase",
-    "to celebrate",
-    "to stop or limit",
-    "to ignore"
-   ],
-   "answer": 2,
-   "explain_en": "\"Curb\" means to stop or limit something, here it refers to stopping estate‑tax avoidance.",
-   "explain_zh": "「curb」在此指阻止或限制，這裡是指阻止遺產稅規避行為。",
-   "news_title_en": "Estate-tax bill would fold two-year pre-death gifts to family into taxable estate",
-   "id": "2026-08-11-08"
+   "explain_en": "Inflation is the increase in the general price level of goods and services over time.",
+   "explain_zh": "通膨指的是商品與服務整體價格上升的情況。",
+   "news_title_en": "Taiwan's June CPI up 2.60% year-on-year; business-cycle signal stays \"red\"",
+   "id": "2026-08-12-06"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, gifts made within how many years before death will be added back into the taxable estate?",
+   "question": "By how much did Taiwan's June consumer price index increase compared with the same month last year?",
    "options": [
-    "five years",
-    "two years",
-    "three years",
-    "one year"
+    "2.60%",
+    "0.52%",
+    "3.00%",
+    "1.70%"
    ],
-   "answer": 1,
-   "explain_en": "The summary states that gifts made within two years before death are added back into the estate.",
-   "explain_zh": "摘要說明，死亡前兩年內的贈與會被重新計入遺產稅。",
-   "news_title_en": "Estate-tax bill would fold two-year pre-death gifts to family into taxable estate",
-   "id": "2026-08-11-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"sticky price pressure\" mean?",
-   "options": [
-    "Prices are rising quickly and then falling",
-    "Prices are decreasing steadily over time",
-    "Prices are fluctuating wildly each day",
-    "Prices are staying high and not decreasing easily"
-   ],
-   "answer": 3,
-   "explain_en": "It means that prices remain high and are difficult to bring down.",
-   "explain_zh": "指的是物價持續偏高，難以下降。",
-   "news_title_en": "Taiwan July CPI up 2.54%, third month above the 2% alert line",
-   "id": "2026-08-11-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "For how many consecutive months has Taiwan's CPI stayed above the 2% inflation-warning threshold?",
-   "options": [
-    "Two months",
-    "Four months",
-    "One month",
-    "Three months"
-   ],
-   "answer": 3,
-   "explain_en": "The summary says it has been above the threshold for a third straight month.",
-   "explain_zh": "摘要中提到已連續三個月高於2%警戒線。",
-   "news_title_en": "Taiwan July CPI up 2.54%, third month above the 2% alert line",
-   "id": "2026-08-11-11"
+   "answer": 0,
+   "explain_en": "The summary states the June CPI rose 2.60% year‑on‑year.",
+   "explain_zh": "摘要中說明六月的消費者物價指數較去年同期上升了2.60%。",
+   "news_title_en": "Taiwan's June CPI up 2.60% year-on-year; business-cycle signal stays \"red\"",
+   "id": "2026-08-12-07"
   }
  ]
 }
