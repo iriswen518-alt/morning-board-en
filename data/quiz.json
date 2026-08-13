@@ -1,125 +1,185 @@
 {
- "date": "2026-08-12",
+ "date": "2026-08-13",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"rebound\" mean?",
+   "question": "In the summary, what does the word \"turnover\" mean?",
    "options": [
-    "A new product launch",
-    "A rise after a fall",
-    "A financial penalty",
-    "A type of stock order"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"rebound\" refers to the market going up again after previously dropping.",
-   "explain_zh": "這裡的「rebound」指的是指數在下跌之後再次上升。",
-   "news_title_en": "Taiex adds 192 points to reclaim 45,000 as TSMC holds gains",
-   "id": "2026-08-12-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the closing level of the Taiwan benchmark index on August 11?",
-   "options": [
-    "45,200.50 points",
-    "45,120.72 points",
-    "45,000.00 points",
-    "44,900.15 points"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the index closed at 45,120.72 points.",
-   "explain_zh": "摘要中說明指數收盤於 45,120.72 點。",
-   "news_title_en": "Taiex adds 192 points to reclaim 45,000 as TSMC holds gains",
-   "id": "2026-08-12-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"extremely strong\" mean?",
-   "options": [
-    "Not related to demand",
-    "Very powerful",
-    "Slightly above average",
-    "Very weak"
-   ],
-   "answer": 1,
-   "explain_en": "\"Extremely strong\" describes demand that is very high and vigorous.",
-   "explain_zh": "「extremely strong」表示需求非常旺盛，需求量很大。",
-   "news_title_en": "TSMC lifts 2026 dollar-revenue guidance toward the mid-40s% as AI demand stays \"extremely strong\"",
-   "id": "2026-08-12-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "What revenue growth rate did TSMC raise its 2026 guidance to?",
-   "options": [
-    "Over 30%",
-    "Exactly 40%",
-    "Below 30%",
-    "Slightly above 40%"
+    "The profit earned by a single company",
+    "The number of new companies listed",
+    "The speed at which a stock price changes",
+    "The total amount of money traded in the market"
    ],
    "answer": 3,
-   "explain_en": "The summary says TSMC lifted its guidance to \"slightly above 40%\" for 2026 revenue growth.",
-   "explain_zh": "摘要中提到台積電將2026年的收入成長指引提升至「略高於40%」。",
-   "news_title_en": "TSMC lifts 2026 dollar-revenue guidance toward the mid-40s% as AI demand stays \"extremely strong\"",
-   "id": "2026-08-12-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"deficiencies\" mean?",
-   "options": [
-    "weaknesses",
-    "profits",
-    "regulations",
-    "strengths"
-   ],
-   "answer": 0,
-   "explain_en": "\"Deficiencies\" refers to the weaknesses or shortcomings in how the bank handled disputed charges.",
-   "explain_zh": "「deficiencies」指的是該銀行在處理爭議收費時的缺失或不足。",
-   "news_title_en": "FSC fines Taiwan Cooperative Bank over credit-card disputed-charge lapses; releases June card and e-payment data",
-   "id": "2026-08-12-04"
+   "explain_en": "Here \"turnover\" refers to the total value of shares traded, about NT$858.7 billion.",
+   "explain_zh": "在此文中「turnover」指的是成交金額，約新台幣8587億。",
+   "news_title_en": "Taiex surges 397 points to 45,518 as a late order pushes TSMC to a record close",
+   "id": "2026-08-13-00"
   },
   {
    "type": "comprehension",
-   "question": "On what date did the Financial Supervisory Commission publish the sanction against Taiwan Cooperative Bank?",
+   "question": "How many points did the Taiex index rise on August 12?",
    "options": [
-    "Aug 11",
-    "Aug 20",
-    "Aug 9",
-    "Aug 15"
+    "0.88 percent",
+    "45,518 points",
+    "17,000 lots",
+    "397 points"
    ],
-   "answer": 0,
-   "explain_en": "The summary states that the sanction was published on Aug 11.",
-   "explain_zh": "摘要中說明，罰單於 8 月 11 日發布。",
-   "news_title_en": "FSC fines Taiwan Cooperative Bank over credit-card disputed-charge lapses; releases June card and e-payment data",
-   "id": "2026-08-12-05"
+   "answer": 3,
+   "explain_en": "The summary states the index opened higher and closed up 397 points.",
+   "explain_zh": "摘要說明指數上漲了397點。",
+   "news_title_en": "Taiex surges 397 points to 45,518 as a late order pushes TSMC to a record close",
+   "id": "2026-08-13-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"inflation\" mean?",
+   "question": "In the summary, what does the phrase \"sold out\" mean?",
    "options": [
-    "A measure of how fast the stock market grows",
-    "A rise in the overall price level of goods and services",
-    "A government policy to lower taxes",
-    "A decrease in the amount of money people earn"
+    "The company is shutting down production",
+    "All the available capacity has already been purchased",
+    "The items are being returned to the warehouse",
+    "The products are being sold at a discount"
    ],
    "answer": 1,
-   "explain_en": "Inflation is the increase in the general price level of goods and services over time.",
-   "explain_zh": "通膨指的是商品與服務整體價格上升的情況。",
-   "news_title_en": "Taiwan's June CPI up 2.60% year-on-year; business-cycle signal stays \"red\"",
-   "id": "2026-08-12-06"
+   "explain_en": "The text says \"CoWoS-L/S capacity is described as sold out,\" meaning every slot of capacity has already been booked by customers.",
+   "explain_zh": "文中說 \"CoWoS-L/S capacity is described as sold out\"，表示所有產能已全部被客戶預訂完畢。",
+   "news_title_en": "TSMC keeps ramping CoWoS as AI packaging demand runs into 2028",
+   "id": "2026-08-13-02"
   },
   {
    "type": "comprehension",
-   "question": "By how much did Taiwan's June consumer price index increase compared with the same month last year?",
+   "question": "By the end of 2027, how many wafers per month does TSMC expect to produce with CoWoS advanced‑packaging?",
    "options": [
-    "2.60%",
-    "0.52%",
-    "3.00%",
-    "1.70%"
+    "About 150,000 wafers",
+    "About 170,000 wafers",
+    "About 200,000 wafers",
+    "About 125,000 wafers"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the capacity will be about 170K wafers per month by the end of 2027.",
+   "explain_zh": "摘要中提到到 2027 年底，TSMC 的 CoWoS 產能約為每月 170,000 片晶圓。",
+   "news_title_en": "TSMC keeps ramping CoWoS as AI packaging demand runs into 2028",
+   "id": "2026-08-13-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"consolidation\" mean?",
+   "options": [
+    "Reducing the size of a bank",
+    "Increasing the number of banks",
+    "Breaking apart into pieces",
+    "Combining several things into one"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"consolidation\" refers to banks joining together to become larger.",
+   "explain_zh": "此處的「consolidation」指的是銀行合併成更大的體系。",
+   "news_title_en": "FSC clears Taishin's merger with Shin Kong Bank, advancing sector consolidation",
+   "id": "2026-08-13-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "Which regulatory body approved the merger between Taishin International Bank and Shin Kong Commercial Bank?",
+   "options": [
+    "Financial Supervisory Commission",
+    "Ministry of Finance",
+    "Taiwan Stock Exchange",
+    "Central Bank of Taiwan"
    ],
    "answer": 0,
-   "explain_en": "The summary states the June CPI rose 2.60% year‑on‑year.",
-   "explain_zh": "摘要中說明六月的消費者物價指數較去年同期上升了2.60%。",
-   "news_title_en": "Taiwan's June CPI up 2.60% year-on-year; business-cycle signal stays \"red\"",
-   "id": "2026-08-12-07"
+   "explain_en": "The summary states that the Financial Supervisory Commission approved the merger.",
+   "explain_zh": "摘要中說明是金融監督管理委員會批准了合併。",
+   "news_title_en": "FSC clears Taishin's merger with Shin Kong Bank, advancing sector consolidation",
+   "id": "2026-08-13-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"yield\" mean?",
+   "options": [
+    "The total number of shares issued",
+    "The interest rate set by the central bank",
+    "The amount of profit a company makes",
+    "The income generated from an investment"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"yield\" refers to the income investors receive from the ETF, such as dividends.",
+   "explain_zh": "此處的「yield」指的是投資人從ETF獲得的收益，如股息。",
+   "news_title_en": "August ETF ex-dividend wave peaks Aug 18 with 20 funds and a record 00878 payout",
+   "id": "2026-08-13-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many equity ETFs went ex-dividend on August 18?",
+   "options": [
+    "15",
+    "25",
+    "10",
+    "20"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that 20 equity ETFs go ex-dividend on that day.",
+   "explain_zh": "摘要中說明當天有20檔股票ETF除息。",
+   "news_title_en": "August ETF ex-dividend wave peaks Aug 18 with 20 funds and a record 00878 payout",
+   "id": "2026-08-13-07"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"preferential\" mean as used in the text?",
+   "options": [
+    "Not allowed",
+    "Better than usual",
+    "Less important",
+    "Chosen at random"
+   ],
+   "answer": 1,
+   "explain_en": "Here it means a better or more favorable rate compared to the normal tax rate.",
+   "explain_zh": "此處指比一般稅率更優惠的稅率。",
+   "news_title_en": "Owner-occupier home sales keep NT$4mn tax-free allowance under house-and-land tax",
+   "id": "2026-08-13-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "How long do sellers have to buy a replacement home to reclaim the tax paid on the old home?",
+   "options": [
+    "Three years",
+    "Five years",
+    "One year",
+    "Two years"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states sellers must buy a replacement within two years to reclaim the tax.",
+   "explain_zh": "摘要說，賣家必須在兩年內購買替代住宅才能申請退稅。",
+   "news_title_en": "Owner-occupier home sales keep NT$4mn tax-free allowance under house-and-land tax",
+   "id": "2026-08-13-09"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"resilient\" mean as used in the text?",
+   "options": [
+    "Related to the government",
+    "A type of technology",
+    "Very expensive",
+    "Able to recover quickly from difficulties"
+   ],
+   "answer": 3,
+   "explain_en": "In the article, \"resilient\" describes Taiwan's economy as able to bounce back and stay strong despite challenges.",
+   "explain_zh": "在文章中，「resilient」指的是台灣經濟能夠快速恢復並在挑戰下仍保持強勁。",
+   "news_title_en": "Taiwan's economy stays resilient with 2026 growth seen near double digits",
+   "id": "2026-08-13-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the forecasted full-year GDP growth for Taiwan in 2026?",
+   "options": [
+    "Around 9.6%",
+    "Around 7.8%",
+    "Around 5.2%",
+    "Around 12.3%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that the full-year 2026 GDP growth is forecasted to be about 9.6%.",
+   "explain_zh": "摘要中提到，2026 年全年的 GDP 成長預估約為 9.6%。",
+   "news_title_en": "Taiwan's economy stays resilient with 2026 growth seen near double digits",
+   "id": "2026-08-13-11"
   }
  ]
 }
