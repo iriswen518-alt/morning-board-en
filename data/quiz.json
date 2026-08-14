@@ -1,185 +1,170 @@
 {
- "date": "2026-08-13",
+ "date": "2026-08-14",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"turnover\" mean?",
+   "question": "In the summary, what does the word \"surge\" mean?",
    "options": [
-    "The profit earned by a single company",
-    "The number of new companies listed",
-    "The speed at which a stock price changes",
-    "The total amount of money traded in the market"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"turnover\" refers to the total value of shares traded, about NT$858.7 billion.",
-   "explain_zh": "在此文中「turnover」指的是成交金額，約新台幣8587億。",
-   "news_title_en": "Taiex surges 397 points to 45,518 as a late order pushes TSMC to a record close",
-   "id": "2026-08-13-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many points did the Taiex index rise on August 12?",
-   "options": [
-    "0.88 percent",
-    "45,518 points",
-    "17,000 lots",
-    "397 points"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the index opened higher and closed up 397 points.",
-   "explain_zh": "摘要說明指數上漲了397點。",
-   "news_title_en": "Taiex surges 397 points to 45,518 as a late order pushes TSMC to a record close",
-   "id": "2026-08-13-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"sold out\" mean?",
-   "options": [
-    "The company is shutting down production",
-    "All the available capacity has already been purchased",
-    "The items are being returned to the warehouse",
-    "The products are being sold at a discount"
-   ],
-   "answer": 1,
-   "explain_en": "The text says \"CoWoS-L/S capacity is described as sold out,\" meaning every slot of capacity has already been booked by customers.",
-   "explain_zh": "文中說 \"CoWoS-L/S capacity is described as sold out\"，表示所有產能已全部被客戶預訂完畢。",
-   "news_title_en": "TSMC keeps ramping CoWoS as AI packaging demand runs into 2028",
-   "id": "2026-08-13-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "By the end of 2027, how many wafers per month does TSMC expect to produce with CoWoS advanced‑packaging?",
-   "options": [
-    "About 150,000 wafers",
-    "About 170,000 wafers",
-    "About 200,000 wafers",
-    "About 125,000 wafers"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the capacity will be about 170K wafers per month by the end of 2027.",
-   "explain_zh": "摘要中提到到 2027 年底，TSMC 的 CoWoS 產能約為每月 170,000 片晶圓。",
-   "news_title_en": "TSMC keeps ramping CoWoS as AI packaging demand runs into 2028",
-   "id": "2026-08-13-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"consolidation\" mean?",
-   "options": [
-    "Reducing the size of a bank",
-    "Increasing the number of banks",
-    "Breaking apart into pieces",
-    "Combining several things into one"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"consolidation\" refers to banks joining together to become larger.",
-   "explain_zh": "此處的「consolidation」指的是銀行合併成更大的體系。",
-   "news_title_en": "FSC clears Taishin's merger with Shin Kong Bank, advancing sector consolidation",
-   "id": "2026-08-13-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "Which regulatory body approved the merger between Taishin International Bank and Shin Kong Commercial Bank?",
-   "options": [
-    "Financial Supervisory Commission",
-    "Ministry of Finance",
-    "Taiwan Stock Exchange",
-    "Central Bank of Taiwan"
+    "to rise quickly",
+    "to decrease slowly",
+    "to stay the same",
+    "to fall sharply"
    ],
    "answer": 0,
-   "explain_en": "The summary states that the Financial Supervisory Commission approved the merger.",
-   "explain_zh": "摘要中說明是金融監督管理委員會批准了合併。",
-   "news_title_en": "FSC clears Taishin's merger with Shin Kong Bank, advancing sector consolidation",
-   "id": "2026-08-13-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"yield\" mean?",
-   "options": [
-    "The total number of shares issued",
-    "The interest rate set by the central bank",
-    "The amount of profit a company makes",
-    "The income generated from an investment"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"yield\" refers to the income investors receive from the ETF, such as dividends.",
-   "explain_zh": "此處的「yield」指的是投資人從ETF獲得的收益，如股息。",
-   "news_title_en": "August ETF ex-dividend wave peaks Aug 18 with 20 funds and a record 00878 payout",
-   "id": "2026-08-13-06"
+   "explain_en": "\"Surge\" means to increase rapidly, as the TAIEX jumped 503 points.",
+   "explain_zh": "「surge」指快速上升，就像台股指數跳升了503點。",
+   "news_title_en": "Taiwan stocks surge 503 points to record close above 46,000 on cooling US CPI",
+   "id": "2026-08-14-00"
   },
   {
    "type": "comprehension",
-   "question": "How many equity ETFs went ex-dividend on August 18?",
+   "question": "What was the turnover of the TAIEX on August 13?",
    "options": [
-    "15",
-    "25",
-    "10",
-    "20"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that 20 equity ETFs go ex-dividend on that day.",
-   "explain_zh": "摘要中說明當天有20檔股票ETF除息。",
-   "news_title_en": "August ETF ex-dividend wave peaks Aug 18 with 20 funds and a record 00878 payout",
-   "id": "2026-08-13-07"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the word \"preferential\" mean as used in the text?",
-   "options": [
-    "Not allowed",
-    "Better than usual",
-    "Less important",
-    "Chosen at random"
-   ],
-   "answer": 1,
-   "explain_en": "Here it means a better or more favorable rate compared to the normal tax rate.",
-   "explain_zh": "此處指比一般稅率更優惠的稅率。",
-   "news_title_en": "Owner-occupier home sales keep NT$4mn tax-free allowance under house-and-land tax",
-   "id": "2026-08-13-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "How long do sellers have to buy a replacement home to reclaim the tax paid on the old home?",
-   "options": [
-    "Three years",
-    "Five years",
-    "One year",
-    "Two years"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states sellers must buy a replacement within two years to reclaim the tax.",
-   "explain_zh": "摘要說，賣家必須在兩年內購買替代住宅才能申請退稅。",
-   "news_title_en": "Owner-occupier home sales keep NT$4mn tax-free allowance under house-and-land tax",
-   "id": "2026-08-13-09"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the word \"resilient\" mean as used in the text?",
-   "options": [
-    "Related to the government",
-    "A type of technology",
-    "Very expensive",
-    "Able to recover quickly from difficulties"
-   ],
-   "answer": 3,
-   "explain_en": "In the article, \"resilient\" describes Taiwan's economy as able to bounce back and stay strong despite challenges.",
-   "explain_zh": "在文章中，「resilient」指的是台灣經濟能夠快速恢復並在挑戰下仍保持強勁。",
-   "news_title_en": "Taiwan's economy stays resilient with 2026 growth seen near double digits",
-   "id": "2026-08-13-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the forecasted full-year GDP growth for Taiwan in 2026?",
-   "options": [
-    "Around 9.6%",
-    "Around 7.8%",
-    "Around 5.2%",
-    "Around 12.3%"
+    "about NT$1.05 trillion",
+    "about NT$2 trillion",
+    "about NT$0.5 trillion",
+    "about NT$0.8 trillion"
    ],
    "answer": 0,
-   "explain_en": "The summary states that the full-year 2026 GDP growth is forecasted to be about 9.6%.",
-   "explain_zh": "摘要中提到，2026 年全年的 GDP 成長預估約為 9.6%。",
-   "news_title_en": "Taiwan's economy stays resilient with 2026 growth seen near double digits",
-   "id": "2026-08-13-11"
+   "explain_en": "The summary states the turnover was about NT$1.05 trillion.",
+   "explain_zh": "摘要中說成交金額約為新台幣1.05兆。",
+   "news_title_en": "Taiwan stocks surge 503 points to record close above 46,000 on cooling US CPI",
+   "id": "2026-08-14-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"visibility\" mean?",
+   "options": [
+    "The ability to see something clearly",
+    "The speed of production",
+    "The level of secrecy",
+    "The amount of money earned"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"order visibility\" means how clearly the company can see future orders.",
+   "explain_zh": "「order visibility」指的是公司對未來訂單的可見度，也就是能夠清楚看到未來的需求。",
+   "news_title_en": "TSMC's AI revenue nears NT$1 trillion with order visibility into 2028",
+   "id": "2026-08-14-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "By the end of 2026, how many wafers per month does TSMC plan to produce?",
+   "options": [
+    "Between 120,000 and 140,000",
+    "Over 200,000",
+    "About 35,000",
+    "About 70,000"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states capacity will rise to roughly 120,000‑140,000 wafers per month by the end of 2026.",
+   "explain_zh": "摘要中提到，到2026年底，產能將提升至大約每月 120,000 到 140,000 片晶圓。",
+   "news_title_en": "TSMC's AI revenue nears NT$1 trillion with order visibility into 2028",
+   "id": "2026-08-14-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"consolidating\" mean?",
+   "options": [
+    "Increasing the price",
+    "Separating into different parts",
+    "Combining several things into one",
+    "Closing a bank"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"consolidating\" means bringing the two banks together to form a single financial group.",
+   "explain_zh": "此處的「consolidating」是指把兩家銀行合併成一個金融集團。",
+   "news_title_en": "FSC clears Taishin–Shin Kong bank merger",
+   "id": "2026-08-14-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "Which two banks are merging according to the news?",
+   "options": [
+    "Taiwan Bank and Mega Financial Holding",
+    "Fubon Bank and Cathay United Bank",
+    "CTBC Bank and E.SUN Commercial Bank",
+    "Taishin International Bank and Taiwan Shin Kong Commercial Bank"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that Taishin International Bank is merging with Taiwan Shin Kong Commercial Bank.",
+   "explain_zh": "摘要中說明的是台新國際銀行與台灣新光商業銀行合併。",
+   "news_title_en": "FSC clears Taishin–Shin Kong bank merger",
+   "id": "2026-08-14-05"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the estimated size of Taiwan's wealth‑management market mentioned in the summary?",
+   "options": [
+    "US$5 trillion",
+    "US$12 trillion",
+    "US$8 trillion",
+    "US$10 trillion"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the market is estimated at around US$8 trillion.",
+   "explain_zh": "摘要中提到該市場的規模約為 8 兆美元。",
+   "news_title_en": "Global banks vie for Taiwan's US$8 trillion wealth market",
+   "id": "2026-08-14-06"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"instalments\" mean?",
+   "options": [
+    "A single payment made all at once",
+    "A type of tax exemption",
+    "Payments made over a period of time",
+    "A legal document for inheritance"
+   ],
+   "answer": 2,
+   "explain_en": "\"Instalments\" are regular, smaller payments made over time instead of one large payment.",
+   "explain_zh": "「instalments」指的是分期付款，將大額金額分成多次小額支付。",
+   "news_title_en": "New rules let estate tax be assessed separately from deemed-gift assets",
+   "id": "2026-08-14-07"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, how does the new estate‑tax rule affect heirs?",
+   "options": [
+    "They are exempt from any tax",
+    "They must give up all assets to the government",
+    "They can now pay small amounts in instalments",
+    "They must pay the entire tax immediately"
+   ],
+   "answer": 2,
+   "explain_en": "The rule lets heirs pay the tax in smaller instalments, easing cash‑flow strain.",
+   "explain_zh": "新規定允許繼承人分期付款，減輕現金流壓力。",
+   "news_title_en": "New rules let estate tax be assessed separately from deemed-gift assets",
+   "id": "2026-08-14-08"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"upstream\" mean?",
+   "options": [
+    "related to earlier stages of production",
+    "a type of financial instrument",
+    "located downstream of a river",
+    "a government policy"
+   ],
+   "answer": 0,
+   "explain_en": "\"Upstream\" refers to the earlier stages of production where raw materials are sourced, indicating higher costs before the final product.",
+   "explain_zh": "「upstream」指的是生產的前期階段，表示原料或初步製程的成本較高。",
+   "news_title_en": "Taiwan inflation stays moderate with CPI up 2.6% in June",
+   "id": "2026-08-14-09"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the year‑on‑year change in Taiwan's consumer price index (CPI) in June?",
+   "options": [
+    "2.60% increase",
+    "15.10% increase",
+    "1.70% decrease",
+    "No change"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that Taiwan's CPI rose 2.60% year‑on‑year in June.",
+   "explain_zh": "摘要中說明台灣的 CPI 在六月較去年同期上升了 2.60%。",
+   "news_title_en": "Taiwan inflation stays moderate with CPI up 2.6% in June",
+   "id": "2026-08-14-10"
   }
  ]
 }
