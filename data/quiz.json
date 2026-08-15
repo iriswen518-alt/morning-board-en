@@ -1,170 +1,95 @@
 {
- "date": "2026-08-14",
+ "date": "2026-08-15",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"surge\" mean?",
+   "question": "In the summary, what does the word \"slips\" mean?",
    "options": [
-    "to rise quickly",
-    "to decrease slowly",
-    "to stay the same",
-    "to fall sharply"
-   ],
-   "answer": 0,
-   "explain_en": "\"Surge\" means to increase rapidly, as the TAIEX jumped 503 points.",
-   "explain_zh": "「surge」指快速上升，就像台股指數跳升了503點。",
-   "news_title_en": "Taiwan stocks surge 503 points to record close above 46,000 on cooling US CPI",
-   "id": "2026-08-14-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the turnover of the TAIEX on August 13?",
-   "options": [
-    "about NT$1.05 trillion",
-    "about NT$2 trillion",
-    "about NT$0.5 trillion",
-    "about NT$0.8 trillion"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states the turnover was about NT$1.05 trillion.",
-   "explain_zh": "摘要中說成交金額約為新台幣1.05兆。",
-   "news_title_en": "Taiwan stocks surge 503 points to record close above 46,000 on cooling US CPI",
-   "id": "2026-08-14-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"visibility\" mean?",
-   "options": [
-    "The ability to see something clearly",
-    "The speed of production",
-    "The level of secrecy",
-    "The amount of money earned"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"order visibility\" means how clearly the company can see future orders.",
-   "explain_zh": "「order visibility」指的是公司對未來訂單的可見度，也就是能夠清楚看到未來的需求。",
-   "news_title_en": "TSMC's AI revenue nears NT$1 trillion with order visibility into 2028",
-   "id": "2026-08-14-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "By the end of 2026, how many wafers per month does TSMC plan to produce?",
-   "options": [
-    "Between 120,000 and 140,000",
-    "Over 200,000",
-    "About 35,000",
-    "About 70,000"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states capacity will rise to roughly 120,000‑140,000 wafers per month by the end of 2026.",
-   "explain_zh": "摘要中提到，到2026年底，產能將提升至大約每月 120,000 到 140,000 片晶圓。",
-   "news_title_en": "TSMC's AI revenue nears NT$1 trillion with order visibility into 2028",
-   "id": "2026-08-14-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"consolidating\" mean?",
-   "options": [
-    "Increasing the price",
-    "Separating into different parts",
-    "Combining several things into one",
-    "Closing a bank"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"consolidating\" means bringing the two banks together to form a single financial group.",
-   "explain_zh": "此處的「consolidating」是指把兩家銀行合併成一個金融集團。",
-   "news_title_en": "FSC clears Taishin–Shin Kong bank merger",
-   "id": "2026-08-14-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "Which two banks are merging according to the news?",
-   "options": [
-    "Taiwan Bank and Mega Financial Holding",
-    "Fubon Bank and Cathay United Bank",
-    "CTBC Bank and E.SUN Commercial Bank",
-    "Taishin International Bank and Taiwan Shin Kong Commercial Bank"
+    "goes up quickly",
+    "stays the same",
+    "grows a lot",
+    "drops slightly"
    ],
    "answer": 3,
-   "explain_en": "The summary states that Taishin International Bank is merging with Taiwan Shin Kong Commercial Bank.",
-   "explain_zh": "摘要中說明的是台新國際銀行與台灣新光商業銀行合併。",
-   "news_title_en": "FSC clears Taishin–Shin Kong bank merger",
-   "id": "2026-08-14-05"
+   "explain_en": "\"Slips\" means the index fell or dropped a little, as shown by the lower closing number.",
+   "explain_zh": "「slips」在文中指的是指數稍微下跌，正如收盤數字下降所示。",
+   "news_title_en": "TAIEX slips 210 points as TSMC late-session selloff drags index back below 46,000",
+   "id": "2026-08-15-00"
   },
   {
    "type": "comprehension",
-   "question": "What is the estimated size of Taiwan's wealth‑management market mentioned in the summary?",
+   "question": "How much did TSMC's share price change in the afternoon?",
    "options": [
-    "US$5 trillion",
-    "US$12 trillion",
-    "US$8 trillion",
-    "US$10 trillion"
+    "up 0.95%",
+    "down NT$40",
+    "down 0.95%",
+    "up NT$40"
    ],
-   "answer": 2,
-   "explain_en": "The summary states the market is estimated at around US$8 trillion.",
-   "explain_zh": "摘要中提到該市場的規模約為 8 兆美元。",
-   "news_title_en": "Global banks vie for Taiwan's US$8 trillion wealth market",
-   "id": "2026-08-14-06"
+   "answer": 1,
+   "explain_en": "The summary says TSMC fell NT$40, which is a drop of 1.64%.",
+   "explain_zh": "摘要中說台積電下跌 NT$40，跌幅為 1.64%。",
+   "news_title_en": "TAIEX slips 210 points as TSMC late-session selloff drags index back below 46,000",
+   "id": "2026-08-15-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"instalments\" mean?",
+   "question": "In the summary, what does the word \"anchor\" mean?",
    "options": [
-    "A single payment made all at once",
-    "A type of tax exemption",
-    "Payments made over a period of time",
-    "A legal document for inheritance"
+    "to float freely",
+    "to increase speed",
+    "to support and secure",
+    "to cancel a contract"
    ],
    "answer": 2,
-   "explain_en": "\"Instalments\" are regular, smaller payments made over time instead of one large payment.",
-   "explain_zh": "「instalments」指的是分期付款，將大額金額分成多次小額支付。",
-   "news_title_en": "New rules let estate tax be assessed separately from deemed-gift assets",
-   "id": "2026-08-14-07"
+   "explain_en": "Here \"anchor\" means to secure or establish something firmly, i.e., TSMC wants to firmly establish AI-era capacity in Taiwan.",
+   "explain_zh": "這裡的「anchor」指的是穩固或確立，意指台積電想在台灣穩固 AI 時代的產能。",
+   "news_title_en": "TSMC opens Technology Symposium, spotlighting supply-chain collaboration and advanced-packaging roadmap",
+   "id": "2026-08-15-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, how does the new estate‑tax rule affect heirs?",
+   "question": "According to the summary, how much higher is the projected output of the 2nm node compared to the 3nm node in its first year?",
    "options": [
-    "They are exempt from any tax",
-    "They must give up all assets to the government",
-    "They can now pay small amounts in instalments",
-    "They must pay the entire tax immediately"
+    "about 35% higher",
+    "about 45% higher",
+    "about 25% higher",
+    "about 55% higher"
    ],
-   "answer": 2,
-   "explain_en": "The rule lets heirs pay the tax in smaller instalments, easing cash‑flow strain.",
-   "explain_zh": "新規定允許繼承人分期付款，減輕現金流壓力。",
-   "news_title_en": "New rules let estate tax be assessed separately from deemed-gift assets",
-   "id": "2026-08-14-08"
+   "answer": 1,
+   "explain_en": "The summary states that the 2nm output is projected to run about 45% higher than the 3nm in its first year.",
+   "explain_zh": "摘要中說明 2nm 的產能在第一年預計比 3nm 高約 45%。",
+   "news_title_en": "TSMC opens Technology Symposium, spotlighting supply-chain collaboration and advanced-packaging roadmap",
+   "id": "2026-08-15-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"upstream\" mean?",
+   "question": "In the text, what does the word \"tap\" mean?",
    "options": [
-    "related to earlier stages of production",
-    "a type of financial instrument",
-    "located downstream of a river",
-    "a government policy"
+    "to cut off",
+    "to sell",
+    "to draw out or access",
+    "to ignore"
    ],
-   "answer": 0,
-   "explain_en": "\"Upstream\" refers to the earlier stages of production where raw materials are sourced, indicating higher costs before the final product.",
-   "explain_zh": "「upstream」指的是生產的前期階段，表示原料或初步製程的成本較高。",
-   "news_title_en": "Taiwan inflation stays moderate with CPI up 2.6% in June",
-   "id": "2026-08-14-09"
+   "answer": 2,
+   "explain_en": "Here \"tap\" means to draw out or access the US$8 trillion market.",
+   "explain_zh": "這裡的 \"tap\" 指的是開發或利用這個 8 兆美元的市場。",
+   "news_title_en": "Global private banks chase Taiwan's US$8tn wealth pool as Kaohsiung asset-management hub takes shape",
+   "id": "2026-08-15-04"
   },
   {
    "type": "comprehension",
-   "question": "What was the year‑on‑year change in Taiwan's consumer price index (CPI) in June?",
+   "question": "Which city has a new asset-management center with relaxed regulatory requirements?",
    "options": [
-    "2.60% increase",
-    "15.10% increase",
-    "1.70% decrease",
-    "No change"
+    "Taipei",
+    "Kaohsiung",
+    "Taichung",
+    "Tainan"
    ],
-   "answer": 0,
-   "explain_en": "The summary states that Taiwan's CPI rose 2.60% year‑on‑year in June.",
-   "explain_zh": "摘要中說明台灣的 CPI 在六月較去年同期上升了 2.60%。",
-   "news_title_en": "Taiwan inflation stays moderate with CPI up 2.6% in June",
-   "id": "2026-08-14-10"
+   "answer": 1,
+   "explain_en": "The summary states the Kaohsiung Asia Asset Management Center was established with relaxed regulations.",
+   "explain_zh": "摘要中提到高雄亞洲資產管理中心設立，且有較寬鬆的監管要求。",
+   "news_title_en": "Global private banks chase Taiwan's US$8tn wealth pool as Kaohsiung asset-management hub takes shape",
+   "id": "2026-08-15-05"
   }
  ]
 }
