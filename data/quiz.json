@@ -1,185 +1,110 @@
 {
- "date": "2026-08-16",
+ "date": "2026-08-17",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"inflow\" mean?",
+   "question": "In the summary, what does the word \"underpinning\" mean?",
    "options": [
-    "Money coming into the market",
-    "A type of stock",
-    "A government policy",
-    "Money leaving the market"
-   ],
-   "answer": 0,
-   "explain_en": "\"Inflow\" refers to money that is entering or being invested in the market.",
-   "explain_zh": "「inflow」指的是流入市場的資金。",
-   "news_title_en": "Institutions extend record buying streak as foreign funds pile into Taiwan stocks",
-   "id": "2026-08-16-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "How much did foreign investors add on the heaviest session?",
-   "options": [
-    "NT$50.9 billion",
-    "NT$75.7 billion",
-    "NT$90.8 billion",
-    "NT$46,000"
+    "Removing a barrier",
+    "Supporting or strengthening something",
+    "Ignoring the market",
+    "Increasing the price quickly"
    ],
    "answer": 1,
-   "explain_en": "The summary states foreign investors added about NT$75.7 billion on that day.",
-   "explain_zh": "摘要中說外資在當天淨買入約新台幣757億。",
-   "news_title_en": "Institutions extend record buying streak as foreign funds pile into Taiwan stocks",
-   "id": "2026-08-16-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"visibility\" mean?",
-   "options": [
-    "The ability to see clearly",
-    "The speed of production",
-    "The forecast of future orders",
-    "The amount of money earned"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"visibility\" refers to how far into the future TSMC can see or predict its order bookings.",
-   "explain_zh": "此處的「visibility」指的是台積電對未來訂單的可預見性。",
-   "news_title_en": "TSMC AI revenue seen heading toward the trillion-NT-dollar mark with visibility to 2028",
-   "id": "2026-08-16-02"
+   "explain_en": "\"Underpinning\" means providing support or a foundation, as the institutional demand supports the market.",
+   "explain_zh": "「underpinning」指的是提供支撐或基礎，這裡說機構需求支撐了市場。",
+   "news_title_en": "Institutions net-buy nearly NT$51 billion even as the TAIEX slips below 46,000",
+   "id": "2026-08-17-00"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what was TSMC's total revenue for the first half of the year?",
+   "question": "How much net foreign inflow did the institutions have in Friday's session?",
    "options": [
-    "NT$1.24 trillion",
-    "US$40 billion",
-    "NT$442.68 billion",
-    "NT$2.404 trillion"
+    "About NT$46.0 billion",
+    "About NT$40.0 billion",
+    "About NT$45.4 billion",
+    "About NT$50.9 billion"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that foreign inflows were about NT$45.4 billion, part of the total NT$50.9 billion net buying.",
+   "explain_zh": "摘要中說外資流入約為 NT$45.4 億，屬於總計 NT$50.9 億的淨買進。",
+   "news_title_en": "Institutions net-buy nearly NT$51 billion even as the TAIEX slips below 46,000",
+   "id": "2026-08-17-01"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"underscoring\" mean as used in the summary?",
+   "options": [
+    "showing clearly",
+    "selling",
+    "delaying",
+    "ignoring"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"underscoring\" means to show clearly or emphasize a point.",
+   "explain_zh": "此處的「underscoring」是指明顯地顯示或強調某件事。",
+   "news_title_en": "Morgan Stanley lifts TSMC CoWoS outlook as Nvidia and Broadcom lock in supply",
+   "id": "2026-08-17-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many CoWoS units did Nvidia reportedly raise its booking toward?",
+   "options": [
+    "about 600,000",
+    "about 800,000",
+    "about 500,000",
+    "about 700,000"
    ],
    "answer": 3,
-   "explain_en": "The summary states that first‑half revenue totalled NT$2.404 trillion.",
-   "explain_zh": "摘要中提到上半年的營收總額為新台幣2.404兆。",
-   "news_title_en": "TSMC AI revenue seen heading toward the trillion-NT-dollar mark with visibility to 2028",
-   "id": "2026-08-16-03"
+   "explain_en": "The summary states Nvidia raised its CoWoS-L booking toward 700,000 units.",
+   "explain_zh": "摘要中提到 Nvidia 把 CoWoS-L 訂單提升至約 70 萬單位。",
+   "news_title_en": "Morgan Stanley lifts TSMC CoWoS outlook as Nvidia and Broadcom lock in supply",
+   "id": "2026-08-17-03"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"rebates\" mean?",
+   "question": "What does the word \"defer\" mean as used in the text?",
    "options": [
-    "A discount given back to customers",
-    "A fee for opening an account",
-    "A new type of loan",
-    "A penalty for late payment"
+    "to do something later",
+    "to do something earlier",
+    "to cancel permanently",
+    "to ignore completely"
    ],
    "answer": 0,
-   "explain_en": "A rebate is a partial refund or discount returned to the customer after a purchase.",
-   "explain_zh": "「rebates」指的是在購買後返還給顧客的部分退款或折扣。",
-   "news_title_en": "FSC rolls out a 22-item \"financial giveback\" guideline to encourage long-term customer benefits",
-   "id": "2026-08-16-04"
+   "explain_en": "Here \"defer\" means to postpone the reporting to a later date.",
+   "explain_zh": "在文中「defer」是指把報告延後到較晚的時間。",
+   "news_title_en": "FSC eases capital and dividend pressure on insurance-linked holdcos ahead of new solvency regime",
+   "id": "2026-08-17-04"
   },
   {
    "type": "comprehension",
-   "question": "How many reference measures are listed in the guideline?",
+   "question": "How many insurance-type holdcos were allowed to postpone their capital‑adequacy reporting?",
    "options": [
-    "22",
-    "20",
-    "15",
-    "30"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states the guideline lists 22 reference measures across three dimensions.",
-   "explain_zh": "摘要中說明該指引列出了 22 項參考措施。",
-   "news_title_en": "FSC rolls out a 22-item \"financial giveback\" guideline to encourage long-term customer benefits",
-   "id": "2026-08-16-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"allocation\" mean?",
-   "options": [
-    "Giving money to a specific place or purpose",
-    "A legal contract",
-    "A market index",
-    "A type of financial loss"
-   ],
-   "answer": 0,
-   "explain_en": "Allocation means assigning or distributing wealth to a particular area, such as offshore assets.",
-   "explain_zh": "allocation 指的是把財富分配或配置到特定的地方，例如海外資產。",
-   "news_title_en": "Taiwan's ultra-wealthy grow faster than overall personal wealth, with offshore allocation now standard",
-   "id": "2026-08-16-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the study, what percentage of Taiwan's ultra‑high‑net‑worth individuals already hold overseas assets?",
-   "options": [
-    "about 10%",
-    "about 20%",
-    "about 50%",
-    "about 86%"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that about 86% already hold overseas assets.",
-   "explain_zh": "摘要中說明約有86%的超高淨值族群已持有海外資產。",
-   "news_title_en": "Taiwan's ultra-wealthy grow faster than overall personal wealth, with offshore allocation now standard",
-   "id": "2026-08-16-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"folded back\" mean?",
-   "options": [
-    "Made larger",
-    "Hidden from view",
-    "Returned to the original calculation",
-    "Ignored completely"
+    "Twenty",
+    "Fifteen",
+    "Eleven",
+    "Eight"
    ],
    "answer": 2,
-   "explain_en": "\"Folded back\" means the gifts are added again to the estate total for tax calculation.",
-   "explain_zh": "「folded back」在此指把贈與的資產重新算回遺產總額，以計算稅額。",
-   "news_title_en": "Finance Ministry clarifies how pre-death spousal gifts are folded back into estate tax",
-   "id": "2026-08-16-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the Ministry of Finance, how long before death must a gift be made to be added back into the estate for tax purposes?",
-   "options": [
-    "Within two years",
-    "Within one year",
-    "Within five years",
-    "Within ten years"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states gifts made within two years before death are added back into the estate for tax purposes.",
-   "explain_zh": "摘要說明，死亡前兩年內的贈與會被重新計入遺產稅。",
-   "news_title_en": "Finance Ministry clarifies how pre-death spousal gifts are folded back into estate tax",
-   "id": "2026-08-16-09"
+   "explain_en": "The summary states that eleven insurance-type holdcos can defer reporting from August to September.",
+   "explain_zh": "摘要中說有十一家保險類控股公司可以把報告延期到八月到九月。",
+   "news_title_en": "FSC eases capital and dividend pressure on insurance-linked holdcos ahead of new solvency regime",
+   "id": "2026-08-17-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"underpins\" mean?",
+   "question": "In the text, what does the word \"alpha\" mean?",
    "options": [
-    "supports",
-    "calculates",
-    "ignores",
-    "delays"
+    "The extra return compared to a benchmark",
+    "The total amount of assets under management",
+    "The fee charged by the fund manager",
+    "The type of investment strategy"
    ],
    "answer": 0,
-   "explain_en": "\"Underpins\" means to support or form the basis of something, here the tech demand supports the outlook.",
-   "explain_zh": "「underpins」在此指支撐、作為基礎，表示科技需求支撐了前景。",
-   "news_title_en": "Central bank sees steady growth with core inflation easing, signalling rates on hold",
-   "id": "2026-08-16-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "What growth rate does Taiwan's central bank forecast for this year?",
-   "options": [
-    "4.2%",
-    "5.0%",
-    "3.8%",
-    "2.5%"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the bank projects the economy to expand around 3.8% this year.",
-   "explain_zh": "摘要中提到央行預估今年經濟成長約 3.8%。",
-   "news_title_en": "Central bank sees steady growth with core inflation easing, signalling rates on hold",
-   "id": "2026-08-16-11"
+   "explain_en": "Alpha refers to the performance above a benchmark, showing extra return.",
+   "explain_zh": "Alpha 指的是相較於基準的超額報酬，表示額外的收益。",
+   "news_title_en": "Active ETFs near NT$500 billion in first year as Uni-President fund breaks fundraising record",
+   "id": "2026-08-17-06"
   }
  ]
 }
