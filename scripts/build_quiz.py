@@ -4,7 +4,7 @@
 每日測驗產生器（理財小幫手中英文版）
 - 讀中文版 live news.json（title_en/summary_en）→ Groq gpt-oss-120b 出題
   （每則新聞 2 題：字彙 1＋理解 1，英文選擇題）
-- 雙模型把關：llama-3.3-70b 獨立作答，答案不一致的題目剔除
+- 雙模型把關：gpt-oss-20b 獨立作答，答案不一致的題目剔除
 - 輸出 data/quiz.json；quiz 日期已等於 news 日期時直接跳過（冪等）
 - 零 Claude 用量；GROQ_API_KEY 取自環境變數，本機退回 ~/.groq_key
 - Groq 走 urllib 必帶瀏覽器 UA，否則 Cloudflare 403
@@ -20,7 +20,7 @@ import urllib.request
 NEWS_URL = "https://iriswen518-alt.github.io/morning-board/data/news.json"
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 GEN_MODEL = "openai/gpt-oss-120b"
-VERIFY_MODEL = "llama-3.3-70b-versatile"
+VERIFY_MODEL = "openai/gpt-oss-20b"
 UA = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/126.0 Safari/537.36"

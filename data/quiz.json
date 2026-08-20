@@ -1,110 +1,155 @@
 {
- "date": "2026-08-17",
+ "date": "2026-08-20",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"underpinning\" mean?",
+   "question": "In the summary, what does the word \"momentum\" mean?",
    "options": [
-    "Removing a barrier",
-    "Supporting or strengthening something",
-    "Ignoring the market",
-    "Increasing the price quickly"
+    "A steady increase in activity",
+    "A government policy",
+    "A type of financial report",
+    "A sudden drop in price"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"momentum\" refers to the continued upward movement or increasing activity in the market.",
+   "explain_zh": "在此文中「momentum」指的是市場持續向上或活動增加的趨勢。",
+   "news_title_en": "TAIEX holds near record highs around 45,300 on AI momentum",
+   "id": "2026-08-20-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the approximate trading level of Taiwan's benchmark index mentioned in the summary?",
+   "options": [
+    "Around 45,300",
+    "Around 55,200",
+    "Around 40,000",
+    "Around 50,000"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states the index is trading near the 45,300 level.",
+   "explain_zh": "摘要中提到指數大約在45,300點左右交易。",
+   "news_title_en": "TAIEX holds near record highs around 45,300 on AI momentum",
+   "id": "2026-08-20-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"visibility\" mean?",
+   "options": [
+    "The forecast of future orders",
+    "The amount of money earned",
+    "The size of the company",
+    "The ability to see clearly"
+   ],
+   "answer": 0,
+   "explain_en": "Here, \"visibility\" refers to how clearly TSMC can see its future orders, meaning they can predict demand up to 2028.",
+   "explain_zh": "在此句中「visibility」指的是 TSMC 對未來訂單的可預見性，表示他們能預測到 2028 年的需求。",
+   "news_title_en": "TSMC's AI revenue scales toward NT$1 trillion, visibility to 2028",
+   "id": "2026-08-20-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "Until what year does TSMC's order visibility currently extend?",
+   "options": [
+    "2028",
+    "2026",
+    "2025",
+    "2027"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that management cites order visibility that now extends to 2028.",
+   "explain_zh": "摘要中說明管理層提到訂單可見度已延伸至 2028 年。",
+   "news_title_en": "TSMC's AI revenue scales toward NT$1 trillion, visibility to 2028",
+   "id": "2026-08-20-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"capital relief\" mean?",
+   "options": [
+    "A penalty for late filing",
+    "A government subsidy for profits",
+    "A reduction in the amount of capital that companies must hold",
+    "A new type of insurance policy"
+   ],
+   "answer": 2,
+   "explain_en": "\"Capital relief\" refers to lowering the required capital that insurers need to keep, easing their regulatory burden.",
+   "explain_zh": "「資本寬減」是指降低保險公司必須持有的資本額，減輕其監管負擔。",
+   "news_title_en": "FSC grants capital relief to ease insurers' TIS transition",
+   "id": "2026-08-20-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many life‑insurance‑heavy financial holding companies will receive capital relief?",
+   "options": [
+    "Five",
+    "Eight",
+    "Eleven",
+    "Twenty"
    ],
    "answer": 1,
-   "explain_en": "\"Underpinning\" means providing support or a foundation, as the institutional demand supports the market.",
-   "explain_zh": "「underpinning」指的是提供支撐或基礎，這裡說機構需求支撐了市場。",
-   "news_title_en": "Institutions net-buy nearly NT$51 billion even as the TAIEX slips below 46,000",
-   "id": "2026-08-17-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "How much net foreign inflow did the institutions have in Friday's session?",
-   "options": [
-    "About NT$46.0 billion",
-    "About NT$40.0 billion",
-    "About NT$45.4 billion",
-    "About NT$50.9 billion"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that foreign inflows were about NT$45.4 billion, part of the total NT$50.9 billion net buying.",
-   "explain_zh": "摘要中說外資流入約為 NT$45.4 億，屬於總計 NT$50.9 億的淨買進。",
-   "news_title_en": "Institutions net-buy nearly NT$51 billion even as the TAIEX slips below 46,000",
-   "id": "2026-08-17-01"
+   "explain_en": "The summary states that the FSC is granting capital relief to eight life‑insurance‑heavy financial holding companies.",
+   "explain_zh": "摘要中說明金融監督管理委員會將對八家以壽險為主的金融控股公司提供資本寬減。",
+   "news_title_en": "FSC grants capital relief to ease insurers' TIS transition",
+   "id": "2026-08-20-05"
   },
   {
    "type": "vocab",
-   "question": "What does the word \"underscoring\" mean as used in the summary?",
+   "question": "In the summary, what does the word \"intensifying\" mean?",
    "options": [
-    "showing clearly",
-    "selling",
-    "delaying",
-    "ignoring"
+    "ignoring a problem",
+    "stopping an activity",
+    "increasing the strength or speed of something",
+    "making something weaker"
    ],
-   "answer": 0,
-   "explain_en": "Here \"underscoring\" means to show clearly or emphasize a point.",
-   "explain_zh": "此處的「underscoring」是指明顯地顯示或強調某件事。",
-   "news_title_en": "Morgan Stanley lifts TSMC CoWoS outlook as Nvidia and Broadcom lock in supply",
-   "id": "2026-08-17-02"
+   "answer": 2,
+   "explain_en": "\"Intensifying\" means they are increasing the strength or speed of their efforts to enter the market.",
+   "explain_zh": "「intensifying」指的是他們加大力度、加快步伐進入市場。",
+   "news_title_en": "Global banks step up push into Taiwan's ~US$8tn wealth market",
+   "id": "2026-08-20-06"
   },
   {
    "type": "comprehension",
-   "question": "How many CoWoS units did Nvidia reportedly raise its booking toward?",
+   "question": "According to the summary, what is the approximate size of Taiwan's wealth-management market?",
    "options": [
-    "about 600,000",
-    "about 800,000",
-    "about 500,000",
-    "about 700,000"
+    "US$8 billion",
+    "US$80 trillion",
+    "US$800 million",
+    "US$8 trillion"
    ],
    "answer": 3,
-   "explain_en": "The summary states Nvidia raised its CoWoS-L booking toward 700,000 units.",
-   "explain_zh": "摘要中提到 Nvidia 把 CoWoS-L 訂單提升至約 70 萬單位。",
-   "news_title_en": "Morgan Stanley lifts TSMC CoWoS outlook as Nvidia and Broadcom lock in supply",
-   "id": "2026-08-17-03"
+   "explain_en": "The summary states the market is roughly US$8 trillion.",
+   "explain_zh": "摘要中提到台灣的財富管理市場大約是8兆美元。",
+   "news_title_en": "Global banks step up push into Taiwan's ~US$8tn wealth market",
+   "id": "2026-08-20-07"
   },
   {
    "type": "vocab",
-   "question": "What does the word \"defer\" mean as used in the text?",
+   "question": "What does the word \"deemed\" mean in the phrase \"deemed estate\" as used in the text?",
    "options": [
-    "to do something later",
-    "to do something earlier",
-    "to cancel permanently",
-    "to ignore completely"
+    "ignored by law",
+    "considered legally as",
+    "sold quickly",
+    "taxed twice"
    ],
-   "answer": 0,
-   "explain_en": "Here \"defer\" means to postpone the reporting to a later date.",
-   "explain_zh": "在文中「defer」是指把報告延後到較晚的時間。",
-   "news_title_en": "FSC eases capital and dividend pressure on insurance-linked holdcos ahead of new solvency regime",
-   "id": "2026-08-17-04"
+   "answer": 1,
+   "explain_en": "In this context, \"deemed\" means that the assets are legally considered to be part of the estate for tax purposes.",
+   "explain_zh": "在此語境中，「deemed」表示這些資產在稅法上被視為遺產的一部份。",
+   "news_title_en": "New estate-tax law eases the burden on heirs",
+   "id": "2026-08-20-08"
   },
   {
    "type": "comprehension",
-   "question": "How many insurance-type holdcos were allowed to postpone their capital‑adequacy reporting?",
+   "question": "According to the summary, what is one benefit of the new estate‑tax amendment?",
    "options": [
-    "Twenty",
-    "Fifteen",
-    "Eleven",
-    "Eight"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that eleven insurance-type holdcos can defer reporting from August to September.",
-   "explain_zh": "摘要中說有十一家保險類控股公司可以把報告延期到八月到九月。",
-   "news_title_en": "FSC eases capital and dividend pressure on insurance-linked holdcos ahead of new solvency regime",
-   "id": "2026-08-17-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"alpha\" mean?",
-   "options": [
-    "The extra return compared to a benchmark",
-    "The total amount of assets under management",
-    "The fee charged by the fund manager",
-    "The type of investment strategy"
+    "It allows heirs to pay small tax bills in installments",
+    "It increases the total tax amount",
+    "It eliminates all estate taxes",
+    "It removes the need for tax advisers"
    ],
    "answer": 0,
-   "explain_en": "Alpha refers to the performance above a benchmark, showing extra return.",
-   "explain_zh": "Alpha 指的是相較於基準的超額報酬，表示額外的收益。",
-   "news_title_en": "Active ETFs near NT$500 billion in first year as Uni-President fund breaks fundraising record",
-   "id": "2026-08-17-06"
+   "explain_en": "The amendment lets small estate‑tax bills be paid in installments, easing cash‑flow strain for heirs.",
+   "explain_zh": "新法允許小額遺產稅分期付款，減輕繼承人現金流的壓力。",
+   "news_title_en": "New estate-tax law eases the burden on heirs",
+   "id": "2026-08-20-09"
   }
  ]
 }
