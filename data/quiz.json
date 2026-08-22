@@ -1,155 +1,185 @@
 {
- "date": "2026-08-21",
+ "date": "2026-08-22",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"underpin\" mean?",
+   "question": "In the summary, what does the phrase \"dip‑buying appetite\" mean?",
    "options": [
-    "ignore",
-    "criticize",
-    "delay",
-    "support"
+    "A desire to buy stocks when prices fall",
+    "An intention to avoid buying any stocks",
+    "A plan to hold cash during market drops",
+    "A wish to sell stocks during a dip"
    ],
-   "answer": 3,
-   "explain_en": "\"Underpin\" means to support or hold up something. Here it says AI hardware demand underpins the index heavyweights, i.e., it supports them.",
-   "explain_zh": "「underpin」在文中指「支撐、支持」的意思，表示 AI 硬體需求支撐了指數重點股。",
-   "news_title_en": "TAIEX consolidates near record highs as global yields bite",
-   "id": "2026-08-21-00"
+   "answer": 0,
+   "explain_en": "It means investors want to purchase shares when the market dips, expecting prices to rise later.",
+   "explain_zh": "指的是投資人在股價下跌時想要買進，期待之後上漲。",
+   "news_title_en": "TAIEX rebounds 0.65% to 45,224 as TSMC leads, institutions buy NT$32bn",
+   "id": "2026-08-22-00"
   },
   {
    "type": "comprehension",
-   "question": "After pulling back, around how many points was the TAIEX index?",
+   "question": "How much did foreign investors net buy in the market according to the summary?",
    "options": [
-    "45,500 points",
-    "44,700 points",
-    "43,200 points",
-    "46,000 points"
+    "NT$45.22 billion",
+    "NT$27.61 billion",
+    "NT$0.65 billion",
+    "NT$32.05 billion"
    ],
    "answer": 1,
-   "explain_en": "The summary states the index pulled back to roughly 44,700 points.",
-   "explain_zh": "摘要中說指數回落至大約 44,700 點。",
-   "news_title_en": "TAIEX consolidates near record highs as global yields bite",
-   "id": "2026-08-21-01"
+   "explain_en": "The summary states foreign investors alone added NT$27.61 billion.",
+   "explain_zh": "摘要中說外資單獨買入了 276.1 億新台幣。",
+   "news_title_en": "TAIEX rebounds 0.65% to 45,224 as TSMC leads, institutions buy NT$32bn",
+   "id": "2026-08-22-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"visibility\" mean?",
+   "question": "In the summary, what does the word \"harden\" mean?",
    "options": [
-    "The ability to see something clearly",
-    "The speed of production",
-    "The level of secrecy",
-    "The amount of profit earned"
+    "Make something stronger or more resistant",
+    "Reduce the size of something",
+    "Remove something completely",
+    "Make something softer or more flexible"
    ],
    "answer": 0,
-   "explain_en": "Here, \"visibility\" refers to how clearly TSMC can see future orders, i.e., the ability to anticipate demand.",
-   "explain_zh": "此處的「visibility」指的是 TSMC 能夠清楚預測未來訂單的能力，即對需求的可見度。",
-   "news_title_en": "TSMC AI revenue nears trillion mark, visibility to 2028",
-   "id": "2026-08-21-02"
+   "explain_en": "Here \"harden\" means to make the supply chain stronger and more resistant to problems.",
+   "explain_zh": "此處的「harden」是指讓供應鏈變得更堅固、抗風險。",
+   "news_title_en": "Taiwan–Japan summit pushes \"democratic\" semiconductor supply chain",
+   "id": "2026-08-22-02"
   },
   {
    "type": "comprehension",
-   "question": "Until what year does TSMC have order visibility for its AI-related revenue?",
+   "question": "According to the summary, which country is known for its strengths in materials and precision equipment?",
    "options": [
-    "2027",
+    "United States",
+    "Taiwan",
+    "Japan",
+    "South Korea"
+   ],
+   "answer": 2,
+   "explain_en": "The summary says Japan's strengths are in materials and precision equipment.",
+   "explain_zh": "摘要中提到日本在材料與精密設備方面具備優勢。",
+   "news_title_en": "Taiwan–Japan summit pushes \"democratic\" semiconductor supply chain",
+   "id": "2026-08-22-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"transparent\" mean?",
+   "options": [
+    "Expensive and risky",
+    "Hidden and confusing",
+    "Easy to understand and see clearly",
+    "Unrelated to finance"
+   ],
+   "answer": 2,
+   "explain_en": "\"Transparent\" means the information is clear and easy to understand, which is the goal of the disclosures.",
+   "explain_zh": "「transparent」指資訊清楚、易於理解，正是披露想要達到的效果。",
+   "news_title_en": "FSC pre-announces revised insurer financial-reporting rules",
+   "id": "2026-08-22-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "When is the industry expected to transition to the new solvency (TIS) and IFRS 17 regimes?",
+   "options": [
     "2026",
-    "2029",
-    "2028"
+    "2025",
+    "2027",
+    "2024"
    ],
-   "answer": 3,
-   "explain_en": "The summary states that order visibility now extends to 2028.",
-   "explain_zh": "摘要中說明訂單可見度已延伸至 2028 年。",
-   "news_title_en": "TSMC AI revenue nears trillion mark, visibility to 2028",
-   "id": "2026-08-21-03"
+   "answer": 0,
+   "explain_en": "The summary states the transition is planned for the year 2026.",
+   "explain_zh": "摘要中說明，業界預計在2026年完成新償付能力（TIS）與 IFRS 17 制度的過渡。",
+   "news_title_en": "FSC pre-announces revised insurer financial-reporting rules",
+   "id": "2026-08-22-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"reshape\" mean?",
+   "question": "In the summary, what does the phrase \"multi‑asset collateralised lending\" mean?",
    "options": [
-    "to approve a new law",
-    "to change the shape or structure of something",
-    "to increase the price of something",
-    "to hide information from the public"
+    "Lending money for buying multiple assets at once",
+    "Lending money using several types of assets as security",
+    "Lending money without any security",
+    "Lending money only to people who own many assets"
    ],
    "answer": 1,
-   "explain_en": "Here \"reshape\" means to change the structure of the life‑insurance industry.",
-   "explain_zh": "在此句中「reshape」指的是改變壽險產業的結構。",
-   "news_title_en": "FSC readies eight new rules to reshape life insurers",
-   "id": "2026-08-21-04"
+   "explain_en": "The phrase refers to loans that are backed by a pool of different kinds of assets, which are used as collateral.",
+   "explain_zh": "此片語指的是以多種資產作為擔保的貸款，這些資產會被用來作為抵押。",
+   "news_title_en": "UBS, HSBC and rivals race for Taiwan's US$8tn wealth market",
+   "id": "2026-08-22-06"
   },
   {
    "type": "comprehension",
-   "question": "When will the eight new measures announced by the FSC take effect?",
+   "question": "How large is Taiwan's wealth‑management market according to the summary?",
    "options": [
-    "Next year",
-    "In five years",
-    "Next month",
-    "Immediately"
+    "US$5 trillion",
+    "US$8 trillion",
+    "US$2 trillion",
+    "US$10 trillion"
    ],
-   "answer": 0,
-   "explain_en": "The summary states the measures will take effect next year.",
-   "explain_zh": "摘要中說明這八項新措施將於明年生效。",
-   "news_title_en": "FSC readies eight new rules to reshape life insurers",
-   "id": "2026-08-21-05"
+   "answer": 1,
+   "explain_en": "The summary states that Taiwan's wealth‑management market is worth US$8 trillion.",
+   "explain_zh": "摘要中提到台灣的財富管理市場規模為 8 兆美元。",
+   "news_title_en": "UBS, HSBC and rivals race for Taiwan's US$8tn wealth market",
+   "id": "2026-08-22-07"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"appetite\" mean?",
+   "question": "In the text, what does the word \"burden\" mean?",
    "options": [
-    "desire or interest",
-    "hunger for food",
-    "a type of investment",
-    "a financial ratio"
+    "a legal document",
+    "a financial profit",
+    "a heavy load or responsibility",
+    "a type of tax form"
    ],
-   "answer": 0,
-   "explain_en": "Here \"appetite\" refers to the desire or interest of retail and high‑net‑worth investors for packaged investment products.",
-   "explain_zh": "此處的「appetite」指的是散戶與高資產投資人對打包投資商品的需求或興趣。",
-   "news_title_en": "Taiwan's ultra-wealthy ranks swell, ETF pool tops NT$7.4tn",
-   "id": "2026-08-21-06"
+   "answer": 2,
+   "explain_en": "Here \"burden\" refers to the responsibility or weight of paying the tax.",
+   "explain_zh": "此處的「burden」指的是繳稅的負擔或責任。",
+   "news_title_en": "Estate-tax overhaul shifts \"deemed estate\" burden onto recipients",
+   "id": "2026-08-22-08"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, how many people in Taiwan are expected to hold assets above NT$100 million in 2026?",
+   "question": "According to the summary, who will pay the tax on assets gifted within two years before death?",
    "options": [
-    "about 130,000",
-    "about 118,000",
-    "about 140,000",
-    "about 124,000"
+    "The government directly",
+    "All heirs equally",
+    "The recipient of the gift",
+    "The original owner before death"
    ],
-   "answer": 3,
-   "explain_en": "The summary projects the number to be near 124,000 in 2026.",
-   "explain_zh": "摘要中預測2026年持有超過1億新台幣資產的人數約為124,000人。",
-   "news_title_en": "Taiwan's ultra-wealthy ranks swell, ETF pool tops NT$7.4tn",
-   "id": "2026-08-21-07"
+   "answer": 2,
+   "explain_en": "The amendment taxes the recipient of the gift, up to the value they received.",
+   "explain_zh": "修正案規定，受贈人在收到贈與資產時需繳稅，稅額上限為其收到的價值。",
+   "news_title_en": "Estate-tax overhaul shifts \"deemed estate\" burden onto recipients",
+   "id": "2026-08-22-09"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"deemed\" mean?",
+   "question": "What does the word \"trajectory\" mean as used in the text?",
    "options": [
-    "added",
-    "ignored",
-    "removed",
-    "considered as"
+    "A straight line",
+    "A financial report",
+    "A planned path of development",
+    "A type of computer chip"
    ],
-   "answer": 3,
-   "explain_en": "Here \"deemed\" means that the assets are considered as part of the estate for tax purposes.",
-   "explain_zh": "這裡的「deemed」是指這些資產被視為遺產的一部份，用於課稅。",
-   "news_title_en": "New estate-tax rules ease the burden on heirs",
-   "id": "2026-08-21-08"
+   "answer": 2,
+   "explain_en": "Here \"trajectory\" refers to the direction or path of economic growth.",
+   "explain_zh": "此處的「trajectory」指的是經濟成長的方向或路徑。",
+   "news_title_en": "DGBAS lifts 2026 GDP growth forecast to 9.64%",
+   "id": "2026-08-22-10"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what is one benefit of the new estate‑tax rules?",
+   "question": "What was the 2026 GDP growth forecast before the latest revision?",
    "options": [
-    "Heirs can pay small liabilities in instalments",
-    "The tax rate is increased for large estates",
-    "Beneficiaries receive more cash immediately",
-    "All assets are taxed together"
+    "7.71%",
+    "9.64%",
+    "5.20%",
+    "8.50%"
    ],
    "answer": 0,
-   "explain_en": "The summary states that even small liabilities can now be paid in instalments, making cash flow easier for families.",
-   "explain_zh": "摘要中說明，現在即使是小額負債也可以分期付款，減輕家庭的現金流壓力。",
-   "news_title_en": "New estate-tax rules ease the burden on heirs",
-   "id": "2026-08-21-09"
+   "explain_en": "The summary says the forecast was raised from 7.71% in February.",
+   "explain_zh": "摘要中說預測從二月的7.71%提升至9.64%。",
+   "news_title_en": "DGBAS lifts 2026 GDP growth forecast to 9.64%",
+   "id": "2026-08-22-11"
   }
  ]
 }
