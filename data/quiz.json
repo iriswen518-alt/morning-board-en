@@ -1,5 +1,5 @@
 {
- "date": "2026-08-23",
+ "date": "2026-08-24",
  "questions": [
   {
    "type": "vocab",
@@ -11,175 +11,130 @@
     "Changing the direction of a ship"
    ],
    "answer": 1,
-   "explain_en": "Here \"rotation\" means investors are shifting their money from one sector to another.",
-   "explain_zh": "這裡的「rotation」指的是投資人把資金從一個產業轉移到另一個產業。",
-   "news_title_en": "TAIEX jumps 291 points to 45,224 as foreign buyers pile into shippers",
-   "id": "2026-08-23-00"
+   "explain_en": "Here \"rotation\" refers to investors shifting their money from one sector to another, such as from AI stocks to cyclicals.",
+   "explain_zh": "此處的「rotation」指的是投資人把資金從一類股票轉移到另一類，例如從 AI 重點股轉向週期性產業。",
+   "news_title_en": "TAIEX closes Friday at 45,224 as foreign buyers return, reclaiming the 45,000 mark",
+   "id": "2026-08-24-00"
   },
   {
    "type": "comprehension",
-   "question": "How much did foreign investors add to the market on the second straight day of buying?",
+   "question": "How much did foreign investors net buy in the session?",
    "options": [
-    "About NT$35 million",
-    "About NT$331 billion",
-    "About NT$28 billion",
-    "About NT$45,224"
+    "NT$45,224",
+    "NT$35 million",
+    "NT$331 billion",
+    "NT$283 billion"
    ],
-   "answer": 2,
-   "explain_en": "The summary says foreign investors added roughly NT$28 billion for a second straight day.",
-   "explain_zh": "摘要中提到外資連續第二天買入，約增加了 280 億新台幣。",
-   "news_title_en": "TAIEX jumps 291 points to 45,224 as foreign buyers pile into shippers",
-   "id": "2026-08-23-01"
+   "answer": 3,
+   "explain_en": "The summary states foreign investors added roughly NT$283 billion.",
+   "explain_zh": "摘要中說外資大約買入了 2830 億新台幣。",
+   "news_title_en": "TAIEX closes Friday at 45,224 as foreign buyers return, reclaiming the 45,000 mark",
+   "id": "2026-08-24-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"compound\" mean?",
+   "question": "In the summary, what does the word \"capacity\" mean?",
    "options": [
-    "to increase steadily over time",
-    "to mix together different things",
-    "to decrease gradually",
-    "to stop completely"
+    "The cost of the product",
+    "The size of the company",
+    "The speed of the machines",
+    "The amount that can be produced"
    ],
-   "answer": 0,
-   "explain_en": "Here \"compound\" means the revenue will grow each year by adding the previous year's increase, so it rises steadily.",
-   "explain_zh": "在此句中 \"compound\" 指的是收入每年都在累積增長，會持續上升。",
-   "news_title_en": "TSMC guides to ~30% 2026 revenue growth as AI sales compound near 60%",
-   "id": "2026-08-23-02"
+   "answer": 3,
+   "explain_en": "\"Capacity\" refers to how many wafers TSMC can make each month.",
+   "explain_zh": "「capacity」指的是台積電每月能生產的晶圓數量。",
+   "news_title_en": "TSMC's 2026 CoWoS capacity sells out as Nvidia and Broadcom book most of the expansion",
+   "id": "2026-08-24-02"
   },
   {
    "type": "comprehension",
-   "question": "What annual growth rate does TSMC project for its AI-related revenue from 2024 to 2029?",
+   "question": "Which two companies have already reserved most of TSMC's new CoWoS capacity?",
    "options": [
-    "close to 100%",
-    "close to 60%",
-    "close to 30%",
-    "close to 10%"
+    "Google and AMD",
+    "Apple and Samsung",
+    "Nvidia and Broadcom",
+    "MediaTek and Intel"
    ],
-   "answer": 1,
-   "explain_en": "The summary states the AI-related revenue is expected to compound at close to 60% annually during that period.",
-   "explain_zh": "摘要中說明 AI 相關收入預計在 2024 到 2029 年間每年約成長 60%。",
-   "news_title_en": "TSMC guides to ~30% 2026 revenue growth as AI sales compound near 60%",
-   "id": "2026-08-23-03"
+   "answer": 2,
+   "explain_en": "The summary says Nvidia and Broadcom have booked most of the new capacity.",
+   "explain_zh": "摘要中指出 Nvidia 與 Broadcom 已預訂了大部分新產能。",
+   "news_title_en": "TSMC's 2026 CoWoS capacity sells out as Nvidia and Broadcom book most of the expansion",
+   "id": "2026-08-24-03"
   },
   {
    "type": "vocab",
    "question": "In the summary, what does the word \"transparency\" mean?",
    "options": [
-    "level of risk",
-    "clearness of information",
-    "speed of transactions",
-    "amount of profit"
+    "Being slow and delayed",
+    "Being clear and easy to understand",
+    "Being secretive and hidden",
+    "Being expensive and costly"
    ],
    "answer": 1,
-   "explain_en": "Transparency means the information is clear and easy to understand.",
-   "explain_zh": "透明度表示資訊清楚、易於理解。",
-   "news_title_en": "FSC refines bank and financial-holding reporting standards",
-   "id": "2026-08-23-04"
+   "explain_en": "\"Transparency\" means the information is clear, open and easy for others to see.",
+   "explain_zh": "「透明度」指的是資訊清楚、公開，讓人容易看懂。",
+   "news_title_en": "FSC refines financial-report standards for banks and financial holdings",
+   "id": "2026-08-24-04"
   },
   {
    "type": "comprehension",
-   "question": "Which institutions are affected by the new reporting standards?",
+   "question": "When did the Financial Supervisory Commission amend the preparation standards?",
    "options": [
-    "banks and financial holding companies",
-    "real estate firms",
-    "insurance companies",
-    "technology startups"
+    "In mid‑August",
+    "In early March",
+    "In January",
+    "In December"
    ],
    "answer": 0,
-   "explain_en": "The summary says the standards were amended for banks and financial holding companies.",
-   "explain_zh": "摘要中說明這些標準是針對銀行與金融控股公司修訂的。",
-   "news_title_en": "FSC refines bank and financial-holding reporting standards",
-   "id": "2026-08-23-05"
+   "explain_en": "The summary states the amendment was made in mid‑August.",
+   "explain_zh": "摘要中說明是「在八月中旬」修訂的。",
+   "news_title_en": "FSC refines financial-report standards for banks and financial holdings",
+   "id": "2026-08-24-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"allocation\" mean?",
+   "question": "In the text, what does the phrase \"ultra‑high‑net‑worth\" mean?",
    "options": [
-    "Giving money to a specific type of investment",
-    "Measuring the size of a bank",
-    "Traveling to another country",
-    "Writing a legal document"
+    "People who own many houses",
+    "People who travel a lot",
+    "People with a very large amount of money",
+    "People who work in finance"
+   ],
+   "answer": 2,
+   "explain_en": "It refers to individuals whose personal wealth is extremely high, usually measured in tens of millions of dollars or more.",
+   "explain_zh": "指的是個人財富非常龐大的人，通常是數千萬美元以上。",
+   "news_title_en": "CTBC-BCG report maps Taiwan's fast-growing ultra-high-net-worth pool",
+   "id": "2026-08-24-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, which two types of investments are split roughly evenly in the core portfolios?",
+   "options": [
+    "Equities/ETFs and bond products",
+    "Real estate and commodities",
+    "Mutual funds and savings accounts",
+    "Cryptocurrencies and gold"
    ],
    "answer": 0,
-   "explain_en": "Allocation means assigning or directing funds to a particular investment category.",
-   "explain_zh": "allocation 指的是把資金分配到特定的投資類別。",
-   "news_title_en": "Banks bullish on private markets and family offices at Asia wealth summit",
-   "id": "2026-08-23-06"
+   "explain_en": "The summary says the core portfolios are split roughly evenly between equities/ETFs and bond products.",
+   "explain_zh": "摘要中指出核心投資組合大致平均分配在股票/ETF 與債券產品上。",
+   "news_title_en": "CTBC-BCG report maps Taiwan's fast-growing ultra-high-net-worth pool",
+   "id": "2026-08-24-07"
   },
   {
    "type": "comprehension",
-   "question": "Which Taiwanese bank is mentioned as rolling out asset-pool collateralised lending?",
+   "question": "According to the summary, what happened to the rule about paying estate tax in instalments?",
    "options": [
-    "CTBC",
-    "E.Sun",
-    "Mega International",
-    "Bank of Taiwan"
+    "It was extended to more cases",
+    "It was unchanged",
+    "It was removed",
+    "It was made stricter"
    ],
-   "answer": 1,
-   "explain_en": "The summary states that domestic players including E.Sun are rolling out that service.",
-   "explain_zh": "摘要中提到包括 E.Sun 在內的本土業者正推出此服務。",
-   "news_title_en": "Banks bullish on private markets and family offices at Asia wealth summit",
-   "id": "2026-08-23-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"arbitrage\" mean?",
-   "options": [
-    "A legal way to avoid taxes",
-    "Buying and selling to profit from price differences",
-    "A type of gift given at a funeral",
-    "A method of calculating inflation"
-   ],
-   "answer": 1,
-   "explain_en": "Arbitrage is the practice of taking advantage of price differences in different markets to make a profit.",
-   "explain_zh": "套利指的是利用不同市場之間的價格差異來獲利的行為。",
-   "news_title_en": "Legislature tightens two-year deathbed-gift rules in estate-tax overhaul",
-   "id": "2026-08-23-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, who will pay the tax on gifts made within two years before death?",
-   "options": [
-    "The person who gave the gift",
-    "The government automatically",
-    "The donor’s spouse",
-    "The recipient of the gift"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that the recipient bears the tax on such gifts.",
-   "explain_zh": "摘要中說明，這類贈與的稅金由受贈人負擔。",
-   "news_title_en": "Legislature tightens two-year deathbed-gift rules in estate-tax overhaul",
-   "id": "2026-08-23-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"underpinning\" mean?",
-   "options": [
-    "criticizing or opposing something",
-    "supporting or providing a basis for something",
-    "delaying or postponing something",
-    "ignoring or overlooking something"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"underpinning\" means that AI and semiconductor demand is supporting GDP growth and corporate capex.",
-   "explain_zh": "此處的 \"underpinning\" 指的是 AI 與半導體需求在支撐 GDP 成長與企業資本支出。",
-   "news_title_en": "Taiwan exports stay red-hot as AI demand lifts electronics shipments 55.5%",
-   "id": "2026-08-23-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "By how much did Taiwan's total goods exports increase year‑on‑year in August?",
-   "options": [
-    "about 34.1%",
-    "about 20%",
-    "about 70%",
-    "about 55.5%"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that total goods exports were about 34.1% higher.",
-   "explain_zh": "摘要中說明整體貨物出口較去年同期增長約 34.1%。",
-   "news_title_en": "Taiwan exports stay red-hot as AI demand lifts electronics shipments 55.5%",
-   "id": "2026-08-23-11"
+   "answer": 2,
+   "explain_en": "The summary says the threshold for paying estate tax in instalments is removed.",
+   "explain_zh": "摘要中說，分期繳納遺產稅的門檻已被取消。",
+   "news_title_en": "Legislature overhauls deathbed-gift rules in Estate & Gift Tax Act",
+   "id": "2026-08-24-08"
   }
  ]
 }
