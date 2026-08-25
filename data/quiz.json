@@ -1,140 +1,80 @@
 {
- "date": "2026-08-24",
+ "date": "2026-08-25",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"rotation\" mean?",
+   "question": "In the summary, what does the word \"offloading\" mean?",
    "options": [
-    "Turning a page in a book",
-    "Moving money from one type of stock to another",
-    "Spinning a wheel",
-    "Changing the direction of a ship"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"rotation\" refers to investors shifting their money from one sector to another, such as from AI stocks to cyclicals.",
-   "explain_zh": "此處的「rotation」指的是投資人把資金從一類股票轉移到另一類，例如從 AI 重點股轉向週期性產業。",
-   "news_title_en": "TAIEX closes Friday at 45,224 as foreign buyers return, reclaiming the 45,000 mark",
-   "id": "2026-08-24-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "How much did foreign investors net buy in the session?",
-   "options": [
-    "NT$45,224",
-    "NT$35 million",
-    "NT$331 billion",
-    "NT$283 billion"
+    "borrowing",
+    "holding",
+    "buying",
+    "selling"
    ],
    "answer": 3,
-   "explain_en": "The summary states foreign investors added roughly NT$283 billion.",
-   "explain_zh": "摘要中說外資大約買入了 2830 億新台幣。",
-   "news_title_en": "TAIEX closes Friday at 45,224 as foreign buyers return, reclaiming the 45,000 mark",
-   "id": "2026-08-24-01"
+   "explain_en": "Here \"offloading\" refers to foreign investors selling their holdings.",
+   "explain_zh": "在文中「offloading」是指外資賣出持有的股票。",
+   "news_title_en": "TAIEX slides 1% on Monday, losing 45,000 and its quarterly line as foreign investors turn sellers",
+   "id": "2026-08-25-00"
   },
   {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"capacity\" mean?",
+   "type": "comprehension",
+   "question": "How much did foreign investors sell on that day?",
    "options": [
-    "The cost of the product",
-    "The size of the company",
-    "The speed of the machines",
-    "The amount that can be produced"
+    "about NT$45,000",
+    "about NT$163.8 billion",
+    "about NT$651.9 billion",
+    "about NT$157.5 billion"
    ],
    "answer": 3,
-   "explain_en": "\"Capacity\" refers to how many wafers TSMC can make each month.",
-   "explain_zh": "「capacity」指的是台積電每月能生產的晶圓數量。",
-   "news_title_en": "TSMC's 2026 CoWoS capacity sells out as Nvidia and Broadcom book most of the expansion",
-   "id": "2026-08-24-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "Which two companies have already reserved most of TSMC's new CoWoS capacity?",
-   "options": [
-    "Google and AMD",
-    "Apple and Samsung",
-    "Nvidia and Broadcom",
-    "MediaTek and Intel"
-   ],
-   "answer": 2,
-   "explain_en": "The summary says Nvidia and Broadcom have booked most of the new capacity.",
-   "explain_zh": "摘要中指出 Nvidia 與 Broadcom 已預訂了大部分新產能。",
-   "news_title_en": "TSMC's 2026 CoWoS capacity sells out as Nvidia and Broadcom book most of the expansion",
-   "id": "2026-08-24-03"
+   "explain_en": "The summary states foreign investors offloaded about NT$157.5 billion.",
+   "explain_zh": "摘要中說外資賣出約新台幣 157.5 億元。",
+   "news_title_en": "TAIEX slides 1% on Monday, losing 45,000 and its quarterly line as foreign investors turn sellers",
+   "id": "2026-08-25-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"transparency\" mean?",
+   "question": "In the summary, what does the word \"aggressive\" mean?",
    "options": [
-    "Being slow and delayed",
-    "Being clear and easy to understand",
-    "Being secretive and hidden",
-    "Being expensive and costly"
+    "friendly",
+    "unimportant",
+    "very active and ambitious",
+    "slow and cautious"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"aggressive\" describes a fast, ambitious build‑out of capacity.",
+   "explain_zh": "此處的「aggressive」指的是快速且有野心的擴建。",
+   "news_title_en": "TSMC's CoWoS advanced-packaging capacity set to more than double as AI demand runs hot",
+   "id": "2026-08-25-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "By the end of 2027, how many wafers per month is TSMC's CoWoS capacity expected to reach?",
+   "options": [
+    "90,000-95,000",
+    "100,000-105,000",
+    "80,000-85,000",
+    "70,000-75,000"
    ],
    "answer": 1,
-   "explain_en": "\"Transparency\" means the information is clear, open and easy for others to see.",
-   "explain_zh": "「透明度」指的是資訊清楚、公開，讓人容易看懂。",
-   "news_title_en": "FSC refines financial-report standards for banks and financial holdings",
-   "id": "2026-08-24-04"
+   "explain_en": "The summary states the capacity will be 100,000‑105,000 wafers per month by the end of 2027.",
+   "explain_zh": "摘要中說明到2027年底，TSMC 的 CoWoS 月產能將達到 100,000‑105,000 片。",
+   "news_title_en": "TSMC's CoWoS advanced-packaging capacity set to more than double as AI demand runs hot",
+   "id": "2026-08-25-03"
   },
   {
    "type": "comprehension",
-   "question": "When did the Financial Supervisory Commission amend the preparation standards?",
+   "question": "On what date did the Financial Supervisory Commission amend the preparation standards?",
    "options": [
-    "In mid‑August",
-    "In early March",
-    "In January",
-    "In December"
+    "July 18",
+    "September 18",
+    "October 18",
+    "August 18"
    ],
-   "answer": 0,
-   "explain_en": "The summary states the amendment was made in mid‑August.",
-   "explain_zh": "摘要中說明是「在八月中旬」修訂的。",
-   "news_title_en": "FSC refines financial-report standards for banks and financial holdings",
-   "id": "2026-08-24-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the phrase \"ultra‑high‑net‑worth\" mean?",
-   "options": [
-    "People who own many houses",
-    "People who travel a lot",
-    "People with a very large amount of money",
-    "People who work in finance"
-   ],
-   "answer": 2,
-   "explain_en": "It refers to individuals whose personal wealth is extremely high, usually measured in tens of millions of dollars or more.",
-   "explain_zh": "指的是個人財富非常龐大的人，通常是數千萬美元以上。",
-   "news_title_en": "CTBC-BCG report maps Taiwan's fast-growing ultra-high-net-worth pool",
-   "id": "2026-08-24-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, which two types of investments are split roughly evenly in the core portfolios?",
-   "options": [
-    "Equities/ETFs and bond products",
-    "Real estate and commodities",
-    "Mutual funds and savings accounts",
-    "Cryptocurrencies and gold"
-   ],
-   "answer": 0,
-   "explain_en": "The summary says the core portfolios are split roughly evenly between equities/ETFs and bond products.",
-   "explain_zh": "摘要中指出核心投資組合大致平均分配在股票/ETF 與債券產品上。",
-   "news_title_en": "CTBC-BCG report maps Taiwan's fast-growing ultra-high-net-worth pool",
-   "id": "2026-08-24-07"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what happened to the rule about paying estate tax in instalments?",
-   "options": [
-    "It was extended to more cases",
-    "It was unchanged",
-    "It was removed",
-    "It was made stricter"
-   ],
-   "answer": 2,
-   "explain_en": "The summary says the threshold for paying estate tax in instalments is removed.",
-   "explain_zh": "摘要中說，分期繳納遺產稅的門檻已被取消。",
-   "news_title_en": "Legislature overhauls deathbed-gift rules in Estate & Gift Tax Act",
-   "id": "2026-08-24-08"
+   "answer": 3,
+   "explain_en": "The summary states the amendment was made on Aug 18.",
+   "explain_zh": "摘要中說明修訂是在 8 月 18 日完成的。",
+   "news_title_en": "FSC amends financial-report preparation standards for financial holdings and banks",
+   "id": "2026-08-25-04"
   }
  ]
 }
