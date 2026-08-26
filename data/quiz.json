@@ -1,80 +1,125 @@
 {
- "date": "2026-08-25",
+ "date": "2026-08-26",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"offloading\" mean?",
+   "question": "In the summary, what does the word \"rebound\" mean?",
    "options": [
-    "borrowing",
-    "holding",
-    "buying",
-    "selling"
+    "to recover after a decline",
+    "to fall sharply",
+    "to stay unchanged",
+    "to close early"
    ],
-   "answer": 3,
-   "explain_en": "Here \"offloading\" refers to foreign investors selling their holdings.",
-   "explain_zh": "在文中「offloading」是指外資賣出持有的股票。",
-   "news_title_en": "TAIEX slides 1% on Monday, losing 45,000 and its quarterly line as foreign investors turn sellers",
-   "id": "2026-08-25-00"
+   "answer": 0,
+   "explain_en": "Here \"rebound\" describes the index moving up again after it had dropped.",
+   "explain_zh": "這裡的「rebound」指的是指數在下跌後再次上升。",
+   "news_title_en": "TAIEX rebounds 407 points on Tuesday, reclaiming 45,000 and its quarterly line",
+   "id": "2026-08-26-00"
   },
   {
    "type": "comprehension",
-   "question": "How much did foreign investors sell on that day?",
+   "question": "Which company's quarterly results were mentioned as a major upcoming catalyst?",
    "options": [
-    "about NT$45,000",
-    "about NT$163.8 billion",
-    "about NT$651.9 billion",
-    "about NT$157.5 billion"
+    "Microsoft",
+    "Nvidia",
+    "Apple",
+    "Samsung"
    ],
-   "answer": 3,
-   "explain_en": "The summary states foreign investors offloaded about NT$157.5 billion.",
-   "explain_zh": "摘要中說外資賣出約新台幣 157.5 億元。",
-   "news_title_en": "TAIEX slides 1% on Monday, losing 45,000 and its quarterly line as foreign investors turn sellers",
-   "id": "2026-08-25-01"
+   "answer": 1,
+   "explain_en": "The summary says investors were positioned ahead of Nvidia's quarterly results due after the US close on Wednesday.",
+   "explain_zh": "摘要指出投資人正等待 Nvidia 在美國收盤後公佈的季報，視為重要催化劑。",
+   "news_title_en": "TAIEX rebounds 407 points on Tuesday, reclaiming 45,000 and its quarterly line",
+   "id": "2026-08-26-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"aggressive\" mean?",
+   "question": "In the text, what does the word \"nudged\" mean?",
    "options": [
-    "friendly",
-    "unimportant",
-    "very active and ambitious",
-    "slow and cautious"
+    "canceled",
+    "ignored",
+    "pushed gently",
+    "reduced sharply"
    ],
    "answer": 2,
-   "explain_en": "Here \"aggressive\" describes a fast, ambitious build‑out of capacity.",
-   "explain_zh": "此處的「aggressive」指的是快速且有野心的擴建。",
-   "news_title_en": "TSMC's CoWoS advanced-packaging capacity set to more than double as AI demand runs hot",
-   "id": "2026-08-25-02"
+   "explain_en": "Here \"nudged\" means to move or push something a little higher, i.e., TSMC raised its revenue guidance a bit.",
+   "explain_zh": "在文中「nudged」指的是稍微推高，表示台積電把營收指引略微上調。",
+   "news_title_en": "TSMC lifts capex toward US$60-64 billion as AI demand powers the whole chain",
+   "id": "2026-08-26-02"
   },
   {
    "type": "comprehension",
-   "question": "By the end of 2027, how many wafers per month is TSMC's CoWoS capacity expected to reach?",
+   "question": "What is the new range of TSMC's 2026 capital‑expenditure plan?",
    "options": [
-    "90,000-95,000",
-    "100,000-105,000",
-    "80,000-85,000",
-    "70,000-75,000"
+    "US$52‑56 billion",
+    "US$60‑64 billion",
+    "US$70‑74 billion",
+    "US$40‑44 billion"
    ],
    "answer": 1,
-   "explain_en": "The summary states the capacity will be 100,000‑105,000 wafers per month by the end of 2027.",
-   "explain_zh": "摘要中說明到2027年底，TSMC 的 CoWoS 月產能將達到 100,000‑105,000 片。",
-   "news_title_en": "TSMC's CoWoS advanced-packaging capacity set to more than double as AI demand runs hot",
-   "id": "2026-08-25-03"
+   "explain_en": "The summary says TSMC raised its 2026 capex plan to about US$60‑64 billion.",
+   "explain_zh": "摘要中說明台積電把 2026 年資本支出計畫提升至大約 600‑640 億美元。",
+   "news_title_en": "TSMC lifts capex toward US$60-64 billion as AI demand powers the whole chain",
+   "id": "2026-08-26-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"optimise\" mean?",
+   "options": [
+    "Ignore the details",
+    "Make something worse",
+    "Delay the process",
+    "Make something as good as possible"
+   ],
+   "answer": 3,
+   "explain_en": "\"Optimise\" means to improve something to make it as effective or efficient as possible.",
+   "explain_zh": "「optimise」是指把事物改善到最有效或最好的狀態。",
+   "news_title_en": "FSC refines insurance financial-report and non-performing-asset rules",
+   "id": "2026-08-26-04"
   },
   {
    "type": "comprehension",
-   "question": "On what date did the Financial Supervisory Commission amend the preparation standards?",
+   "question": "According to the summary, what is the purpose of the new rules for insurers?",
    "options": [
-    "July 18",
-    "September 18",
-    "October 18",
-    "August 18"
+    "To eliminate all non-performing assets",
+    "To improve transparency and comparability of financial reports",
+    "To reduce the number of insurers",
+    "To increase profits quickly"
    ],
-   "answer": 3,
-   "explain_en": "The summary states the amendment was made on Aug 18.",
-   "explain_zh": "摘要中說明修訂是在 8 月 18 日完成的。",
-   "news_title_en": "FSC amends financial-report preparation standards for financial holdings and banks",
-   "id": "2026-08-25-04"
+   "answer": 1,
+   "explain_en": "The summary says the rules aim to optimise presentation and disclosure for greater transparency and comparability.",
+   "explain_zh": "摘要指出，這些規則的目的是優化報表呈現與揭露，以提升透明度與可比性。",
+   "news_title_en": "FSC refines insurance financial-report and non-performing-asset rules",
+   "id": "2026-08-26-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"allocation\" mean?",
+   "options": [
+    "A plan for how money is used",
+    "A legal document",
+    "A weather forecast",
+    "A type of stock exchange"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"allocation\" refers to how investors decide to put their money into different assets.",
+   "explain_zh": "這裡的「allocation」指的是投資人如何分配資金到不同的投資標的。",
+   "news_title_en": "August ETF payout wave rolls on as 00878 tops NT$1 per unit for the first time",
+   "id": "2026-08-26-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the per‑unit payout of Cathay Sustainability High Dividend (00878) in August?",
+   "options": [
+    "NT$0.66",
+    "NT$1.53",
+    "NT$1.01",
+    "NT$0.78"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the payout was lifted to NT$1.01 per unit.",
+   "explain_zh": "摘要中說明該ETF的每單位配息提升至 NT$1.01。",
+   "news_title_en": "August ETF payout wave rolls on as 00878 tops NT$1 per unit for the first time",
+   "id": "2026-08-26-07"
   }
  ]
 }
