@@ -1,125 +1,155 @@
 {
- "date": "2026-08-26",
+ "date": "2026-08-27",
  "questions": [
   {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"rebound\" mean?",
-   "options": [
-    "to recover after a decline",
-    "to fall sharply",
-    "to stay unchanged",
-    "to close early"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"rebound\" describes the index moving up again after it had dropped.",
-   "explain_zh": "這裡的「rebound」指的是指數在下跌後再次上升。",
-   "news_title_en": "TAIEX rebounds 407 points on Tuesday, reclaiming 45,000 and its quarterly line",
-   "id": "2026-08-26-00"
-  },
-  {
    "type": "comprehension",
-   "question": "Which company's quarterly results were mentioned as a major upcoming catalyst?",
+   "question": "By how many points did the TAIEX close higher on August 26?",
    "options": [
-    "Microsoft",
-    "Nvidia",
-    "Apple",
-    "Samsung"
-   ],
-   "answer": 1,
-   "explain_en": "The summary says investors were positioned ahead of Nvidia's quarterly results due after the US close on Wednesday.",
-   "explain_zh": "摘要指出投資人正等待 Nvidia 在美國收盤後公佈的季報，視為重要催化劑。",
-   "news_title_en": "TAIEX rebounds 407 points on Tuesday, reclaiming 45,000 and its quarterly line",
-   "id": "2026-08-26-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"nudged\" mean?",
-   "options": [
-    "canceled",
-    "ignored",
-    "pushed gently",
-    "reduced sharply"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"nudged\" means to move or push something a little higher, i.e., TSMC raised its revenue guidance a bit.",
-   "explain_zh": "在文中「nudged」指的是稍微推高，表示台積電把營收指引略微上調。",
-   "news_title_en": "TSMC lifts capex toward US$60-64 billion as AI demand powers the whole chain",
-   "id": "2026-08-26-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the new range of TSMC's 2026 capital‑expenditure plan?",
-   "options": [
-    "US$52‑56 billion",
-    "US$60‑64 billion",
-    "US$70‑74 billion",
-    "US$40‑44 billion"
-   ],
-   "answer": 1,
-   "explain_en": "The summary says TSMC raised its 2026 capex plan to about US$60‑64 billion.",
-   "explain_zh": "摘要中說明台積電把 2026 年資本支出計畫提升至大約 600‑640 億美元。",
-   "news_title_en": "TSMC lifts capex toward US$60-64 billion as AI demand powers the whole chain",
-   "id": "2026-08-26-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"optimise\" mean?",
-   "options": [
-    "Ignore the details",
-    "Make something worse",
-    "Delay the process",
-    "Make something as good as possible"
+    "about 2,415 points",
+    "about 804 points",
+    "about 450 points",
+    "about 663 points"
    ],
    "answer": 3,
-   "explain_en": "\"Optimise\" means to improve something to make it as effective or efficient as possible.",
-   "explain_zh": "「optimise」是指把事物改善到最有效或最好的狀態。",
-   "news_title_en": "FSC refines insurance financial-report and non-performing-asset rules",
-   "id": "2026-08-26-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what is the purpose of the new rules for insurers?",
-   "options": [
-    "To eliminate all non-performing assets",
-    "To improve transparency and comparability of financial reports",
-    "To reduce the number of insurers",
-    "To increase profits quickly"
-   ],
-   "answer": 1,
-   "explain_en": "The summary says the rules aim to optimise presentation and disclosure for greater transparency and comparability.",
-   "explain_zh": "摘要指出，這些規則的目的是優化報表呈現與揭露，以提升透明度與可比性。",
-   "news_title_en": "FSC refines insurance financial-report and non-performing-asset rules",
-   "id": "2026-08-26-05"
+   "explain_en": "The summary says the index closed up about 663 points.",
+   "explain_zh": "摘要中說指數收盤上漲約 663 點。",
+   "news_title_en": "TAIEX surges 663 points to reclaim 45,000 as chip heavyweights rally",
+   "id": "2026-08-27-00"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"allocation\" mean?",
+   "question": "In the summary, what does the word \"bottlenecks\" mean?",
    "options": [
-    "A plan for how money is used",
-    "A legal document",
-    "A weather forecast",
-    "A type of stock exchange"
+    "Things that speed up the process",
+    "Points where progress is slowed or blocked",
+    "Ways to increase supply",
+    "Methods to improve efficiency"
    ],
-   "answer": 0,
-   "explain_en": "Here \"allocation\" refers to how investors decide to put their money into different assets.",
-   "explain_zh": "這裡的「allocation」指的是投資人如何分配資金到不同的投資標的。",
-   "news_title_en": "August ETF payout wave rolls on as 00878 tops NT$1 per unit for the first time",
-   "id": "2026-08-26-06"
+   "answer": 1,
+   "explain_en": "A bottleneck is a point that restricts flow, causing delays or limits in production.",
+   "explain_zh": "瓶頸指的是限制流程、造成產能受阻的環節。",
+   "news_title_en": "Morgan Stanley stays bullish on 2026 AI semiconductors, flags memory and racks as bottlenecks",
+   "id": "2026-08-27-01"
   },
   {
    "type": "comprehension",
-   "question": "What was the per‑unit payout of Cathay Sustainability High Dividend (00878) in August?",
+   "question": "According to the summary, which area is NOT expected to face supply constraints in the 2026 AI semiconductor cycle?",
    "options": [
-    "NT$0.66",
-    "NT$1.53",
-    "NT$1.01",
-    "NT$0.78"
+    "High‑bandwidth memory",
+    "TSMC's wafer capacity",
+    "Server racks",
+    "Specialty memory"
+   ],
+   "answer": 1,
+   "explain_en": "The text says supply constraints will appear in specialty memory and server racks, not in TSMC's wafer capacity.",
+   "explain_zh": "文章指出供應限制會出現在特殊記憶體與伺服器機架，而非台積電的晶圓產能。",
+   "news_title_en": "Morgan Stanley stays bullish on 2026 AI semiconductors, flags memory and racks as bottlenecks",
+   "id": "2026-08-27-02"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"nudging\" mean?",
+   "options": [
+    "Ignoring completely",
+    "Celebrating loudly",
+    "Encouraging gently",
+    "Forcing abruptly"
    ],
    "answer": 2,
-   "explain_en": "The summary states the payout was lifted to NT$1.01 per unit.",
-   "explain_zh": "摘要中說明該ETF的每單位配息提升至 NT$1.01。",
-   "news_title_en": "August ETF payout wave rolls on as 00878 tops NT$1 per unit for the first time",
-   "id": "2026-08-26-07"
+   "explain_en": "\"Nudging\" means encouraging someone to do something in a gentle or subtle way.",
+   "explain_zh": "「nudging」指的是以柔和或微妙的方式鼓勵對方做事。",
+   "news_title_en": "FSC previews eight new systems for 2026, pushing life insurers toward a full transformation",
+   "id": "2026-08-27-03"
+  },
+  {
+   "type": "comprehension",
+   "question": "When will the eight new rules take effect?",
+   "options": [
+    "In 2025",
+    "In 2028",
+    "Next month",
+    "Next year"
+   ],
+   "answer": 3,
+   "explain_en": "The summary says the rules will take effect next year, which is 2026.",
+   "explain_zh": "摘要中說這八項新規則將於明年生效，也就是2026年。",
+   "news_title_en": "FSC previews eight new systems for 2026, pushing life insurers toward a full transformation",
+   "id": "2026-08-27-04"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the phrase \"alternative-asset allocation\" mean?",
+   "options": [
+    "Buying only government bonds",
+    "Saving cash in a checking account",
+    "Spreading money evenly across all bank branches",
+    "Investing in non-traditional assets like private equity and hedge funds"
+   ],
+   "answer": 3,
+   "explain_en": "It refers to putting money into assets that are not typical stocks or bonds, such as private equity, private credit, and hedge funds.",
+   "explain_zh": "指的是將資金投入非傳統的資產，如私募股權、私募信貸與對沖基金等。",
+   "news_title_en": "Banks urge wider alternative-asset build-out and deeper cross-border wealth services",
+   "id": "2026-08-27-05"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, which types of alternative investments are still missing in Taiwan's market?",
+   "options": [
+    "Real estate, gold, and government bonds",
+    "Private equity, private credit, hedge funds, and external asset-manager mandates",
+    "Cryptocurrencies and NFTs",
+    "Mutual funds and savings accounts"
+   ],
+   "answer": 1,
+   "explain_en": "The summary lists private equity, private credit, hedge funds, and external asset-manager mandates as the lacking alternatives.",
+   "explain_zh": "摘要中提到台灣市場缺少私募股權、私募信貸、對沖基金以及外部資產管理人的委託。",
+   "news_title_en": "Banks urge wider alternative-asset build-out and deeper cross-border wealth services",
+   "id": "2026-08-27-06"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"aggregating\" mean as used in the text?",
+   "options": [
+    "Ignoring",
+    "Separating",
+    "Adding together",
+    "Estimating"
+   ],
+   "answer": 2,
+   "explain_en": "Here it means to add the inherited holding period to the decedent's period.",
+   "explain_zh": "在此指把繼承的持有期間加到亡者的持有期間上。",
+   "news_title_en": "Inherited jointly-built housing can combine the decedent's land holding period under House-Land Tax 2.0",
+   "id": "2026-08-27-07"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, when can the holding period of an inherited house be combined with the decedent's period?",
+   "options": [
+    "When the house is sold on or after Jan 1, 2016",
+    "Only for houses built before 2000",
+    "When the buyer is a foreign investor",
+    "Only for rental properties"
+   ],
+   "answer": 0,
+   "explain_en": "The tax rule applies to houses sold on or after Jan 1, 2016, including self-built, joint-build, or urban‑renewal property.",
+   "explain_zh": "稅法規定，於 2016 年 1 月 1 日或之後出售的繼承房屋（自建、合建或都市更新分割房）可合併持有期間。",
+   "news_title_en": "Inherited jointly-built housing can combine the decedent's land holding period under House-Land Tax 2.0",
+   "id": "2026-08-27-08"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"boom\" mean?",
+   "options": [
+    "A type of financial instrument",
+    "A loud noise",
+    "A sudden increase or rapid growth",
+    "A government policy"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"boom\" refers to a sudden increase or rapid growth, describing the fast expansion of AI infrastructure.",
+   "explain_zh": "這裡的「boom」指的是快速的增長或擴大，形容 AI 基礎建設的迅速發展。",
+   "news_title_en": "AI-led exports drive Taiwan's 2026 growth forecast sharply higher",
+   "id": "2026-08-27-09"
   }
  ]
 }
