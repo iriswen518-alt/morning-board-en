@@ -1,155 +1,185 @@
 {
- "date": "2026-08-27",
+ "date": "2026-08-28",
  "questions": [
   {
-   "type": "comprehension",
-   "question": "By how many points did the TAIEX close higher on August 26?",
+   "type": "vocab",
+   "question": "In the summary, what does the word \"parsing\" mean?",
    "options": [
-    "about 2,415 points",
-    "about 804 points",
-    "about 450 points",
-    "about 663 points"
+    "to reduce the price",
+    "to narrow the price movement after a rise",
+    "to decrease the index value",
+    "to cut the trading volume"
    ],
-   "answer": 3,
-   "explain_en": "The summary says the index closed up about 663 points.",
-   "explain_zh": "摘要中說指數收盤上漲約 663 點。",
-   "news_title_en": "TAIEX surges 663 points to reclaim 45,000 as chip heavyweights rally",
-   "id": "2026-08-27-00"
+   "answer": 1,
+   "explain_en": "Here \"paring\" means the index narrowed its rise, moving down a bit after the earlier surge.",
+   "explain_zh": "此處的「paring」指的是指數在先前上漲後稍微回落，收窄漲幅。",
+   "news_title_en": "TAIEX ends up 0.31% at 45,975 as Nvidia earnings lift chip names",
+   "id": "2026-08-28-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much did the three major institutional investors buy in net value?",
+   "options": [
+    "142.6 points",
+    "0.31%",
+    "NT$64.3 billion",
+    "NT$924.7 billion"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the three major institutional investors were net buyers of roughly NT$64.3 billion.",
+   "explain_zh": "摘要中說明三大機構投資人淨買進約新台幣 643 億元。",
+   "news_title_en": "TAIEX ends up 0.31% at 45,975 as Nvidia earnings lift chip names",
+   "id": "2026-08-28-01"
   },
   {
    "type": "vocab",
    "question": "In the summary, what does the word \"bottlenecks\" mean?",
    "options": [
     "Things that speed up the process",
-    "Points where progress is slowed or blocked",
-    "Ways to increase supply",
-    "Methods to improve efficiency"
+    "Obstacles that slow down progress",
+    "Ways to increase profit",
+    "Methods of marketing"
    ],
    "answer": 1,
-   "explain_en": "A bottleneck is a point that restricts flow, causing delays or limits in production.",
-   "explain_zh": "瓶頸指的是限制流程、造成產能受阻的環節。",
-   "news_title_en": "Morgan Stanley stays bullish on 2026 AI semiconductors, flags memory and racks as bottlenecks",
-   "id": "2026-08-27-01"
+   "explain_en": "\"Bottlenecks\" are obstacles that slow down or limit the flow of something, here the AI supply chain.",
+   "explain_zh": "「bottlenecks」指的是阻礙或減緩流程的障礙，在文中指 AI 供應鏈的限制。",
+   "news_title_en": "TSMC's AI revenue heads toward NT$1 trillion with visibility into 2028",
+   "id": "2026-08-28-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, which area is NOT expected to face supply constraints in the 2026 AI semiconductor cycle?",
+   "question": "According to the summary, until what year does TSMC have order visibility for AI-related revenue?",
    "options": [
-    "High‑bandwidth memory",
-    "TSMC's wafer capacity",
-    "Server racks",
-    "Specialty memory"
-   ],
-   "answer": 1,
-   "explain_en": "The text says supply constraints will appear in specialty memory and server racks, not in TSMC's wafer capacity.",
-   "explain_zh": "文章指出供應限制會出現在特殊記憶體與伺服器機架，而非台積電的晶圓產能。",
-   "news_title_en": "Morgan Stanley stays bullish on 2026 AI semiconductors, flags memory and racks as bottlenecks",
-   "id": "2026-08-27-02"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"nudging\" mean?",
-   "options": [
-    "Ignoring completely",
-    "Celebrating loudly",
-    "Encouraging gently",
-    "Forcing abruptly"
-   ],
-   "answer": 2,
-   "explain_en": "\"Nudging\" means encouraging someone to do something in a gentle or subtle way.",
-   "explain_zh": "「nudging」指的是以柔和或微妙的方式鼓勵對方做事。",
-   "news_title_en": "FSC previews eight new systems for 2026, pushing life insurers toward a full transformation",
-   "id": "2026-08-27-03"
-  },
-  {
-   "type": "comprehension",
-   "question": "When will the eight new rules take effect?",
-   "options": [
-    "In 2025",
-    "In 2028",
-    "Next month",
-    "Next year"
-   ],
-   "answer": 3,
-   "explain_en": "The summary says the rules will take effect next year, which is 2026.",
-   "explain_zh": "摘要中說這八項新規則將於明年生效，也就是2026年。",
-   "news_title_en": "FSC previews eight new systems for 2026, pushing life insurers toward a full transformation",
-   "id": "2026-08-27-04"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the phrase \"alternative-asset allocation\" mean?",
-   "options": [
-    "Buying only government bonds",
-    "Saving cash in a checking account",
-    "Spreading money evenly across all bank branches",
-    "Investing in non-traditional assets like private equity and hedge funds"
-   ],
-   "answer": 3,
-   "explain_en": "It refers to putting money into assets that are not typical stocks or bonds, such as private equity, private credit, and hedge funds.",
-   "explain_zh": "指的是將資金投入非傳統的資產，如私募股權、私募信貸與對沖基金等。",
-   "news_title_en": "Banks urge wider alternative-asset build-out and deeper cross-border wealth services",
-   "id": "2026-08-27-05"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, which types of alternative investments are still missing in Taiwan's market?",
-   "options": [
-    "Real estate, gold, and government bonds",
-    "Private equity, private credit, hedge funds, and external asset-manager mandates",
-    "Cryptocurrencies and NFTs",
-    "Mutual funds and savings accounts"
-   ],
-   "answer": 1,
-   "explain_en": "The summary lists private equity, private credit, hedge funds, and external asset-manager mandates as the lacking alternatives.",
-   "explain_zh": "摘要中提到台灣市場缺少私募股權、私募信貸、對沖基金以及外部資產管理人的委託。",
-   "news_title_en": "Banks urge wider alternative-asset build-out and deeper cross-border wealth services",
-   "id": "2026-08-27-06"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the word \"aggregating\" mean as used in the text?",
-   "options": [
-    "Ignoring",
-    "Separating",
-    "Adding together",
-    "Estimating"
-   ],
-   "answer": 2,
-   "explain_en": "Here it means to add the inherited holding period to the decedent's period.",
-   "explain_zh": "在此指把繼承的持有期間加到亡者的持有期間上。",
-   "news_title_en": "Inherited jointly-built housing can combine the decedent's land holding period under House-Land Tax 2.0",
-   "id": "2026-08-27-07"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, when can the holding period of an inherited house be combined with the decedent's period?",
-   "options": [
-    "When the house is sold on or after Jan 1, 2016",
-    "Only for houses built before 2000",
-    "When the buyer is a foreign investor",
-    "Only for rental properties"
+    "2028",
+    "2025",
+    "2027",
+    "2026"
    ],
    "answer": 0,
-   "explain_en": "The tax rule applies to houses sold on or after Jan 1, 2016, including self-built, joint-build, or urban‑renewal property.",
-   "explain_zh": "稅法規定，於 2016 年 1 月 1 日或之後出售的繼承房屋（自建、合建或都市更新分割房）可合併持有期間。",
-   "news_title_en": "Inherited jointly-built housing can combine the decedent's land holding period under House-Land Tax 2.0",
-   "id": "2026-08-27-08"
+   "explain_en": "The summary states that order visibility now stretches to 2028.",
+   "explain_zh": "摘要中說明，TSMC 的訂單可見度已延伸至 2028 年。",
+   "news_title_en": "TSMC's AI revenue heads toward NT$1 trillion with visibility into 2028",
+   "id": "2026-08-28-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"boom\" mean?",
+   "question": "What does the word \"liabilities\" mean as used in the text?",
    "options": [
-    "A type of financial instrument",
-    "A loud noise",
-    "A sudden increase or rapid growth",
-    "A government policy"
+    "The number of employees",
+    "The profit the company makes",
+    "Money the company owns",
+    "Money that the company owes"
    ],
-   "answer": 2,
-   "explain_en": "Here \"boom\" refers to a sudden increase or rapid growth, describing the fast expansion of AI infrastructure.",
-   "explain_zh": "這裡的「boom」指的是快速的增長或擴大，形容 AI 基礎建設的迅速發展。",
-   "news_title_en": "AI-led exports drive Taiwan's 2026 growth forecast sharply higher",
-   "id": "2026-08-27-09"
+   "answer": 3,
+   "explain_en": "In finance, liabilities are obligations or debts that a company must pay.",
+   "explain_zh": "在金融領域，liabilities 指的是公司必須償還的債務或義務。",
+   "news_title_en": "FSC unveils eight new 2026 rules as life insurers brace for a major overhaul",
+   "id": "2026-08-28-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "When must listed companies upload shareholder-meeting handbooks and annual reports according to the new rules?",
+   "options": [
+    "From January 2025",
+    "From July 2026",
+    "From December 2025",
+    "From January 2026"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that from January all listed companies must upload these documents earlier.",
+   "explain_zh": "摘要中說明，從一月開始，所有上市公司必須提前上傳股東會手冊和年報。",
+   "news_title_en": "FSC unveils eight new 2026 rules as life insurers brace for a major overhaul",
+   "id": "2026-08-28-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"alpha\" mean?",
+   "options": [
+    "The extra return earned above a benchmark",
+    "The total amount of assets under management",
+    "A type of stock market index",
+    "The risk level of a fund"
+   ],
+   "answer": 0,
+   "explain_en": "\"Alpha\" refers to the performance of a fund that exceeds the return of its benchmark index.",
+   "explain_zh": "「Alpha」指的是基金的報酬率超過基準指數的部分。",
+   "news_title_en": "Active ETFs stay aggressive while high-dividend funds turn defensive",
+   "id": "2026-08-28-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what do active ETFs combine?",
+   "options": [
+    "Mutual‑fund stock‑picking flexibility and exchange‑traded convenience",
+    "Government bonds and real‑estate assets",
+    "High‑dividend yields and low risk",
+    "Currency trading and futures contracts"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that active ETFs combine the flexibility of mutual‑fund stock picking with the convenience of exchange‑traded products.",
+   "explain_zh": "摘要中說明，主動式ETF結合了共同基金的選股彈性與交易所交易的便利性。",
+   "news_title_en": "Active ETFs stay aggressive while high-dividend funds turn defensive",
+   "id": "2026-08-28-07"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"burden\" mean as used in the text?",
+   "options": [
+    "a legal document",
+    "a type of tax",
+    "a financial profit",
+    "a heavy load or responsibility"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"burden\" refers to the heavy responsibility or difficulty of paying the tax.",
+   "explain_zh": "此處的「burden」指的是繳稅的沉重負擔或責任。",
+   "news_title_en": "Estate- and gift-tax brackets adjusted for 2026, easing large-estate transfers",
+   "id": "2026-08-28-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what stays the same for Taiwan's estate- and gift-tax rules in 2026?",
+   "options": [
+    "The tax rates",
+    "The exemption thresholds",
+    "The filing deadlines",
+    "The taxable brackets"
+   ],
+   "answer": 1,
+   "explain_en": "The summary says the core exemption thresholds remain unchanged.",
+   "explain_zh": "摘要指出，核心免稅門檻在2026年保持不變。",
+   "news_title_en": "Estate- and gift-tax brackets adjusted for 2026, easing large-estate transfers",
+   "id": "2026-08-28-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"accelerators\" mean?",
+   "options": [
+    "Tools that increase the speed of trains",
+    "Machines that accelerate cars",
+    "People who speed up a race",
+    "Devices that speed up computer processing"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"accelerators\" refers to AI accelerators, which are hardware that speed up AI computations.",
+   "explain_zh": "此處的「accelerators」指的是 AI 加速器，能提升電腦運算速度的硬體。",
+   "news_title_en": "DGBAS sharply raises Taiwan's 2026 growth forecast on an AI-led export boom",
+   "id": "2026-08-28-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the approximate 2026 GDP growth forecast announced by Taiwan's statistics agency?",
+   "options": [
+    "About 3.75%",
+    "About 11.05%",
+    "About 5.00%",
+    "About 8.20%"
+   ],
+   "answer": 1,
+   "explain_en": "The agency lifted the forecast to about 11.05%, the fastest in nearly four decades.",
+   "explain_zh": "統計局將 2026 年 GDP 成長預測提升至約 11.05%，為近四十年來最快的預測。",
+   "news_title_en": "DGBAS sharply raises Taiwan's 2026 growth forecast on an AI-led export boom",
+   "id": "2026-08-28-11"
   }
  ]
 }
