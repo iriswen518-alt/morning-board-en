@@ -1,185 +1,185 @@
 {
- "date": "2026-08-28",
+ "date": "2026-08-29",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"parsing\" mean?",
+   "question": "In the summary, what does the word \"turnover\" mean?",
    "options": [
-    "to reduce the price",
-    "to narrow the price movement after a rise",
-    "to decrease the index value",
-    "to cut the trading volume"
+    "The profit earned by a single company",
+    "The number of companies listed on the exchange",
+    "The speed at which stock prices change",
+    "The total amount of money traded in the market"
    ],
-   "answer": 1,
-   "explain_en": "Here \"paring\" means the index narrowed its rise, moving down a bit after the earlier surge.",
-   "explain_zh": "此處的「paring」指的是指數在先前上漲後稍微回落，收窄漲幅。",
-   "news_title_en": "TAIEX ends up 0.31% at 45,975 as Nvidia earnings lift chip names",
-   "id": "2026-08-28-00"
+   "answer": 3,
+   "explain_en": "Here \"turnover\" refers to the total trading value, i.e., the amount of money exchanged in the market.",
+   "explain_zh": "在此「turnover」指的是市場的總成交金額，也就是交易的金額總和。",
+   "news_title_en": "TAIEX climbs 356 points to 46,331 as turnover tops NT$1 trillion",
+   "id": "2026-08-29-00"
   },
   {
    "type": "comprehension",
-   "question": "How much did the three major institutional investors buy in net value?",
+   "question": "What was the TAIEX level after it closed on Friday?",
    "options": [
-    "142.6 points",
-    "0.31%",
-    "NT$64.3 billion",
-    "NT$924.7 billion"
+    "46,500",
+    "45,900",
+    "46,331",
+    "46,000"
    ],
    "answer": 2,
-   "explain_en": "The summary states the three major institutional investors were net buyers of roughly NT$64.3 billion.",
-   "explain_zh": "摘要中說明三大機構投資人淨買進約新台幣 643 億元。",
-   "news_title_en": "TAIEX ends up 0.31% at 45,975 as Nvidia earnings lift chip names",
-   "id": "2026-08-28-01"
+   "explain_en": "The summary states the index closed at 46,331 points.",
+   "explain_zh": "摘要中說明指數收盤於 46,331 點。",
+   "news_title_en": "TAIEX climbs 356 points to 46,331 as turnover tops NT$1 trillion",
+   "id": "2026-08-29-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"bottlenecks\" mean?",
+   "question": "In the text, what does the word \"outstrips\" mean?",
    "options": [
-    "Things that speed up the process",
-    "Obstacles that slow down progress",
-    "Ways to increase profit",
-    "Methods of marketing"
+    "is slower than",
+    "exceeds",
+    "is unrelated to",
+    "is equal to"
    ],
    "answer": 1,
-   "explain_en": "\"Bottlenecks\" are obstacles that slow down or limit the flow of something, here the AI supply chain.",
-   "explain_zh": "「bottlenecks」指的是阻礙或減緩流程的障礙，在文中指 AI 供應鏈的限制。",
-   "news_title_en": "TSMC's AI revenue heads toward NT$1 trillion with visibility into 2028",
-   "id": "2026-08-28-02"
+   "explain_en": "\"Outstrips\" means to go beyond or exceed something, here AI‑chip demand exceeds CoWoS supply.",
+   "explain_zh": "「outstrips」表示超過、超出，指 AI 晶片需求超過 CoWoS 供應。",
+   "news_title_en": "TSMC accelerates CoWoS expansion as AI demand strains supply",
+   "id": "2026-08-29-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, until what year does TSMC have order visibility for AI-related revenue?",
+   "question": "What is the projected monthly CoWoS output by the end of 2026?",
    "options": [
-    "2028",
-    "2025",
-    "2027",
-    "2026"
+    "Over 150,000 wafers",
+    "Around 70,000 wafers",
+    "About 40,000 wafers",
+    "Between 100,000 and 105,000 wafers"
    ],
-   "answer": 0,
-   "explain_en": "The summary states that order visibility now stretches to 2028.",
-   "explain_zh": "摘要中說明，TSMC 的訂單可見度已延伸至 2028 年。",
-   "news_title_en": "TSMC's AI revenue heads toward NT$1 trillion with visibility into 2028",
-   "id": "2026-08-28-03"
+   "answer": 3,
+   "explain_en": "The summary says output will rise toward 100,000‑105,000 wafers by the end of 2026.",
+   "explain_zh": "摘要指出到 2026 年底，月產量將提升至 10 萬至 10.5 萬片之間。",
+   "news_title_en": "TSMC accelerates CoWoS expansion as AI demand strains supply",
+   "id": "2026-08-29-03"
   },
   {
    "type": "vocab",
-   "question": "What does the word \"liabilities\" mean as used in the text?",
+   "question": "In the text, what does the phrase \"capital relief\" mean?",
    "options": [
-    "The number of employees",
-    "The profit the company makes",
-    "Money the company owns",
-    "Money that the company owes"
+    "A reduction in the amount of capital that insurers must hold",
+    "A penalty for holding too much capital",
+    "A grant of new capital from the government",
+    "A new type of insurance product"
    ],
-   "answer": 3,
-   "explain_en": "In finance, liabilities are obligations or debts that a company must pay.",
-   "explain_zh": "在金融領域，liabilities 指的是公司必須償還的債務或義務。",
-   "news_title_en": "FSC unveils eight new 2026 rules as life insurers brace for a major overhaul",
-   "id": "2026-08-28-04"
+   "answer": 0,
+   "explain_en": "The text says regulators are easing the transition by giving insurers capital relief, which means they lower the required capital amount.",
+   "explain_zh": "文中說監理機關提供「資本減免」，指的是降低保險公司必須持有的資本額度。",
+   "news_title_en": "Regulators cushion insurers' 2026 shift to new TIS solvency regime",
+   "id": "2026-08-29-04"
   },
   {
    "type": "comprehension",
-   "question": "When must listed companies upload shareholder-meeting handbooks and annual reports according to the new rules?",
+   "question": "How many insurance‑heavy financial holding companies may defer their CAR filings under the transitional measures?",
    "options": [
-    "From January 2025",
-    "From July 2026",
-    "From December 2025",
-    "From January 2026"
+    "11",
+    "20",
+    "8",
+    "15"
    ],
-   "answer": 3,
-   "explain_en": "The summary states that from January all listed companies must upload these documents earlier.",
-   "explain_zh": "摘要中說明，從一月開始，所有上市公司必須提前上傳股東會手冊和年報。",
-   "news_title_en": "FSC unveils eight new 2026 rules as life insurers brace for a major overhaul",
-   "id": "2026-08-28-05"
+   "answer": 0,
+   "explain_en": "The summary states that 11 companies may defer their capital‑adequacy filings under the transitional measures.",
+   "explain_zh": "摘要中提到有 11 家保險重點金融控股公司可以延期提交資本充足率報告。",
+   "news_title_en": "Regulators cushion insurers' 2026 shift to new TIS solvency regime",
+   "id": "2026-08-29-05"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"alpha\" mean?",
+   "question": "In the summary, what does the word \"allocation\" mean?",
    "options": [
-    "The extra return earned above a benchmark",
-    "The total amount of assets under management",
-    "A type of stock market index",
-    "The risk level of a fund"
+    "The act of giving or assigning something",
+    "A legal contract",
+    "A market index",
+    "A type of financial loss"
    ],
    "answer": 0,
-   "explain_en": "\"Alpha\" refers to the performance of a fund that exceeds the return of its benchmark index.",
-   "explain_zh": "「Alpha」指的是基金的報酬率超過基準指數的部分。",
-   "news_title_en": "Active ETFs stay aggressive while high-dividend funds turn defensive",
-   "id": "2026-08-28-06"
+   "explain_en": "Here \"allocation\" refers to how wealth is assigned or placed, specifically offshore assets.",
+   "explain_zh": "在此文中「allocation」指的是資產的分配或配置，特別是指離岸資產。",
+   "news_title_en": "Offshore allocation now standard for Taiwan's UHNW families",
+   "id": "2026-08-29-06"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what do active ETFs combine?",
+   "question": "According to the study, what percentage of Taiwanese ultra‑high‑net‑worth families with assets over NT$1 billion hold offshore assets?",
    "options": [
-    "Mutual‑fund stock‑picking flexibility and exchange‑traded convenience",
-    "Government bonds and real‑estate assets",
-    "High‑dividend yields and low risk",
-    "Currency trading and futures contracts"
+    "100%",
+    "69%",
+    "86%",
+    "50%"
    ],
-   "answer": 0,
-   "explain_en": "The summary states that active ETFs combine the flexibility of mutual‑fund stock picking with the convenience of exchange‑traded products.",
-   "explain_zh": "摘要中說明，主動式ETF結合了共同基金的選股彈性與交易所交易的便利性。",
-   "news_title_en": "Active ETFs stay aggressive while high-dividend funds turn defensive",
-   "id": "2026-08-28-07"
+   "answer": 2,
+   "explain_en": "The summary states that about 86% of families with wealth over NT$1 billion have offshore assets.",
+   "explain_zh": "摘要中說明，資產超過新台幣10億的家庭中，大約有86%持有離岸資產。",
+   "news_title_en": "Offshore allocation now standard for Taiwan's UHNW families",
+   "id": "2026-08-29-07"
   },
   {
    "type": "vocab",
-   "question": "What does the word \"burden\" mean as used in the text?",
+   "question": "In the summary, what does the word \"trigger\" mean?",
    "options": [
-    "a legal document",
-    "a type of tax",
-    "a financial profit",
-    "a heavy load or responsibility"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"burden\" refers to the heavy responsibility or difficulty of paying the tax.",
-   "explain_zh": "此處的「burden」指的是繳稅的沉重負擔或責任。",
-   "news_title_en": "Estate- and gift-tax brackets adjusted for 2026, easing large-estate transfers",
-   "id": "2026-08-28-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what stays the same for Taiwan's estate- and gift-tax rules in 2026?",
-   "options": [
-    "The tax rates",
-    "The exemption thresholds",
-    "The filing deadlines",
-    "The taxable brackets"
+    "A type of tax",
+    "A reason that starts a change",
+    "A financial penalty",
+    "A legal document"
    ],
    "answer": 1,
-   "explain_en": "The summary says the core exemption thresholds remain unchanged.",
-   "explain_zh": "摘要指出，核心免稅門檻在2026年保持不變。",
-   "news_title_en": "Estate- and gift-tax brackets adjusted for 2026, easing large-estate transfers",
-   "id": "2026-08-28-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"accelerators\" mean?",
-   "options": [
-    "Tools that increase the speed of trains",
-    "Machines that accelerate cars",
-    "People who speed up a race",
-    "Devices that speed up computer processing"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"accelerators\" refers to AI accelerators, which are hardware that speed up AI computations.",
-   "explain_zh": "此處的「accelerators」指的是 AI 加速器，能提升電腦運算速度的硬體。",
-   "news_title_en": "DGBAS sharply raises Taiwan's 2026 growth forecast on an AI-led export boom",
-   "id": "2026-08-28-10"
+   "explain_en": "Here \"trigger\" means the condition that causes the tax brackets to be adjusted.",
+   "explain_zh": "在此文中，「trigger」指的是觸發稅率調整的條件。",
+   "news_title_en": "2026 estate-tax brackets widen after 12.4% CPI trigger",
+   "id": "2026-08-29-08"
   },
   {
    "type": "comprehension",
-   "question": "What was the approximate 2026 GDP growth forecast announced by Taiwan's statistics agency?",
+   "question": "Why were Taiwan's 2026 estate‑tax brackets widened?",
    "options": [
-    "About 3.75%",
-    "About 11.05%",
-    "About 5.00%",
-    "About 8.20%"
+    "Because the CPI rose above the adjustment threshold",
+    "Because the basic exemption was increased",
+    "Because the government lowered the tax rate",
+    "Because the number of estates decreased"
+   ],
+   "answer": 0,
+   "explain_en": "The brackets were widened because cumulative CPI reached 12.42%, crossing the adjustment threshold.",
+   "explain_zh": "稅級擴大是因為累計 CPI 達到 12.42%，超過了調整門檻。",
+   "news_title_en": "2026 estate-tax brackets widen after 12.4% CPI trigger",
+   "id": "2026-08-29-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"inflation\" mean?",
+   "options": [
+    "A measure of how fast a country's economy is growing",
+    "A rise in the overall price level of goods and services",
+    "A decrease in the amount of money people earn",
+    "The amount of foreign investment in a country"
    ],
    "answer": 1,
-   "explain_en": "The agency lifted the forecast to about 11.05%, the fastest in nearly four decades.",
-   "explain_zh": "統計局將 2026 年 GDP 成長預測提升至約 11.05%，為近四十年來最快的預測。",
-   "news_title_en": "DGBAS sharply raises Taiwan's 2026 growth forecast on an AI-led export boom",
-   "id": "2026-08-28-11"
+   "explain_en": "Inflation is the increase in the general price level of goods and services over time.",
+   "explain_zh": "通膨指的是商品與服務整體價格上升的情況。",
+   "news_title_en": "Taiwan's July inflation holds at 2.54%, above the 2% target",
+   "id": "2026-08-29-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was Taiwan's year‑on‑year consumer price index change in July?",
+   "options": [
+    "3.00%",
+    "1.81%",
+    "2.00%",
+    "2.54%"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that the CPI rose 2.54% year‑on‑year in July.",
+   "explain_zh": "摘要中說明七月的消費者物價指數年增率為 2.54%。",
+   "news_title_en": "Taiwan's July inflation holds at 2.54%, above the 2% target",
+   "id": "2026-08-29-11"
   }
  ]
 }
