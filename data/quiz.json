@@ -1,185 +1,155 @@
 {
- "date": "2026-08-29",
+ "date": "2026-08-30",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"turnover\" mean?",
+   "question": "In the summary, what does the phrase \"appetite into the weekend\" mean?",
    "options": [
-    "The profit earned by a single company",
-    "The number of companies listed on the exchange",
-    "The speed at which stock prices change",
-    "The total amount of money traded in the market"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"turnover\" refers to the total trading value, i.e., the amount of money exchanged in the market.",
-   "explain_zh": "在此「turnover」指的是市場的總成交金額，也就是交易的金額總和。",
-   "news_title_en": "TAIEX climbs 356 points to 46,331 as turnover tops NT$1 trillion",
-   "id": "2026-08-29-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the TAIEX level after it closed on Friday?",
-   "options": [
-    "46,500",
-    "45,900",
-    "46,331",
-    "46,000"
+    "desire to keep trading active over the weekend",
+    "a literal hunger for food on Saturday and Sunday",
+    "interest in buying stocks before the weekend ends",
+    "a plan to stop trading on Friday"
    ],
    "answer": 2,
-   "explain_en": "The summary states the index closed at 46,331 points.",
-   "explain_zh": "摘要中說明指數收盤於 46,331 點。",
-   "news_title_en": "TAIEX climbs 356 points to 46,331 as turnover tops NT$1 trillion",
-   "id": "2026-08-29-01"
+   "explain_en": "Here \"appetite\" means interest or demand for the stocks, showing investors want to keep buying over the weekend.",
+   "explain_zh": "此處的「appetite」指的是投資人對股票的興趣或需求，表示他們想在週末持續買進。",
+   "news_title_en": "TAIEX ends the week above 46,000 as turnover reclaims NT$1 trillion",
+   "id": "2026-08-30-00"
   },
   {
-   "type": "vocab",
-   "question": "In the text, what does the word \"outstrips\" mean?",
+   "type": "comprehension",
+   "question": "When was the last time before this week that the turnover was above NT$1 trillion?",
    "options": [
-    "is slower than",
-    "exceeds",
-    "is unrelated to",
-    "is equal to"
+    "September 30",
+    "August 18",
+    "June 12",
+    "July 4"
    ],
    "answer": 1,
-   "explain_en": "\"Outstrips\" means to go beyond or exceed something, here AI‑chip demand exceeds CoWoS supply.",
-   "explain_zh": "「outstrips」表示超過、超出，指 AI 晶片需求超過 CoWoS 供應。",
-   "news_title_en": "TSMC accelerates CoWoS expansion as AI demand strains supply",
-   "id": "2026-08-29-02"
+   "explain_en": "The summary says turnover was back above NT$1 trillion for the first time since Aug 18.",
+   "explain_zh": "摘要中提到成交量自 8 月 18 日以來首次回升至 1 兆新台幣以上。",
+   "news_title_en": "TAIEX ends the week above 46,000 as turnover reclaims NT$1 trillion",
+   "id": "2026-08-30-01"
   },
   {
    "type": "comprehension",
-   "question": "What is the projected monthly CoWoS output by the end of 2026?",
+   "question": "What reticle size does TSMC aim to reach by 2029?",
    "options": [
-    "Over 150,000 wafers",
-    "Around 70,000 wafers",
-    "About 40,000 wafers",
-    "Between 100,000 and 105,000 wafers"
+    "10x reticle",
+    "14x reticle",
+    "5.5x reticle",
+    "20x reticle"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states TSMC plans to reach a 14x reticle size by 2029.",
+   "explain_zh": "摘要中提到台積電目標在2029年達到 14 倍 reticle 大小。",
+   "news_title_en": "TSMC pushes CoWoS toward mass output as advanced packaging enters \"system\" era",
+   "id": "2026-08-30-02"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"relief\" mean?",
+   "options": [
+    "A legal penalty",
+    "A reduction of a burden or pressure",
+    "A feeling of happiness",
+    "A type of financial profit"
+   ],
+   "answer": 1,
+   "explain_en": "Here \"relief\" means a reduction of a burden, referring to the capital relief given to the holdings.",
+   "explain_zh": "此處的「relief」指的是減輕負擔，意指給予這些控股公司資本上的寬減。",
+   "news_title_en": "FSC pre-announces holding-company capital rule to smooth TIS transition",
+   "id": "2026-08-30-03"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many insurance‑heavy holdings will receive capital relief according to the summary?",
+   "options": [
+    "Eight",
+    "Eleven",
+    "Ten",
+    "Twelve"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that eight insurance‑heavy holdings gain capital relief.",
+   "explain_zh": "摘要中說明有八家以保險為主的控股公司會得到資本寬減。",
+   "news_title_en": "FSC pre-announces holding-company capital rule to smooth TIS transition",
+   "id": "2026-08-30-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "Approximately how many households in Taiwan now have assets over NT$100 million?",
+   "options": [
+    "About 2,200",
+    "About 2,200,000",
+    "About 220,000",
+    "About 22,000"
    ],
    "answer": 3,
-   "explain_en": "The summary says output will rise toward 100,000‑105,000 wafers by the end of 2026.",
-   "explain_zh": "摘要指出到 2026 年底，月產量將提升至 10 萬至 10.5 萬片之間。",
-   "news_title_en": "TSMC accelerates CoWoS expansion as AI demand strains supply",
-   "id": "2026-08-29-03"
+   "explain_en": "The summary states the number is about 22,000 households.",
+   "explain_zh": "摘要中提到大約有 22,000 戶家庭的資產超過新台幣一億。",
+   "news_title_en": "Bull market swells Taiwan's ranks of NT$100mn-plus households",
+   "id": "2026-08-30-05"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the phrase \"capital relief\" mean?",
+   "question": "In the text, what does the word “exemption” mean?",
    "options": [
-    "A reduction in the amount of capital that insurers must hold",
-    "A penalty for holding too much capital",
-    "A grant of new capital from the government",
-    "A new type of insurance product"
+    "An amount of income that is not taxed",
+    "A bonus payment from the government",
+    "A type of investment account",
+    "A penalty for late filing"
    ],
    "answer": 0,
-   "explain_en": "The text says regulators are easing the transition by giving insurers capital relief, which means they lower the required capital amount.",
-   "explain_zh": "文中說監理機關提供「資本減免」，指的是降低保險公司必須持有的資本額度。",
-   "news_title_en": "Regulators cushion insurers' 2026 shift to new TIS solvency regime",
-   "id": "2026-08-29-04"
+   "explain_en": "An exemption is the portion of income that is excluded from tax calculation.",
+   "explain_zh": "「免稅額」指的是在計算稅金時可以不被課稅的收入部分。",
+   "news_title_en": "Individual income-tax relief takes effect for the 2026 filing season",
+   "id": "2026-08-30-06"
   },
   {
    "type": "comprehension",
-   "question": "How many insurance‑heavy financial holding companies may defer their CAR filings under the transitional measures?",
+   "question": "What is the new personal exemption amount for single filers starting the 2026 filing season?",
    "options": [
-    "11",
-    "20",
-    "8",
-    "15"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that 11 companies may defer their capital‑adequacy filings under the transitional measures.",
-   "explain_zh": "摘要中提到有 11 家保險重點金融控股公司可以延期提交資本充足率報告。",
-   "news_title_en": "Regulators cushion insurers' 2026 shift to new TIS solvency regime",
-   "id": "2026-08-29-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"allocation\" mean?",
-   "options": [
-    "The act of giving or assigning something",
-    "A legal contract",
-    "A market index",
-    "A type of financial loss"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"allocation\" refers to how wealth is assigned or placed, specifically offshore assets.",
-   "explain_zh": "在此文中「allocation」指的是資產的分配或配置，特別是指離岸資產。",
-   "news_title_en": "Offshore allocation now standard for Taiwan's UHNW families",
-   "id": "2026-08-29-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the study, what percentage of Taiwanese ultra‑high‑net‑worth families with assets over NT$1 billion hold offshore assets?",
-   "options": [
-    "100%",
-    "69%",
-    "86%",
-    "50%"
+    "NT$151,500",
+    "NT$213,000",
+    "NT$101,000",
+    "NT$136,000"
    ],
    "answer": 2,
-   "explain_en": "The summary states that about 86% of families with wealth over NT$1 billion have offshore assets.",
-   "explain_zh": "摘要中說明，資產超過新台幣10億的家庭中，大約有86%持有離岸資產。",
-   "news_title_en": "Offshore allocation now standard for Taiwan's UHNW families",
-   "id": "2026-08-29-07"
+   "explain_en": "The summary states the personal exemption is lifted to NT$101,000 for single filers.",
+   "explain_zh": "摘要中說，單身納稅人的個人免稅額提升至新台幣 101,000 元。",
+   "news_title_en": "Individual income-tax relief takes effect for the 2026 filing season",
+   "id": "2026-08-30-07"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"trigger\" mean?",
+   "question": "In the summary, what does the word \"pull‑in\" mean?",
    "options": [
-    "A type of tax",
-    "A reason that starts a change",
-    "A financial penalty",
-    "A legal document"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"trigger\" means the condition that causes the tax brackets to be adjusted.",
-   "explain_zh": "在此文中，「trigger」指的是觸發稅率調整的條件。",
-   "news_title_en": "2026 estate-tax brackets widen after 12.4% CPI trigger",
-   "id": "2026-08-29-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "Why were Taiwan's 2026 estate‑tax brackets widened?",
-   "options": [
-    "Because the CPI rose above the adjustment threshold",
-    "Because the basic exemption was increased",
-    "Because the government lowered the tax rate",
-    "Because the number of estates decreased"
+    "to increase orders earlier than expected",
+    "to cancel contracts",
+    "to delay shipments",
+    "to reduce prices"
    ],
    "answer": 0,
-   "explain_en": "The brackets were widened because cumulative CPI reached 12.42%, crossing the adjustment threshold.",
-   "explain_zh": "稅級擴大是因為累計 CPI 達到 12.42%，超過了調整門檻。",
-   "news_title_en": "2026 estate-tax brackets widen after 12.4% CPI trigger",
-   "id": "2026-08-29-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"inflation\" mean?",
-   "options": [
-    "A measure of how fast a country's economy is growing",
-    "A rise in the overall price level of goods and services",
-    "A decrease in the amount of money people earn",
-    "The amount of foreign investment in a country"
-   ],
-   "answer": 1,
-   "explain_en": "Inflation is the increase in the general price level of goods and services over time.",
-   "explain_zh": "通膨指的是商品與服務整體價格上升的情況。",
-   "news_title_en": "Taiwan's July inflation holds at 2.54%, above the 2% target",
-   "id": "2026-08-29-10"
+   "explain_en": "\"Pull‑in\" means that orders came in earlier or faster than expected, boosting the numbers.",
+   "explain_zh": "「pull‑in」指的是訂單比預期提前或更快到來，提升了數字。",
+   "news_title_en": "July export orders hit a record on AI demand, an 18th straight monthly gain",
+   "id": "2026-08-30-08"
   },
   {
    "type": "comprehension",
-   "question": "What was Taiwan's year‑on‑year consumer price index change in July?",
+   "question": "How much did Taiwan's July export orders increase compared to the same month last year?",
    "options": [
-    "3.00%",
-    "1.81%",
-    "2.00%",
-    "2.54%"
+    "78.2%",
+    "45.3%",
+    "61.9%",
+    "90.1%"
    ],
-   "answer": 3,
-   "explain_en": "The summary states that the CPI rose 2.54% year‑on‑year in July.",
-   "explain_zh": "摘要中說明七月的消費者物價指數年增率為 2.54%。",
-   "news_title_en": "Taiwan's July inflation holds at 2.54%, above the 2% target",
-   "id": "2026-08-29-11"
+   "answer": 2,
+   "explain_en": "The summary states the July export orders were up 61.9% year‑on‑year.",
+   "explain_zh": "摘要中說明七月出口訂單較去年同期增長了61.9%。",
+   "news_title_en": "July export orders hit a record on AI demand, an 18th straight monthly gain",
+   "id": "2026-08-30-09"
   }
  ]
 }
