@@ -1,155 +1,185 @@
 {
- "date": "2026-08-30",
+ "date": "2026-08-31",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"appetite into the weekend\" mean?",
+   "question": "In the summary, what does the word \"turnover\" mean?",
    "options": [
-    "desire to keep trading active over the weekend",
-    "a literal hunger for food on Saturday and Sunday",
-    "interest in buying stocks before the weekend ends",
-    "a plan to stop trading on Friday"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"appetite\" means interest or demand for the stocks, showing investors want to keep buying over the weekend.",
-   "explain_zh": "此處的「appetite」指的是投資人對股票的興趣或需求，表示他們想在週末持續買進。",
-   "news_title_en": "TAIEX ends the week above 46,000 as turnover reclaims NT$1 trillion",
-   "id": "2026-08-30-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "When was the last time before this week that the turnover was above NT$1 trillion?",
-   "options": [
-    "September 30",
-    "August 18",
-    "June 12",
-    "July 4"
-   ],
-   "answer": 1,
-   "explain_en": "The summary says turnover was back above NT$1 trillion for the first time since Aug 18.",
-   "explain_zh": "摘要中提到成交量自 8 月 18 日以來首次回升至 1 兆新台幣以上。",
-   "news_title_en": "TAIEX ends the week above 46,000 as turnover reclaims NT$1 trillion",
-   "id": "2026-08-30-01"
-  },
-  {
-   "type": "comprehension",
-   "question": "What reticle size does TSMC aim to reach by 2029?",
-   "options": [
-    "10x reticle",
-    "14x reticle",
-    "5.5x reticle",
-    "20x reticle"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states TSMC plans to reach a 14x reticle size by 2029.",
-   "explain_zh": "摘要中提到台積電目標在2029年達到 14 倍 reticle 大小。",
-   "news_title_en": "TSMC pushes CoWoS toward mass output as advanced packaging enters \"system\" era",
-   "id": "2026-08-30-02"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"relief\" mean?",
-   "options": [
-    "A legal penalty",
-    "A reduction of a burden or pressure",
-    "A feeling of happiness",
-    "A type of financial profit"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"relief\" means a reduction of a burden, referring to the capital relief given to the holdings.",
-   "explain_zh": "此處的「relief」指的是減輕負擔，意指給予這些控股公司資本上的寬減。",
-   "news_title_en": "FSC pre-announces holding-company capital rule to smooth TIS transition",
-   "id": "2026-08-30-03"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many insurance‑heavy holdings will receive capital relief according to the summary?",
-   "options": [
-    "Eight",
-    "Eleven",
-    "Ten",
-    "Twelve"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that eight insurance‑heavy holdings gain capital relief.",
-   "explain_zh": "摘要中說明有八家以保險為主的控股公司會得到資本寬減。",
-   "news_title_en": "FSC pre-announces holding-company capital rule to smooth TIS transition",
-   "id": "2026-08-30-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "Approximately how many households in Taiwan now have assets over NT$100 million?",
-   "options": [
-    "About 2,200",
-    "About 2,200,000",
-    "About 220,000",
-    "About 22,000"
+    "The price of a single stock",
+    "The number of employees at a company",
+    "The profit earned by a firm",
+    "The total value of trades made during the day"
    ],
    "answer": 3,
-   "explain_en": "The summary states the number is about 22,000 households.",
-   "explain_zh": "摘要中提到大約有 22,000 戶家庭的資產超過新台幣一億。",
-   "news_title_en": "Bull market swells Taiwan's ranks of NT$100mn-plus households",
-   "id": "2026-08-30-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word “exemption” mean?",
-   "options": [
-    "An amount of income that is not taxed",
-    "A bonus payment from the government",
-    "A type of investment account",
-    "A penalty for late filing"
-   ],
-   "answer": 0,
-   "explain_en": "An exemption is the portion of income that is excluded from tax calculation.",
-   "explain_zh": "「免稅額」指的是在計算稅金時可以不被課稅的收入部分。",
-   "news_title_en": "Individual income-tax relief takes effect for the 2026 filing season",
-   "id": "2026-08-30-06"
+   "explain_en": "Here \"turnover\" refers to the total amount of money exchanged in trading, not staff or profit.",
+   "explain_zh": "在此文中「turnover」指的是當天交易的總金額，而非員工數或盈餘。",
+   "news_title_en": "TAIEX ends above 46,000 as turnover reclaims NT$1 trillion",
+   "id": "2026-08-31-00"
   },
   {
    "type": "comprehension",
-   "question": "What is the new personal exemption amount for single filers starting the 2026 filing season?",
+   "question": "What was the TAIEX closing level mentioned in the summary?",
    "options": [
-    "NT$151,500",
-    "NT$213,000",
-    "NT$101,000",
-    "NT$136,000"
+    "46,071",
+    "46,000",
+    "46,331",
+    "46,575"
    ],
    "answer": 2,
-   "explain_en": "The summary states the personal exemption is lifted to NT$101,000 for single filers.",
-   "explain_zh": "摘要中說，單身納稅人的個人免稅額提升至新台幣 101,000 元。",
-   "news_title_en": "Individual income-tax relief takes effect for the 2026 filing season",
-   "id": "2026-08-30-07"
+   "explain_en": "The summary states the index closed at 46,331 points.",
+   "explain_zh": "摘要中說指數收盤於 46,331 點。",
+   "news_title_en": "TAIEX ends above 46,000 as turnover reclaims NT$1 trillion",
+   "id": "2026-08-31-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"pull‑in\" mean?",
+   "question": "In the summary, what does the word \"bottleneck\" mean?",
    "options": [
-    "to increase orders earlier than expected",
-    "to cancel contracts",
-    "to delay shipments",
-    "to reduce prices"
+    "A point where production is slowed down because demand is higher than supply",
+    "A financial profit margin",
+    "A new type of AI chip",
+    "The final step in packaging wafers"
    ],
    "answer": 0,
-   "explain_en": "\"Pull‑in\" means that orders came in earlier or faster than expected, boosting the numbers.",
-   "explain_zh": "「pull‑in」指的是訂單比預期提前或更快到來，提升了數字。",
-   "news_title_en": "July export orders hit a record on AI demand, an 18th straight monthly gain",
-   "id": "2026-08-30-08"
+   "explain_en": "Here \"bottleneck\" refers to a situation where the flow of production is restricted, causing delays because demand exceeds supply.",
+   "explain_zh": "這裡的「bottleneck」指的是需求大於供應，導致生產受阻、速度變慢的情況。",
+   "news_title_en": "TSMC's CoWoS capacity sold out for 2026 as AI demand outstrips supply",
+   "id": "2026-08-31-02"
   },
   {
    "type": "comprehension",
-   "question": "How much did Taiwan's July export orders increase compared to the same month last year?",
+   "question": "According to the summary, how many wafers per month is TSMC expected to handle in 2026?",
    "options": [
-    "78.2%",
-    "45.3%",
-    "61.9%",
-    "90.1%"
+    "More than 200,000 wafers",
+    "About 115,000 wafers",
+    "Exactly 70,000 wafers",
+    "Around 50,000 wafers"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that monthly capacity will climb toward 115,000 wafers in 2026.",
+   "explain_zh": "摘要中說明 2026 年每月產能將提升至約 115,000 片晶圓。",
+   "news_title_en": "TSMC's CoWoS capacity sold out for 2026 as AI demand outstrips supply",
+   "id": "2026-08-31-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"tightens\" mean?",
+   "options": [
+    "makes more strict",
+    "makes faster",
+    "makes less strict",
+    "makes cheaper"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"tightens\" means to make the rules stricter or more restrictive.",
+   "explain_zh": "此處的「tightens」是指使規定更嚴格或更具限制性。",
+   "news_title_en": "FSC's eight major financial measures for 2026 roll out in phases",
+   "id": "2026-08-31-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many of the eight new rules will start on Jan 1?",
+   "options": [
+    "Four",
+    "Five",
+    "Seven",
+    "Six"
+   ],
+   "answer": 3,
+   "explain_en": "The summary says six of the eight rules will take effect from Jan 1.",
+   "explain_zh": "摘要中指出八項新規則中有六項將於 1 月 1 日生效。",
+   "news_title_en": "FSC's eight major financial measures for 2026 roll out in phases",
+   "id": "2026-08-31-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"massed\" mean?",
+   "options": [
+    "gathered together",
+    "reduced in size",
+    "invested abroad",
+    "sold quickly"
+   ],
+   "answer": 0,
+   "explain_en": "\"Massed\" means that banks gathered or concentrated resources together.",
+   "explain_zh": "「massed」指的是銀行把資源集中或聚集起來。",
+   "news_title_en": "Banks' \"Wealth 2.0\" high-net-worth business swells to NT$2.7 trillion",
+   "id": "2026-08-31-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much total assets under management (AUM) have Taiwan's banks accumulated since the \"Wealth 2.0\" policy was launched?",
+   "options": [
+    "Exactly NT$4 trillion",
+    "About NT$2.7 trillion",
+    "Over NT$10 trillion",
+    "Less than NT$1 trillion"
    ],
    "answer": 2,
-   "explain_en": "The summary states the July export orders were up 61.9% year‑on‑year.",
-   "explain_zh": "摘要中說明七月出口訂單較去年同期增長了61.9%。",
-   "news_title_en": "July export orders hit a record on AI demand, an 18th straight monthly gain",
-   "id": "2026-08-30-09"
+   "explain_en": "The summary states that industry AUM has risen to more than NT$10 trillion since the policy started.",
+   "explain_zh": "摘要中說自「Wealth 2.0」政策推出以來，業界資產管理規模已超過 10 兆新台幣。",
+   "news_title_en": "Banks' \"Wealth 2.0\" high-net-worth business swells to NT$2.7 trillion",
+   "id": "2026-08-31-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"exemption\" mean?",
+   "options": [
+    "A discount for early payment",
+    "A tax that must be paid",
+    "A penalty for late payment",
+    "An amount that is not taxed"
+   ],
+   "answer": 3,
+   "explain_en": "\"Exemption\" refers to the portion of income or value that is not subject to tax.",
+   "explain_zh": "「exemption」指的是免稅的金額或部分，意思是不需要繳稅。",
+   "news_title_en": "2026 estate- and gift-tax brackets nudge higher as CPI passes the reset trigger",
+   "id": "2026-08-31-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, why are the estate- and gift-tax brackets being adjusted in 2026?",
+   "options": [
+    "Because the government decided to raise taxes for everyone",
+    "Because the exemption amounts were increased",
+    "Because high‑net‑worth families requested a change",
+    "Because the consumer-price index rose by 12.42%, passing the reset trigger"
+   ],
+   "answer": 3,
+   "explain_en": "The brackets are adjusted because the CPI rose 12.42%, which crossed the statutory threshold that triggers a bracket change.",
+   "explain_zh": "稅率級距調整是因為 CPI 上漲 12.42%，已超過法定的觸發門檻。",
+   "news_title_en": "2026 estate- and gift-tax brackets nudge higher as CPI passes the reset trigger",
+   "id": "2026-08-31-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"main engine\" mean?",
+   "options": [
+    "the most important factor",
+    "the biggest export product",
+    "the government policy",
+    "a literal machine"
+   ],
+   "answer": 0,
+   "explain_en": "\"Main engine\" is a metaphor meaning the primary driver or most important factor.",
+   "explain_zh": "「main engine」是比喻，指最主要的推動力或關鍵因素。",
+   "news_title_en": "DGBAS lifts Taiwan's 2026 GDP growth forecast to a 39-year high of 11.05%",
+   "id": "2026-08-31-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the projected growth rate for Taiwan's GDP in 2026 according to the updated forecast?",
+   "options": [
+    "6.04%",
+    "11.05%",
+    "12.93%",
+    "14.15%"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the agency raised the 2026 GDP growth forecast to 11.05%.",
+   "explain_zh": "摘要中說明，該機構將2026年GDP成長預測提升至11.05%。",
+   "news_title_en": "DGBAS lifts Taiwan's 2026 GDP growth forecast to a 39-year high of 11.05%",
+   "id": "2026-08-31-11"
   }
  ]
 }
