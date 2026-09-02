@@ -1,170 +1,185 @@
 {
- "date": "2026-09-01",
+ "date": "2026-09-02",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"risk-off tone\" mean?",
+   "question": "In the summary, what does the word \"rallied\" mean?",
    "options": [
-    "Risk is being transferred to other countries",
-    "The market is ignoring risk",
-    "Investors are buying more risky stocks",
-    "Investors are seeking safer assets"
+    "stayed the same",
+    "closed early",
+    "fell sharply",
+    "moved upward strongly"
    ],
    "answer": 3,
-   "explain_en": "A \"risk-off tone\" means investors are becoming cautious and moving money into safer investments.",
-   "explain_zh": "「risk-off tone」表示投資人變得謹慎，將資金轉向較安全的投資。",
-   "news_title_en": "TAIEX pulls back 203 points as institutions turn net sellers",
-   "id": "2026-09-01-00"
+   "explain_en": "\"Rallied\" means the stocks moved upward strongly, as the summary says the groups all rallied.",
+   "explain_zh": "「rallied」在此指股價大幅上漲，正如摘要中說各集團都 rally 了。",
+   "news_title_en": "Taiwan stocks surge 820 points to a two-month high as chip heavyweights lead",
+   "id": "2026-09-02-00"
   },
   {
    "type": "comprehension",
-   "question": "What was the turnover amount on the day the TAIEX closed at 46,128.47?",
+   "question": "What was the closing level of the TAIEX on the first trading day of September?",
    "options": [
-    "NT$1.0 trillion",
-    "NT$2.0 trillion",
-    "NT$1.2 trillion",
-    "NT$1.5 trillion"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that turnover swelled to NT$1.2 trillion.",
-   "explain_zh": "摘要中說成交金額增至新台幣 1.2 兆。",
-   "news_title_en": "TAIEX pulls back 203 points as institutions turn net sellers",
-   "id": "2026-09-01-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"momentum\" mean?",
-   "options": [
-    "a financial loss",
-    "a government policy",
-    "a stock dividend",
-    "the speed or force of progress"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"momentum\" refers to the continuing speed or force of TSMC's sales growth.",
-   "explain_zh": "此處的 \"momentum\" 指的是台積電銷售成長的持續速度或動能。",
-   "news_title_en": "TSMC July revenue jumps 44.68% as AI demand powers Q3",
-   "id": "2026-09-01-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "By what percentage did TSMC's July sales increase compared to the same month last year?",
-   "options": [
-    "40%",
-    "45.8%",
-    "37%",
-    "44.68%"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states July sales were up 44.68% year on year.",
-   "explain_zh": "摘要中說明七月銷售較去年同期成長了44.68%。",
-   "news_title_en": "TSMC July revenue jumps 44.68% as AI demand powers Q3",
-   "id": "2026-09-01-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"transaction monitoring\" mean?",
-   "options": [
-    "Reporting all transactions to the government",
-    "Counting the number of transactions a bank makes each day",
-    "Watching customers' buying habits to detect suspicious activity",
-    "Recording the exact time each transaction occurs"
-   ],
-   "answer": 2,
-   "explain_en": "It refers to banks watching customers' buying habits to spot suspicious activity.",
-   "explain_zh": "指的是銀行監控客戶的交易行為，以偵測可疑活動。",
-   "news_title_en": "Regulators launch cross-agency \"tech anti-scam\" defense summit",
-   "id": "2026-09-01-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "When was the joint anti-fraud initiative launched?",
-   "options": [
-    "October 5",
-    "September 10",
-    "August 31",
-    "July 15"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the initiative was launched on Aug 31.",
-   "explain_zh": "摘要中說明該聯合反詐計畫於 8 月 31 日啟動。",
-   "news_title_en": "Regulators launch cross-agency \"tech anti-scam\" defense summit",
-   "id": "2026-09-01-05"
-  },
-  {
-   "type": "comprehension",
-   "question": "By what time did Taiwan's high‑asset wealth‑management business meet the two‑year policy target?",
-   "options": [
-    "mid‑2025",
-    "end‑2024",
-    "end‑2025",
-    "end‑2026"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the target was reached ahead of schedule by the end of 2025.",
-   "explain_zh": "摘要說明目標在2025年底前已提前達成。",
-   "news_title_en": "High-asset wealth management hits two-year policy target early",
-   "id": "2026-09-01-06"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"exemption\" mean?",
-   "options": [
-    "A fee charged for filing a tax return",
-    "A reduction in the amount of tax that must be paid",
-    "A special tax rate for foreign investors",
-    "A penalty for not paying tax on time"
+    "47,200.00",
+    "46,948.72",
+    "45,820.25",
+    "46,128.47"
    ],
    "answer": 1,
-   "explain_en": "An exemption is an amount that is not subject to tax, so the tax owed is reduced.",
-   "explain_zh": "「exemption」指的是免稅額，表示可以減免的稅金金額。",
-   "news_title_en": "Estate and gift tax allowances held flat as inflation misses trigger",
-   "id": "2026-09-01-07"
-  },
-  {
-   "type": "comprehension",
-   "question": "Why did Taiwan's Ministry of Finance keep the estate- and gift‑tax exemption amounts unchanged?",
-   "options": [
-    "Because the 2025 CPI increase did not reach the 10% cumulative threshold needed for automatic adjustment.",
-    "Because the government wants to increase tax revenue this year.",
-    "Because high‑net‑worth families voted to keep them the same.",
-    "Because the tax brackets were lowered in 2022."
-   ],
-   "answer": 0,
-   "explain_en": "The summary states the exemption amounts stayed the same because the 2025 CPI move did not hit the 10% cumulative threshold required for an automatic change.",
-   "explain_zh": "摘要說明，因為2025年的 CPI 未達到自動調整所需的 10% 累積門檻，故免稅額維持不變。",
-   "news_title_en": "Estate and gift tax allowances held flat as inflation misses trigger",
-   "id": "2026-09-01-08"
+   "explain_en": "The summary states the TAIEX closed at 46,948.72.",
+   "explain_zh": "摘要中寫明台股指數收於 46,948.72 點。",
+   "news_title_en": "Taiwan stocks surge 820 points to a two-month high as chip heavyweights lead",
+   "id": "2026-09-02-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"underpins\" mean?",
+   "question": "In the summary, what does the word \"lull\" mean?",
    "options": [
-    "supports and strengthens",
-    "ignores completely",
-    "causes to fail",
-    "delays the process"
+    "a type of car",
+    "a financial penalty",
+    "a temporary pause or slowdown",
+    "a period of increased activity"
    ],
-   "answer": 0,
-   "explain_en": "Here \"underpins\" means it supports or strengthens the equity market.",
-   "explain_zh": "此處的 \"underpins\" 指的是支撐或加強股市。",
-   "news_title_en": "Taiwan lifts GDP outlook as AI exports power growth",
-   "id": "2026-09-01-09"
+   "answer": 2,
+   "explain_en": "\"Lull\" refers to a short time when activity slows down, as described for the Ghost Month period.",
+   "explain_zh": "「lull」指的是活動減緩的短暫時期，就像文中說的鬼月低潮。",
+   "news_title_en": "Taiwan August auto sales slip below 30,000 to a six-month low, Q4 seen recovering",
+   "id": "2026-09-02-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, how many consecutive months have Taiwan's exports grown?",
+   "question": "What was the month‑on‑month percentage drop in new‑car registrations in August?",
    "options": [
-    "Exactly 12 months",
-    "Less than 10 months",
-    "More than 30 months",
-    "Around 20 months"
+    "24.4%",
+    "36.2%",
+    "30,000 units",
+    "0.8%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states registrations fell 24.4% month‑on‑month in August.",
+   "explain_zh": "摘要中說八月份新車登記較上月下降了24.4%。",
+   "news_title_en": "Taiwan August auto sales slip below 30,000 to a six-month low, Q4 seen recovering",
+   "id": "2026-09-02-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the phrase \"going concern\" mean?",
+   "options": [
+    "The company is changing its name",
+    "The company is planning to merge with another firm",
+    "The company is selling off its assets",
+    "The company is likely to continue operating in the near future"
+   ],
+   "answer": 3,
+   "explain_en": "\"Going concern\" means the business is expected to keep operating for the foreseeable future.",
+   "explain_zh": "「going concern」指的是公司預計在可預見的未來仍會持續營運。",
+   "news_title_en": "TWSE penalizes two KY firms over financial-report issues; measures effective Sept 3",
+   "id": "2026-09-02-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "When will the trading suspension for Everfront-KY start?",
+   "options": [
+    "September 3, 2026",
+    "September 5, 2026",
+    "September 10, 2026",
+    "September 1, 2026"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that both measures take effect on September 3.",
+   "explain_zh": "摘要中說明兩項措施皆於 9 月 3 日生效。",
+   "news_title_en": "TWSE penalizes two KY firms over financial-report issues; measures effective Sept 3",
+   "id": "2026-09-02-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"yield\" mean?",
+   "options": [
+    "The price at which the ETF can be bought",
+    "The total number of shares owned",
+    "The date when the dividend is paid",
+    "The amount of money earned as a percentage of the investment"
+   ],
+   "answer": 3,
+   "explain_en": "Yield is the return on an investment expressed as a percentage of the amount invested.",
+   "explain_zh": "「yield」指的是投資報酬率，以投資金額的百分比表示。",
+   "news_title_en": "CTBC 00896 sets record NT$1.45 payout, ~20% annualized yield",
+   "id": "2026-09-02-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the record quarterly distribution per unit announced for the ETF?",
+   "options": [
+    "NT$0.85",
+    "NT$1.00",
+    "NT$2.00",
+    "NT$1.45"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the ETF paid a quarterly distribution of NT$1.45 per unit, which is a record.",
+   "explain_zh": "摘要中說明該ETF每單位的季配發放為 NT$1.45，創下新高。",
+   "news_title_en": "CTBC 00896 sets record NT$1.45 payout, ~20% annualized yield",
+   "id": "2026-09-02-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"hawkish\" mean?",
+   "options": [
+    "promoting free trade",
+    "supportive of higher interest rates",
+    "favoring lower taxes",
+    "encouraging more government spending"
+   ],
+   "answer": 1,
+   "explain_en": "\"Hawkish\" describes someone who wants higher interest rates to fight inflation, as used for the Fed chair's speech.",
+   "explain_zh": "「hawkish」指的是傾向提高利率以抑制通膨，在此指聯儲主席的言論。",
+   "news_title_en": "Global bond yields hit near two-decade highs as Fed rate-hike bets rise",
+   "id": "2026-09-02-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, when was the last time the Bloomberg Global Aggregate yield index was as high as 3.72%?",
+   "options": [
+    "September 2023",
+    "mid-2008",
+    "January 2025",
+    "April 2022"
+   ],
+   "answer": 1,
+   "explain_en": "The summary says the index reached its highest level since mid‑2008.",
+   "explain_zh": "摘要指出，該指數達到自2008年中以來的最高水平。",
+   "news_title_en": "Global bond yields hit near two-decade highs as Fed rate-hike bets rise",
+   "id": "2026-09-02-09"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"retaliation\" mean as used in the text?",
+   "options": [
+    "A request for help",
+    "A prediction of future events",
+    "A punishment in response to an action",
+    "A celebration of success"
    ],
    "answer": 2,
-   "explain_en": "The summary states that exports have logged more than 30 straight months of growth.",
-   "explain_zh": "摘要中提到出口已連續成長超過30個月。",
-   "news_title_en": "Taiwan lifts GDP outlook as AI exports power growth",
-   "id": "2026-09-01-10"
+   "explain_en": "Retaliation means a response that punishes or strikes back against something that was done first.",
+   "explain_zh": "「retaliation」指的是對先前行為的報復或回擊。",
+   "news_title_en": "US stocks close broadly lower after fresh strikes on Iran; Dow sheds 400+",
+   "id": "2026-09-02-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "By how many points did the Dow close lower on that Tuesday?",
+   "options": [
+    "Less than 50 points",
+    "About 200 points",
+    "Exactly 100 points",
+    "More than 400 points"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the Dow closed down more than 400 points.",
+   "explain_zh": "摘要中說道道瓊指數收盤下跌超過400點。",
+   "news_title_en": "US stocks close broadly lower after fresh strikes on Iran; Dow sheds 400+",
+   "id": "2026-09-02-11"
   }
  ]
 }
