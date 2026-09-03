@@ -1,185 +1,185 @@
 {
- "date": "2026-09-02",
+ "date": "2026-09-03",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"rallied\" mean?",
+   "question": "In the summary, what does the phrase \"profit‑taking\" mean?",
    "options": [
-    "stayed the same",
-    "closed early",
-    "fell sharply",
-    "moved upward strongly"
+    "Buying more stocks to increase profit",
+    "Holding assets for a long time",
+    "Borrowing money to invest",
+    "Selling assets to lock in gains"
    ],
    "answer": 3,
-   "explain_en": "\"Rallied\" means the stocks moved upward strongly, as the summary says the groups all rallied.",
-   "explain_zh": "「rallied」在此指股價大幅上漲，正如摘要中說各集團都 rally 了。",
-   "news_title_en": "Taiwan stocks surge 820 points to a two-month high as chip heavyweights lead",
-   "id": "2026-09-02-00"
+   "explain_en": "\"Profit‑taking\" means investors sell their holdings to secure the gains they have made.",
+   "explain_zh": "「profit‑taking」是指投資人賣出持有的資產，以鎖定已獲得的獲利。",
+   "news_title_en": "TAIEX slumps 784 points as institutions cash out, ending its two-month-high run",
+   "id": "2026-09-03-00"
   },
   {
    "type": "comprehension",
-   "question": "What was the closing level of the TAIEX on the first trading day of September?",
+   "question": "How many points did the TAIEX fall on September 2?",
    "options": [
-    "47,200.00",
-    "46,948.72",
-    "45,820.25",
-    "46,128.47"
+    "500 points",
+    "784 points",
+    "1,000 points",
+    "1,200 points"
    ],
    "answer": 1,
-   "explain_en": "The summary states the TAIEX closed at 46,948.72.",
-   "explain_zh": "摘要中寫明台股指數收於 46,948.72 點。",
-   "news_title_en": "Taiwan stocks surge 820 points to a two-month high as chip heavyweights lead",
-   "id": "2026-09-02-01"
+   "explain_en": "The summary states the TAIEX fell 784.00 points on that day.",
+   "explain_zh": "摘要中說明台股指數在當天下跌了 784 點。",
+   "news_title_en": "TAIEX slumps 784 points as institutions cash out, ending its two-month-high run",
+   "id": "2026-09-03-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"lull\" mean?",
+   "question": "In the text, what does the word \"fiercest\" mean?",
    "options": [
-    "a type of car",
-    "a financial penalty",
-    "a temporary pause or slowdown",
-    "a period of increased activity"
+    "the most confusing",
+    "the newest",
+    "the strongest or most intense",
+    "the cheapest"
    ],
    "answer": 2,
-   "explain_en": "\"Lull\" refers to a short time when activity slows down, as described for the Ghost Month period.",
-   "explain_zh": "「lull」指的是活動減緩的短暫時期，就像文中說的鬼月低潮。",
-   "news_title_en": "Taiwan August auto sales slip below 30,000 to a six-month low, Q4 seen recovering",
-   "id": "2026-09-02-02"
+   "explain_en": "\"Fiercest\" describes the strongest or most intense level of AI demand.",
+   "explain_zh": "「fiercest」指的是 AI 需求最強烈、最激烈的程度。",
+   "news_title_en": "SEMICON Taiwan 2026 opens as TSMC says AI demand is the fiercest in 30 years",
+   "id": "2026-09-03-02"
   },
   {
    "type": "comprehension",
-   "question": "What was the month‑on‑month percentage drop in new‑car registrations in August?",
+   "question": "How many exhibitors attended SEMICON Taiwan 2026?",
    "options": [
-    "24.4%",
-    "36.2%",
-    "30,000 units",
-    "0.8%"
+    "about 2,500",
+    "about 300",
+    "about 800",
+    "about 1,300"
    ],
-   "answer": 0,
-   "explain_en": "The summary states registrations fell 24.4% month‑on‑month in August.",
-   "explain_zh": "摘要中說八月份新車登記較上月下降了24.4%。",
-   "news_title_en": "Taiwan August auto sales slip below 30,000 to a six-month low, Q4 seen recovering",
-   "id": "2026-09-02-03"
+   "answer": 3,
+   "explain_en": "The summary states that over 1,300 exhibitors gathered at the event.",
+   "explain_zh": "摘要中提到有超過 1,300 家參展商參加了展會。",
+   "news_title_en": "SEMICON Taiwan 2026 opens as TSMC says AI demand is the fiercest in 30 years",
+   "id": "2026-09-03-03"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the phrase \"going concern\" mean?",
+   "question": "In the summary, what does the word \"buoyant\" mean?",
    "options": [
-    "The company is changing its name",
-    "The company is planning to merge with another firm",
-    "The company is selling off its assets",
-    "The company is likely to continue operating in the near future"
-   ],
-   "answer": 3,
-   "explain_en": "\"Going concern\" means the business is expected to keep operating for the foreseeable future.",
-   "explain_zh": "「going concern」指的是公司預計在可預見的未來仍會持續營運。",
-   "news_title_en": "TWSE penalizes two KY firms over financial-report issues; measures effective Sept 3",
-   "id": "2026-09-02-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "When will the trading suspension for Everfront-KY start?",
-   "options": [
-    "September 3, 2026",
-    "September 5, 2026",
-    "September 10, 2026",
-    "September 1, 2026"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that both measures take effect on September 3.",
-   "explain_zh": "摘要中說明兩項措施皆於 9 月 3 日生效。",
-   "news_title_en": "TWSE penalizes two KY firms over financial-report issues; measures effective Sept 3",
-   "id": "2026-09-02-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"yield\" mean?",
-   "options": [
-    "The price at which the ETF can be bought",
-    "The total number of shares owned",
-    "The date when the dividend is paid",
-    "The amount of money earned as a percentage of the investment"
-   ],
-   "answer": 3,
-   "explain_en": "Yield is the return on an investment expressed as a percentage of the amount invested.",
-   "explain_zh": "「yield」指的是投資報酬率，以投資金額的百分比表示。",
-   "news_title_en": "CTBC 00896 sets record NT$1.45 payout, ~20% annualized yield",
-   "id": "2026-09-02-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the record quarterly distribution per unit announced for the ETF?",
-   "options": [
-    "NT$0.85",
-    "NT$1.00",
-    "NT$2.00",
-    "NT$1.45"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the ETF paid a quarterly distribution of NT$1.45 per unit, which is a record.",
-   "explain_zh": "摘要中說明該ETF每單位的季配發放為 NT$1.45，創下新高。",
-   "news_title_en": "CTBC 00896 sets record NT$1.45 payout, ~20% annualized yield",
-   "id": "2026-09-02-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"hawkish\" mean?",
-   "options": [
-    "promoting free trade",
-    "supportive of higher interest rates",
-    "favoring lower taxes",
-    "encouraging more government spending"
+    "sad and gloomy",
+    "rising and lively",
+    "cold and distant",
+    "heavy and slow"
    ],
    "answer": 1,
-   "explain_en": "\"Hawkish\" describes someone who wants higher interest rates to fight inflation, as used for the Fed chair's speech.",
-   "explain_zh": "「hawkish」指的是傾向提高利率以抑制通膨，在此指聯儲主席的言論。",
-   "news_title_en": "Global bond yields hit near two-decade highs as Fed rate-hike bets rise",
-   "id": "2026-09-02-08"
+   "explain_en": "\"Buoyant\" describes something that is lively, upbeat, and rising, like the stock market in the text.",
+   "explain_zh": "「buoyant」在文中指的是活躍、向上，形容股市表現良好。",
+   "news_title_en": "Taiwan's financial trio earns a record NT$904.2bn in H1, eyeing an all-time annual high",
+   "id": "2026-09-03-04"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, when was the last time the Bloomberg Global Aggregate yield index was as high as 3.72%?",
+   "question": "By what percentage did the net profit of Taiwan's financial trio increase year‑on‑year in the first half of 2026?",
    "options": [
-    "September 2023",
-    "mid-2008",
-    "January 2025",
-    "April 2022"
-   ],
-   "answer": 1,
-   "explain_en": "The summary says the index reached its highest level since mid‑2008.",
-   "explain_zh": "摘要指出，該指數達到自2008年中以來的最高水平。",
-   "news_title_en": "Global bond yields hit near two-decade highs as Fed rate-hike bets rise",
-   "id": "2026-09-02-09"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the word \"retaliation\" mean as used in the text?",
-   "options": [
-    "A request for help",
-    "A prediction of future events",
-    "A punishment in response to an action",
-    "A celebration of success"
+    "104.14%",
+    "199.14%",
+    "139.14%",
+    "39.14%"
    ],
    "answer": 2,
-   "explain_en": "Retaliation means a response that punishes or strikes back against something that was done first.",
-   "explain_zh": "「retaliation」指的是對先前行為的報復或回擊。",
-   "news_title_en": "US stocks close broadly lower after fresh strikes on Iran; Dow sheds 400+",
-   "id": "2026-09-02-10"
+   "explain_en": "The summary states the net profit rose 139.14% year‑on‑year.",
+   "explain_zh": "摘要中說明淨利年增率為 139.14%。",
+   "news_title_en": "Taiwan's financial trio earns a record NT$904.2bn in H1, eyeing an all-time annual high",
+   "id": "2026-09-03-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"ex-dividend\" mean?",
+   "options": [
+    "A type of dividend that is paid in extra shares instead of cash",
+    "A special bonus given to shareholders for holding the stock for more than a year",
+    "The date when a stock or ETF is sold without the right to receive the upcoming dividend",
+    "The process of converting a dividend into a bond"
+   ],
+   "answer": 2,
+   "explain_en": "Ex-dividend is the date after which new buyers do not receive the declared dividend.",
+   "explain_zh": "除息日是指在此日期之後買進的投資人將不會取得即將發放的股息。",
+   "news_title_en": "September ETF ex-dividend wave lifts some annualized yields past 19%",
+   "id": "2026-09-03-06"
   },
   {
    "type": "comprehension",
-   "question": "By how many points did the Dow close lower on that Tuesday?",
+   "question": "Which ETF had the highest annualized yield mentioned in the summary?",
    "options": [
-    "Less than 50 points",
-    "About 200 points",
-    "Exactly 100 points",
-    "More than 400 points"
+    "The summary does not specify a single ETF with the highest yield",
+    "The top-five ETFs collectively above 15%",
+    "00940",
+    "Capital Taiwan Select High Dividend (00919)"
+   ],
+   "answer": 0,
+   "explain_en": "The summary says the top five yields are above 15% and the highest is over 19%, but it does not name which ETF has the highest yield.",
+   "explain_zh": "摘要只說前五名年化殖利率都超過15%，最高超過19%，但未指明是哪一檔ETF最高。",
+   "news_title_en": "September ETF ex-dividend wave lifts some annualized yields past 19%",
+   "id": "2026-09-03-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"relief\" mean?",
+   "options": [
+    "A new law passed by the government",
+    "A type of financial aid given to charities",
+    "A reduction or easing of something difficult",
+    "A feeling of happiness after a vacation"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"relief\" refers to a reduction or easing of the tax burden.",
+   "explain_zh": "此處的「relief」指的是減輕稅負的意思。",
+   "news_title_en": "2026 income-tax relief raises deductions and shifts brackets upward",
+   "id": "2026-09-03-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, which of the following is reclassified as a special deduction for 2026?",
+   "options": [
+    "Travel costs",
+    "Rental payments",
+    "Medical expenses",
+    "Education fees"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that rental payments are reclassified as a special deduction.",
+   "explain_zh": "摘要中提到租金支出被重新歸類為特別扣除項目。",
+   "news_title_en": "2026 income-tax relief raises deductions and shifts brackets upward",
+   "id": "2026-09-03-09"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"rotation\" mean as used in the summary?",
+   "options": [
+    "A spinning motion of the Earth",
+    "A type of financial instrument",
+    "A new political party",
+    "A change in the main source of growth"
    ],
    "answer": 3,
-   "explain_en": "The summary states the Dow closed down more than 400 points.",
-   "explain_zh": "摘要中說道道瓊指數收盤下跌超過400點。",
-   "news_title_en": "US stocks close broadly lower after fresh strikes on Iran; Dow sheds 400+",
-   "id": "2026-09-02-11"
+   "explain_en": "Here \"rotation\" refers to the shift from export‑driven growth to growth driven by domestic demand.",
+   "explain_zh": "這裡的「rotation」指的是成長動能從出口轉向內需的變化。",
+   "news_title_en": "Taiwan's growth engine rotates from exports to domestic demand in 2026",
+   "id": "2026-09-03-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what is the expected range of Taiwan's economic growth in 2026?",
+   "options": [
+    "6.0%–6.5%",
+    "3.5%–4.1%",
+    "2.0%–2.5%",
+    "5.0%–5.5%"
+   ],
+   "answer": 1,
+   "explain_en": "The text says mainstream institutional forecasts cluster around 3.5%–4.1% for 2026.",
+   "explain_zh": "文中指出，主流機構預測2026年的成長率大約在3.5%到4.1%之間。",
+   "news_title_en": "Taiwan's growth engine rotates from exports to domestic demand in 2026",
+   "id": "2026-09-03-11"
   }
  ]
 }
