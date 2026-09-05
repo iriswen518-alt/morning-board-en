@@ -1,185 +1,185 @@
 {
- "date": "2026-09-04",
+ "date": "2026-09-05",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"dragged the tape\" mean?",
+   "question": "In the summary, what does the word \"resilient\" mean?",
    "options": [
-    "caused the index to go down",
-    "increased trading volume",
-    "stabilized the market",
-    "recorded the highest price"
-   ],
-   "answer": 0,
-   "explain_en": "Here it means the electronics sector pulled the overall index lower.",
-   "explain_zh": "在此指的是電子板塊使整體指數下跌。",
-   "news_title_en": "TAIEX drops 307 points to 45,857.66, losing the 46,000 level",
-   "id": "2026-09-04-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the percentage change of the financial index on that day?",
-   "options": [
-    "-0.85%",
-    "+2.19%",
-    "-0.67%",
-    "+0.67%"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the financial index jumped 2.19%.",
-   "explain_zh": "摘要中說金融指數上漲了2.19%。",
-   "news_title_en": "TAIEX drops 307 points to 45,857.66, losing the 46,000 level",
-   "id": "2026-09-04-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"constraints\" mean?",
-   "options": [
-    "Types of chips",
-    "New technologies",
-    "Opportunities for growth",
-    "Limits or restrictions"
-   ],
-   "answer": 3,
-   "explain_en": "\"Constraints\" refers to the limits or restrictions that affect the AI build‑out.",
-   "explain_zh": "「constraints」指的是限制或約束，影響 AI 建設的因素。",
-   "news_title_en": "TSMC and MediaTek flag Taiwan's AI-era bottlenecks at SEMICON",
-   "id": "2026-09-04-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, which part of the chip supply chain was NOT originally prepared for the rapid increase in demand?",
-   "options": [
-    "All of the above",
-    "Land and power",
-    "Wafer fabrication",
-    "Construction labor"
-   ],
-   "answer": 0,
-   "explain_en": "The summary says the ecosystem was never pre‑provisioned for demand growth across land, power, construction labor, equipment and materials, not just wafer fabrication.",
-   "explain_zh": "摘要指出，整個供應鏈（包括土地、電力、建築勞工、設備與材料）都未事先做好準備，而不僅是晶圓製造。",
-   "news_title_en": "TSMC and MediaTek flag Taiwan's AI-era bottlenecks at SEMICON",
-   "id": "2026-09-04-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"payout\" mean?",
-   "options": [
-    "The number of employees a company hires",
-    "The interest rate set by the central bank",
-    "The total revenue a company earns",
-    "The amount of money a company gives to its shareholders"
-   ],
-   "answer": 3,
-   "explain_en": "\"Payout\" refers to the money a company distributes to its shareholders, usually as dividends.",
-   "explain_zh": "「payout」指的是公司發放給股東的金額，通常是股息。",
-   "news_title_en": "Financial-holding profits power a stronger dividend cycle, with yields eyed near 4%",
-   "id": "2026-09-04-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, which type of financial groups have shown the sharpest profit growth?",
-   "options": [
-    "Technology startups",
-    "Manufacturing conglomerates",
-    "Real estate investment trusts",
-    "Securities- and insurance-led groups"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that securities- and insurance-led groups have driven the sharpest profit growth.",
-   "explain_zh": "摘要中說明，證券與保險領導的集團帶動了最顯著的獲利成長。",
-   "news_title_en": "Financial-holding profits power a stronger dividend cycle, with yields eyed near 4%",
-   "id": "2026-09-04-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the article, what does the phrase \"ex‑dividend\" mean?",
-   "options": [
-    "The date after which new buyers will not receive the upcoming dividend",
-    "The amount of dividend paid per share",
-    "The date when a dividend is paid to shareholders",
-    "The total return of the ETF"
-   ],
-   "answer": 0,
-   "explain_en": "\"Ex‑dividend\" is the date after which anyone who buys the stock will not get the declared dividend.",
-   "explain_zh": "「除息」是指在此日期之後買進的人將無法取得本次宣告的股息。",
-   "news_title_en": "September ETF ex-dividend wave kicks off with 00919 at a record NT$1.1 payout",
-   "id": "2026-09-04-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the annualized yield of ETF 00919 as mentioned in the summary?",
-   "options": [
-    "about 16%",
-    "about 10%",
-    "about 14%",
-    "about 12%"
+    "Very expensive",
+    "Related to the stock market",
+    "Able to recover quickly from difficulties",
+    "Uncertain or doubtful"
    ],
    "answer": 2,
-   "explain_en": "The summary states that 00919 has an annualized yield near 14%.",
-   "explain_zh": "摘要中說 00919 的年化殖利率大約是 14%。",
-   "news_title_en": "September ETF ex-dividend wave kicks off with 00919 at a record NT$1.1 payout",
-   "id": "2026-09-04-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"forfeit\" mean?",
-   "options": [
-    "to lose or give up something",
-    "to postpone a decision",
-    "to increase a payment",
-    "to gain a benefit"
-   ],
-   "answer": 0,
-   "explain_en": "\"Forfeit\" means to lose a right or benefit, as the homeowners may lose the tax refund.",
-   "explain_zh": "「forfeit」指失去或放棄某項權益，這裡是指房主可能失去稅金退還的權利。",
-   "news_title_en": "Buyers of pre-sale homes warned on repurchase tax-refund timing",
-   "id": "2026-09-04-08"
+   "explain_en": "Here \"resilient\" describes sentiment that stays strong even when valuations are high.",
+   "explain_zh": "此處的「resilient」指的是情緒在估值偏高時仍能保持穩定、快速恢復。",
+   "news_title_en": "TAIEX closes higher as heavyweights lead broad advance",
+   "id": "2026-09-05-00"
   },
   {
    "type": "comprehension",
-   "question": "According to the Ministry of Finance, when does the two‑year repurchase window start?",
+   "question": "By how many points did the TAIEX close higher?",
    "options": [
-    "When the homeowner first buys the self‑use home",
-    "When the tax refund is applied for",
-    "When the ownership transfer of the sold home is completed",
-    "When the pre‑sale building is finished and registered"
-   ],
-   "answer": 2,
-   "explain_en": "The window begins from the completion of the ownership transfer of the sold home, not from the pre‑sale registration.",
-   "explain_zh": "兩年回購窗口是從已售自住房產的所有權移轉完成時開始，而不是從預售屋完成登記時。",
-   "news_title_en": "Buyers of pre-sale homes warned on repurchase tax-refund timing",
-   "id": "2026-09-04-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"rotation\" mean?",
-   "options": [
-    "A seasonal weather pattern",
-    "A change in the main source of economic growth",
-    "A spinning of a physical object",
-    "A type of financial instrument"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"rotation\" refers to the shift from export‑driven growth to growth driven by domestic demand.",
-   "explain_zh": "此處的「rotation」指的是經濟成長的主要動能從出口轉向內需。",
-   "news_title_en": "Taiwan's 2026 growth engine rotates from exports to domestic demand",
-   "id": "2026-09-04-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the projected range for Taiwan's overall economic growth in 2026?",
-   "options": [
-    "Below 2%",
-    "5%–6%",
-    "7%–8%",
-    "3.5%–4.1%"
+    "0.67 percent",
+    "0.67 points",
+    "46,166.45 points",
+    "308.79 points"
    ],
    "answer": 3,
-   "explain_en": "The summary states that mainstream institutions expect Taiwan's 2026 expansion to moderate to roughly 3.5%–4.1%.",
-   "explain_zh": "摘要中說，主流機構預估2026年台灣的經濟成長約在 3.5% 到 4.1% 之間。",
-   "news_title_en": "Taiwan's 2026 growth engine rotates from exports to domestic demand",
-   "id": "2026-09-04-11"
+   "explain_en": "The summary states the index ended at 46,166.45, up 308.79 points.",
+   "explain_zh": "摘要中說指數收在 46,166.45 點，上漲 308.79 點。",
+   "news_title_en": "TAIEX closes higher as heavyweights lead broad advance",
+   "id": "2026-09-05-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"demand\" mean?",
+   "options": [
+    "The desire for a product or service",
+    "The speed of production",
+    "The amount of money a company spends",
+    "The number of factories built"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"demand\" refers to how much AI products are wanted by customers.",
+   "explain_zh": "此處的「demand」指的是 AI 產品被客戶需求的程度。",
+   "news_title_en": "TSMC says AI demand growth is unseen in 30 years, building nearly 20 fabs",
+   "id": "2026-09-05-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many fabs does TSMC plan to have worldwide according to the summary?",
+   "options": [
+    "15",
+    "20",
+    "13",
+    "25"
+   ],
+   "answer": 1,
+   "explain_en": "The summary says TSMC is building about 20 fabs globally.",
+   "explain_zh": "摘要中提到台積電在全球大約會有 20 座晶圓廠。",
+   "news_title_en": "TSMC says AI demand growth is unseen in 30 years, building nearly 20 fabs",
+   "id": "2026-09-05-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"framework\" mean?",
+   "options": [
+    "A type of financial product",
+    "A computer program",
+    "A set of rules or structure",
+    "A physical building"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"framework\" refers to the set of laws and regulations that guide anti‑fraud actions.",
+   "explain_zh": "此處的「framework」指的是指導防詐行動的法律與規章體系。",
+   "news_title_en": "FSC tightens rules on suspicious and abnormal deposit-account transactions",
+   "id": "2026-09-05-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "When will the amended regulations on deposit accounts become effective?",
+   "options": [
+    "In December",
+    "Next year",
+    "In early July",
+    "In late August"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the regulations are effective late August.",
+   "explain_zh": "摘要中說明這些修訂後的規定將於八月底生效。",
+   "news_title_en": "FSC tightens rules on suspicious and abnormal deposit-account transactions",
+   "id": "2026-09-05-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the term \"ex‑dividend\" mean?",
+   "options": [
+    "A type of high‑risk investment",
+    "The date when a stock or ETF trades without the right to receive the upcoming dividend",
+    "A government tax on dividends",
+    "The total amount of profit a company makes"
+   ],
+   "answer": 1,
+   "explain_en": "\"Ex‑dividend\" is the day when the security is sold without the right to the next dividend payment.",
+   "explain_zh": "「除息」是指在此日期之後買進的股票或ETF，將不再享有即將發放的股息。",
+   "news_title_en": "High-dividend ETFs shine as a dozen post double-digit annualized yields",
+   "id": "2026-09-05-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many Taiwanese domestic equity ETFs delivered annualized distribution rates above 10%?",
+   "options": [
+    "15",
+    "12",
+    "25",
+    "10"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that 12 of the 25 ETFs had annualized distribution rates above 10%.",
+   "explain_zh": "摘要中提到有12檔ETF的年化配息率超過10%。",
+   "news_title_en": "High-dividend ETFs shine as a dozen post double-digit annualized yields",
+   "id": "2026-09-05-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"apportioned\" mean?",
+   "options": [
+    "Divided and assigned",
+    "Increased dramatically",
+    "Sold to another party",
+    "Ignored completely"
+   ],
+   "answer": 0,
+   "explain_en": "\"Apportioned\" means the tax is divided and assigned to each recipient based on their share of the gifted assets.",
+   "explain_zh": "「apportioned」指的是稅金依照每位受贈人取得的資產比例分配。",
+   "news_title_en": "MOF advances estate-and-gift tax amendment on pre-death spousal transfers",
+   "id": "2026-09-05-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, when are assets gifted to a spouse counted as part of the total estate for tax?",
+   "options": [
+    "Only if the assets are cash",
+    "If the gift is made more than five years before death",
+    "Only if the spouse dies first",
+    "If the gift is made within two years before death"
+   ],
+   "answer": 3,
+   "explain_en": "The amendment says assets gifted to a spouse within two years before death are combined into the total estate for taxation.",
+   "explain_zh": "修正案規定，若在死亡前兩年內贈與配偶的資產，會被算入遺產總額課稅。",
+   "news_title_en": "MOF advances estate-and-gift tax amendment on pre-death spousal transfers",
+   "id": "2026-09-05-09"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"steady\" mean as used in the summary?",
+   "options": [
+    "dangerous",
+    "fast",
+    "expensive",
+    "unchanging"
+   ],
+   "answer": 3,
+   "explain_en": "In the text it describes domestic growth as steady, meaning it remains stable and unchanged.",
+   "explain_zh": "文中形容國內成長為steady，表示它保持穩定、沒有變化。",
+   "news_title_en": "Central bank holds policy rates as inflation outlook stays moderate",
+   "id": "2026-09-05-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the year‑on‑year CPI rate for July?",
+   "options": [
+    "2.54%",
+    "2.70%",
+    "2.60%",
+    "2.00%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that July CPI eased to 2.54% year‑on‑year.",
+   "explain_zh": "摘要中說明七月的 CPI 為 2.54%（同比）。",
+   "news_title_en": "Central bank holds policy rates as inflation outlook stays moderate",
+   "id": "2026-09-05-11"
   }
  ]
 }
