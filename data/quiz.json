@@ -1,185 +1,185 @@
 {
- "date": "2026-09-05",
+ "date": "2026-09-06",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"resilient\" mean?",
+   "question": "In the summary, what does the word \"reignited\" mean?",
    "options": [
-    "Very expensive",
-    "Related to the stock market",
-    "Able to recover quickly from difficulties",
-    "Uncertain or doubtful"
+    "became weaker",
+    "never existed",
+    "stopped completely",
+    "started again"
+   ],
+   "answer": 3,
+   "explain_en": "\"Reignited\" means something started again, like the bullish sentiment coming back.",
+   "explain_zh": "「reignited」指的是重新燃起，像是多頭情緒再次出現。",
+   "news_title_en": "TAIEX surges 693 points to reclaim 46,500 as Fed rate-hike fears ease",
+   "id": "2026-09-06-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "By how many points did the TAIEX close higher on September 4?",
+   "options": [
+    "1.51%",
+    "693.47 points",
+    "46,500 points",
+    "219 points"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the index closed up 693.47 points on that day.",
+   "explain_zh": "摘要中說明指數當天上漲了 693.47 點。",
+   "news_title_en": "TAIEX surges 693 points to reclaim 46,500 as Fed rate-hike fears ease",
+   "id": "2026-09-06-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"bottleneck\" mean?",
+   "options": [
+    "A point that slows down the whole process",
+    "A construction material",
+    "A type of financial profit",
+    "A new AI technology"
+   ],
+   "answer": 0,
+   "explain_en": "A bottleneck is a stage where progress is limited, causing delays in the overall flow.",
+   "explain_zh": "瓶頸指的是造成整體流程變慢、受阻的關鍵環節。",
+   "news_title_en": "TSMC building nearly 20 fabs worldwide as AI equipment demand jumps to 1.9x",
+   "id": "2026-09-06-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many fabs is TSMC planning to build in total, according to the summary?",
+   "options": [
+    "Exactly 13",
+    "Nearly 20",
+    "More than 30",
+    "Only 5"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states TSMC is building 13 fabs in Taiwan plus 5‑6 abroad, which adds up to nearly 20 fabs.",
+   "explain_zh": "摘要中提到台積電在台灣建13座晶圓廠，加上5‑6座海外，總計接近20座。",
+   "news_title_en": "TSMC building nearly 20 fabs worldwide as AI equipment demand jumps to 1.9x",
+   "id": "2026-09-06-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"misuse\" mean?",
+   "options": [
+    "Selling something illegally",
+    "Using something in the wrong way",
+    "Borrowing something temporarily",
+    "Leaving something unused"
+   ],
+   "answer": 1,
+   "explain_en": "\"Misuse\" means using something in an incorrect or harmful way, as in the misuse of idle accounts for fraud.",
+   "explain_zh": "「misuse」指的是以錯誤或有害的方式使用，例如濫用閒置帳戶進行詐騙。",
+   "news_title_en": "Dormant-account curbs take effect Sept 1, capping daily withdrawals and transfers",
+   "id": "2026-09-06-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "When did banks start imposing transaction limits on dormant accounts?",
+   "options": [
+    "July 1",
+    "September 1",
+    "October 1",
+    "August 15"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that from September 1 banks began imposing the limits.",
+   "explain_zh": "摘要中說明，銀行是從 9 月 1 日開始對休眠帳戶實施交易限制。",
+   "news_title_en": "Dormant-account curbs take effect Sept 1, capping daily withdrawals and transfers",
+   "id": "2026-09-06-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"offshore\" mean?",
+   "options": [
+    "Located in a desert",
+    "Located on the mainland",
+    "Located in a mountain",
+    "Located in another country"
+   ],
+   "answer": 3,
+   "explain_en": "\"Offshore\" refers to assets or activities that are based in a foreign country, not in the home country.",
+   "explain_zh": "「offshore」指的是在外國（非本國）持有的資產或活動。",
+   "news_title_en": "CTBC-BCG report: 86% of Taiwan's billion-dollar UHNW hold offshore assets",
+   "id": "2026-09-06-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the report, what is the projected annual growth rate (CAGR) of the wealth of Taiwan's ultra‑high‑net‑worth households for 2025‑2029?",
+   "options": [
+    "20%",
+    "86%",
+    "11%",
+    "6%"
    ],
    "answer": 2,
-   "explain_en": "Here \"resilient\" describes sentiment that stays strong even when valuations are high.",
-   "explain_zh": "此處的「resilient」指的是情緒在估值偏高時仍能保持穩定、快速恢復。",
-   "news_title_en": "TAIEX closes higher as heavyweights lead broad advance",
-   "id": "2026-09-05-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "By how many points did the TAIEX close higher?",
-   "options": [
-    "0.67 percent",
-    "0.67 points",
-    "46,166.45 points",
-    "308.79 points"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the index ended at 46,166.45, up 308.79 points.",
-   "explain_zh": "摘要中說指數收在 46,166.45 點，上漲 308.79 點。",
-   "news_title_en": "TAIEX closes higher as heavyweights lead broad advance",
-   "id": "2026-09-05-01"
+   "explain_en": "The summary states the wealth is projected to grow at an 11% compound annual growth rate during 2025‑2029.",
+   "explain_zh": "摘要中說明這群超高淨值戶的財富在2025‑2029年預計以 11% 的年複合成長率增長。",
+   "news_title_en": "CTBC-BCG report: 86% of Taiwan's billion-dollar UHNW hold offshore assets",
+   "id": "2026-09-06-07"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"demand\" mean?",
+   "question": "In the summary, what does the word \"provisional\" mean?",
    "options": [
-    "The desire for a product or service",
-    "The speed of production",
-    "The amount of money a company spends",
-    "The number of factories built"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"demand\" refers to how much AI products are wanted by customers.",
-   "explain_zh": "此處的「demand」指的是 AI 產品被客戶需求的程度。",
-   "news_title_en": "TSMC says AI demand growth is unseen in 30 years, building nearly 20 fabs",
-   "id": "2026-09-05-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many fabs does TSMC plan to have worldwide according to the summary?",
-   "options": [
-    "15",
-    "20",
-    "13",
-    "25"
+    "Optional and voluntary",
+    "Temporary and estimated",
+    "Final and permanent",
+    "Incorrect and invalid"
    ],
    "answer": 1,
-   "explain_en": "The summary says TSMC is building about 20 fabs globally.",
-   "explain_zh": "摘要中提到台積電在全球大約會有 20 座晶圓廠。",
-   "news_title_en": "TSMC says AI demand growth is unseen in 30 years, building nearly 20 fabs",
-   "id": "2026-09-05-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"framework\" mean?",
-   "options": [
-    "A type of financial product",
-    "A computer program",
-    "A set of rules or structure",
-    "A physical building"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"framework\" refers to the set of laws and regulations that guide anti‑fraud actions.",
-   "explain_zh": "此處的「framework」指的是指導防詐行動的法律與規章體系。",
-   "news_title_en": "FSC tightens rules on suspicious and abnormal deposit-account transactions",
-   "id": "2026-09-05-04"
+   "explain_en": "\"Provisional\" refers to something temporary or estimated, not final.",
+   "explain_zh": "「provisional」指的是暫時的、估算的，還不是最終的。",
+   "news_title_en": "Provisional corporate-tax filing opens Sept 1, with property-gains tax now excluded",
+   "id": "2026-09-06-08"
   },
   {
    "type": "comprehension",
-   "question": "When will the amended regulations on deposit accounts become effective?",
+   "question": "According to the summary, what happens to the final-settlement tax liabilities after the provisional filing change?",
    "options": [
-    "In December",
-    "Next year",
-    "In early July",
-    "In late August"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the regulations are effective late August.",
-   "explain_zh": "摘要中說明這些修訂後的規定將於八月底生效。",
-   "news_title_en": "FSC tightens rules on suspicious and abnormal deposit-account transactions",
-   "id": "2026-09-05-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the term \"ex‑dividend\" mean?",
-   "options": [
-    "A type of high‑risk investment",
-    "The date when a stock or ETF trades without the right to receive the upcoming dividend",
-    "A government tax on dividends",
-    "The total amount of profit a company makes"
-   ],
-   "answer": 1,
-   "explain_en": "\"Ex‑dividend\" is the day when the security is sold without the right to the next dividend payment.",
-   "explain_zh": "「除息」是指在此日期之後買進的股票或ETF，將不再享有即將發放的股息。",
-   "news_title_en": "High-dividend ETFs shine as a dozen post double-digit annualized yields",
-   "id": "2026-09-05-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many Taiwanese domestic equity ETFs delivered annualized distribution rates above 10%?",
-   "options": [
-    "15",
-    "12",
-    "25",
-    "10"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states that 12 of the 25 ETFs had annualized distribution rates above 10%.",
-   "explain_zh": "摘要中提到有12檔ETF的年化配息率超過10%。",
-   "news_title_en": "High-dividend ETFs shine as a dozen post double-digit annualized yields",
-   "id": "2026-09-05-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"apportioned\" mean?",
-   "options": [
-    "Divided and assigned",
-    "Increased dramatically",
-    "Sold to another party",
-    "Ignored completely"
+    "They stay the same",
+    "They increase significantly",
+    "They are reduced by half",
+    "They are eliminated completely"
    ],
    "answer": 0,
-   "explain_en": "\"Apportioned\" means the tax is divided and assigned to each recipient based on their share of the gifted assets.",
-   "explain_zh": "「apportioned」指的是稅金依照每位受贈人取得的資產比例分配。",
-   "news_title_en": "MOF advances estate-and-gift tax amendment on pre-death spousal transfers",
-   "id": "2026-09-05-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, when are assets gifted to a spouse counted as part of the total estate for tax?",
-   "options": [
-    "Only if the assets are cash",
-    "If the gift is made more than five years before death",
-    "Only if the spouse dies first",
-    "If the gift is made within two years before death"
-   ],
-   "answer": 3,
-   "explain_en": "The amendment says assets gifted to a spouse within two years before death are combined into the total estate for taxation.",
-   "explain_zh": "修正案規定，若在死亡前兩年內贈與配偶的資產，會被算入遺產總額課稅。",
-   "news_title_en": "MOF advances estate-and-gift tax amendment on pre-death spousal transfers",
-   "id": "2026-09-05-09"
+   "explain_en": "The summary says the final-settlement liabilities remain unchanged.",
+   "explain_zh": "摘要中說最終結算的稅負保持不變。",
+   "news_title_en": "Provisional corporate-tax filing opens Sept 1, with property-gains tax now excluded",
+   "id": "2026-09-06-09"
   },
   {
    "type": "vocab",
-   "question": "What does the word \"steady\" mean as used in the summary?",
+   "question": "In the summary, what does the phrase \"AI-driven export boom\" mean?",
    "options": [
-    "dangerous",
-    "fast",
-    "expensive",
-    "unchanging"
+    "A new AI product being exported from Taiwan",
+    "A rapid increase in exports caused by artificial intelligence technologies",
+    "A decline in export prices due to AI competition",
+    "A government program to teach AI to exporters"
    ],
-   "answer": 3,
-   "explain_en": "In the text it describes domestic growth as steady, meaning it remains stable and unchanged.",
-   "explain_zh": "文中形容國內成長為steady，表示它保持穩定、沒有變化。",
-   "news_title_en": "Central bank holds policy rates as inflation outlook stays moderate",
-   "id": "2026-09-05-10"
+   "answer": 1,
+   "explain_en": "The phrase describes exports growing quickly because global demand for AI-related products is rising.",
+   "explain_zh": "這句指的是因為全球對 AI 相關產品需求增加，導致出口快速成長。",
+   "news_title_en": "Taiwan's 2026 growth forecast upgraded sharply on AI-driven export boom",
+   "id": "2026-09-06-10"
   },
   {
    "type": "comprehension",
-   "question": "What was the year‑on‑year CPI rate for July?",
+   "question": "According to the summary, what is the projected full-year CPI for 2026?",
    "options": [
-    "2.54%",
-    "2.70%",
-    "2.60%",
-    "2.00%"
+    "About 1.68%",
+    "Exactly 0%",
+    "Around 2.5%",
+    "Over 5%"
    ],
    "answer": 0,
-   "explain_en": "The summary states that July CPI eased to 2.54% year‑on‑year.",
-   "explain_zh": "摘要中說明七月的 CPI 為 2.54%（同比）。",
-   "news_title_en": "Central bank holds policy rates as inflation outlook stays moderate",
-   "id": "2026-09-05-11"
+   "explain_en": "The summary states the full-year CPI is projected near 1.68%, which is within the inflation target.",
+   "explain_zh": "摘要中說全年消費者物價指數預計約為 1.68%，符合通膨目標。",
+   "news_title_en": "Taiwan's 2026 growth forecast upgraded sharply on AI-driven export boom",
+   "id": "2026-09-06-11"
   }
  ]
 }
