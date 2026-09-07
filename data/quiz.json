@@ -1,185 +1,185 @@
 {
- "date": "2026-09-06",
+ "date": "2026-09-07",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"reignited\" mean?",
+   "question": "In the summary, what does the word \"turnover\" mean?",
    "options": [
-    "became weaker",
-    "never existed",
-    "stopped completely",
-    "started again"
+    "the dividend paid to shareholders",
+    "the profit earned by companies",
+    "the tax paid on trades",
+    "the total amount of trading activity"
    ],
    "answer": 3,
-   "explain_en": "\"Reignited\" means something started again, like the bullish sentiment coming back.",
-   "explain_zh": "「reignited」指的是重新燃起，像是多頭情緒再次出現。",
-   "news_title_en": "TAIEX surges 693 points to reclaim 46,500 as Fed rate-hike fears ease",
-   "id": "2026-09-06-00"
+   "explain_en": "Here \"turnover\" refers to the total value of shares traded during the session, not profit or taxes.",
+   "explain_zh": "此處的「turnover」指的是當天的成交金額總和，與盈餘或稅金無關。",
+   "news_title_en": "TAIEX closes at record high heading into the weekend",
+   "id": "2026-09-07-00"
   },
   {
    "type": "comprehension",
-   "question": "By how many points did the TAIEX close higher on September 4?",
+   "question": "What was the TAIEX level after the latest session?",
    "options": [
-    "1.51%",
-    "693.47 points",
-    "46,500 points",
-    "219 points"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the index closed up 693.47 points on that day.",
-   "explain_zh": "摘要中說明指數當天上漲了 693.47 點。",
-   "news_title_en": "TAIEX surges 693 points to reclaim 46,500 as Fed rate-hike fears ease",
-   "id": "2026-09-06-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"bottleneck\" mean?",
-   "options": [
-    "A point that slows down the whole process",
-    "A construction material",
-    "A type of financial profit",
-    "A new AI technology"
-   ],
-   "answer": 0,
-   "explain_en": "A bottleneck is a stage where progress is limited, causing delays in the overall flow.",
-   "explain_zh": "瓶頸指的是造成整體流程變慢、受阻的關鍵環節。",
-   "news_title_en": "TSMC building nearly 20 fabs worldwide as AI equipment demand jumps to 1.9x",
-   "id": "2026-09-06-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many fabs is TSMC planning to build in total, according to the summary?",
-   "options": [
-    "Exactly 13",
-    "Nearly 20",
-    "More than 30",
-    "Only 5"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states TSMC is building 13 fabs in Taiwan plus 5‑6 abroad, which adds up to nearly 20 fabs.",
-   "explain_zh": "摘要中提到台積電在台灣建13座晶圓廠，加上5‑6座海外，總計接近20座。",
-   "news_title_en": "TSMC building nearly 20 fabs worldwide as AI equipment demand jumps to 1.9x",
-   "id": "2026-09-06-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"misuse\" mean?",
-   "options": [
-    "Selling something illegally",
-    "Using something in the wrong way",
-    "Borrowing something temporarily",
-    "Leaving something unused"
-   ],
-   "answer": 1,
-   "explain_en": "\"Misuse\" means using something in an incorrect or harmful way, as in the misuse of idle accounts for fraud.",
-   "explain_zh": "「misuse」指的是以錯誤或有害的方式使用，例如濫用閒置帳戶進行詐騙。",
-   "news_title_en": "Dormant-account curbs take effect Sept 1, capping daily withdrawals and transfers",
-   "id": "2026-09-06-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "When did banks start imposing transaction limits on dormant accounts?",
-   "options": [
-    "July 1",
-    "September 1",
-    "October 1",
-    "August 15"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states that from September 1 banks began imposing the limits.",
-   "explain_zh": "摘要中說明，銀行是從 9 月 1 日開始對休眠帳戶實施交易限制。",
-   "news_title_en": "Dormant-account curbs take effect Sept 1, capping daily withdrawals and transfers",
-   "id": "2026-09-06-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"offshore\" mean?",
-   "options": [
-    "Located in a desert",
-    "Located on the mainland",
-    "Located in a mountain",
-    "Located in another country"
+    "45,000.00",
+    "46,600.00",
+    "47,000.00",
+    "46,551.13"
    ],
    "answer": 3,
-   "explain_en": "\"Offshore\" refers to assets or activities that are based in a foreign country, not in the home country.",
-   "explain_zh": "「offshore」指的是在外國（非本國）持有的資產或活動。",
-   "news_title_en": "CTBC-BCG report: 86% of Taiwan's billion-dollar UHNW hold offshore assets",
-   "id": "2026-09-06-06"
+   "explain_en": "The summary states the index closed at a record 46,551.13 points.",
+   "explain_zh": "摘要中說明指數收在 46,551.13 點，創下新高。",
+   "news_title_en": "TAIEX closes at record high heading into the weekend",
+   "id": "2026-09-07-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"capex\" mean?",
+   "options": [
+    "Capital exchange rate for foreign currency",
+    "Capital expenditures for new investments",
+    "Capital expenses for employee salaries",
+    "Capital export of products"
+   ],
+   "answer": 1,
+   "explain_en": "\"Capex\" is short for capital expenditures, the money a company spends on long‑term assets like equipment or facilities.",
+   "explain_zh": "「capex」是資本支出，指公司在設備或設施等長期資產上的投資金額。",
+   "news_title_en": "Global chip revenue seen topping US$1tn in 2026",
+   "id": "2026-09-07-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the report, what is the projected annual growth rate (CAGR) of the wealth of Taiwan's ultra‑high‑net‑worth households for 2025‑2029?",
+   "question": "According to the summary, when is worldwide semiconductor revenue expected to exceed US$1 trillion for the first time?",
    "options": [
-    "20%",
-    "86%",
-    "11%",
-    "6%"
+    "2024",
+    "2027",
+    "2025",
+    "2026"
+   ],
+   "answer": 3,
+   "explain_en": "The analysts project that global chip revenue will top US$1 trillion in 2026.",
+   "explain_zh": "分析師預測全球半導體營收將於2026年首次突破1兆美元。",
+   "news_title_en": "Global chip revenue seen topping US$1tn in 2026",
+   "id": "2026-09-07-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"safeguarding\" mean?",
+   "options": [
+    "delaying",
+    "selling",
+    "protecting",
+    "ignoring"
    ],
    "answer": 2,
-   "explain_en": "The summary states the wealth is projected to grow at an 11% compound annual growth rate during 2025‑2029.",
-   "explain_zh": "摘要中說明這群超高淨值戶的財富在2025‑2029年預計以 11% 的年複合成長率增長。",
-   "news_title_en": "CTBC-BCG report: 86% of Taiwan's billion-dollar UHNW hold offshore assets",
-   "id": "2026-09-06-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"provisional\" mean?",
-   "options": [
-    "Optional and voluntary",
-    "Temporary and estimated",
-    "Final and permanent",
-    "Incorrect and invalid"
-   ],
-   "answer": 1,
-   "explain_en": "\"Provisional\" refers to something temporary or estimated, not final.",
-   "explain_zh": "「provisional」指的是暫時的、估算的，還不是最終的。",
-   "news_title_en": "Provisional corporate-tax filing opens Sept 1, with property-gains tax now excluded",
-   "id": "2026-09-06-08"
+   "explain_en": "\"Safeguarding\" means protecting something, in this case the policyholders.",
+   "explain_zh": "「safeguarding」是指保護，這裡是保護保單持有人。",
+   "news_title_en": "FSC opens insurer investment in strategic AI-build industries",
+   "id": "2026-09-07-04"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what happens to the final-settlement tax liabilities after the provisional filing change?",
+   "question": "According to the summary, what is the main goal of the FSC's new rules?",
    "options": [
-    "They stay the same",
-    "They increase significantly",
-    "They are reduced by half",
-    "They are eliminated completely"
+    "To limit AI development to foreign companies",
+    "To ban private‑equity fund investments",
+    "To reduce the number of insurers in Taiwan",
+    "To increase life‑insurance capital in public construction and the real economy"
    ],
-   "answer": 0,
-   "explain_en": "The summary says the final-settlement liabilities remain unchanged.",
-   "explain_zh": "摘要中說最終結算的稅負保持不變。",
-   "news_title_en": "Provisional corporate-tax filing opens Sept 1, with property-gains tax now excluded",
-   "id": "2026-09-06-09"
+   "answer": 3,
+   "explain_en": "The summary states the rules aim to channel life‑insurance capital into public construction and the real economy.",
+   "explain_zh": "摘要說明，這些規則的目的是將壽險資金導入公共建設與實體經濟。",
+   "news_title_en": "FSC opens insurer investment in strategic AI-build industries",
+   "id": "2026-09-07-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"AI-driven export boom\" mean?",
+   "question": "In the summary, what does the word \"integrated\" mean?",
    "options": [
-    "A new AI product being exported from Taiwan",
-    "A rapid increase in exports caused by artificial intelligence technologies",
-    "A decline in export prices due to AI competition",
-    "A government program to teach AI to exporters"
+    "separated into different parts",
+    "used only for small amounts",
+    "combined into a single system",
+    "related to taxes"
    ],
-   "answer": 1,
-   "explain_en": "The phrase describes exports growing quickly because global demand for AI-related products is rising.",
-   "explain_zh": "這句指的是因為全球對 AI 相關產品需求增加，導致出口快速成長。",
-   "news_title_en": "Taiwan's 2026 growth forecast upgraded sharply on AI-driven export boom",
-   "id": "2026-09-06-10"
+   "answer": 2,
+   "explain_en": "\"Integrated\" means combined or brought together into one system, as in integrated wealth solutions.",
+   "explain_zh": "「integrated」指的是把不同的服務或方案結合成一個整體，就像文中說的整合財富解決方案。",
+   "news_title_en": "Banks push alternatives and family offices for HNW clients",
+   "id": "2026-09-07-06"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what is the projected full-year CPI for 2026?",
+   "question": "According to the summary, what did bankers urge high‑net‑worth clients to allocate more to?",
    "options": [
-    "About 1.68%",
-    "Exactly 0%",
-    "Around 2.5%",
-    "Over 5%"
+    "more bank loans",
+    "government bonds",
+    "real estate only",
+    "private equity, private credit, hedge funds and family‑office services"
+   ],
+   "answer": 3,
+   "explain_en": "The bankers urged wider allocation to private equity, private credit, hedge funds and family‑office (EAM) services.",
+   "explain_zh": "銀行家們建議高資產客戶將資金更多配置到私募股權、私募信貸、對沖基金以及家族辦公室（EAM）服務。",
+   "news_title_en": "Banks push alternatives and family offices for HNW clients",
+   "id": "2026-09-07-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"burden\" mean?",
+   "options": [
+    "a responsibility or difficulty",
+    "a type of tax",
+    "a heavy object",
+    "a legal document"
    ],
    "answer": 0,
-   "explain_en": "The summary states the full-year CPI is projected near 1.68%, which is within the inflation target.",
-   "explain_zh": "摘要中說全年消費者物價指數預計約為 1.68%，符合通膨目標。",
-   "news_title_en": "Taiwan's 2026 growth forecast upgraded sharply on AI-driven export boom",
-   "id": "2026-09-06-11"
+   "explain_en": "Here \"burden\" refers to the amount of tax that people have to pay, i.e., a responsibility or difficulty.",
+   "explain_zh": "此處的「burden」指的是稅負，即需要承擔的責任或困難。",
+   "news_title_en": "Estate and gift tax brackets rise with inflation",
+   "id": "2026-09-07-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, why were the estate and gift tax brackets changed for 2026?",
+   "options": [
+    "Because the government wanted to increase revenue",
+    "Because the population grew significantly",
+    "Because new political parties were elected",
+    "Because cumulative CPI gains crossed the statutory threshold"
+   ],
+   "answer": 3,
+   "explain_en": "The brackets were adjusted because the cumulative consumer‑price‑index gains exceeded the legal limit, triggering the change.",
+   "explain_zh": "稅率級距的調整是因為累計的 CPI 增長超過了法定門檻，依規定必須調整。",
+   "news_title_en": "Estate and gift tax brackets rise with inflation",
+   "id": "2026-09-07-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"robust\" mean?",
+   "options": [
+    "average and typical",
+    "weak and uncertain",
+    "slow and declining",
+    "strong and healthy"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"robust\" describes growth that is strong and solid.",
+   "explain_zh": "此處的「robust」指的是強勁且穩固的成長。",
+   "news_title_en": "Taiwan growth seen \"high-then-steady,\" CPI near 2%",
+   "id": "2026-09-07-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what is the expected CPI for the full year 2026?",
+   "options": [
+    "Around 2%",
+    "Around 1%",
+    "Around 3%",
+    "Around 4%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states the full‑year 2026 CPI is expected to be around 2%.",
+   "explain_zh": "摘要中提到 2026 年全年的 CPI 預計約為 2%。",
+   "news_title_en": "Taiwan growth seen \"high-then-steady,\" CPI near 2%",
+   "id": "2026-09-07-11"
   }
  ]
 }
