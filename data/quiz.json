@@ -1,185 +1,170 @@
 {
- "date": "2026-09-08",
+ "date": "2026-09-09",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"underpinning\" mean?",
+   "question": "What does the word \"cushioning\" mean as used in the text?",
    "options": [
-    "Removing a stock from the market",
-    "Supporting or giving a basis for something",
-    "Predicting future earnings",
-    "Increasing the price rapidly"
-   ],
-   "answer": 1,
-   "explain_en": "\"Underpinning\" means supporting or providing a foundation, here it describes how TSMC helped support the market.",
-   "explain_zh": "「underpinning」指的是支撐或提供基礎，這裡說的是台積電支撐了整體市場。",
-   "news_title_en": "TAIEX firms above 47,000 as heavyweights rebound",
-   "id": "2026-09-08-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "By how many points did the TAIEX close higher in the prior session?",
-   "options": [
-    "490.08 points",
-    "1.05%",
-    "2,435 points",
-    "47,041.21 points"
+    "making something softer or less harsh",
+    "removing a company from the index",
+    "increasing the price sharply",
+    "selling stocks quickly"
    ],
    "answer": 0,
-   "explain_en": "The summary states the TAIEX closed up 490.08 points, which is the correct answer.",
-   "explain_zh": "摘要中說台股指數上漲了 490.08 點，這是正確答案。",
-   "news_title_en": "TAIEX firms above 47,000 as heavyweights rebound",
-   "id": "2026-09-08-01"
+   "explain_en": "Here \"cushioning\" means reducing the impact of the decline, making it less harsh.",
+   "explain_zh": "此處的「cushioning」指減輕跌勢的衝擊，使其不那麼嚴重。",
+   "news_title_en": "TAIEX ends 220 points lower as TSMC bucks the trend",
+   "id": "2026-09-09-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "By how many points did the TAIEX close lower on September 8?",
+   "options": [
+    "10 points",
+    "877 billion points",
+    "0.47 points",
+    "220.49 points"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the index fell 220.49 points, which is the amount it closed lower by.",
+   "explain_zh": "摘要中說指數下跌了 220.49 點，即收盤時下降的點數。",
+   "news_title_en": "TAIEX ends 220 points lower as TSMC bucks the trend",
+   "id": "2026-09-09-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word “fab” mean?",
+   "question": "In the summary, what does the word \"unlock\" mean?",
    "options": [
-    "A type of artificial intelligence model",
-    "A financial report of a company",
-    "A factory where semiconductor chips are manufactured",
-    "A government regulation"
+    "to close a door",
+    "to open or make possible",
+    "to hide something",
+    "to break a lock"
+   ],
+   "answer": 1,
+   "explain_en": "Here \"unlock\" means to make the High‑NA EUV lithography possible by removing current limits.",
+   "explain_zh": "在此句中「unlock」是指透過解除限制，使 High‑NA EUV 光刻技術得以實現。",
+   "news_title_en": "TSMC and ASML push 12-inch High-NA EUV photomasks",
+   "id": "2026-09-09-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "When does TSMC plan to start using the 12‑inch masks in advanced nodes?",
+   "options": [
+    "From 2030",
+    "From 2040",
+    "From 2022",
+    "From 2025"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states TSMC aims to adopt the 12‑inch masks in advanced nodes starting in 2030.",
+   "explain_zh": "摘要中提到 TSMC 計畫於 2030 年開始在先進製程使用 12 吋光罩。",
+   "news_title_en": "TSMC and ASML push 12-inch High-NA EUV photomasks",
+   "id": "2026-09-09-03"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"adopt\" mean in the sentence \"Taiwan's insurers ... formally adopt the standard\"?",
+   "options": [
+    "to sell it",
+    "to ignore it",
+    "to start using it",
+    "to reject it"
    ],
    "answer": 2,
-   "explain_en": "A “fab” is short for fabrication plant, where chips are produced.",
-   "explain_zh": "「fab」是指半導體製造廠，也就是晶片的生產工廠。",
-   "news_title_en": "TSMC building nearly 20 fabs as AI demand accelerates",
-   "id": "2026-09-08-02"
+   "explain_en": "Here \"adopt\" means to start using the IFRS 17 and ICS 2.0 standards.",
+   "explain_zh": "此處的「adopt」是指開始使用 IFRS 17 與 ICS 2.0 標準。",
+   "news_title_en": "Life insurers adopt IFRS 17 and ICS 2.0 in 2026",
+   "id": "2026-09-09-04"
   },
   {
    "type": "comprehension",
-   "question": "How many fabs is TSMC currently constructing worldwide?",
+   "question": "In which year will Taiwan's insurers formally adopt IFRS 17 and ICS 2.0?",
    "options": [
-    "About 13",
-    "About 5",
-    "About 30",
-    "About 20"
-   ],
-   "answer": 3,
-   "explain_en": "The summary says TSMC is constructing roughly 20 fabs globally.",
-   "explain_zh": "摘要中提到台積電目前在全球大約建造 20 座晶圓廠。",
-   "news_title_en": "TSMC building nearly 20 fabs as AI demand accelerates",
-   "id": "2026-09-08-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"share‑swap acquisition\" mean?",
-   "options": [
-    "Selling shares to raise cash for a purchase",
-    "Buying a company with only cash and no shares",
-    "Buying a company by exchanging shares of the buyer for shares of the target",
-    "Merging two companies without any cash involved"
+    "2024",
+    "2027",
+    "2026",
+    "2025"
    ],
    "answer": 2,
-   "explain_en": "A share‑swap acquisition is when the buyer gives its own shares to the target’s shareholders instead of cash.",
-   "explain_zh": "「share‑swap acquisition」指的是買方以自己的股票換取目標公司的股票，而不是用現金收購。",
-   "news_title_en": "E.Sun FHC completes Mercuries Life merger, posts record profit",
-   "id": "2026-09-08-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the cumulative net profit for the first eight months after the merger?",
-   "options": [
-    "About NT$1.73 billion",
-    "About NT$16 billion",
-    "About NT$20.3 billion",
-    "About NT$28.04 billion"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the cumulative net profit reached about NT$28.04 bn for the first eight months.",
-   "explain_zh": "摘要中說明，合併後前八個月的累計淨利約為新台幣 280.4 億元。",
-   "news_title_en": "E.Sun FHC completes Mercuries Life merger, posts record profit",
-   "id": "2026-09-08-05"
+   "explain_en": "The summary says they will formally adopt the standards in 2026.",
+   "explain_zh": "摘要中說明正式採用這兩項標準的年份是 2026 年。",
+   "news_title_en": "Life insurers adopt IFRS 17 and ICS 2.0 in 2026",
+   "id": "2026-09-09-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"preserve\" mean?",
+   "question": "In the summary, what does the word \"appetite\" mean?",
    "options": [
-    "a government regulation",
-    "a type of financial product",
-    "a special place where something is kept",
-    "a market index"
+    "desire or interest",
+    "hunger for food",
+    "ability to taste",
+    "speed of growth"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"appetite\" refers to investors' desire or interest in buying these products.",
+   "explain_zh": "此處的「appetite」指的是投資人對這類產品的需求或興趣。",
+   "news_title_en": "Five new funds launch in September, including two active ETFs",
+   "id": "2026-09-09-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "Which of the following funds focuses on chipmakers in Taiwan, Korea, and Japan?",
+   "options": [
+    "JKO's high-yield bond ETF",
+    "the multi-asset fund A",
+    "Allianz Asia Semiconductor",
+    "Capital Core 50"
    ],
    "answer": 2,
-   "explain_en": "Here \"preserve\" means a special place or area where something is kept or protected.",
-   "explain_zh": "此處的「preserve」指的是某事物被保留或保護的特定領域。",
-   "news_title_en": "Monthly-dividend ETFs broaden beyond high-yield",
-   "id": "2026-09-08-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, which type of ETFs have recently started offering monthly dividends besides high-yield equity funds?",
-   "options": [
-    "Currency-hedged ETFs",
-    "Only technology sector ETFs",
-    "Real estate investment trusts (REITs)",
-    "Bond ETFs, investment-grade and non-investment-grade credit ETFs, and active ETFs"
-   ],
-   "answer": 3,
-   "explain_en": "The text says bond ETFs, investment-grade and non-investment-grade credit, and active ETFs have joined the monthly‑payout arena.",
-   "explain_zh": "文中指出，債券ETF、投資等級與非投資等級信用ETF，以及主動型ETF已加入每月配息行列。",
-   "news_title_en": "Monthly-dividend ETFs broaden beyond high-yield",
-   "id": "2026-09-08-07"
+   "explain_en": "The summary states that Allianz Asia Semiconductor is focused on Taiwan, Korea and Japan chipmakers.",
+   "explain_zh": "摘要中說明 Allianz Asia Semiconductor 專注於台灣、韓國與日本的晶片製造商。",
+   "news_title_en": "Five new funds launch in September, including two active ETFs",
+   "id": "2026-09-09-07"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"exemption\" mean?",
+   "question": "In the summary, what does the word \"relief\" mean?",
    "options": [
-    "A type of investment",
-    "A tax that must be paid",
-    "A penalty for late payment",
-    "A reduction or removal of tax liability"
+    "A penalty for late filing",
+    "A type of financial aid for emergencies",
+    "A reduction or easing of something",
+    "A new tax form to fill out"
    ],
-   "answer": 3,
-   "explain_en": "An exemption means a portion of income or value that is not subject to tax.",
-   "explain_zh": "「exemption」指的是免稅額，也就是不需要繳稅的那一部分。",
-   "news_title_en": "2026 estate and gift tax thresholds held, gift brackets widened",
-   "id": "2026-09-08-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the annual gift‑tax exemption amount for 2026 in Taiwan?",
-   "options": [
-    "NT$5.00 million",
-    "NT$3.50 million",
-    "NT$1.00 million",
-    "NT$2.44 million"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the gift‑tax annual exemption stays at NT$2.44 million for 2026.",
-   "explain_zh": "摘要中說明，2026 年的贈與稅年度免稅額仍為新台幣 244 萬元。",
-   "news_title_en": "2026 estate and gift tax thresholds held, gift brackets widened",
-   "id": "2026-09-08-09"
+   "answer": 2,
+   "explain_en": "Here \"relief\" refers to a reduction or easing of the tax burden.",
+   "explain_zh": "這裡的「relief」指的是減輕稅負。",
+   "news_title_en": "2026 income-tax filing brings tax cuts",
+   "id": "2026-09-09-08"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"trimmed\" mean?",
+   "question": "In the summary, what does the phrase \"price pressures\" mean?",
    "options": [
-    "Ignored",
-    "Calculated",
-    "Increased",
-    "Reduced"
+    "A rise in the overall level of prices",
+    "A drop in the stock market",
+    "A shortage of raw materials",
+    "A decrease in the number of jobs"
    ],
-   "answer": 3,
-   "explain_en": "Here \"trimmed\" means the forecast was reduced to a lower number.",
-   "explain_zh": "此處的「trimmed」是指把預測數字降低了。",
-   "news_title_en": "TIER cuts 2026 GDP forecast on US tariff drag",
-   "id": "2026-09-08-10"
+   "answer": 0,
+   "explain_en": "\"Price pressures\" refers to upward pressure on prices, meaning inflation is rising.",
+   "explain_zh": "「price pressures」指的是物價上漲的壓力，也就是通膨在上升。",
+   "news_title_en": "Taiwan's 2026 growth outlook revised higher",
+   "id": "2026-09-09-09"
   },
   {
    "type": "comprehension",
-   "question": "What is the new 2026 GDP growth forecast for Taiwan according to the institute?",
+   "question": "According to the summary, what is the expected full-year CPI for Taiwan in 2026?",
    "options": [
-    "About 3.5%",
-    "About 1.8%",
-    "About 4.0%",
-    "About 2.91%"
+    "Around 1%",
+    "Around 3%",
+    "Around 2%",
+    "Around 4%"
    ],
-   "answer": 3,
-   "explain_en": "The summary states the forecast was cut to about 2.91%.",
-   "explain_zh": "摘要中說明預測被削減至大約 2.91%。",
-   "news_title_en": "TIER cuts 2026 GDP forecast on US tariff drag",
-   "id": "2026-09-08-11"
+   "answer": 2,
+   "explain_en": "The summary states that the full-year CPI is seen near 2%.",
+   "explain_zh": "摘要中提到全年消費者物價指數（CPI）預計約在 2% 左右。",
+   "news_title_en": "Taiwan's 2026 growth outlook revised higher",
+   "id": "2026-09-09-10"
   }
  ]
 }
