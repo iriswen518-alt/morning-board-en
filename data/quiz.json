@@ -1,185 +1,185 @@
 {
- "date": "2026-09-11",
+ "date": "2026-09-12",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"steady\" mean?",
+   "question": "What does the word \"dragged\" mean as used in the text?",
    "options": [
-    "very fast",
-    "unchanging and stable",
-    "extremely expensive",
-    "completely unknown"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"steady\" describes TSMC's performance as stable and not fluctuating much.",
-   "explain_zh": "此處的 \"steady\" 指的是台積電的表現穩定，沒有大幅波動。",
-   "news_title_en": "TAIEX holds record ground as TSMC steadies",
-   "id": "2026-09-11-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the exact level of the TAIEX after it edged up?",
-   "options": [
-    "46,900.00",
-    "48,000.00",
-    "47,183.36",
-    "47,200.00"
+    "to increase quickly",
+    "to sell a lot",
+    "to pull something down",
+    "to stay the same"
    ],
    "answer": 2,
-   "explain_en": "The summary states the TAIEX closed at 47,183.36 points.",
-   "explain_zh": "摘要中寫明台指收於 47,183.36 點。",
-   "news_title_en": "TAIEX holds record ground as TSMC steadies",
-   "id": "2026-09-11-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"trails\" mean?",
-   "options": [
-    "is equal to",
-    "is behind",
-    "is ahead of",
-    "is unrelated to"
-   ],
-   "answer": 1,
-   "explain_en": "\"Trails\" means to be behind or lagging behind something else, here capacity is behind orders.",
-   "explain_zh": "「trails」在此指落後、跟不上，表示產能落後於訂單。",
-   "news_title_en": "TSMC races to build nearly 20 fabs as AI demand outruns supply",
-   "id": "2026-09-11-02"
+   "explain_en": "Here \"dragged\" means the tech stocks pulled the overall index down.",
+   "explain_zh": "此處的「dragged」指的是把整體指數往下拉。",
+   "news_title_en": "TAIEX tumbles 755 points as tech heavyweights weaken",
+   "id": "2026-09-12-00"
   },
   {
    "type": "comprehension",
-   "question": "How many fabs does TSMC have under construction in Taiwan according to the summary?",
+   "question": "Why did the TAIEX pull back, according to the summary?",
    "options": [
-    "about 13",
-    "about 5",
-    "about 30",
-    "about 20"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that Taiwan has around 13 fabs under construction.",
-   "explain_zh": "摘要中提到台灣大約有13座正在建設的晶圓廠。",
-   "news_title_en": "TSMC races to build nearly 20 fabs as AI demand outruns supply",
-   "id": "2026-09-11-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"share‑swap absorption\" mean?",
-   "options": [
-    "Taishin Bank buys Shin Kong Bank using cash payments",
-    "Taishin Bank sells its shares to Shin Kong Bank",
-    "Taishin Bank takes over Shin Kong Bank by exchanging its own shares for Shin Kong's shares",
-    "Taishin Bank merges with Shin Kong Bank and creates a new brand name"
+    "Because of a new government policy",
+    "Because of a sudden increase in oil prices",
+    "Because of profit‑taking and caution before the Fed meeting",
+    "Because of a natural disaster in Taiwan"
    ],
    "answer": 2,
-   "explain_en": "A share‑swap absorption means the acquiring bank issues its own shares to the target’s shareholders, so the target is absorbed without cash.",
-   "explain_zh": "「share‑swap absorption」指的是收購銀行以自家股票換取目標銀行的股份，讓目標公司以股票方式被吸收，並未使用現金。",
-   "news_title_en": "FSC clears Taishin's merger with Shin Kong Bank",
-   "id": "2026-09-11-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "When is the target merger base date for Taishin Bank and Shin Kong Bank?",
-   "options": [
-    "January 1, 2025",
-    "January 1, 2027",
-    "January 1, 2028",
-    "January 1, 2026"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the merger base date is set for Jan 1, 2027.",
-   "explain_zh": "摘要中明確寫到合併基準日是 2027 年 1 月 1 日。",
-   "news_title_en": "FSC clears Taishin's merger with Shin Kong Bank",
-   "id": "2026-09-11-05"
+   "explain_en": "The summary says the pullback was due to profit‑taking at high valuations and caution ahead of next week’s Fed meeting.",
+   "explain_zh": "摘要指出，回調是因為獲利了結以及對下週聯準會會議的謹慎態度。",
+   "news_title_en": "TAIEX tumbles 755 points as tech heavyweights weaken",
+   "id": "2026-09-12-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"slate\" mean?",
+   "question": "In the summary, what does the word \"spotlighting\" mean?",
    "options": [
-    "A geographic region",
-    "A government regulation",
-    "A type of financial instrument",
-    "A list of items that will be offered"
+    "Selling at a discount",
+    "Showing as the main focus",
+    "Ignoring the topic",
+    "Hiding something important"
+   ],
+   "answer": 1,
+   "explain_en": "Here \"spotlighting\" means to highlight or show something as the main focus.",
+   "explain_zh": "在此句中「spotlighting」是指把某件事物作為主要焦點凸顯。",
+   "news_title_en": "SEMICON Taiwan 2026 opens at record scale as AI drives chip outlook",
+   "id": "2026-09-12-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to Deloitte's 2026 outlook, what is the projected revenue for generative-AI chips?",
+   "options": [
+    "US$250 billion",
+    "US$1 trillion",
+    "US$975 billion",
+    "About US$500 billion"
    ],
    "answer": 3,
-   "explain_en": "Here \"slate\" refers to the set of new funds that are being introduced.",
-   "explain_zh": "這裡的「slate」指的是即將推出的一系列新基金。",
-   "news_title_en": "September brings a fresh wave of fund launches",
-   "id": "2026-09-11-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many new ETFs are being launched by the fund houses by the end of September?",
-   "options": [
-    "Two",
-    "Three",
-    "Five",
-    "Four"
-   ],
-   "answer": 1,
-   "explain_en": "The summary says there are three ETFs: two active ETFs and one non‑investment‑grade bond ETF.",
-   "explain_zh": "摘要中提到有三檔ETF：兩檔主動ETF和一檔非投資級別債券ETF。",
-   "news_title_en": "September brings a fresh wave of fund launches",
-   "id": "2026-09-11-07"
+   "explain_en": "The summary states generative‑AI chips are expected to approach US$500 bn, about half of all chip sales.",
+   "explain_zh": "摘要中說，生成式 AI 晶片的營收預計接近 5,000 億美元，約佔晶片總銷售的一半。",
+   "news_title_en": "SEMICON Taiwan 2026 opens at record scale as AI drives chip outlook",
+   "id": "2026-09-12-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"reciprocal\" mean?",
+   "question": "In the text, what does the phrase \"capital relief\" mean?",
    "options": [
-    "A type of tax",
-    "A one‑way agreement",
-    "Both sides give the same thing to each other",
-    "A temporary measure"
+    "A reduction in the amount of capital a company must hold",
+    "A new type of insurance product",
+    "An increase in the company’s profit margin",
+    "A government subsidy for hiring staff"
+   ],
+   "answer": 0,
+   "explain_en": "\"Capital relief\" refers to lowering the required capital that a firm must keep on hand.",
+   "explain_zh": "「capital relief」指的是降低公司必須持有的資本額度。",
+   "news_title_en": "FSC advances holding-company capital rules to ease TIS transition",
+   "id": "2026-09-12-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many life‑insurance‑type holdings gain capital relief under the transition?",
+   "options": [
+    "14",
+    "8",
+    "11",
+    "5"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that eight life‑insurance‑type holdings gain capital relief.",
+   "explain_zh": "摘要中說明有八家人壽保險類控股公司獲得資本寬減。",
+   "news_title_en": "FSC advances holding-company capital rules to ease TIS transition",
+   "id": "2026-09-12-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the phrase \"high-net-worth clients\" mean?",
+   "options": [
+    "Clients who are government officials",
+    "Clients who work in finance",
+    "Clients who own many houses",
+    "Clients who have a lot of money"
+   ],
+   "answer": 3,
+   "explain_en": "It refers to clients with a high amount of assets, specifically those with assets above NT$100 million.",
+   "explain_zh": "指的是資產很高的客戶，文中指的是資產超過1億新台幣的客戶。",
+   "news_title_en": "Taiwan advances Asian asset-management hub via wealth-management plan",
+   "id": "2026-09-12-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what is the minimum asset level for clients to receive the broader product menu?",
+   "options": [
+    "NT$100 million",
+    "NT$200 million",
+    "NT$10 million",
+    "NT$50 million"
+   ],
+   "answer": 0,
+   "explain_en": "The plan targets clients with assets above NT$100 million for the expanded product menu.",
+   "explain_zh": "計畫針對資產超過1億新台幣的客戶提供更廣的產品選項。",
+   "news_title_en": "Taiwan advances Asian asset-management hub via wealth-management plan",
+   "id": "2026-09-12-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"streamlined\" mean?",
+   "options": [
+    "Made more expensive",
+    "Made larger in size",
+    "Made more complicated",
+    "Made simpler and faster"
+   ],
+   "answer": 3,
+   "explain_en": "\"Streamlined\" means made simpler and faster, as the service reduces steps for heirs.",
+   "explain_zh": "「streamlined」指的是讓流程更簡單、更快速，正如文中說明此服務減少了繼承人需要的步驟。",
+   "news_title_en": "Tax bureaus launch single window for inherited financial-asset inquiries",
+   "id": "2026-09-12-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "When did Taiwan's regional national tax bureaus start offering the single‑window service?",
+   "options": [
+    "December 31",
+    "January 1",
+    "September 1",
+    "July 15"
    ],
    "answer": 2,
-   "explain_en": "\"Reciprocal\" means that both parties give something to each other, here a tariff that applies both ways.",
-   "explain_zh": "「reciprocal」指雙方互相給予相同的東西，這裡指雙邊都適用的關稅。",
-   "news_title_en": "US sets Taiwan's temporary \"reciprocal\" tariff at 20%",
-   "id": "2026-09-11-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "When does the 20% temporary tariff become effective?",
-   "options": [
-    "12:01 p.m. US Eastern on Sep 7",
-    "12:01 a.m. US Eastern on Aug 7",
-    "12:01 p.m. US Eastern on Aug 7",
-    "12:01 a.m. US Eastern on Sep 7"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the tariff is effective from 12:01 a.m. US Eastern on Aug 7.",
-   "explain_zh": "摘要中說關稅於 8 月 7 日美東時間凌晨 12:01 生效。",
-   "news_title_en": "US sets Taiwan's temporary \"reciprocal\" tariff at 20%",
-   "id": "2026-09-11-09"
+   "explain_en": "The summary states the service began on September 1.",
+   "explain_zh": "摘要中說明此服務於 9 月 1 日開始。",
+   "news_title_en": "Tax bureaus launch single window for inherited financial-asset inquiries",
+   "id": "2026-09-12-09"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"buffeted\" mean?",
+   "question": "In the summary, what does the word \"cautioned\" mean?",
    "options": [
-    "hit repeatedly",
-    "ignored completely",
-    "supported strongly",
-    "moved gently"
+    "to warn about possible danger",
+    "to ignore a problem",
+    "to calculate a price",
+    "to celebrate a success"
    ],
    "answer": 0,
-   "explain_en": "\"Buffeted\" means hit or shaken repeatedly, describing how the Taiwan dollar is being affected by capital flows and a soft yen.",
-   "explain_zh": "「buffeted」在此指被反覆衝擊或搖動，形容台幣受到資金流動與日圓走弱的影響。",
-   "news_title_en": "Central bank holds rate, guards against FX swings",
-   "id": "2026-09-11-10"
+   "explain_en": "\"Cautioned\" means to warn someone about a possible problem or danger.",
+   "explain_zh": "「cautioned」的意思是警告某人可能的問題或危險。",
+   "news_title_en": "CPI tops 2% for a fourth month; DGBAS warns September may accelerate",
+   "id": "2026-09-12-10"
   },
   {
    "type": "comprehension",
-   "question": "What is the current benchmark policy rate set by Taiwan's central bank?",
+   "question": "For how many consecutive months has Taiwan's consumer inflation stayed above 2% year over year?",
    "options": [
-    "2.0%",
-    "3.0%",
-    "2.5%",
-    "1.5%"
+    "Four months",
+    "Three months",
+    "Five months",
+    "Two months"
    ],
    "answer": 0,
-   "explain_en": "The summary states that the central bank has kept its benchmark policy rate at 2.0%.",
-   "explain_zh": "摘要中說明央行將基準政策利率維持在 2.0%。",
-   "news_title_en": "Central bank holds rate, guards against FX swings",
-   "id": "2026-09-11-11"
+   "explain_en": "The summary states the inflation has been above 2% for four straight months.",
+   "explain_zh": "摘要中說通膨已連續四個月高於 2%。",
+   "news_title_en": "CPI tops 2% for a fourth month; DGBAS warns September may accelerate",
+   "id": "2026-09-12-11"
   }
  ]
 }
