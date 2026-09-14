@@ -1,185 +1,185 @@
 {
- "date": "2026-09-13",
+ "date": "2026-09-14",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, TSMC is described as the market's \"anchor.\" What does \"anchor\" mean here?",
+   "question": "In the summary, what does the phrase \"resilient AI‑chip demand\" mean?",
    "options": [
-    "a rope used on ships",
-    "a financial penalty",
-    "a type of fish",
-    "the main stabilizing stock in the market"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"anchor\" means the stock that provides stability and support to the market index.",
-   "explain_zh": "在此「anchor」指的是在市場指數中提供穩定與支撐的主要股票。",
-   "news_title_en": "TAIEX holds near 46,000 into a pivotal Fed week",
-   "id": "2026-09-13-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What major event is happening at the same time as the quadruple‑witching expiry?",
-   "options": [
-    "TSMC's quarterly earnings release",
-    "the Eurozone interest‑rate cut",
-    "the Fed's September 15–16 decision",
-    "Taiwan's presidential election"
-   ],
-   "answer": 2,
-   "explain_en": "The summary says the Fed's September 15–16 decision collides with the quadruple‑witching expiry.",
-   "explain_zh": "摘要中提到美聯儲於 9 月 15–16 日的決策正好與四重同時到期同時發生。",
-   "news_title_en": "TAIEX holds near 46,000 into a pivotal Fed week",
-   "id": "2026-09-13-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"outstrip\" mean?",
-   "options": [
-    "to cancel a contract",
-    "to invest heavily",
-    "to be greater than or exceed",
-    "to fall behind"
-   ],
-   "answer": 2,
-   "explain_en": "\"Outstrip\" means to be larger or more than something else, as the AI‑chip demand is larger than the supply.",
-   "explain_zh": "「outstrip」指的是超過、超出，例如 AI 晶片需求超過供應。",
-   "news_title_en": "TSMC posts record August revenue, up 53% as AI demand outpaces supply",
-   "id": "2026-09-13-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was TSMC's reported August revenue?",
-   "options": [
-    "about US$514.8 billion",
-    "about NT$514.8 billion",
-    "about NT$265 billion",
-    "about US$60 billion"
+    "A government ban on AI chips",
+    "Strong and continuing demand for AI chips",
+    "A temporary drop in AI chip sales",
+    "Uncertain interest in AI technology"
    ],
    "answer": 1,
-   "explain_en": "The summary states TSMC posted record August revenue of about NT$514.8 bn.",
-   "explain_zh": "摘要中提到台積電八月營收約為新台幣 514.8 億元。",
-   "news_title_en": "TSMC posts record August revenue, up 53% as AI demand outpaces supply",
-   "id": "2026-09-13-03"
+   "explain_en": "The word \"resilient\" describes demand that stays strong despite challenges, so it means strong and continuing demand for AI chips.",
+   "explain_zh": "「resilient」表示需求在困難中仍然保持強勁，意指 AI 晶片需求持續且強勁。",
+   "news_title_en": "TAIEX rallies into a \"super central-bank week\"",
+   "id": "2026-09-14-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "On which date does Taiwan's central bank meet, according to the summary?",
+   "options": [
+    "September 15",
+    "September 17",
+    "September 18",
+    "September 16"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that Taiwan's central bank meets on September 17.",
+   "explain_zh": "摘要中說明台灣央行的會議日期是 9 月 17 日。",
+   "news_title_en": "TAIEX rallies into a \"super central-bank week\"",
+   "id": "2026-09-14-01"
   },
   {
    "type": "vocab",
-   "question": "What does the phrase \"capital relief\" mean as used in the text?",
+   "question": "In the summary, what does the word \"hub\" mean?",
    "options": [
-    "A reduction in the amount of capital that insurers must hold",
-    "A new type of insurance policy",
-    "A government subsidy for insurers",
-    "An increase in profits for insurers"
+    "A type of semiconductor material",
+    "A central point of activity or importance",
+    "A place where many people gather for fun",
+    "A financial term for profit margin"
+   ],
+   "answer": 1,
+   "explain_en": "Here \"hub\" refers to Taiwan being a central point of AI activity and development.",
+   "explain_zh": "這裡的「hub」指的是台灣是 AI 活動與發展的核心位置。",
+   "news_title_en": "SEMI: Taiwan is a global AI hub; chip revenue seen hitting US$2tn by 2030",
+   "id": "2026-09-14-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what is the projected worldwide semiconductor revenue by 2030?",
+   "options": [
+    "US$3 trillion",
+    "US$1 trillion",
+    "US$2 trillion",
+    "US$4 trillion"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that worldwide semiconductor revenue could reach US$2tn by 2030.",
+   "explain_zh": "摘要中提到，全球半導體營收預計到 2030 年可達 2 兆美元。",
+   "news_title_en": "SEMI: Taiwan is a global AI hub; chip revenue seen hitting US$2tn by 2030",
+   "id": "2026-09-14-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"solicitation\" mean?",
+   "options": [
+    "a legal contract",
+    "a government regulation",
+    "asking for money or business",
+    "a type of investment"
+   ],
+   "answer": 2,
+   "explain_en": "Here, \"solicitation\" refers to asking people to invest or give money, especially when it is not authorized.",
+   "explain_zh": "在此文中，「solicitation」指的是未經授權的投資或募款行為，即向人們徵求金錢或業務。",
+   "news_title_en": "FSC steps up anti-fraud defenses and senior-care trust push",
+   "id": "2026-09-14-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "When is the anti-fraud coordination summit scheduled to be launched?",
+   "options": [
+    "2025",
+    "2027",
+    "2026",
+    "2024"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that the summit is a 2026 anti-fraud coordination summit.",
+   "explain_zh": "摘要中說明此反詐騙協調高峰會將於2026年舉行。",
+   "news_title_en": "FSC steps up anti-fraud defenses and senior-care trust push",
+   "id": "2026-09-14-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"allocation\" mean?",
+   "options": [
+    "Giving money to a specific type of investment",
+    "Traveling to another country",
+    "Hiring new staff",
+    "Writing a legal document"
    ],
    "answer": 0,
-   "explain_en": "In the article, \"capital relief\" refers to easing the required capital levels, giving insurers a temporary reduction in how much capital they must keep.",
-   "explain_zh": "在文中，「capital relief」指的是暫時降低保險公司必須持有的資本額，減輕資本壓力。",
-   "news_title_en": "Life insurers face first TIS capital review as FSC eases the transition",
-   "id": "2026-09-13-04"
+   "explain_en": "Allocation here means assigning or directing money toward a particular investment type, such as alternative assets.",
+   "explain_zh": "在此文中，「allocation」指的是把資金分配到特定的投資類別，例如另類資產。",
+   "news_title_en": "Bankers bullish on private markets and family offices",
+   "id": "2026-09-14-06"
   },
   {
    "type": "comprehension",
-   "question": "By when must Taiwan's life insurers complete their first TIS capital-adequacy review?",
+   "question": "According to the summary, which group of clients are private equity, private credit, hedge funds and family-office services mainly targeted at?",
    "options": [
-    "By the end of March",
-    "By the end of June",
-    "By the end of December",
-    "By the end of September"
+    "Retirees receiving pensions",
+    "Small local businesses",
+    "College students in Taiwan",
+    "High‑net‑worth Taiwanese clients"
    ],
    "answer": 3,
-   "explain_en": "The summary states the first review must be done by the end of September.",
-   "explain_zh": "摘要中說明首次審查必須在九月底前完成。",
-   "news_title_en": "Life insurers face first TIS capital review as FSC eases the transition",
-   "id": "2026-09-13-05"
+   "explain_en": "The text says these services are seen as growth engines for high‑net‑worth clients, indicating they are targeted at affluent Taiwanese investors.",
+   "explain_zh": "文中指出，私募股權、私募信貸、對沖基金與家族辦公室服務是為高淨值客戶設計，目標是富裕的台灣投資者。",
+   "news_title_en": "Bankers bullish on private markets and family offices",
+   "id": "2026-09-14-07"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"affluent flows\" mean?",
+   "question": "In the summary, what does the word \"succession\" mean?",
    "options": [
-    "A type of stock market trend",
-    "Money from wealthy investors",
-    "A river near Kaohsiung",
-    "A government policy"
-   ],
-   "answer": 1,
-   "explain_en": "\"Affluent flows\" refers to the money that comes from wealthy investors.",
-   "explain_zh": "「affluent flows」指的是來自富裕投資人的資金。",
-   "news_title_en": "Asset-management hub AUM jumps over NT$10tn, doubling the two-year goal",
-   "id": "2026-09-13-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "How much did assets under management increase since the policy was launched?",
-   "options": [
-    "Less than NT$1 trillion",
-    "Exactly NT$4 trillion",
-    "More than NT$10 trillion",
-    "Around NT$2.7 trillion"
+    "A legal penalty for tax evasion",
+    "A type of investment fund",
+    "The process of passing on assets to heirs",
+    "A government election"
    ],
    "answer": 2,
-   "explain_en": "The summary says AUM rose by over NT$10 trillion since September 2024.",
-   "explain_zh": "摘要中指出，自2024年9月以來，資產管理規模增加了超過10兆新台幣。",
-   "news_title_en": "Asset-management hub AUM jumps over NT$10tn, doubling the two-year goal",
-   "id": "2026-09-13-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"exemption\" mean?",
-   "options": [
-    "a subsidy",
-    "a tax reduction",
-    "a loan",
-    "a penalty"
-   ],
-   "answer": 1,
-   "explain_en": "An exemption lowers the amount of income that is taxed, so it reduces the tax you have to pay.",
-   "explain_zh": "「exemption」指的是減免稅額，讓應納稅的收入變少，減輕稅負。",
-   "news_title_en": "Income Tax Act amended: bigger child exemption, fuller insurance deduction",
-   "id": "2026-09-13-08"
+   "explain_en": "Here, \"succession\" refers to the transfer of property or assets after someone dies.",
+   "explain_zh": "在此文中，「succession」指的是死後財產或資產的傳承。",
+   "news_title_en": "Estate and Gift Tax Act amendments tighten pre-death gift rules",
+   "id": "2026-09-14-08"
   },
   {
    "type": "comprehension",
-   "question": "From which tax filing year will the new child exemption and insurance deduction take effect?",
+   "question": "According to the summary, when do the new rules apply to gifts made to the decedent's spouse?",
    "options": [
-    "2025 filing",
-    "2026 filing",
-    "2028 filing",
-    "2027 filing"
+    "Within two years before death",
+    "During the decedent's retirement",
+    "Only for gifts over $1 million",
+    "Only after the decedent dies"
    ],
-   "answer": 1,
-   "explain_en": "The amendments apply starting with the 2026 income‑tax filing, which is due in May 2027.",
-   "explain_zh": "新規定自 2026 年的報稅年度起生效，該年度的報稅截止在 2027 年 5 月。",
-   "news_title_en": "Income Tax Act amended: bigger child exemption, fuller insurance deduction",
-   "id": "2026-09-13-09"
+   "answer": 0,
+   "explain_en": "The amendment specifies that gifts to the spouse made within two years before death are subject to the new rules.",
+   "explain_zh": "修正案明確指出，逝者配偶在逝世前兩年內的贈與會受到新規定的限制。",
+   "news_title_en": "Estate and Gift Tax Act amendments tighten pre-death gift rules",
+   "id": "2026-09-14-09"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"radar\" mean?",
+   "question": "In the summary, what does the word \"sticky\" mean?",
    "options": [
-    "a warning system for airplanes",
-    "a type of financial chart",
-    "a cooking method",
-    "a way to keep something under close watch"
+    "Expensive",
+    "Hard to change",
+    "Unclear",
+    "Very adhesive"
+   ],
+   "answer": 1,
+   "explain_en": "\"Sticky\" describes prices that are hard to lower or change.",
+   "explain_zh": "「sticky」指的是價格很難下降或改變。",
+   "news_title_en": "Market tips central bank toward a quarter-notch hike on Sept 17",
+   "id": "2026-09-14-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, how many consecutive months has the CPI been above 2%?",
+   "options": [
+    "One month",
+    "Two months",
+    "Five months",
+    "Four months"
    ],
    "answer": 3,
-   "explain_en": "Here \"radar\" is used figuratively to mean that inflation is being closely monitored by policymakers.",
-   "explain_zh": "這裡的 \"radar\" 是指通膨正受到政策制定者的密切關注。",
-   "news_title_en": "Taiwan CPI holds above 2% for a fourth month; core inflation firms",
-   "id": "2026-09-13-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the year‑over‑year increase of Taiwan's producer prices in August?",
-   "options": [
-    "2.04%",
-    "16.75%",
-    "20.45%",
-    "2.47%"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states that producer prices were up 16.75% year over year.",
-   "explain_zh": "摘要中說明生產者物價年增率為 16.75%。",
-   "news_title_en": "Taiwan CPI holds above 2% for a fourth month; core inflation firms",
-   "id": "2026-09-13-11"
+   "explain_en": "The summary says the CPI has been above 2% for a fourth straight month.",
+   "explain_zh": "摘要提到 CPI 已連續四個月高於 2%。",
+   "news_title_en": "Market tips central bank toward a quarter-notch hike on Sept 17",
+   "id": "2026-09-14-11"
   }
  ]
 }
