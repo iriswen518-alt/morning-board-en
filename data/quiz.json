@@ -1,185 +1,185 @@
 {
- "date": "2026-09-15",
+ "date": "2026-09-16",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"cushion\" mean?",
+   "question": "In the summary, what does the phrase \"ex‑dividend\" mean?",
    "options": [
-    "to increase the price",
-    "to support or lessen the impact",
-    "to make something softer",
-    "to cover with a blanket"
+    "The company has declared bankruptcy",
+    "The stock is being sold without the right to receive the upcoming dividend",
+    "The market is closed for trading",
+    "The stock price is expected to rise sharply"
    ],
    "answer": 1,
-   "explain_en": "Here \"cushion\" means to support the index and reduce the drop, like a buffer.",
-   "explain_zh": "此處的「cushion」指的是支撐指數、減緩跌幅的作用。",
-   "news_title_en": "TAIEX slides 322 points below 46,000 as foreign selling persists",
-   "id": "2026-09-15-00"
+   "explain_en": "Ex‑dividend means the shares are traded without the right to receive the dividend that will be paid soon.",
+   "explain_zh": "「ex‑dividend」指的是股票在除息日交易，買家將無法取得即將發放的股息。",
+   "news_title_en": "TAIEX ends near flat as TSMC absorbs ex-dividend drag",
+   "id": "2026-09-16-00"
   },
   {
    "type": "comprehension",
-   "question": "How many consecutive days did foreign and mainland investors have net outflows?",
+   "question": "By how many points did the TAIEX close lower than its opening level on September 16?",
    "options": [
-    "Two days",
-    "Three days",
-    "Four days",
-    "One day"
+    "56.6 points",
+    "6.61 points",
+    "1.22 points",
+    "900.8 points"
    ],
    "answer": 1,
-   "explain_en": "The summary says it was a third straight day of outflows, meaning three days in a row.",
-   "explain_zh": "摘要提到是連續第三天資金外流，表示已經持續三天。",
-   "news_title_en": "TAIEX slides 322 points below 46,000 as foreign selling persists",
-   "id": "2026-09-15-01"
+   "explain_en": "The summary states the TAIEX closed at 45,624.98, down just 6.61 points.",
+   "explain_zh": "摘要說明台指收盤比開盤低 6.61 點。",
+   "news_title_en": "TAIEX ends near flat as TSMC absorbs ex-dividend drag",
+   "id": "2026-09-16-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"demand\" mean?",
+   "question": "In the summary, what does the phrase \"tight AI capacity\" mean?",
    "options": [
-    "The number of employees hired",
-    "The amount of money a company spends",
-    "The speed of production",
-    "The desire for a product or service"
+    "There is a shortage of AI production ability",
+    "AI devices are physically small",
+    "AI is expensive to develop",
+    "AI technology is very secure"
+   ],
+   "answer": 0,
+   "explain_en": "It means there is not enough capacity to meet AI demand, indicating a shortage.",
+   "explain_zh": "表示 AI 產能不足，需求大於供給，出現缺口。",
+   "news_title_en": "TSMC: AI demand strongest in 30 years, budget raised to 1.9x",
+   "id": "2026-09-16-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much did TSMC increase its 2026 equipment budget compared to the late-2025 estimate?",
+   "options": [
+    "From 1.2x to 1.6x",
+    "From 1.0x to 1.5x",
+    "From 1.9x to 2.5x",
+    "From 1.5x to 1.9x"
    ],
    "answer": 3,
-   "explain_en": "Here \"demand\" refers to how much AI-driven products are wanted by customers.",
-   "explain_zh": "這裡的「demand」指的是客戶對 AI 產品的需求量。",
-   "news_title_en": "TSMC calls AI demand the strongest in 30 years, races to build ~20 fabs",
-   "id": "2026-09-15-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many total fabs does TSMC plan to have worldwide according to the summary?",
-   "options": [
-    "20",
-    "15",
-    "13",
-    "30"
-   ],
-   "answer": 0,
-   "explain_en": "The summary says TSMC is building 13 in Taiwan and 5‑6 abroad, which is about 20 worldwide.",
-   "explain_zh": "摘要提到台積電在台灣建 13 座、海外 5‑6 座，總計約 20 座。",
-   "news_title_en": "TSMC calls AI demand the strongest in 30 years, races to build ~20 fabs",
-   "id": "2026-09-15-03"
+   "explain_en": "The summary states the budget was lifted from 1.5 times to 1.9 times the late‑2025 estimate.",
+   "explain_zh": "摘要說明預算從 1.5 倍提升到 1.9 倍，較 2025 年底的估計增加。",
+   "news_title_en": "TSMC: AI demand strongest in 30 years, budget raised to 1.9x",
+   "id": "2026-09-16-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"relieve\" mean?",
+   "question": "In the summary, what does the word \"safeguard\" mean?",
    "options": [
-    "to make something less severe",
-    "to hide something",
-    "to start something",
-    "to increase something"
+    "to ignore",
+    "to invest",
+    "to delay",
+    "to protect"
    ],
-   "answer": 0,
-   "explain_en": "Here \"relieve\" means to reduce or ease the capital pressure.",
-   "explain_zh": "在此文中「relieve」指減輕或緩和資本壓力。",
-   "news_title_en": "FSC eases TIS transition, cutting capital strain for eight insurance-type holdings",
-   "id": "2026-09-15-04"
+   "answer": 3,
+   "explain_en": "Here \"safeguard\" means to protect something, such as retirees' assets.",
+   "explain_zh": "此處的「safeguard」是指保護，例如保護退休族的資產。",
+   "news_title_en": "FSC promotes elderly-care trusts to safeguard retirees",
+   "id": "2026-09-16-04"
   },
   {
    "type": "comprehension",
-   "question": "How many insurance-type financial holding companies will have their capital pressure eased by the FSC's transition measures?",
+   "question": "According to the summary, why does the FSC encourage banks to expand trust products?",
+   "options": [
+    "To increase foreign investment",
+    "To help seniors and give banks stable fee income",
+    "To reduce the number of banks",
+    "To lower taxes for banks"
+   ],
+   "answer": 1,
+   "explain_en": "The summary says the policy aims to protect seniors' financial security and provides a stable fee‑income line for banks.",
+   "explain_zh": "摘要指出，此政策旨在保護長者的財務安全，同時為銀行提供穩定的手續費收入來源。",
+   "news_title_en": "FSC promotes elderly-care trusts to safeguard retirees",
+   "id": "2026-09-16-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"appetite\" mean?",
+   "options": [
+    "desire or interest",
+    "a type of food",
+    "a financial loss",
+    "a legal document"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"appetite\" refers to the strong desire or interest of retail investors for active ETFs and income products.",
+   "explain_zh": "此處的「appetite」指的是散戶對主動ETF與收益產品的強烈需求或興趣。",
+   "news_title_en": "September fund wave: five launches including two active ETFs",
+   "id": "2026-09-16-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many new funds were launched in September according to the summary?",
    "options": [
     "Four",
-    "Twenty-six",
-    "Eight",
-    "Eleven"
+    "Six",
+    "Five",
+    "Seven"
    ],
    "answer": 2,
-   "explain_en": "The summary states that the measures relieve capital pressure for eight insurance-type holdings.",
-   "explain_zh": "摘要中說明此措施緩解了八家保險類金融控股公司的資本壓力。",
-   "news_title_en": "FSC eases TIS transition, cutting capital strain for eight insurance-type holdings",
-   "id": "2026-09-15-05"
+   "explain_en": "The summary states that five new funds were launched in September.",
+   "explain_zh": "摘要中提到九月份共推出了五檔新基金。",
+   "news_title_en": "September fund wave: five launches including two active ETFs",
+   "id": "2026-09-16-07"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"burst\" mean?",
+   "question": "In the summary, what does the word \"incurs\" mean?",
    "options": [
-    "a financial loss",
-    "a type of fund",
-    "a sudden increase",
-    "a loud sound"
+    "to avoid",
+    "to receive",
+    "to cause",
+    "to ignore"
    ],
    "answer": 2,
-   "explain_en": "Here \"burst\" describes a sudden increase in the number of fund offerings.",
-   "explain_zh": "此處的「burst」指的是基金推出數量的突然增加。",
-   "news_title_en": "September fund wave: five new products and two more active ETFs launch",
-   "id": "2026-09-15-06"
+   "explain_en": "Here \"incurs\" means that missing the window will cause interest and possible penalties.",
+   "explain_zh": "在此句中「incurs」指的是因錯過期限而產生利息和罰款。",
+   "news_title_en": "Provisional corporate income tax filing runs through Sept 30",
+   "id": "2026-09-16-08"
   },
   {
    "type": "comprehension",
-   "question": "How many active ETFs have been listed since they opened in 2025?",
+   "question": "According to the summary, when must companies file their provisional income tax?",
    "options": [
-    "2",
-    "22",
-    "40",
-    "5"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that 40 active ETFs are now listed.",
-   "explain_zh": "摘要中提到目前已上市的主動ETF共有40檔。",
-   "news_title_en": "September fund wave: five new products and two more active ETFs launch",
-   "id": "2026-09-15-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"streamlining\" mean?",
-   "options": [
-    "Making a process more expensive",
-    "Adding more steps to a process",
-    "Stopping a process completely",
-    "Making a process faster and simpler"
-   ],
-   "answer": 3,
-   "explain_en": "\"Streamlining\" means to make something work more efficiently, with fewer steps or less effort.",
-   "explain_zh": "「streamlining」指的是讓流程更有效率、簡化，減少步驟或時間。",
-   "news_title_en": "Single-window service for inherited financial-asset inquiries starts Sept 1",
-   "id": "2026-09-15-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "When does the single-window service for inherited financial-asset inquiries start?",
-   "options": [
-    "July 15",
-    "September 1",
-    "January 1",
-    "December 31"
+    "By December 31",
+    "Between September 1 and September 30",
+    "Between August 1 and August 31",
+    "Between October 1 and October 31"
    ],
    "answer": 1,
-   "explain_en": "The summary states that the service begins on September 1.",
-   "explain_zh": "摘要中說明此服務於 9 月 1 日開始。",
-   "news_title_en": "Single-window service for inherited financial-asset inquiries starts Sept 1",
-   "id": "2026-09-15-09"
+   "explain_en": "The summary states that the filing period is from Sept 1 to Sept 30.",
+   "explain_zh": "摘要中說明，企業必須在 9 月 1 日至 9 月 30 日之間完成申報。",
+   "news_title_en": "Provisional corporate income tax filing runs through Sept 30",
+   "id": "2026-09-16-09"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"AI-driven exports\" mean?",
+   "question": "In the summary, what does the word \"capex\" mean?",
    "options": [
-    "Exports that are produced using artificial intelligence technology",
-    "Exports that are unrelated to technology",
-    "Exports that are sold to AI companies",
-    "Exports that are regulated by AI laws"
+    "The rate at which prices increase over time",
+    "Money spent on buying equipment and building facilities",
+    "The total amount of a country's exports",
+    "The percentage of GDP growth"
    ],
-   "answer": 0,
-   "explain_en": "It refers to exports whose growth is boosted by the use of artificial intelligence in production or services.",
-   "explain_zh": "指的是因使用人工智慧技術而提升的出口。",
-   "news_title_en": "Cathay-NTU team lifts 2026 GDP forecast to 11.6%, sees central bank on hold",
-   "id": "2026-09-15-10"
+   "answer": 1,
+   "explain_en": "In the text, \"capex\" refers to capital expenditures, i.e., spending on equipment, plants, and other fixed assets.",
+   "explain_zh": "在文中，\"capex\" 指的是資本支出，也就是購買設備、建廠等固定資產的花費。",
+   "news_title_en": "Cathay-NTU lifts 2026 GDP forecast to 11.6% on AI export boom",
+   "id": "2026-09-16-10"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what does the Cathay-NTU team expect the central bank to do at its September board meeting?",
+   "question": "What is the new 2026 GDP growth forecast for Taiwan according to the Cathay-NTU team?",
    "options": [
-    "Keep the policy rate unchanged",
-    "Cancel the policy rate",
-    "Lower the policy rate",
-    "Raise the policy rate"
+    "10.1%",
+    "2.1%",
+    "11.6%",
+    "5.1%"
    ],
-   "answer": 0,
-   "explain_en": "The summary states the team expects the central bank to keep its policy rate unchanged at the September meeting.",
-   "explain_zh": "摘要中說明團隊預期央行在九月會議上維持政策利率不變。",
-   "news_title_en": "Cathay-NTU team lifts 2026 GDP forecast to 11.6%, sees central bank on hold",
-   "id": "2026-09-15-11"
+   "answer": 2,
+   "explain_en": "The summary states the forecast was raised from 10.1% to 11.6% for 2026.",
+   "explain_zh": "摘要中說明預測從 10.1% 提升至 2026 年的 11.6%。",
+   "news_title_en": "Cathay-NTU lifts 2026 GDP forecast to 11.6% on AI export boom",
+   "id": "2026-09-16-11"
   }
  ]
 }
