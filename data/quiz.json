@@ -1,185 +1,185 @@
 {
- "date": "2026-09-17",
+ "date": "2026-09-18",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"gap\" mean?",
+   "question": "In the summary, what does the phrase \"short-covering bounce\" mean?",
    "options": [
-    "A difference between two prices",
-    "A new stock listing",
-    "A period when the market is closed",
-    "A type of dividend"
+    "A quick rise in stock prices caused by investors buying back shares they previously sold short",
+    "A government policy that lowers taxes",
+    "A decline in stock prices due to companies cutting dividends",
+    "A stable market where no one trades"
    ],
    "answer": 0,
-   "explain_en": "Here \"gap\" refers to the difference between the dividend payout and the stock price that needed to be filled.",
-   "explain_zh": "這裡的「gap」指的是股價與股息之間的差距，需要被填補。",
-   "news_title_en": "TAIEX climbs 337 points to 45,848 as TSMC fills its dividend gap",
-   "id": "2026-09-17-00"
+   "explain_en": "A short-covering bounce is a short-term rise in price when traders who sold stocks short buy them back to close their positions.",
+   "explain_zh": "「short-covering bounce」指的是空頭回補，投資人買回先前賣空的股票，導致股價短暫上漲。",
+   "news_title_en": "TAIEX jumps 439 points as TSMC leads relief rally",
+   "id": "2026-09-18-00"
   },
   {
    "type": "comprehension",
-   "question": "What was the turnover of the Taiwan benchmark index on September 16?",
+   "question": "What was the closing level of the TAIEX on September 17?",
    "options": [
-    "About NT$643.8bn",
-    "About NT$700.0bn",
-    "About NT$500.0bn",
-    "About NT$800.0bn"
+    "44,200",
+    "45,000",
+    "46,288",
+    "47,500"
    ],
-   "answer": 0,
-   "explain_en": "The summary states the turnover was about NT$643.8 billion.",
-   "explain_zh": "摘要中說明成交金額約為新台幣643.8億。",
-   "news_title_en": "TAIEX climbs 337 points to 45,848 as TSMC fills its dividend gap",
-   "id": "2026-09-17-01"
+   "answer": 2,
+   "explain_en": "The summary states that Taiwan's benchmark TAIEX closed at 46,288 on Sept 17.",
+   "explain_zh": "摘要中說明台灣加權指數在 9 月 17 日收在 46,288 點。",
+   "news_title_en": "TAIEX jumps 439 points as TSMC leads relief rally",
+   "id": "2026-09-18-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"scaling\" mean?",
+   "question": "In the text, what does the word \"harvest\" mean?",
    "options": [
-    "Reducing the size of a product",
-    "Making something larger or more extensive",
-    "Stopping production completely",
-    "Changing the color of a chip"
+    "to collect crops",
+    "to receive profits or benefits",
+    "to plant seeds",
+    "to stop production"
    ],
    "answer": 1,
-   "explain_en": "Here \"scaling\" means expanding the use of the 3DFabric platform to a greater extent.",
-   "explain_zh": "這裡的「scaling」是指把 3DFabric 平台的應用範圍擴大。",
-   "news_title_en": "TSMC pushes 2nm and 3DFabric packaging as AI orders stay hot",
-   "id": "2026-09-17-02"
+   "explain_en": "Here \"harvest phase\" means the period when the business starts gaining profits.",
+   "explain_zh": "此處的「harvest」指的是開始獲得收益的階段。",
+   "news_title_en": "Hon Hai's AI-server share tops 40%, CPO switches enter Q3 mass production",
+   "id": "2026-09-18-02"
   },
   {
    "type": "comprehension",
-   "question": "How many wafers per month can Fab 20 produce according to the summary?",
+   "question": "What was the approximate revenue of Hon Hai in August?",
    "options": [
-    "20,000 wafers",
-    "15,000 wafers",
-    "10,000 wafers",
-    "25,000 wafers"
+    "NT$1,121.8bn",
+    "NT$1,021.8bn",
+    "NT$921.8bn",
+    "NT$821.8bn"
    ],
-   "answer": 0,
-   "explain_en": "The summary states that Fab 20 reached a 20,000‑wafer‑per‑month milestone.",
-   "explain_zh": "摘要中提到 Fab 20 已達到每月 20,000 片晶圓的產能。",
-   "news_title_en": "TSMC pushes 2nm and 3DFabric packaging as AI orders stay hot",
-   "id": "2026-09-17-03"
+   "answer": 2,
+   "explain_en": "The summary states August revenue reached about NT$921.8bn.",
+   "explain_zh": "摘要中提到八月營收約為新台幣921.8億。",
+   "news_title_en": "Hon Hai's AI-server share tops 40%, CPO switches enter Q3 mass production",
+   "id": "2026-09-18-03"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"solvency\" mean?",
+   "question": "In the summary, what does the phrase \"fair value\" mean?",
    "options": [
-    "The speed at which a company can sell its assets",
-    "The amount of profit a company makes",
-    "The ability to meet long‑term financial obligations",
-    "The share of market a company holds"
-   ],
-   "answer": 2,
-   "explain_en": "Solvency refers to a firm’s capacity to pay its debts and remain financially stable over time.",
-   "explain_zh": "「solvency」指的是公司能夠長期償付債務、維持財務穩定的能力。",
-   "news_title_en": "FSC grants transition relief as insurers adopt new TIS solvency regime",
-   "id": "2026-09-17-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many life‑insurance‑focused financial holding groups will see their capital pressure eased?",
-   "options": [
-    "8",
-    "5",
-    "11",
-    "14"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that eight life‑insurance‑focused financial holding groups will have eased capital pressure.",
-   "explain_zh": "摘要中提到有八家以壽險為主的金融控股集團將減輕資本壓力。",
-   "news_title_en": "FSC grants transition relief as insurers adopt new TIS solvency regime",
-   "id": "2026-09-17-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the phrase \"regular‑savings ETF investing\" mean?",
-   "options": [
-    "Saving money in a bank account without investing",
-    "Investing in stocks that pay regular dividends",
-    "Investing in ETFs using money set aside from regular income",
-    "Buying ETFs only on weekends"
-   ],
-   "answer": 2,
-   "explain_en": "It refers to using money saved regularly (like from a salary) to buy exchange‑traded funds.",
-   "explain_zh": "指的是把固定的儲蓄金額投入ETF，亦即利用定期存款的資金來購買ETF。",
-   "news_title_en": "Taiwan wealth-management assets swell to NT$36tn as ETFs lead the surge",
-   "id": "2026-09-17-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "How much did Taiwan's wealth‑management assets increase over six years?",
-   "options": [
-    "About NT$20 trillion",
-    "About NT$4.86 trillion",
-    "About NT$16 trillion",
-    "About NT$36 trillion"
-   ],
-   "answer": 2,
-   "explain_en": "The assets grew from under NT$20 tn to about NT$36 tn, an increase of roughly NT$16 tn.",
-   "explain_zh": "資產從不到 2000 億新台幣增至約 3600 億新台幣，增加約 1600 億新台幣。",
-   "news_title_en": "Taiwan wealth-management assets swell to NT$36tn as ETFs lead the surge",
-   "id": "2026-09-17-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"slipping\" mean?",
-   "options": [
-    "moving quickly",
-    "getting larger",
-    "falling asleep",
-    "decreasing"
+    "The original purchase price of an asset",
+    "The historical cost of an asset",
+    "The amount of tax owed on an asset",
+    "The market price at which an asset could be sold"
    ],
    "answer": 3,
-   "explain_en": "\"Slipping\" here means the amount is going down, i.e., decreasing.",
-   "explain_zh": "「slipping」在文中指的是金額下降，也就是減少。",
-   "news_title_en": "Property-gains tax revenue falls below NT$100bn as housing market cools",
-   "id": "2026-09-17-08"
+   "explain_en": "Fair value is the price that would be received to sell an asset in an orderly transaction between market participants.",
+   "explain_zh": "公平價值指的是在市場上可以賣出的價格，也就是資產在正常交易中能取得的金額。",
+   "news_title_en": "FSC's eight new 2026 rules bring life-insurance overhaul via IFRS 17, ICS",
+   "id": "2026-09-18-04"
   },
   {
    "type": "comprehension",
-   "question": "How much property-gains tax revenue was generated in 2025?",
+   "question": "When will the eight new measures announced by Taiwan's FSC take effect?",
    "options": [
-    "NT$120bn",
-    "NT$100bn",
-    "NT$85bn",
-    "NT$92.34bn"
+    "January 1, 2026",
+    "December 31, 2026",
+    "July 1, 2026",
+    "January 1, 2025"
    ],
-   "answer": 3,
-   "explain_en": "The summary states the tax generated NT$92.34bn in 2025.",
-   "explain_zh": "摘要中說2025年的稅收為 NT$92.34 億。",
-   "news_title_en": "Property-gains tax revenue falls below NT$100bn as housing market cools",
-   "id": "2026-09-17-09"
+   "answer": 0,
+   "explain_en": "The summary states the measures take effect on Jan 1, 2026.",
+   "explain_zh": "摘要中說明這八項新措施將於2026年1月1日生效。",
+   "news_title_en": "FSC's eight new 2026 rules bring life-insurance overhaul via IFRS 17, ICS",
+   "id": "2026-09-18-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"boom\" mean?",
+   "question": "In the summary, what does the word \"momentum\" mean?",
    "options": [
-    "a type of financial report",
-    "a loud noise",
-    "a sudden increase",
-    "a government policy"
+    "A strong forward movement",
+    "A government policy",
+    "A type of financial report",
+    "A sudden stop"
    ],
-   "answer": 2,
-   "explain_en": "Here \"boom\" refers to a rapid and large increase in global AI investment.",
-   "explain_zh": "這裡的「boom」指的是全球 AI 投資的快速大幅成長。",
-   "news_title_en": "Cathay lifts Taiwan 2026 GDP forecast to 11.6% on AI-driven exports",
-   "id": "2026-09-17-10"
+   "answer": 0,
+   "explain_en": "Here \"momentum\" means a strong forward movement or continuing progress, referring to the ongoing fund-launch activity.",
+   "explain_zh": "「momentum」在此指持續的推進力或勢頭，表示基金發行的持續活躍。",
+   "news_title_en": "September fund-raising wave: five new funds, three of them ETFs",
+   "id": "2026-09-18-06"
   },
   {
    "type": "comprehension",
-   "question": "What GDP growth estimate did Cathay Financial Holdings set for Taiwan in 2026?",
+   "question": "How many of the new funds announced for September are ETFs?",
    "options": [
-    "10.1%",
-    "12.5%",
-    "11.6%",
-    "9.8%"
+    "Five",
+    "Two",
+    "Four",
+    "Three"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that three of the five new funds are ETFs.",
+   "explain_zh": "摘要說明五檔新基金中有三檔是ETF。",
+   "news_title_en": "September fund-raising wave: five new funds, three of them ETFs",
+   "id": "2026-09-18-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"burden\" mean?",
+   "options": [
+    "A heavy weight that can be lifted easily",
+    "A physical load carried on the back",
+    "A responsibility or cost that someone has to bear",
+    "A type of tax that is optional"
    ],
    "answer": 2,
-   "explain_en": "The summary states Cathay raised its 2026 GDP growth estimate to 11.6%.",
-   "explain_zh": "摘要中提到 Cathay 將 2026 年台灣 GDP 成長預估提升至 11.6%。",
-   "news_title_en": "Cathay lifts Taiwan 2026 GDP forecast to 11.6% on AI-driven exports",
-   "id": "2026-09-17-11"
+   "explain_en": "Here \"burden\" refers to the financial responsibility or cost that taxpayers have to pay.",
+   "explain_zh": "此處的「burden」指的是納稅人必須承擔的財務責任或成本。",
+   "news_title_en": "2026 estate-tax brackets raised as CPI hits adjustment threshold",
+   "id": "2026-09-18-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "Why did Taiwan lift the 2026 estate‑tax bracket thresholds?",
+   "options": [
+    "Because the number of estates increased dramatically",
+    "Because cumulative CPI growth reached the statutory adjustment trigger",
+    "Because a new law was passed to eliminate estate tax",
+    "Because the government wanted to raise more revenue"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the thresholds were lifted because cumulative CPI growth hit the adjustment trigger.",
+   "explain_zh": "摘要中說明，門檻提升是因為累計的 CPI 成長達到法定調整門檻。",
+   "news_title_en": "2026 estate-tax brackets raised as CPI hits adjustment threshold",
+   "id": "2026-09-18-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"momentum\" mean?",
+   "options": [
+    "A strong and continuing force",
+    "A government policy",
+    "A type of financial report",
+    "A sudden drop in prices"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"momentum\" refers to the strong and continuing force of Taiwan's export growth.",
+   "explain_zh": "此處的「momentum」指的是台灣出口成長的強勁且持續的動能。",
+   "news_title_en": "AI-driven exports keep Taiwan growth firm as inflation eases",
+   "id": "2026-09-18-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the projected full‑year CPI rate for Taiwan in 2026?",
+   "options": [
+    "About 1.66%",
+    "About 5%",
+    "About 0.5%",
+    "About 3.2%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states the full‑year CPI rate is projected around 1.66%.",
+   "explain_zh": "摘要中提到全年消費者物價指數預計約為 1.66%。",
+   "news_title_en": "AI-driven exports keep Taiwan growth firm as inflation eases",
+   "id": "2026-09-18-11"
   }
  ]
 }
