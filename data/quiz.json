@@ -1,185 +1,155 @@
 {
- "date": "2026-09-18",
+ "date": "2026-09-19",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"short-covering bounce\" mean?",
+   "question": "In the summary, what does the word \"anchor\" mean?",
    "options": [
-    "A quick rise in stock prices caused by investors buying back shares they previously sold short",
-    "A government policy that lowers taxes",
-    "A decline in stock prices due to companies cutting dividends",
-    "A stable market where no one trades"
+    "to sink a ship",
+    "to start a race",
+    "to support or hold up something",
+    "to write a note"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"anchor\" means TSMC helped support the index, keeping it stable or higher.",
+   "explain_zh": "在此「anchor」指的是台積電支撐指數，使其保持或上升。",
+   "news_title_en": "Taiwan stocks surge 893 points, reclaim 47,000 as chip rally returns",
+   "id": "2026-09-19-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the total turnover (listed and OTC) reported in the summary?",
+   "options": [
+    "NT$2,460",
+    "NT$47,180.75",
+    "NT$1.34 trillion",
+    "NT$893 million"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that combined listed and OTC turnover topped NT$1.34 trillion.",
+   "explain_zh": "摘要中說上市與上櫃成交總額超過 1.34 兆新台幣。",
+   "news_title_en": "Taiwan stocks surge 893 points, reclaim 47,000 as chip rally returns",
+   "id": "2026-09-19-01"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many exhibitors attended SEMICON Taiwan 2026 according to the summary?",
+   "options": [
+    "1,300",
+    "1,000",
+    "2,000",
+    "1,500"
    ],
    "answer": 0,
-   "explain_en": "A short-covering bounce is a short-term rise in price when traders who sold stocks short buy them back to close their positions.",
-   "explain_zh": "「short-covering bounce」指的是空頭回補，投資人買回先前賣空的股票，導致股價短暫上漲。",
-   "news_title_en": "TAIEX jumps 439 points as TSMC leads relief rally",
-   "id": "2026-09-18-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the closing level of the TAIEX on September 17?",
-   "options": [
-    "44,200",
-    "45,000",
-    "46,288",
-    "47,500"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that Taiwan's benchmark TAIEX closed at 46,288 on Sept 17.",
-   "explain_zh": "摘要中說明台灣加權指數在 9 月 17 日收在 46,288 點。",
-   "news_title_en": "TAIEX jumps 439 points as TSMC leads relief rally",
-   "id": "2026-09-18-01"
+   "explain_en": "The summary states the show drew a record 1,300 exhibitors.",
+   "explain_zh": "摘要中提到展會吸引了創紀錄的 1,300 家參展商。",
+   "news_title_en": "SEMI chief: Taiwan an AI hub, chip revenue seen hitting $2 trillion by 2030",
+   "id": "2026-09-19-02"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"harvest\" mean?",
+   "question": "In the summary, what does the word \"solvency\" mean?",
    "options": [
-    "to collect crops",
-    "to receive profits or benefits",
-    "to plant seeds",
-    "to stop production"
+    "The number of shareholders a company has",
+    "The speed at which a company can sell its assets",
+    "The ability to meet long‑term debts and obligations",
+    "The amount of profit a company makes"
    ],
-   "answer": 1,
-   "explain_en": "Here \"harvest phase\" means the period when the business starts gaining profits.",
-   "explain_zh": "此處的「harvest」指的是開始獲得收益的階段。",
-   "news_title_en": "Hon Hai's AI-server share tops 40%, CPO switches enter Q3 mass production",
-   "id": "2026-09-18-02"
+   "answer": 2,
+   "explain_en": "Solvency refers to an insurer's capacity to pay its long‑term liabilities, not profit or speed of sales.",
+   "explain_zh": "償付能力指的是保險公司能否支付長期債務，與獲利或資產變現速度無關。",
+   "news_title_en": "FSC unveils eight new rules for 2026, ushering life-insurer transformation",
+   "id": "2026-09-19-03"
   },
   {
    "type": "comprehension",
-   "question": "What was the approximate revenue of Hon Hai in August?",
+   "question": "When are the eight new regulatory changes scheduled to take effect?",
    "options": [
-    "NT$1,121.8bn",
-    "NT$1,021.8bn",
-    "NT$921.8bn",
-    "NT$821.8bn"
+    "2026",
+    "2027",
+    "2024",
+    "2025"
    ],
-   "answer": 2,
-   "explain_en": "The summary states August revenue reached about NT$921.8bn.",
-   "explain_zh": "摘要中提到八月營收約為新台幣921.8億。",
-   "news_title_en": "Hon Hai's AI-server share tops 40%, CPO switches enter Q3 mass production",
-   "id": "2026-09-18-03"
+   "answer": 0,
+   "explain_en": "The summary states the rules will take effect in 2026.",
+   "explain_zh": "摘要中明確說明這八項新規則將於2026年生效。",
+   "news_title_en": "FSC unveils eight new rules for 2026, ushering life-insurer transformation",
+   "id": "2026-09-19-04"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"fair value\" mean?",
+   "question": "In the summary, what does the phrase “product shelf” mean?",
    "options": [
-    "The original purchase price of an asset",
-    "The historical cost of an asset",
-    "The amount of tax owed on an asset",
-    "The market price at which an asset could be sold"
+    "A literal shelf for storing items",
+    "A type of insurance policy",
+    "The price of a product",
+    "A list of financial products a company offers"
    ],
    "answer": 3,
-   "explain_en": "Fair value is the price that would be received to sell an asset in an orderly transaction between market participants.",
-   "explain_zh": "公平價值指的是在市場上可以賣出的價格，也就是資產在正常交易中能取得的金額。",
-   "news_title_en": "FSC's eight new 2026 rules bring life-insurance overhaul via IFRS 17, ICS",
-   "id": "2026-09-18-04"
+   "explain_en": "Here “product shelf” refers to the range or list of financial products the insurers can sell.",
+   "explain_zh": "在此「product shelf」指的是保險公司可以提供的金融商品種類。",
+   "news_title_en": "Insurers expand into wealth management as approvals reach ten firms",
+   "id": "2026-09-19-05"
   },
   {
    "type": "comprehension",
-   "question": "When will the eight new measures announced by Taiwan's FSC take effect?",
+   "question": "How many insurance companies had received FSC approval to conduct wealth‑management business by May 2026?",
    "options": [
-    "January 1, 2026",
-    "December 31, 2026",
-    "July 1, 2026",
-    "January 1, 2025"
+    "Ten",
+    "Eight",
+    "Nine",
+    "Twelve"
    ],
    "answer": 0,
-   "explain_en": "The summary states the measures take effect on Jan 1, 2026.",
-   "explain_zh": "摘要中說明這八項新措施將於2026年1月1日生效。",
-   "news_title_en": "FSC's eight new 2026 rules bring life-insurance overhaul via IFRS 17, ICS",
-   "id": "2026-09-18-05"
+   "explain_en": "The summary states that ten insurance companies received approval.",
+   "explain_zh": "摘要中說明已有十家保險公司取得批准。",
+   "news_title_en": "Insurers expand into wealth management as approvals reach ten firms",
+   "id": "2026-09-19-06"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"momentum\" mean?",
+   "question": "In the summary, what does the word \"promulgated\" mean?",
    "options": [
-    "A strong forward movement",
-    "A government policy",
-    "A type of financial report",
-    "A sudden stop"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"momentum\" means a strong forward movement or continuing progress, referring to the ongoing fund-launch activity.",
-   "explain_zh": "「momentum」在此指持續的推進力或勢頭，表示基金發行的持續活躍。",
-   "news_title_en": "September fund-raising wave: five new funds, three of them ETFs",
-   "id": "2026-09-18-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many of the new funds announced for September are ETFs?",
-   "options": [
-    "Five",
-    "Two",
-    "Four",
-    "Three"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that three of the five new funds are ETFs.",
-   "explain_zh": "摘要說明五檔新基金中有三檔是ETF。",
-   "news_title_en": "September fund-raising wave: five new funds, three of them ETFs",
-   "id": "2026-09-18-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"burden\" mean?",
-   "options": [
-    "A heavy weight that can be lifted easily",
-    "A physical load carried on the back",
-    "A responsibility or cost that someone has to bear",
-    "A type of tax that is optional"
+    "to hide information",
+    "to cancel a law",
+    "to announce or make official",
+    "to debate publicly"
    ],
    "answer": 2,
-   "explain_en": "Here \"burden\" refers to the financial responsibility or cost that taxpayers have to pay.",
-   "explain_zh": "此處的「burden」指的是納稅人必須承擔的財務責任或成本。",
-   "news_title_en": "2026 estate-tax brackets raised as CPI hits adjustment threshold",
-   "id": "2026-09-18-08"
+   "explain_en": "\"Promulgated\" means to announce or make a law official.",
+   "explain_zh": "「promulgated」是指公布或正式頒布法律。",
+   "news_title_en": "President signs estate- and gift-tax amendments tightening pre-death transfers",
+   "id": "2026-09-19-07"
   },
   {
    "type": "comprehension",
-   "question": "Why did Taiwan lift the 2026 estate‑tax bracket thresholds?",
+   "question": "According to the summary, gifts to a spouse made within how many years before death are now treated as part of the taxable estate?",
    "options": [
-    "Because the number of estates increased dramatically",
-    "Because cumulative CPI growth reached the statutory adjustment trigger",
-    "Because a new law was passed to eliminate estate tax",
-    "Because the government wanted to raise more revenue"
+    "ten years",
+    "two years",
+    "one year",
+    "five years"
    ],
    "answer": 1,
-   "explain_en": "The summary states the thresholds were lifted because cumulative CPI growth hit the adjustment trigger.",
-   "explain_zh": "摘要中說明，門檻提升是因為累計的 CPI 成長達到法定調整門檻。",
-   "news_title_en": "2026 estate-tax brackets raised as CPI hits adjustment threshold",
-   "id": "2026-09-18-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"momentum\" mean?",
-   "options": [
-    "A strong and continuing force",
-    "A government policy",
-    "A type of financial report",
-    "A sudden drop in prices"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"momentum\" refers to the strong and continuing force of Taiwan's export growth.",
-   "explain_zh": "此處的「momentum」指的是台灣出口成長的強勁且持續的動能。",
-   "news_title_en": "AI-driven exports keep Taiwan growth firm as inflation eases",
-   "id": "2026-09-18-10"
+   "explain_en": "The amendment treats assets gifted to a spouse within two years before death as part of the estate.",
+   "explain_zh": "修正案規定，死亡前兩年內贈與配偶的資產將視為遺產的一部分。",
+   "news_title_en": "President signs estate- and gift-tax amendments tightening pre-death transfers",
+   "id": "2026-09-19-08"
   },
   {
    "type": "comprehension",
-   "question": "What is the projected full‑year CPI rate for Taiwan in 2026?",
+   "question": "What is the benchmark policy rate that Taiwan's central bank is expected to keep at its September board meeting?",
    "options": [
-    "About 1.66%",
-    "About 5%",
-    "About 0.5%",
-    "About 3.2%"
+    "2.0%",
+    "1.5%",
+    "2.5%",
+    "3.0%"
    ],
    "answer": 0,
-   "explain_en": "The summary states the full‑year CPI rate is projected around 1.66%.",
-   "explain_zh": "摘要中提到全年消費者物價指數預計約為 1.66%。",
-   "news_title_en": "AI-driven exports keep Taiwan growth firm as inflation eases",
-   "id": "2026-09-18-11"
+   "explain_en": "The summary states the rate is expected to stay at 2.0%.",
+   "explain_zh": "摘要中說明預計維持的基準政策利率是 2.0%。",
+   "news_title_en": "Taiwan's central bank seen holding rates at 2.0% despite two hike dissents",
+   "id": "2026-09-19-09"
   }
  ]
 }
