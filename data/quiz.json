@@ -1,155 +1,185 @@
 {
- "date": "2026-09-19",
+ "date": "2026-09-20",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"anchor\" mean?",
+   "question": "In the text, what does the phrase \"profit‑taking\" mean?",
    "options": [
-    "to sink a ship",
-    "to start a race",
-    "to support or hold up something",
-    "to write a note"
+    "The government is reducing taxes",
+    "Banks are lending more money",
+    "Companies are increasing their dividends",
+    "Investors are selling stocks to lock in gains"
    ],
-   "answer": 2,
-   "explain_en": "Here \"anchor\" means TSMC helped support the index, keeping it stable or higher.",
-   "explain_zh": "在此「anchor」指的是台積電支撐指數，使其保持或上升。",
-   "news_title_en": "Taiwan stocks surge 893 points, reclaim 47,000 as chip rally returns",
-   "id": "2026-09-19-00"
+   "answer": 3,
+   "explain_en": "Profit‑taking means investors sell shares after prices have risen to secure their profits.",
+   "explain_zh": "「profit‑taking」指的是投資人在股價上漲後賣出股票，鎖定獲利。",
+   "news_title_en": "TAIEX tumbles 589 points Friday as chip and electronics stocks retreat",
+   "id": "2026-09-20-00"
   },
   {
    "type": "comprehension",
-   "question": "What was the total turnover (listed and OTC) reported in the summary?",
+   "question": "By how many points did the TAIEX fall on that Friday?",
    "options": [
-    "NT$2,460",
-    "NT$47,180.75",
-    "NT$1.34 trillion",
-    "NT$893 million"
+    "1.3 points",
+    "847.9 points",
+    "589.33 points",
+    "44,719.35 points"
    ],
    "answer": 2,
-   "explain_en": "The summary states that combined listed and OTC turnover topped NT$1.34 trillion.",
-   "explain_zh": "摘要中說上市與上櫃成交總額超過 1.34 兆新台幣。",
-   "news_title_en": "Taiwan stocks surge 893 points, reclaim 47,000 as chip rally returns",
-   "id": "2026-09-19-01"
+   "explain_en": "The summary states the benchmark TAIEX fell 589.33 points.",
+   "explain_zh": "摘要中說明台股指數當天下跌了 589.33 點。",
+   "news_title_en": "TAIEX tumbles 589 points Friday as chip and electronics stocks retreat",
+   "id": "2026-09-20-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"bottlenecks\" mean?",
+   "options": [
+    "Methods to improve bandwidth",
+    "Ways to increase power",
+    "Obstacles that slow down a process",
+    "Things that speed up a process"
+   ],
+   "answer": 2,
+   "explain_en": "\"Bottlenecks\" are obstacles that limit speed or capacity, as used for AI computing limits.",
+   "explain_zh": "「bottlenecks」指的是阻礙或限制速度、容量的障礙，在文中指 AI 計算的限制。",
+   "news_title_en": "Silicon photonics pushes chips into the \"light era\"",
+   "id": "2026-09-20-02"
   },
   {
    "type": "comprehension",
-   "question": "How many exhibitors attended SEMICON Taiwan 2026 according to the summary?",
+   "question": "How much money has Nvidia committed to optical interconnect and silicon‑photonics supply chains in recent months?",
    "options": [
-    "1,300",
-    "1,000",
-    "2,000",
-    "1,500"
+    "US$2 billion",
+    "US$8 billion",
+    "US$4 billion",
+    "US$6 billion"
    ],
-   "answer": 0,
-   "explain_en": "The summary states the show drew a record 1,300 exhibitors.",
-   "explain_zh": "摘要中提到展會吸引了創紀錄的 1,300 家參展商。",
-   "news_title_en": "SEMI chief: Taiwan an AI hub, chip revenue seen hitting $2 trillion by 2030",
-   "id": "2026-09-19-02"
+   "answer": 3,
+   "explain_en": "The summary states Nvidia has committed more than US$6 billion.",
+   "explain_zh": "摘要中說明 Nvidia 最近幾個月投入超過 60 億美元於光互連與矽光子供應鏈。",
+   "news_title_en": "Silicon photonics pushes chips into the \"light era\"",
+   "id": "2026-09-20-03"
   },
   {
    "type": "vocab",
    "question": "In the summary, what does the word \"solvency\" mean?",
    "options": [
-    "The number of shareholders a company has",
-    "The speed at which a company can sell its assets",
-    "The ability to meet long‑term debts and obligations",
+    "The speed at which a company can grow",
+    "The number of customers a company has",
+    "The ability to pay debts and meet financial obligations",
     "The amount of profit a company makes"
    ],
    "answer": 2,
-   "explain_en": "Solvency refers to an insurer's capacity to pay its long‑term liabilities, not profit or speed of sales.",
-   "explain_zh": "償付能力指的是保險公司能否支付長期債務，與獲利或資產變現速度無關。",
-   "news_title_en": "FSC unveils eight new rules for 2026, ushering life-insurer transformation",
-   "id": "2026-09-19-03"
+   "explain_en": "Solvency refers to an insurer's ability to meet its long‑term financial obligations.",
+   "explain_zh": "「solvency」指的是保險公司能否長期償付其財務義務。",
+   "news_title_en": "FSC readies eight new rules for 2026 as life insurers face major transition",
+   "id": "2026-09-20-04"
   },
   {
    "type": "comprehension",
-   "question": "When are the eight new regulatory changes scheduled to take effect?",
+   "question": "When will the eight new regulatory measures take effect?",
    "options": [
-    "2026",
-    "2027",
-    "2024",
-    "2025"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states the rules will take effect in 2026.",
-   "explain_zh": "摘要中明確說明這八項新規則將於2026年生效。",
-   "news_title_en": "FSC unveils eight new rules for 2026, ushering life-insurer transformation",
-   "id": "2026-09-19-04"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase “product shelf” mean?",
-   "options": [
-    "A literal shelf for storing items",
-    "A type of insurance policy",
-    "The price of a product",
-    "A list of financial products a company offers"
-   ],
-   "answer": 3,
-   "explain_en": "Here “product shelf” refers to the range or list of financial products the insurers can sell.",
-   "explain_zh": "在此「product shelf」指的是保險公司可以提供的金融商品種類。",
-   "news_title_en": "Insurers expand into wealth management as approvals reach ten firms",
-   "id": "2026-09-19-05"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many insurance companies had received FSC approval to conduct wealth‑management business by May 2026?",
-   "options": [
-    "Ten",
-    "Eight",
-    "Nine",
-    "Twelve"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that ten insurance companies received approval.",
-   "explain_zh": "摘要中說明已有十家保險公司取得批准。",
-   "news_title_en": "Insurers expand into wealth management as approvals reach ten firms",
-   "id": "2026-09-19-06"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"promulgated\" mean?",
-   "options": [
-    "to hide information",
-    "to cancel a law",
-    "to announce or make official",
-    "to debate publicly"
-   ],
-   "answer": 2,
-   "explain_en": "\"Promulgated\" means to announce or make a law official.",
-   "explain_zh": "「promulgated」是指公布或正式頒布法律。",
-   "news_title_en": "President signs estate- and gift-tax amendments tightening pre-death transfers",
-   "id": "2026-09-19-07"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, gifts to a spouse made within how many years before death are now treated as part of the taxable estate?",
-   "options": [
-    "ten years",
-    "two years",
-    "one year",
-    "five years"
+    "In 2028",
+    "Next year",
+    "Next month",
+    "In 2025"
    ],
    "answer": 1,
-   "explain_en": "The amendment treats assets gifted to a spouse within two years before death as part of the estate.",
-   "explain_zh": "修正案規定，死亡前兩年內贈與配偶的資產將視為遺產的一部分。",
-   "news_title_en": "President signs estate- and gift-tax amendments tightening pre-death transfers",
-   "id": "2026-09-19-08"
+   "explain_en": "The summary states the measures are taking effect next year, i.e., in 2026.",
+   "explain_zh": "摘要中說明這八項新規則將於明年（2026 年）生效。",
+   "news_title_en": "FSC readies eight new rules for 2026 as life insurers face major transition",
+   "id": "2026-09-20-05"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"ecosystem\" mean as used in the text?",
+   "options": [
+    "A government regulation",
+    "A system of interacting parts",
+    "A type of financial product",
+    "A banking fee"
+   ],
+   "answer": 1,
+   "explain_en": "In the article, \"ecosystem\" refers to the whole system of companies, services, and regulations that work together.",
+   "explain_zh": "在文中，「ecosystem」指的是相互作用的公司、服務與規範所構成的整體系統。",
+   "news_title_en": "Banks eye private markets and family offices, urge wider alternatives access",
+   "id": "2026-09-20-06"
   },
   {
    "type": "comprehension",
-   "question": "What is the benchmark policy rate that Taiwan's central bank is expected to keep at its September board meeting?",
+   "question": "What rule do Taiwanese bankers want regulators to ease?",
    "options": [
-    "2.0%",
-    "1.5%",
-    "2.5%",
-    "3.0%"
+    "The 99‑investor cap on private funds",
+    "The tax rate on dividends",
+    "The minimum capital requirement for banks",
+    "The limit on foreign exchange trading"
    ],
    "answer": 0,
-   "explain_en": "The summary states the rate is expected to stay at 2.0%.",
-   "explain_zh": "摘要中說明預計維持的基準政策利率是 2.0%。",
-   "news_title_en": "Taiwan's central bank seen holding rates at 2.0% despite two hike dissents",
-   "id": "2026-09-19-09"
+   "explain_en": "The summary says they urge regulators to ease the 99‑investor cap on private funds.",
+   "explain_zh": "摘要中提到他們要求放寬對私募基金的99位投資人上限規定。",
+   "news_title_en": "Banks eye private markets and family offices, urge wider alternatives access",
+   "id": "2026-09-20-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"succession\" mean?",
+   "options": [
+    "A type of investment fund",
+    "A legal penalty for tax evasion",
+    "The process of passing on assets after someone dies",
+    "A government agency"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"succession\" refers to the transfer of property or rights after a person’s death.",
+   "explain_zh": "這裡的「succession」指的是人在過世後財產或權利的繼承。",
+   "news_title_en": "Estate and gift tax act amended, tightening pre-death transfers",
+   "id": "2026-09-20-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "When were the amendments to the Estate and Gift Tax Act announced?",
+   "options": [
+    "September 11, 2026",
+    "December 31, 2025",
+    "July 4, 2026",
+    "January 1, 2025"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states the president promulgated the amendments on September 11, 2026.",
+   "explain_zh": "摘要中說明總統於2026年9月11日頒布了修正案。",
+   "news_title_en": "Estate and gift tax act amended, tightening pre-death transfers",
+   "id": "2026-09-20-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"peg\" mean?",
+   "options": [
+    "to set a fixed level",
+    "to increase rapidly",
+    "to predict future growth",
+    "to remove from the market"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"peg\" means to set the CPI at a fixed level of 2.03%.",
+   "explain_zh": "這裡的「peg」是指把 CPI 固定在 2.03% 的水平。",
+   "news_title_en": "Central bank holds rates, lifts 2026 growth forecast to 11.48%",
+   "id": "2026-09-20-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the central bank's forecast for Taiwan's GDP growth in 2026?",
+   "options": [
+    "11.48%",
+    "0%",
+    "2.03%",
+    "5.82%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states the bank raised its 2026 GDP growth forecast to 11.48%.",
+   "explain_zh": "摘要中說明央行把 2026 年 GDP 成長預測提升至 11.48%。",
+   "news_title_en": "Central bank holds rates, lifts 2026 growth forecast to 11.48%",
+   "id": "2026-09-20-11"
   }
  ]
 }
