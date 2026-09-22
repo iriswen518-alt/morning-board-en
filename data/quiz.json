@@ -1,185 +1,185 @@
 {
- "date": "2026-09-21",
+ "date": "2026-09-22",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"pullback\" mean?",
+   "question": "In the summary, what does the word \"optimism\" mean?",
    "options": [
-    "A new record high",
-    "A temporary decline",
-    "A government policy",
-    "A rise in prices"
-   ],
-   "answer": 1,
-   "explain_en": "\"Pullback\" refers to a short‑term drop after a previous increase.",
-   "explain_zh": "「pullback」指的是在先前上漲後的短暫下跌。",
-   "news_title_en": "TAIEX tumbles 589 points at latest close as TSMC slips below NT$2,350",
-   "id": "2026-09-21-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "By how many points did the TAIEX index close lower in the latest session?",
-   "options": [
-    "847.9 billion points",
-    "589 points",
-    "2,350 points",
-    "1.3%"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the index ended down 589 points.",
-   "explain_zh": "摘要中說指數收盤下跌了 589 點。",
-   "news_title_en": "TAIEX tumbles 589 points at latest close as TSMC slips below NT$2,350",
-   "id": "2026-09-21-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"tailwind\" mean?",
-   "options": [
-    "A type of wind turbine",
-    "A helpful factor that improves performance",
-    "A legal document",
-    "A financial loss"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"tailwind\" refers to a factor that helps companies grow faster, like a wind that pushes a plane forward.",
-   "explain_zh": "此處的「tailwind」指的是有助於公司成長的有利因素，就像順風推動飛機前進一樣。",
-   "news_title_en": "AI boom lifts Taiwan corporate earnings outlook toward 50% growth",
-   "id": "2026-09-21-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to Bloomberg, by how much are Taiwanese companies' 2026 profits expected to increase?",
-   "options": [
-    "About 20%",
-    "About 100%",
-    "About 75%",
-    "About 50%"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that Bloomberg estimates profits will climb about 50% in 2026.",
-   "explain_zh": "摘要中說 Bloomberg 預估 2026 年台灣公司的獲利將上升約 50%。",
-   "news_title_en": "AI boom lifts Taiwan corporate earnings outlook toward 50% growth",
-   "id": "2026-09-21-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"scams\" mean?",
-   "options": [
-    "Fraudulent schemes",
-    "Investment advice",
-    "Legal contracts",
-    "Bank loans"
+    "confidence that something will improve",
+    "a type of financial instrument",
+    "a legal term",
+    "a feeling of sadness"
    ],
    "answer": 0,
-   "explain_en": "\"Scams\" refers to fraudulent schemes that try to cheat people out of money.",
-   "explain_zh": "「scams」指的是詐騙手法，企圖騙取他人金錢。",
-   "news_title_en": "FSC warns public against unlicensed financial platforms and rolls out elder-care trust push",
-   "id": "2026-09-21-04"
+   "explain_en": "Here \"optimism\" refers to confidence that the AI supply chain will do well, helping the market rise.",
+   "explain_zh": "此處的「optimism」指對 AI 供應鏈前景的信心，促使市場上漲。",
+   "news_title_en": "TAIEX surges 538 points to a record 47,718 as TSMC firms",
+   "id": "2026-09-22-00"
   },
   {
    "type": "comprehension",
-   "question": "What new initiative did the Financial Supervisory Commission launch to protect retirees' assets?",
+   "question": "How many stocks closed higher than lower in the session?",
    "options": [
-    "A stock market index",
-    "An elder-care trust",
-    "A foreign exchange swap",
-    "A tax rebate program"
+    "538 gainers and 517 decliners",
+    "568 gainers and 517 decliners",
+    "568 gainers and 538 decliners",
+    "517 gainers and 568 decliners"
    ],
    "answer": 1,
-   "explain_en": "The summary states the commission launched an \"elder-care trust\" to safeguard retirees' assets.",
-   "explain_zh": "摘要中說明金管會推出了「長者照護信託」以保護退休人士的資產。",
-   "news_title_en": "FSC warns public against unlicensed financial platforms and rolls out elder-care trust push",
-   "id": "2026-09-21-05"
+   "explain_en": "The summary states there were 568 gainers and 517 decliners.",
+   "explain_zh": "摘要中說有 568 檔上漲、517 檔下跌。",
+   "news_title_en": "TAIEX surges 538 points to a record 47,718 as TSMC firms",
+   "id": "2026-09-22-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"allocate\" mean?",
+   "question": "In the summary, what does the word \"spill\" mean?",
    "options": [
-    "to calculate precisely",
-    "to hide or conceal",
-    "to give out or distribute",
-    "to increase rapidly"
-   ],
-   "answer": 2,
-   "explain_en": "\"Allocate\" means to give out or distribute resources, such as capital, to different places or uses.",
-   "explain_zh": "「allocate」指的是把資金或資源分配、分發到不同的地方或用途。",
-   "news_title_en": "Taiwan's wealth-management pool swells to NT$36tn, led by ETFs and the ultra-rich",
-   "id": "2026-09-21-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, how much did onshore funds grow to in three years?",
-   "options": [
-    "NT$11.38 trillion",
-    "NT$4.86 trillion",
-    "NT$36 trillion",
-    "NT$7.4 trillion"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that onshore funds increased from NT$4.86 tn to NT$11.38 tn in three years.",
-   "explain_zh": "摘要中說，三年內在岸基金從 4.86 兆新台幣成長到 11.38 兆新台幣。",
-   "news_title_en": "Taiwan's wealth-management pool swells to NT$36tn, led by ETFs and the ultra-rich",
-   "id": "2026-09-21-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"relief\" mean?",
-   "options": [
-    "A financial penalty",
-    "A reduction of a burden",
-    "A feeling of happiness",
-    "A type of vacation"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"relief\" refers to a reduction of the tax burden for taxpayers.",
-   "explain_zh": "這裡的「relief」指的是減輕納稅人的稅務負擔。",
-   "news_title_en": "2026 income-tax filing brings broad-based cuts for households",
-   "id": "2026-09-21-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the amount of the new personal exemption for 2026?",
-   "options": [
-    "NT$227,000",
-    "NT$136,000",
-    "NT$101,000",
-    "NT$150,000"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the personal exemption is NT$101,000.",
-   "explain_zh": "摘要中說明個人免稅額為新台幣 101,000 元。",
-   "news_title_en": "2026 income-tax filing brings broad-based cuts for households",
-   "id": "2026-09-21-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"pledged\" mean?",
-   "options": [
-    "calculated profit",
-    "criticized loudly",
-    "ignored the issue",
-    "promised to do something"
+    "to cause a mess",
+    "to stop production",
+    "to increase quickly",
+    "to transfer or move something to another place"
    ],
    "answer": 3,
-   "explain_en": "\"Pledged\" means they promised to closely watch the developments.",
-   "explain_zh": "「pledged」表示他們承諾會密切關注相關發展。",
-   "news_title_en": "Central bank holds policy rates, flags AI and geopolitical risks",
-   "id": "2026-09-21-10"
+   "explain_en": "Here \"spilling\" means that AI orders are being transferred to other companies because TSMC cannot handle them all.",
+   "explain_zh": "這裡的「spilling」是指因為台積電無法全部處理，AI 訂單被轉移到其他公司。",
+   "news_title_en": "TSMC CoWoS demand outstrips supply, spilling AI orders to UMC and Amkor",
+   "id": "2026-09-22-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what inflation level does Taiwan's central bank expect to stay below?",
+   "question": "When is TSMC's CoWoS capacity expected to reach about 115,000 wafers per month?",
    "options": [
-    "5%",
-    "2%",
-    "1%",
-    "3%"
+    "mid 2026",
+    "end of 2025",
+    "2026",
+    "late 2027"
+   ],
+   "answer": 2,
+   "explain_en": "The summary says the monthly output will expand toward 115,000 in 2026.",
+   "explain_zh": "摘要中說產能將在 2026 年提升至約 115,000 片/月。",
+   "news_title_en": "TSMC CoWoS demand outstrips supply, spilling AI orders to UMC and Amkor",
+   "id": "2026-09-22-03"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the phrase \"ghost accounts\" mean in the text?",
+   "options": [
+    "Accounts that are used for illegal activities and have no real owner",
+    "Accounts that are invisible to the bank staff",
+    "Accounts that belong to deceased people",
+    "Accounts that are only used for online banking"
+   ],
+   "answer": 0,
+   "explain_en": "In the article, \"ghost accounts\" refers to fake or dormant accounts used by fraud rings to hide money laundering.",
+   "explain_zh": "在文章中，「ghost accounts」指的是詐騙集團用來隱匿洗錢的虛假或不活躍帳戶。",
+   "news_title_en": "Regulators tighten dormant-account rules in anti-fraud drive",
+   "id": "2026-09-22-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "When did Taiwan's Banking Bureau revise its regulations on deposit accounts?",
+   "options": [
+    "In early September",
+    "In late July",
+    "In early July",
+    "In late August"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the revisions were made in late August.",
+   "explain_zh": "摘要中說明，修訂是在八月底完成的。",
+   "news_title_en": "Regulators tighten dormant-account rules in anti-fraud drive",
+   "id": "2026-09-22-05"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the phrase \"high‑net‑worth\" mean in the text?",
+   "options": [
+    "People who earn a high salary",
+    "People who own many houses",
+    "People who work in high‑ranking jobs",
+    "People who have a lot of money and assets"
+   ],
+   "answer": 3,
+   "explain_en": "In the article, \"high‑net‑worth\" refers to clients who have a large amount of wealth, not just a high income or job rank.",
+   "explain_zh": "文中「high‑net‑worth」指的是擁有大量財產的客戶，而不是僅僅收入高或職位高的人。",
+   "news_title_en": "Banks pile into high-net-worth race as wealth pool swells past NT$10tn",
+   "id": "2026-09-22-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much is the bank wealth‑management 2.0 high‑net‑worth business worth according to the summary?",
+   "options": [
+    "About NT$5 trillion",
+    "About NT$10 trillion",
+    "About NT$1 trillion",
+    "About NT$2.7 trillion"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that the high‑net‑worth business is about NT$2.7 trillion across roughly 25,000 clients.",
+   "explain_zh": "摘要中說明，銀行的高淨值業務約為新台幣 2.7 兆，服務約 2.5 萬名客戶。",
+   "news_title_en": "Banks pile into high-net-worth race as wealth pool swells past NT$10tn",
+   "id": "2026-09-22-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"recalibration\" mean?",
+   "options": [
+    "A small change in a plan",
+    "A slight adjustment to make something more accurate",
+    "A new law being passed",
+    "A complete overhaul of a system"
    ],
    "answer": 1,
-   "explain_en": "The bank expects domestic inflation to stay moderate and below 2%.",
-   "explain_zh": "央行預期國內通膨將維持在 2% 以下。",
-   "news_title_en": "Central bank holds policy rates, flags AI and geopolitical risks",
-   "id": "2026-09-21-11"
+   "explain_en": "Here \"recalibration\" refers to a slight adjustment to make the tax thresholds more accurate based on inflation.",
+   "explain_zh": "「recalibration」在文中指的是為了配合通膨而做的微調，使稅率更精確。",
+   "news_title_en": "2026 estate-tax brackets adjusted upward as cumulative CPI clears threshold",
+   "id": "2026-09-22-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "What happens to the gift‑tax annual exemption for 2026?",
+   "options": [
+    "It is reduced to NT$1 million",
+    "It is increased to NT$3 million",
+    "It is eliminated completely",
+    "It stays the same at NT$2.44 million"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that the gift‑tax annual exemption remains at NT$2.44 million for 2026.",
+   "explain_zh": "摘要中說明，2026 年的贈與稅年度免稅額仍維持在新台幣 244 萬元。",
+   "news_title_en": "2026 estate-tax brackets adjusted upward as cumulative CPI clears threshold",
+   "id": "2026-09-22-09"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"nudged\" mean as used in the text?",
+   "options": [
+    "pushed forcefully",
+    "ignored completely",
+    "removed entirely",
+    "slightly increased"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"nudged up\" means the forecast was raised a little, not changed a lot.",
+   "explain_zh": "「nudged up」在文中指的是略微上調，意思是稍微提高而不是大幅改變。",
+   "news_title_en": "Central bank lifts 2026 growth and inflation forecasts, debuts 2027 outlook",
+   "id": "2026-09-22-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the projected inflation rate for Taiwan in 2027 according to the central bank?",
+   "options": [
+    "3.00%",
+    "5.82%",
+    "1.86%",
+    "2.03%"
+   ],
+   "answer": 2,
+   "explain_en": "The summary says the 2027 outlook forecasts cooler inflation near 1.86%.",
+   "explain_zh": "摘要中指出，2027 年的通膨預測約為 1.86%。",
+   "news_title_en": "Central bank lifts 2026 growth and inflation forecasts, debuts 2027 outlook",
+   "id": "2026-09-22-11"
   }
  ]
 }
