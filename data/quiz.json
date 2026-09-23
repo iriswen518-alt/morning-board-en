@@ -1,185 +1,185 @@
 {
- "date": "2026-09-22",
+ "date": "2026-09-23",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"optimism\" mean?",
+   "question": "In the summary, what does the phrase \"net buyers\" mean?",
    "options": [
-    "confidence that something will improve",
-    "a type of financial instrument",
-    "a legal term",
-    "a feeling of sadness"
+    "They bought more shares than they sold",
+    "They neither bought nor sold any shares",
+    "They sold more shares than they bought",
+    "They only traded foreign stocks"
    ],
    "answer": 0,
-   "explain_en": "Here \"optimism\" refers to confidence that the AI supply chain will do well, helping the market rise.",
-   "explain_zh": "此處的「optimism」指對 AI 供應鏈前景的信心，促使市場上漲。",
-   "news_title_en": "TAIEX surges 538 points to a record 47,718 as TSMC firms",
-   "id": "2026-09-22-00"
+   "explain_en": "\"Net buyers\" are investors who purchased more shares than they sold, resulting in a net increase in holdings.",
+   "explain_zh": "「net buyers」指的是買進的股數多於賣出的投資者，淨增加持股。",
+   "news_title_en": "Taiwan stocks hit fresh record as institutions pile in",
+   "id": "2026-09-23-00"
   },
   {
    "type": "comprehension",
-   "question": "How many stocks closed higher than lower in the session?",
+   "question": "What was the closing level of the TAIEX according to the summary?",
    "options": [
-    "538 gainers and 517 decliners",
-    "568 gainers and 517 decliners",
-    "568 gainers and 538 decliners",
-    "517 gainers and 568 decliners"
+    "46,950.00",
+    "47,800.17",
+    "47,718.84",
+    "48,001.25"
    ],
    "answer": 1,
-   "explain_en": "The summary states there were 568 gainers and 517 decliners.",
-   "explain_zh": "摘要中說有 568 檔上漲、517 檔下跌。",
-   "news_title_en": "TAIEX surges 538 points to a record 47,718 as TSMC firms",
-   "id": "2026-09-22-01"
+   "explain_en": "The summary states the TAIEX closed at a record 47,800.17 points.",
+   "explain_zh": "摘要中提到台股指數收盤於創新高 47,800.17 點。",
+   "news_title_en": "Taiwan stocks hit fresh record as institutions pile in",
+   "id": "2026-09-23-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"spill\" mean?",
+   "question": "In the summary, what does the word \"validation\" mean?",
    "options": [
-    "to cause a mess",
-    "to stop production",
-    "to increase quickly",
-    "to transfer or move something to another place"
+    "Checking that something works correctly",
+    "Selling a product to customers",
+    "Designing a new product",
+    "Removing old equipment"
    ],
-   "answer": 3,
-   "explain_en": "Here \"spilling\" means that AI orders are being transferred to other companies because TSMC cannot handle them all.",
-   "explain_zh": "這裡的「spilling」是指因為台積電無法全部處理，AI 訂單被轉移到其他公司。",
-   "news_title_en": "TSMC CoWoS demand outstrips supply, spilling AI orders to UMC and Amkor",
-   "id": "2026-09-22-02"
+   "answer": 0,
+   "explain_en": "Here \"validation\" refers to testing and confirming that the advanced‑packaging processes are reliable.",
+   "explain_zh": "在此「validation」指的是測試並確認先進封裝流程是否可靠。",
+   "news_title_en": "TSMC builds advanced-packaging validation center in Kaohsiung",
+   "id": "2026-09-23-02"
   },
   {
    "type": "comprehension",
-   "question": "When is TSMC's CoWoS capacity expected to reach about 115,000 wafers per month?",
+   "question": "Where is TSMC building the advanced‑packaging validation center?",
    "options": [
-    "mid 2026",
-    "end of 2025",
-    "2026",
-    "late 2027"
+    "Taipei City Hall",
+    "Taichung Science Park",
+    "Kaohsiung Baipu industrial park",
+    "Hsinchu Silicon Valley"
    ],
    "answer": 2,
-   "explain_en": "The summary says the monthly output will expand toward 115,000 in 2026.",
-   "explain_zh": "摘要中說產能將在 2026 年提升至約 115,000 片/月。",
-   "news_title_en": "TSMC CoWoS demand outstrips supply, spilling AI orders to UMC and Amkor",
-   "id": "2026-09-22-03"
+   "explain_en": "The summary states the center is being set up at the Kaohsiung Baipu industrial park.",
+   "explain_zh": "摘要中說明中心是設在高雄白埔工業區。",
+   "news_title_en": "TSMC builds advanced-packaging validation center in Kaohsiung",
+   "id": "2026-09-23-03"
   },
   {
    "type": "vocab",
-   "question": "What does the phrase \"ghost accounts\" mean in the text?",
+   "question": "In the summary, what does the word \"pilot\" mean?",
    "options": [
-    "Accounts that are used for illegal activities and have no real owner",
-    "Accounts that are invisible to the bank staff",
-    "Accounts that belong to deceased people",
-    "Accounts that are only used for online banking"
+    "to approve a law",
+    "to navigate an aircraft",
+    "to test a new service on a small scale",
+    "to write a short story"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"pilot\" means to try out a service in a limited trial before a full launch.",
+   "explain_zh": "這裡的「pilot」是指先小規模測試新服務，尚未全面推行。",
+   "news_title_en": "FSC opens bank trial for deposit-token business",
+   "id": "2026-09-23-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "What new tool does the regulator plan to create to improve market transparency?",
+   "options": [
+    "a banking app for customers",
+    "a tax calculator",
+    "a new cryptocurrency",
+    "a stock-market dashboard"
+   ],
+   "answer": 3,
+   "explain_en": "The summary says the regulator plans a \"stock-market dashboard\" that combines various market data.",
+   "explain_zh": "摘要中提到監理機關將打造「stock-market dashboard」以整合市場資訊，提高透明度。",
+   "news_title_en": "FSC opens bank trial for deposit-token business",
+   "id": "2026-09-23-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"launches\" mean?",
+   "options": [
+    "Starts to be offered to investors",
+    "Reduces the fund's fees",
+    "Changes the fund's manager",
+    "Closes the fund permanently"
    ],
    "answer": 0,
-   "explain_en": "In the article, \"ghost accounts\" refers to fake or dormant accounts used by fraud rings to hide money laundering.",
-   "explain_zh": "在文章中，「ghost accounts」指的是詐騙集團用來隱匿洗錢的虛假或不活躍帳戶。",
-   "news_title_en": "Regulators tighten dormant-account rules in anti-fraud drive",
-   "id": "2026-09-22-04"
+   "explain_en": "Here \"launches\" means the funds are starting to be offered for subscription.",
+   "explain_zh": "「launches」在此指的是基金開始向投資人開放認購。",
+   "news_title_en": "September brings a wave of new fund launches",
+   "id": "2026-09-23-06"
   },
   {
    "type": "comprehension",
-   "question": "When did Taiwan's Banking Bureau revise its regulations on deposit accounts?",
+   "question": "How many new funds are opening for subscription in September?",
    "options": [
-    "In early September",
-    "In late July",
-    "In early July",
-    "In late August"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the revisions were made in late August.",
-   "explain_zh": "摘要中說明，修訂是在八月底完成的。",
-   "news_title_en": "Regulators tighten dormant-account rules in anti-fraud drive",
-   "id": "2026-09-22-05"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the phrase \"high‑net‑worth\" mean in the text?",
-   "options": [
-    "People who earn a high salary",
-    "People who own many houses",
-    "People who work in high‑ranking jobs",
-    "People who have a lot of money and assets"
-   ],
-   "answer": 3,
-   "explain_en": "In the article, \"high‑net‑worth\" refers to clients who have a large amount of wealth, not just a high income or job rank.",
-   "explain_zh": "文中「high‑net‑worth」指的是擁有大量財產的客戶，而不是僅僅收入高或職位高的人。",
-   "news_title_en": "Banks pile into high-net-worth race as wealth pool swells past NT$10tn",
-   "id": "2026-09-22-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "How much is the bank wealth‑management 2.0 high‑net‑worth business worth according to the summary?",
-   "options": [
-    "About NT$5 trillion",
-    "About NT$10 trillion",
-    "About NT$1 trillion",
-    "About NT$2.7 trillion"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that the high‑net‑worth business is about NT$2.7 trillion across roughly 25,000 clients.",
-   "explain_zh": "摘要中說明，銀行的高淨值業務約為新台幣 2.7 兆，服務約 2.5 萬名客戶。",
-   "news_title_en": "Banks pile into high-net-worth race as wealth pool swells past NT$10tn",
-   "id": "2026-09-22-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"recalibration\" mean?",
-   "options": [
-    "A small change in a plan",
-    "A slight adjustment to make something more accurate",
-    "A new law being passed",
-    "A complete overhaul of a system"
+    "Seven",
+    "Five",
+    "Six",
+    "Four"
    ],
    "answer": 1,
-   "explain_en": "Here \"recalibration\" refers to a slight adjustment to make the tax thresholds more accurate based on inflation.",
-   "explain_zh": "「recalibration」在文中指的是為了配合通膨而做的微調，使稅率更精確。",
-   "news_title_en": "2026 estate-tax brackets adjusted upward as cumulative CPI clears threshold",
-   "id": "2026-09-22-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "What happens to the gift‑tax annual exemption for 2026?",
-   "options": [
-    "It is reduced to NT$1 million",
-    "It is increased to NT$3 million",
-    "It is eliminated completely",
-    "It stays the same at NT$2.44 million"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that the gift‑tax annual exemption remains at NT$2.44 million for 2026.",
-   "explain_zh": "摘要中說明，2026 年的贈與稅年度免稅額仍維持在新台幣 244 萬元。",
-   "news_title_en": "2026 estate-tax brackets adjusted upward as cumulative CPI clears threshold",
-   "id": "2026-09-22-09"
+   "explain_en": "The summary states that five new funds are opening for subscription in September.",
+   "explain_zh": "摘要中說明有五檔新基金在九月開放認購。",
+   "news_title_en": "September brings a wave of new fund launches",
+   "id": "2026-09-23-07"
   },
   {
    "type": "vocab",
-   "question": "What does the word \"nudged\" mean as used in the text?",
+   "question": "In the summary, what does the word \"deemed\" mean?",
    "options": [
-    "pushed forcefully",
-    "ignored completely",
-    "removed entirely",
-    "slightly increased"
+    "ignored by the government",
+    "given as a gift",
+    "removed from tax rules",
+    "considered as legally existing"
    ],
    "answer": 3,
-   "explain_en": "Here \"nudged up\" means the forecast was raised a little, not changed a lot.",
-   "explain_zh": "「nudged up」在文中指的是略微上調，意思是稍微提高而不是大幅改變。",
-   "news_title_en": "Central bank lifts 2026 growth and inflation forecasts, debuts 2027 outlook",
-   "id": "2026-09-22-10"
+   "explain_en": "Here \"deemed\" means that the property is treated as if it were part of the estate, even though it was transferred before death.",
+   "explain_zh": "「deemed」在此指的是即使財產在死亡前已轉移，仍被視為遺產的一部份。",
+   "news_title_en": "President signs estate- and gift-tax amendment tightening deemed-estate rules",
+   "id": "2026-09-23-08"
   },
   {
    "type": "comprehension",
-   "question": "What is the projected inflation rate for Taiwan in 2027 according to the central bank?",
+   "question": "According to the summary, when does a property gifted to a spouse become part of the decedent's estate for tax purposes?",
    "options": [
+    "If it is given within two years before death",
+    "If it is given more than five years after death",
+    "If it is given to any relative at any time",
+    "If it is given after the decedent's will is filed"
+   ],
+   "answer": 0,
+   "explain_en": "The amendment says gifts to a spouse or statutory heirs within two years before death are treated as part of the estate.",
+   "explain_zh": "修正案規定，死亡前兩年內贈與給配偶或法定繼承人的財產，會被視為遺產的一部份。",
+   "news_title_en": "President signs estate- and gift-tax amendment tightening deemed-estate rules",
+   "id": "2026-09-23-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"running hot\" mean?",
+   "options": [
+    "The stock market is falling",
+    "The temperature is high",
+    "People are feeling feverish",
+    "The economy is growing very quickly"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"running hot\" describes an economy that is expanding rapidly, not actual temperature.",
+   "explain_zh": "「running hot」在文中指的是經濟成長非常快，而不是指天氣或身體發燒。",
+   "news_title_en": "Central bank lifts 2026 growth forecast to 11.48%, nudges CPI up",
+   "id": "2026-09-23-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the central bank's new forecast for the full-year CPI in 2026?",
+   "options": [
+    "2.16%",
     "3.00%",
-    "5.82%",
-    "1.86%",
-    "2.03%"
+    "2.03%",
+    "1.50%"
    ],
    "answer": 2,
-   "explain_en": "The summary says the 2027 outlook forecasts cooler inflation near 1.86%.",
-   "explain_zh": "摘要中指出，2027 年的通膨預測約為 1.86%。",
-   "news_title_en": "Central bank lifts 2026 growth and inflation forecasts, debuts 2027 outlook",
-   "id": "2026-09-22-11"
+   "explain_en": "The summary states the full-year CPI forecast was lifted to 2.03%.",
+   "explain_zh": "摘要中說明全年度 CPI 預測提升至 2.03%。",
+   "news_title_en": "Central bank lifts 2026 growth forecast to 11.48%, nudges CPI up",
+   "id": "2026-09-23-11"
   }
  ]
 }
