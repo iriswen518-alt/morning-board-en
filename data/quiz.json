@@ -1,185 +1,185 @@
 {
- "date": "2026-09-23",
+ "date": "2026-09-24",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"net buyers\" mean?",
+   "question": "In the summary, what does the word \"turnover\" mean?",
    "options": [
-    "They bought more shares than they sold",
-    "They neither bought nor sold any shares",
-    "They sold more shares than they bought",
-    "They only traded foreign stocks"
+    "The interest rate set by the central bank",
+    "The number of new companies listed",
+    "The profit earned by a company",
+    "The total amount of money traded"
    ],
-   "answer": 0,
-   "explain_en": "\"Net buyers\" are investors who purchased more shares than they sold, resulting in a net increase in holdings.",
-   "explain_zh": "「net buyers」指的是買進的股數多於賣出的投資者，淨增加持股。",
-   "news_title_en": "Taiwan stocks hit fresh record as institutions pile in",
-   "id": "2026-09-23-00"
+   "answer": 3,
+   "explain_en": "\"Turnover\" refers to the total value of shares traded during the day.",
+   "explain_zh": "「turnover」指的是當天交易的總金額。",
+   "news_title_en": "TAIEX sets fresh record high above 48,000, led by TSMC",
+   "id": "2026-09-24-00"
   },
   {
    "type": "comprehension",
-   "question": "What was the closing level of the TAIEX according to the summary?",
+   "question": "How much did TSMC's stock price increase on the day?",
    "options": [
-    "46,950.00",
-    "47,800.17",
-    "47,718.84",
-    "48,001.25"
+    "NT$5.8bn",
+    "NT$40",
+    "NT$2,500",
+    "NT$37.3bn"
    ],
    "answer": 1,
-   "explain_en": "The summary states the TAIEX closed at a record 47,800.17 points.",
-   "explain_zh": "摘要中提到台股指數收盤於創新高 47,800.17 點。",
-   "news_title_en": "Taiwan stocks hit fresh record as institutions pile in",
-   "id": "2026-09-23-01"
+   "explain_en": "The summary states TSMC gained NT$40, which is a 1.63% rise.",
+   "explain_zh": "摘要中說台積電上漲了 NT$40，漲幅 1.63%。",
+   "news_title_en": "TAIEX sets fresh record high above 48,000, led by TSMC",
+   "id": "2026-09-24-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"validation\" mean?",
+   "question": "In the text, what does the phrase \"rack‑scale systems\" mean?",
    "options": [
-    "Checking that something works correctly",
-    "Selling a product to customers",
-    "Designing a new product",
-    "Removing old equipment"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"validation\" refers to testing and confirming that the advanced‑packaging processes are reliable.",
-   "explain_zh": "在此「validation」指的是測試並確認先進封裝流程是否可靠。",
-   "news_title_en": "TSMC builds advanced-packaging validation center in Kaohsiung",
-   "id": "2026-09-23-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "Where is TSMC building the advanced‑packaging validation center?",
-   "options": [
-    "Taipei City Hall",
-    "Taichung Science Park",
-    "Kaohsiung Baipu industrial park",
-    "Hsinchu Silicon Valley"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the center is being set up at the Kaohsiung Baipu industrial park.",
-   "explain_zh": "摘要中說明中心是設在高雄白埔工業區。",
-   "news_title_en": "TSMC builds advanced-packaging validation center in Kaohsiung",
-   "id": "2026-09-23-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"pilot\" mean?",
-   "options": [
-    "to approve a law",
-    "to navigate an aircraft",
-    "to test a new service on a small scale",
-    "to write a short story"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"pilot\" means to try out a service in a limited trial before a full launch.",
-   "explain_zh": "這裡的「pilot」是指先小規模測試新服務，尚未全面推行。",
-   "news_title_en": "FSC opens bank trial for deposit-token business",
-   "id": "2026-09-23-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "What new tool does the regulator plan to create to improve market transparency?",
-   "options": [
-    "a banking app for customers",
-    "a tax calculator",
-    "a new cryptocurrency",
-    "a stock-market dashboard"
+    "Small personal computers for home use",
+    "Individual GPU cards used in gaming PCs",
+    "Portable devices like tablets and smartphones",
+    "Large server units that fill an entire equipment rack"
    ],
    "answer": 3,
-   "explain_en": "The summary says the regulator plans a \"stock-market dashboard\" that combines various market data.",
-   "explain_zh": "摘要中提到監理機關將打造「stock-market dashboard」以整合市場資訊，提高透明度。",
-   "news_title_en": "FSC opens bank trial for deposit-token business",
-   "id": "2026-09-23-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"launches\" mean?",
-   "options": [
-    "Starts to be offered to investors",
-    "Reduces the fund's fees",
-    "Changes the fund's manager",
-    "Closes the fund permanently"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"launches\" means the funds are starting to be offered for subscription.",
-   "explain_zh": "「launches」在此指的是基金開始向投資人開放認購。",
-   "news_title_en": "September brings a wave of new fund launches",
-   "id": "2026-09-23-06"
+   "explain_en": "\"Rack‑scale systems\" are big server setups that occupy a full rack in a data center, not small personal devices.",
+   "explain_zh": "「rack‑scale systems」指的是佔滿整個機架的大型伺服器系統，而非個人小型裝置。",
+   "news_title_en": "AI server build-out broadens Taiwan supply-chain demand beyond GPUs",
+   "id": "2026-09-24-02"
   },
   {
    "type": "comprehension",
-   "question": "How many new funds are opening for subscription in September?",
+   "question": "According to the summary, which materials are still in short supply for Taiwan's PCB makers?",
    "options": [
-    "Seven",
-    "Five",
-    "Six",
-    "Four"
+    "High‑end glass fabric and copper foil",
+    "Carbon fiber and titanium alloy",
+    "Aluminum sheets and plastic resin",
+    "Silicon wafers and gold plating"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that high‑end glass fabric and copper foil remain tight, meaning they are in limited supply.",
+   "explain_zh": "摘要中提到高階玻璃布與銅箔仍然緊缺，表示供應有限。",
+   "news_title_en": "AI server build-out broadens Taiwan supply-chain demand beyond GPUs",
+   "id": "2026-09-24-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"defer\" mean?",
+   "options": [
+    "to ignore completely",
+    "to do something earlier",
+    "to do something later",
+    "to cancel permanently"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"defer\" means to postpone the reporting to a later time.",
+   "explain_zh": "在文中「defer」是指把報告延後到較晚的時間。",
+   "news_title_en": "Insurers adopt new-generation solvency (TIS) regime in 2026 with phased flexibility",
+   "id": "2026-09-24-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "When will Taiwan's insurance sector start using the new-generation solvency system?",
+   "options": [
+    "2027",
+    "2025",
+    "2026",
+    "2024"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the new system will be adopted in 2026.",
+   "explain_zh": "摘要中說明新一代償付制度將於2026年開始實施。",
+   "news_title_en": "Insurers adopt new-generation solvency (TIS) regime in 2026 with phased flexibility",
+   "id": "2026-09-24-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the news summary, what does the term \"active ETF\" mean?",
+   "options": [
+    "A fund that can only be bought by institutional investors",
+    "A fund that only invests in government bonds",
+    "An exchange‑traded fund that is managed by a team that picks stocks regularly",
+    "A fund that automatically follows a market index"
+   ],
+   "answer": 2,
+   "explain_en": "An active ETF is a fund where managers actively select and trade holdings rather than just tracking an index.",
+   "explain_zh": "「active ETF」指的是由基金經理人主動挑選、買賣標的的交易所買賣基金，而不是被動追蹤指數。",
+   "news_title_en": "September fund-raising wave: five new funds, active ETFs to the fore",
+   "id": "2026-09-24-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many listed active ETFs does Taiwan have after the September openings?",
+   "options": [
+    "30",
+    "35",
+    "40",
+    "45"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that Taiwan now has 40 listed active ETFs since the 2025 opening.",
+   "explain_zh": "摘要中提到，台灣目前已擁有 40 檔上市的主動式 ETF。",
+   "news_title_en": "September fund-raising wave: five new funds, active ETFs to the fore",
+   "id": "2026-09-24-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"heavy lifting\" mean?",
+   "options": [
+    "Doing most of the work",
+    "Lifting heavy objects",
+    "Causing a problem",
+    "Being very expensive"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"heavy lifting\" is a figurative way to say that the securities transaction tax contributed the most to the increase in tax revenue.",
+   "explain_zh": "這裡的「heavy lifting」是比喻，表示證券交易稅在稅收增長中貢獻最大。",
+   "news_title_en": "Taiwan's Jan–Aug tax take tops NT$3tn on a securities-tax surge",
+   "id": "2026-09-24-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much did the August securities transaction tax increase compared to the same month last year?",
+   "options": [
+    "28.9% higher",
+    "25.2% higher",
+    "94.5% higher",
+    "13% higher"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that the securities transaction tax in August was up 94.5% year‑over‑year.",
+   "explain_zh": "摘要中說明八月份的證券交易稅較去年同期增長了 94.5%。",
+   "news_title_en": "Taiwan's Jan–Aug tax take tops NT$3tn on a securities-tax surge",
+   "id": "2026-09-24-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"externally hot, internally warm\" mean?",
+   "options": [
+    "The central bank is feeling comfortable with its decisions",
+    "The global economy is strong while Taiwan's domestic economy is also doing well",
+    "The weather outside Taiwan is hot and inside buildings is warm",
+    "Foreign investors are interested but local consumers are not buying"
    ],
    "answer": 1,
-   "explain_en": "The summary states that five new funds are opening for subscription in September.",
-   "explain_zh": "摘要中說明有五檔新基金在九月開放認購。",
-   "news_title_en": "September brings a wave of new fund launches",
-   "id": "2026-09-23-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"deemed\" mean?",
-   "options": [
-    "ignored by the government",
-    "given as a gift",
-    "removed from tax rules",
-    "considered as legally existing"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"deemed\" means that the property is treated as if it were part of the estate, even though it was transferred before death.",
-   "explain_zh": "「deemed」在此指的是即使財產在死亡前已轉移，仍被視為遺產的一部份。",
-   "news_title_en": "President signs estate- and gift-tax amendment tightening deemed-estate rules",
-   "id": "2026-09-23-08"
+   "explain_en": "It describes a situation where both the outside (global) economy and the inside (domestic) economy are performing strongly.",
+   "explain_zh": "指的是外部（全球）經濟強勁，內部（台灣）經濟也表現良好。",
+   "news_title_en": "Central bank holds rates for a 10th straight meeting, lifts 2026 growth forecast",
+   "id": "2026-09-24-10"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, when does a property gifted to a spouse become part of the decedent's estate for tax purposes?",
+   "question": "How many board members wanted to raise the policy rate?",
    "options": [
-    "If it is given within two years before death",
-    "If it is given more than five years after death",
-    "If it is given to any relative at any time",
-    "If it is given after the decedent's will is filed"
+    "10",
+    "2",
+    "5",
+    "15"
    ],
-   "answer": 0,
-   "explain_en": "The amendment says gifts to a spouse or statutory heirs within two years before death are treated as part of the estate.",
-   "explain_zh": "修正案規定，死亡前兩年內贈與給配偶或法定繼承人的財產，會被視為遺產的一部份。",
-   "news_title_en": "President signs estate- and gift-tax amendment tightening deemed-estate rules",
-   "id": "2026-09-23-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"running hot\" mean?",
-   "options": [
-    "The stock market is falling",
-    "The temperature is high",
-    "People are feeling feverish",
-    "The economy is growing very quickly"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"running hot\" describes an economy that is expanding rapidly, not actual temperature.",
-   "explain_zh": "「running hot」在文中指的是經濟成長非常快，而不是指天氣或身體發燒。",
-   "news_title_en": "Central bank lifts 2026 growth forecast to 11.48%, nudges CPI up",
-   "id": "2026-09-23-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the central bank's new forecast for the full-year CPI in 2026?",
-   "options": [
-    "2.16%",
-    "3.00%",
-    "2.03%",
-    "1.50%"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the full-year CPI forecast was lifted to 2.03%.",
-   "explain_zh": "摘要中說明全年度 CPI 預測提升至 2.03%。",
-   "news_title_en": "Central bank lifts 2026 growth forecast to 11.48%, nudges CPI up",
-   "id": "2026-09-23-11"
+   "answer": 1,
+   "explain_en": "The summary says two of the 15 board members favoured a hike.",
+   "explain_zh": "摘要中提到 15 位委員中有 2 位贊成加息。",
+   "news_title_en": "Central bank holds rates for a 10th straight meeting, lifts 2026 growth forecast",
+   "id": "2026-09-24-11"
   }
  ]
 }
