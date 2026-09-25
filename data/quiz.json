@@ -1,185 +1,185 @@
 {
- "date": "2026-09-24",
+ "date": "2026-09-25",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"turnover\" mean?",
+   "question": "In the summary, what does the word \"trim\" mean?",
    "options": [
-    "The interest rate set by the central bank",
-    "The number of new companies listed",
-    "The profit earned by a company",
-    "The total amount of money traded"
+    "to increase",
+    "to sell",
+    "to reduce",
+    "to ignore"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"trim\" means to reduce or cut down the non‑core financial holdings.",
+   "explain_zh": "此處的「trim」指的是減少或削減非核心的金融持股。",
+   "news_title_en": "Foxconn to Divest US Fintech Figure Technology Stake to Realize Gains",
+   "id": "2026-09-25-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many shares of Figure Technology does Foxconn plan to sell?",
+   "options": [
+    "5 million",
+    "1.5 million",
+    "2.63 million",
+    "3.0 million"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states Foxconn will sell all 2.63 million shares it holds.",
+   "explain_zh": "摘要中說明富士康將出售全部 2.63 百萬股。",
+   "news_title_en": "Foxconn to Divest US Fintech Figure Technology Stake to Realize Gains",
+   "id": "2026-09-25-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"inference\" mean?",
+   "options": [
+    "A financial forecast for the next quarter",
+    "A legal judgment made by a court",
+    "The process of drawing conclusions from data",
+    "A type of computer hardware component"
+   ],
+   "answer": 2,
+   "explain_en": "Here, \"inference\" refers to the AI system making decisions or predictions based on input data.",
+   "explain_zh": "在此句中，「inference」指的是 AI 系統根據輸入資料做出判斷或預測的過程。",
+   "news_title_en": "Giant Integration Launches Panther Lake Single-Board Computer for Edge AI",
+   "id": "2026-09-25-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the maximum AI compute performance of the IB966 board?",
+   "options": [
+    "Up to 100 GFLOPS",
+    "Up to 180 TOPS",
+    "Up to 200 TOPS",
+    "Up to 150 GFLOPS"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the board can deliver up to 180 TOPS of AI compute.",
+   "explain_zh": "摘要中提到該板卡的 AI 計算效能最高可達 180 TOPS。",
+   "news_title_en": "Giant Integration Launches Panther Lake Single-Board Computer for Edge AI",
+   "id": "2026-09-25-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"private‑placement\" mean?",
+   "options": [
+    "A government grant for research",
+    "A public auction on the stock exchange",
+    "A loan from a bank",
+    "A sale of new shares to a small group of selected investors"
    ],
    "answer": 3,
-   "explain_en": "\"Turnover\" refers to the total value of shares traded during the day.",
-   "explain_zh": "「turnover」指的是當天交易的總金額。",
-   "news_title_en": "TAIEX sets fresh record high above 48,000, led by TSMC",
-   "id": "2026-09-24-00"
+   "explain_en": "A private‑placement is when a company sells new shares directly to a limited number of investors, not to the public market.",
+   "explain_zh": "私人配售是指公司將新股直接賣給少數特定投資人，而不是公開發行。",
+   "news_title_en": "E.Sun Financial to Inject NT$16 Billion into Newly Acquired Sanshang Life",
+   "id": "2026-09-25-04"
   },
   {
    "type": "comprehension",
-   "question": "How much did TSMC's stock price increase on the day?",
+   "question": "How much money does E.Sun plan to inject into Sanshang Mercuries Life in 2027?",
    "options": [
-    "NT$5.8bn",
-    "NT$40",
-    "NT$2,500",
-    "NT$37.3bn"
+    "NT$780 million",
+    "NT$6 billion",
+    "NT$16 billion",
+    "NT$20.51 per share"
    ],
    "answer": 1,
-   "explain_en": "The summary states TSMC gained NT$40, which is a 1.63% rise.",
-   "explain_zh": "摘要中說台積電上漲了 NT$40，漲幅 1.63%。",
-   "news_title_en": "TAIEX sets fresh record high above 48,000, led by TSMC",
-   "id": "2026-09-24-01"
+   "explain_en": "The summary states that Chairman Joseph Huang flagged a further NT$6 billion injection in 2027.",
+   "explain_zh": "摘要中說明黃董事長指出，2027 年將再投入 60 億新台幣。",
+   "news_title_en": "E.Sun Financial to Inject NT$16 Billion into Newly Acquired Sanshang Life",
+   "id": "2026-09-25-05"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the phrase \"rack‑scale systems\" mean?",
+   "question": "In the summary, what does the word \"repricing\" mean?",
    "options": [
-    "Small personal computers for home use",
-    "Individual GPU cards used in gaming PCs",
-    "Portable devices like tablets and smartphones",
-    "Large server units that fill an entire equipment rack"
+    "Adjusting the price of something higher or lower",
+    "Selling bonds to foreign investors",
+    "Calculating interest rates for loans",
+    "Measuring the length of a bond's term"
+   ],
+   "answer": 0,
+   "explain_en": "\"Repricing\" means changing the price or value, usually up or down, based on new market conditions.",
+   "explain_zh": "「repricing」指的是根據新市場情況調整價格，可能升也可能降。",
+   "news_title_en": "Foreign Investors Turn Net Sellers of Asian Bonds in August, First Outflow in Months",
+   "id": "2026-09-25-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, how many months had Asian bonds seen steady inflows before August?",
+   "options": [
+    "Three months",
+    "Twelve months",
+    "One month",
+    "Five months"
    ],
    "answer": 3,
-   "explain_en": "\"Rack‑scale systems\" are big server setups that occupy a full rack in a data center, not small personal devices.",
-   "explain_zh": "「rack‑scale systems」指的是佔滿整個機架的大型伺服器系統，而非個人小型裝置。",
-   "news_title_en": "AI server build-out broadens Taiwan supply-chain demand beyond GPUs",
-   "id": "2026-09-24-02"
+   "explain_en": "The text says August was the first net outflow in five months, meaning there were steady inflows for the previous five months.",
+   "explain_zh": "文中說八月是五個月以來首次資金流出，表示之前有連續五個月的資金流入。",
+   "news_title_en": "Foreign Investors Turn Net Sellers of Asian Bonds in August, First Outflow in Months",
+   "id": "2026-09-25-07"
   },
   {
-   "type": "comprehension",
-   "question": "According to the summary, which materials are still in short supply for Taiwan's PCB makers?",
+   "type": "vocab",
+   "question": "In the summary, what does the word \"floor\" mean?",
    "options": [
-    "High‑end glass fabric and copper foil",
-    "Carbon fiber and titanium alloy",
-    "Aluminum sheets and plastic resin",
-    "Silicon wafers and gold plating"
+    "the lowest possible level",
+    "a government agency",
+    "the top of a building",
+    "a type of financial chart"
    ],
    "answer": 0,
-   "explain_en": "The summary states that high‑end glass fabric and copper foil remain tight, meaning they are in limited supply.",
-   "explain_zh": "摘要中提到高階玻璃布與銅箔仍然緊缺，表示供應有限。",
-   "news_title_en": "AI server build-out broadens Taiwan supply-chain demand beyond GPUs",
-   "id": "2026-09-24-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"defer\" mean?",
-   "options": [
-    "to ignore completely",
-    "to do something earlier",
-    "to do something later",
-    "to cancel permanently"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"defer\" means to postpone the reporting to a later time.",
-   "explain_zh": "在文中「defer」是指把報告延後到較晚的時間。",
-   "news_title_en": "Insurers adopt new-generation solvency (TIS) regime in 2026 with phased flexibility",
-   "id": "2026-09-24-04"
+   "explain_en": "Here \"floor\" refers to the minimum level, i.e., the lowest wage allowed.",
+   "explain_zh": "這裡的「floor」指的是最低水平，也就是最低工資的底線。",
+   "news_title_en": "Taiwan Raises 2027 Minimum Monthly Wage Above NT$30,000 for First Time",
+   "id": "2026-09-25-08"
   },
   {
    "type": "comprehension",
-   "question": "When will Taiwan's insurance sector start using the new-generation solvency system?",
+   "question": "When will Taiwan's monthly minimum wage increase to NT$30,900?",
    "options": [
-    "2027",
-    "2025",
-    "2026",
-    "2024"
+    "In 2026",
+    "In 2028",
+    "In 2027",
+    "In 2025"
    ],
    "answer": 2,
-   "explain_en": "The summary states the new system will be adopted in 2026.",
-   "explain_zh": "摘要中說明新一代償付制度將於2026年開始實施。",
-   "news_title_en": "Insurers adopt new-generation solvency (TIS) regime in 2026 with phased flexibility",
-   "id": "2026-09-24-05"
+   "explain_en": "The summary states the raise takes effect starting in 2027.",
+   "explain_zh": "摘要中說明此加薪將於2027年開始實施。",
+   "news_title_en": "Taiwan Raises 2027 Minimum Monthly Wage Above NT$30,000 for First Time",
+   "id": "2026-09-25-09"
   },
   {
    "type": "vocab",
-   "question": "In the news summary, what does the term \"active ETF\" mean?",
+   "question": "In the summary, what does the phrase \"signalling determination to fight inflation\" mean?",
    "options": [
-    "A fund that can only be bought by institutional investors",
-    "A fund that only invests in government bonds",
-    "An exchange‑traded fund that is managed by a team that picks stocks regularly",
-    "A fund that automatically follows a market index"
-   ],
-   "answer": 2,
-   "explain_en": "An active ETF is a fund where managers actively select and trade holdings rather than just tracking an index.",
-   "explain_zh": "「active ETF」指的是由基金經理人主動挑選、買賣標的的交易所買賣基金，而不是被動追蹤指數。",
-   "news_title_en": "September fund-raising wave: five new funds, active ETFs to the fore",
-   "id": "2026-09-24-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many listed active ETFs does Taiwan have after the September openings?",
-   "options": [
-    "30",
-    "35",
-    "40",
-    "45"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that Taiwan now has 40 listed active ETFs since the 2025 opening.",
-   "explain_zh": "摘要中提到，台灣目前已擁有 40 檔上市的主動式 ETF。",
-   "news_title_en": "September fund-raising wave: five new funds, active ETFs to the fore",
-   "id": "2026-09-24-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"heavy lifting\" mean?",
-   "options": [
-    "Doing most of the work",
-    "Lifting heavy objects",
-    "Causing a problem",
-    "Being very expensive"
+    "Showing a strong will to reduce rising prices",
+    "Describing a decision to lower interest rates",
+    "Indicating a plan to increase taxes",
+    "Explaining a move to cut government spending"
    ],
    "answer": 0,
-   "explain_en": "Here \"heavy lifting\" is a figurative way to say that the securities transaction tax contributed the most to the increase in tax revenue.",
-   "explain_zh": "這裡的「heavy lifting」是比喻，表示證券交易稅在稅收增長中貢獻最大。",
-   "news_title_en": "Taiwan's Jan–Aug tax take tops NT$3tn on a securities-tax surge",
-   "id": "2026-09-24-08"
+   "explain_en": "It means the bank is showing a strong will to reduce rising prices (inflation).",
+   "explain_zh": "表示央行有強烈的意願要降低通貨膨脹。",
+   "news_title_en": "Norway Hikes Rates to 4.5% as Nordic and Swiss Central Banks Diverge",
+   "id": "2026-09-25-10"
   },
   {
    "type": "comprehension",
-   "question": "How much did the August securities transaction tax increase compared to the same month last year?",
+   "question": "What was the policy rate that the Swiss National Bank kept for its fifth straight meeting?",
    "options": [
-    "28.9% higher",
-    "25.2% higher",
-    "94.5% higher",
-    "13% higher"
+    "4.50%",
+    "2.00%",
+    "0%",
+    "1.75%"
    ],
    "answer": 2,
-   "explain_en": "The summary states that the securities transaction tax in August was up 94.5% year‑over‑year.",
-   "explain_zh": "摘要中說明八月份的證券交易稅較去年同期增長了 94.5%。",
-   "news_title_en": "Taiwan's Jan–Aug tax take tops NT$3tn on a securities-tax surge",
-   "id": "2026-09-24-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"externally hot, internally warm\" mean?",
-   "options": [
-    "The central bank is feeling comfortable with its decisions",
-    "The global economy is strong while Taiwan's domestic economy is also doing well",
-    "The weather outside Taiwan is hot and inside buildings is warm",
-    "Foreign investors are interested but local consumers are not buying"
-   ],
-   "answer": 1,
-   "explain_en": "It describes a situation where both the outside (global) economy and the inside (domestic) economy are performing strongly.",
-   "explain_zh": "指的是外部（全球）經濟強勁，內部（台灣）經濟也表現良好。",
-   "news_title_en": "Central bank holds rates for a 10th straight meeting, lifts 2026 growth forecast",
-   "id": "2026-09-24-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many board members wanted to raise the policy rate?",
-   "options": [
-    "10",
-    "2",
-    "5",
-    "15"
-   ],
-   "answer": 1,
-   "explain_en": "The summary says two of the 15 board members favoured a hike.",
-   "explain_zh": "摘要中提到 15 位委員中有 2 位贊成加息。",
-   "news_title_en": "Central bank holds rates for a 10th straight meeting, lifts 2026 growth forecast",
-   "id": "2026-09-24-11"
+   "explain_en": "The summary states the Swiss National Bank kept its rate at 0% for a fifth straight meeting.",
+   "explain_zh": "摘要中說瑞士央行連續第五次會議將利率維持在0%。",
+   "news_title_en": "Norway Hikes Rates to 4.5% as Nordic and Swiss Central Banks Diverge",
+   "id": "2026-09-25-11"
   }
  ]
 }
