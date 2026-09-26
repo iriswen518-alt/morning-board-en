@@ -1,185 +1,185 @@
 {
- "date": "2026-09-25",
+ "date": "2026-09-26",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"trim\" mean?",
+   "question": "What does the phrase \"profit‑taking\" mean as used in the text?",
    "options": [
-    "to increase",
-    "to sell",
-    "to reduce",
-    "to ignore"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"trim\" means to reduce or cut down the non‑core financial holdings.",
-   "explain_zh": "此處的「trim」指的是減少或削減非核心的金融持股。",
-   "news_title_en": "Foxconn to Divest US Fintech Figure Technology Stake to Realize Gains",
-   "id": "2026-09-25-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many shares of Figure Technology does Foxconn plan to sell?",
-   "options": [
-    "5 million",
-    "1.5 million",
-    "2.63 million",
-    "3.0 million"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states Foxconn will sell all 2.63 million shares it holds.",
-   "explain_zh": "摘要中說明富士康將出售全部 2.63 百萬股。",
-   "news_title_en": "Foxconn to Divest US Fintech Figure Technology Stake to Realize Gains",
-   "id": "2026-09-25-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"inference\" mean?",
-   "options": [
-    "A financial forecast for the next quarter",
-    "A legal judgment made by a court",
-    "The process of drawing conclusions from data",
-    "A type of computer hardware component"
-   ],
-   "answer": 2,
-   "explain_en": "Here, \"inference\" refers to the AI system making decisions or predictions based on input data.",
-   "explain_zh": "在此句中，「inference」指的是 AI 系統根據輸入資料做出判斷或預測的過程。",
-   "news_title_en": "Giant Integration Launches Panther Lake Single-Board Computer for Edge AI",
-   "id": "2026-09-25-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the maximum AI compute performance of the IB966 board?",
-   "options": [
-    "Up to 100 GFLOPS",
-    "Up to 180 TOPS",
-    "Up to 200 TOPS",
-    "Up to 150 GFLOPS"
+    "The government is raising taxes on profits",
+    "Investors are selling stocks to lock in gains",
+    "Companies are increasing their profit margins",
+    "Banks are giving out loans for profit"
    ],
    "answer": 1,
-   "explain_en": "The summary states the board can deliver up to 180 TOPS of AI compute.",
-   "explain_zh": "摘要中提到該板卡的 AI 計算效能最高可達 180 TOPS。",
-   "news_title_en": "Giant Integration Launches Panther Lake Single-Board Computer for Edge AI",
-   "id": "2026-09-25-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"private‑placement\" mean?",
-   "options": [
-    "A government grant for research",
-    "A public auction on the stock exchange",
-    "A loan from a bank",
-    "A sale of new shares to a small group of selected investors"
-   ],
-   "answer": 3,
-   "explain_en": "A private‑placement is when a company sells new shares directly to a limited number of investors, not to the public market.",
-   "explain_zh": "私人配售是指公司將新股直接賣給少數特定投資人，而不是公開發行。",
-   "news_title_en": "E.Sun Financial to Inject NT$16 Billion into Newly Acquired Sanshang Life",
-   "id": "2026-09-25-04"
+   "explain_en": "In the article, \"profit‑taking\" refers to investors selling shares to secure the gains they have made.",
+   "explain_zh": "在文章中，「profit‑taking」指的是投資人賣出股票以鎖定已獲得的獲利。",
+   "news_title_en": "Taiwan stocks slip before Mid-Autumn break as TSMC weakens",
+   "id": "2026-09-26-00"
   },
   {
    "type": "comprehension",
-   "question": "How much money does E.Sun plan to inject into Sanshang Mercuries Life in 2027?",
+   "question": "By how many points did the TAIEX fall in the session before the Mid‑Autumn holiday?",
    "options": [
-    "NT$780 million",
-    "NT$6 billion",
-    "NT$16 billion",
-    "NT$20.51 per share"
+    "0.28 points",
+    "48,025 points",
+    "250.0 points",
+    "132.7 points"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the TAIEX fell 132.7 points, which is a drop of -0.28%.",
+   "explain_zh": "摘要中說明台股指數下跌了 132.7 點，跌幅為 -0.28%。",
+   "news_title_en": "Taiwan stocks slip before Mid-Autumn break as TSMC weakens",
+   "id": "2026-09-26-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"upbeat\" mean?",
+   "options": [
+    "Optimistic",
+    "Negative",
+    "Confusing",
+    "Neutral"
+   ],
+   "answer": 0,
+   "explain_en": "\"Upbeat\" describes a positive or optimistic outlook.",
+   "explain_zh": "「upbeat」表示正面、樂觀的態度。",
+   "news_title_en": "SEMI sees global chip revenue hitting US$2 trillion by 2030, calls Taiwan an \"AI powerhouse\"",
+   "id": "2026-09-26-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, by what year could global semiconductor revenue reach US$2 trillion?",
+   "options": [
+    "2025",
+    "2035",
+    "2028",
+    "2030"
+   ],
+   "answer": 3,
+   "explain_en": "The president said AI demand could push revenue to US$2 trillion by 2030.",
+   "explain_zh": "總統說 AI 需求可能在 2030 年將全球半導體營收推升至 2 兆美元。",
+   "news_title_en": "SEMI sees global chip revenue hitting US$2 trillion by 2030, calls Taiwan an \"AI powerhouse\"",
+   "id": "2026-09-26-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"relief\" mean?",
+   "options": [
+    "A new regulation",
+    "A type of insurance policy",
+    "A reduction or easing of a burden",
+    "A financial penalty"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"relief\" refers to a reduction or easing of the capital requirement burden for the holdings.",
+   "explain_zh": "此處的「relief」指的是減輕資本要求的負擔。",
+   "news_title_en": "Regulator eases capital rules as life insurers face first TIS reporting test",
+   "id": "2026-09-26-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many insurance-focused holdings may defer their capital‑adequacy filing by one month?",
+   "options": [
+    "Eight",
+    "Five",
+    "Fourteen",
+    "Eleven"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that 11 insurance‑focused holdings may defer their filing by one month.",
+   "explain_zh": "摘要中說有 11 家以保險為主的控股公司可以延後一個月提交資本充足報告。",
+   "news_title_en": "Regulator eases capital rules as life insurers face first TIS reporting test",
+   "id": "2026-09-26-05"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"amplify\" mean as used in the text?",
+   "options": [
+    "make something smaller",
+    "increase the strength or amount",
+    "ignore changes",
+    "remove volatility"
    ],
    "answer": 1,
-   "explain_en": "The summary states that Chairman Joseph Huang flagged a further NT$6 billion injection in 2027.",
-   "explain_zh": "摘要中說明黃董事長指出，2027 年將再投入 60 億新台幣。",
-   "news_title_en": "E.Sun Financial to Inject NT$16 Billion into Newly Acquired Sanshang Life",
-   "id": "2026-09-25-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"repricing\" mean?",
-   "options": [
-    "Adjusting the price of something higher or lower",
-    "Selling bonds to foreign investors",
-    "Calculating interest rates for loans",
-    "Measuring the length of a bond's term"
-   ],
-   "answer": 0,
-   "explain_en": "\"Repricing\" means changing the price or value, usually up or down, based on new market conditions.",
-   "explain_zh": "「repricing」指的是根據新市場情況調整價格，可能升也可能降。",
-   "news_title_en": "Foreign Investors Turn Net Sellers of Asian Bonds in August, First Outflow in Months",
-   "id": "2026-09-25-06"
+   "explain_en": "Here \"amplify\" means to increase the strength or amount, i.e., make volatility larger.",
+   "explain_zh": "此處的「amplify」指的是使波動性變大、增加強度。",
+   "news_title_en": "High-dividend ETFs stay in focus as 2026 performance rankings emerge",
+   "id": "2026-09-26-06"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, how many months had Asian bonds seen steady inflows before August?",
+   "question": "According to the summary, why might the ETFs become more volatile?",
    "options": [
-    "Three months",
-    "Twelve months",
-    "One month",
-    "Five months"
+    "Because they pay low dividends",
+    "Because they are only bought by institutional investors",
+    "Because they have a heavy concentration in a few AI-linked constituents",
+    "Because they invest in many different sectors"
+   ],
+   "answer": 2,
+   "explain_en": "The text says heavy concentration in a handful of AI-linked constituents can amplify volatility on any pullback.",
+   "explain_zh": "文中指出，因為ETF集中在少數與AI相關的成分股，若這些股下跌會使波動性加大。",
+   "news_title_en": "High-dividend ETFs stay in focus as 2026 performance rankings emerge",
+   "id": "2026-09-26-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"fold\" mean?",
+   "options": [
+    "to include or incorporate",
+    "to sell quickly",
+    "to ignore completely",
+    "to collapse physically"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"fold\" means to include certain gifts back into the taxable estate.",
+   "explain_zh": "這裡的「fold」是指把特定贈與重新納入課稅遺產中。",
+   "news_title_en": "Amended estate and gift tax act takes effect with four key changes",
+   "id": "2026-09-26-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, who can decide to pay the tax from estate deposits?",
+   "options": [
+    "The Ministry of Finance",
+    "Heirs with a majority vote",
+    "All relatives equally",
+    "Only the spouse"
+   ],
+   "answer": 1,
+   "explain_en": "The summary says heirs can use a majority vote to pay tax from estate deposits.",
+   "explain_zh": "摘要指出，繼承人可透過多數票決定從遺產存款中繳稅。",
+   "news_title_en": "Amended estate and gift tax act takes effect with four key changes",
+   "id": "2026-09-26-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"breaching the 2% alert line\" mean?",
+   "options": [
+    "Ignoring the 2% level",
+    "Staying exactly at 2%",
+    "Falling below the 2% level",
+    "Going above the 2% level"
    ],
    "answer": 3,
-   "explain_en": "The text says August was the first net outflow in five months, meaning there were steady inflows for the previous five months.",
-   "explain_zh": "文中說八月是五個月以來首次資金流出，表示之前有連續五個月的資金流入。",
-   "news_title_en": "Foreign Investors Turn Net Sellers of Asian Bonds in August, First Outflow in Months",
-   "id": "2026-09-25-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"floor\" mean?",
-   "options": [
-    "the lowest possible level",
-    "a government agency",
-    "the top of a building",
-    "a type of financial chart"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"floor\" refers to the minimum level, i.e., the lowest wage allowed.",
-   "explain_zh": "這裡的「floor」指的是最低水平，也就是最低工資的底線。",
-   "news_title_en": "Taiwan Raises 2027 Minimum Monthly Wage Above NT$30,000 for First Time",
-   "id": "2026-09-25-08"
+   "explain_en": "It means the CPI inflation rate has risen above the 2% threshold that signals concern.",
+   "explain_zh": "表示 CPI 通膨率已超過 2% 的警戒線，屬於需要關注的狀況。",
+   "news_title_en": "Taiwan lifts 2026 growth forecast to 11.05% as CPI breaks above 2%",
+   "id": "2026-09-26-10"
   },
   {
    "type": "comprehension",
-   "question": "When will Taiwan's monthly minimum wage increase to NT$30,900?",
+   "question": "What is the new 2026 GDP growth forecast for Taiwan according to the summary?",
    "options": [
-    "In 2026",
-    "In 2028",
-    "In 2027",
-    "In 2025"
+    "10.20%",
+    "11.05%",
+    "9.80%",
+    "12.00%"
    ],
-   "answer": 2,
-   "explain_en": "The summary states the raise takes effect starting in 2027.",
-   "explain_zh": "摘要中說明此加薪將於2027年開始實施。",
-   "news_title_en": "Taiwan Raises 2027 Minimum Monthly Wage Above NT$30,000 for First Time",
-   "id": "2026-09-25-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"signalling determination to fight inflation\" mean?",
-   "options": [
-    "Showing a strong will to reduce rising prices",
-    "Describing a decision to lower interest rates",
-    "Indicating a plan to increase taxes",
-    "Explaining a move to cut government spending"
-   ],
-   "answer": 0,
-   "explain_en": "It means the bank is showing a strong will to reduce rising prices (inflation).",
-   "explain_zh": "表示央行有強烈的意願要降低通貨膨脹。",
-   "news_title_en": "Norway Hikes Rates to 4.5% as Nordic and Swiss Central Banks Diverge",
-   "id": "2026-09-25-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the policy rate that the Swiss National Bank kept for its fifth straight meeting?",
-   "options": [
-    "4.50%",
-    "2.00%",
-    "0%",
-    "1.75%"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the Swiss National Bank kept its rate at 0% for a fifth straight meeting.",
-   "explain_zh": "摘要中說瑞士央行連續第五次會議將利率維持在0%。",
-   "news_title_en": "Norway Hikes Rates to 4.5% as Nordic and Swiss Central Banks Diverge",
-   "id": "2026-09-25-11"
+   "answer": 1,
+   "explain_en": "The summary states the forecast was raised to 11.05%, the highest since 1988.",
+   "explain_zh": "摘要中提到台灣 2026 年的 GDP 成長預測被提升至 11.05%，為自 1988 年以來最高。",
+   "news_title_en": "Taiwan lifts 2026 growth forecast to 11.05% as CPI breaks above 2%",
+   "id": "2026-09-26-11"
   }
  ]
 }
