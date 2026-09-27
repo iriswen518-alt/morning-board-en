@@ -1,185 +1,110 @@
 {
- "date": "2026-09-26",
+ "date": "2026-09-27",
  "questions": [
   {
    "type": "vocab",
-   "question": "What does the phrase \"profit‑taking\" mean as used in the text?",
+   "question": "In the summary, what does the word \"shrug off\" mean?",
    "options": [
-    "The government is raising taxes on profits",
-    "Investors are selling stocks to lock in gains",
-    "Companies are increasing their profit margins",
-    "Banks are giving out loans for profit"
-   ],
-   "answer": 1,
-   "explain_en": "In the article, \"profit‑taking\" refers to investors selling shares to secure the gains they have made.",
-   "explain_zh": "在文章中，「profit‑taking」指的是投資人賣出股票以鎖定已獲得的獲利。",
-   "news_title_en": "Taiwan stocks slip before Mid-Autumn break as TSMC weakens",
-   "id": "2026-09-26-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "By how many points did the TAIEX fall in the session before the Mid‑Autumn holiday?",
-   "options": [
-    "0.28 points",
-    "48,025 points",
-    "250.0 points",
-    "132.7 points"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the TAIEX fell 132.7 points, which is a drop of -0.28%.",
-   "explain_zh": "摘要中說明台股指數下跌了 132.7 點，跌幅為 -0.28%。",
-   "news_title_en": "Taiwan stocks slip before Mid-Autumn break as TSMC weakens",
-   "id": "2026-09-26-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"upbeat\" mean?",
-   "options": [
-    "Optimistic",
-    "Negative",
-    "Confusing",
-    "Neutral"
-   ],
-   "answer": 0,
-   "explain_en": "\"Upbeat\" describes a positive or optimistic outlook.",
-   "explain_zh": "「upbeat」表示正面、樂觀的態度。",
-   "news_title_en": "SEMI sees global chip revenue hitting US$2 trillion by 2030, calls Taiwan an \"AI powerhouse\"",
-   "id": "2026-09-26-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, by what year could global semiconductor revenue reach US$2 trillion?",
-   "options": [
-    "2025",
-    "2035",
-    "2028",
-    "2030"
-   ],
-   "answer": 3,
-   "explain_en": "The president said AI demand could push revenue to US$2 trillion by 2030.",
-   "explain_zh": "總統說 AI 需求可能在 2030 年將全球半導體營收推升至 2 兆美元。",
-   "news_title_en": "SEMI sees global chip revenue hitting US$2 trillion by 2030, calls Taiwan an \"AI powerhouse\"",
-   "id": "2026-09-26-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"relief\" mean?",
-   "options": [
-    "A new regulation",
-    "A type of insurance policy",
-    "A reduction or easing of a burden",
-    "A financial penalty"
+    "Invest more money",
+    "Celebrate loudly",
+    "Ignore or dismiss something",
+    "Lift something heavy"
    ],
    "answer": 2,
-   "explain_en": "Here \"relief\" refers to a reduction or easing of the capital requirement burden for the holdings.",
-   "explain_zh": "此處的「relief」指的是減輕資本要求的負擔。",
-   "news_title_en": "Regulator eases capital rules as life insurers face first TIS reporting test",
-   "id": "2026-09-26-04"
+   "explain_en": "\"Shrug off\" means to ignore or dismiss something, as the market ignored the pressure from rising Treasury yields.",
+   "explain_zh": "「shrug off」指的是忽視或不在意，本文指的是市場不受美債殖利率上升的壓力影響。",
+   "news_title_en": "U.S. stocks end higher, notching first winning week in three (2026-09-26)",
+   "id": "2026-09-27-00"
   },
   {
    "type": "comprehension",
-   "question": "How many insurance-focused holdings may defer their capital‑adequacy filing by one month?",
+   "question": "Which index had the smallest percentage increase on that day?",
    "options": [
-    "Eight",
-    "Five",
-    "Fourteen",
-    "Eleven"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that 11 insurance‑focused holdings may defer their filing by one month.",
-   "explain_zh": "摘要中說有 11 家以保險為主的控股公司可以延後一個月提交資本充足報告。",
-   "news_title_en": "Regulator eases capital rules as life insurers face first TIS reporting test",
-   "id": "2026-09-26-05"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the word \"amplify\" mean as used in the text?",
-   "options": [
-    "make something smaller",
-    "increase the strength or amount",
-    "ignore changes",
-    "remove volatility"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"amplify\" means to increase the strength or amount, i.e., make volatility larger.",
-   "explain_zh": "此處的「amplify」指的是使波動性變大、增加強度。",
-   "news_title_en": "High-dividend ETFs stay in focus as 2026 performance rankings emerge",
-   "id": "2026-09-26-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, why might the ETFs become more volatile?",
-   "options": [
-    "Because they pay low dividends",
-    "Because they are only bought by institutional investors",
-    "Because they have a heavy concentration in a few AI-linked constituents",
-    "Because they invest in many different sectors"
+    "Dow Jones Industrial Average",
+    "S&P 500",
+    "Nasdaq Composite",
+    "All three had the same increase"
    ],
    "answer": 2,
-   "explain_en": "The text says heavy concentration in a handful of AI-linked constituents can amplify volatility on any pullback.",
-   "explain_zh": "文中指出，因為ETF集中在少數與AI相關的成分股，若這些股下跌會使波動性加大。",
-   "news_title_en": "High-dividend ETFs stay in focus as 2026 performance rankings emerge",
-   "id": "2026-09-26-07"
+   "explain_en": "The Nasdaq rose 0.48%, which is less than the Dow's 0.93% and the S&P 500's 0.49%.",
+   "explain_zh": "納斯達克上漲 0.48%，低於道瓊 0.93% 與標普 0.49%，因此漲幅最小。",
+   "news_title_en": "U.S. stocks end higher, notching first winning week in three (2026-09-26)",
+   "id": "2026-09-27-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"fold\" mean?",
+   "question": "In the summary, what does the phrase \"hover near\" mean?",
    "options": [
-    "to include or incorporate",
-    "to sell quickly",
-    "to ignore completely",
-    "to collapse physically"
+    "to move back and forth wildly",
+    "to quickly rise above",
+    "to stay at a level that is close to",
+    "to fall dramatically below"
+   ],
+   "answer": 2,
+   "explain_en": "\"Hover near\" means to stay at a level that is close to a certain point, without moving far away from it.",
+   "explain_zh": "「hover near」指的是保持在接近某個水平的狀態，沒有大幅上下波動。",
+   "news_title_en": "Treasury yields hover near two-decade highs as oil swings on Iran headlines (2026-09-25)",
+   "id": "2026-09-27-02"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"navigate\" mean?",
+   "options": [
+    "to write a report",
+    "to increase profits",
+    "to travel through a difficult situation",
+    "to sell products"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"navigate\" means to manage or deal with a challenging situation, like macro pressures.",
+   "explain_zh": "在此句中「navigate」指的是在困難的宏觀壓力下妥善處理或應對。",
+   "news_title_en": "Costco beats on fiscal Q4 as Goldman sees further upside (2026-09-25)",
+   "id": "2026-09-27-03"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was Costco's earnings per share in the reported fiscal fourth quarter?",
+   "options": [
+    "$6.60",
+    "$95.72",
+    "$5.00",
+    "$6.53"
    ],
    "answer": 0,
-   "explain_en": "Here \"fold\" means to include certain gifts back into the taxable estate.",
-   "explain_zh": "這裡的「fold」是指把特定贈與重新納入課稅遺產中。",
-   "news_title_en": "Amended estate and gift tax act takes effect with four key changes",
-   "id": "2026-09-26-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, who can decide to pay the tax from estate deposits?",
-   "options": [
-    "The Ministry of Finance",
-    "Heirs with a majority vote",
-    "All relatives equally",
-    "Only the spouse"
-   ],
-   "answer": 1,
-   "explain_en": "The summary says heirs can use a majority vote to pay tax from estate deposits.",
-   "explain_zh": "摘要指出，繼承人可透過多數票決定從遺產存款中繳稅。",
-   "news_title_en": "Amended estate and gift tax act takes effect with four key changes",
-   "id": "2026-09-26-09"
+   "explain_en": "The summary states earnings were $6.60 a share, beating the $6.53 consensus.",
+   "explain_zh": "摘要中說每股盈餘為 6.60 美元，超過 6.53 美元的市場預期。",
+   "news_title_en": "Costco beats on fiscal Q4 as Goldman sees further upside (2026-09-25)",
+   "id": "2026-09-27-04"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"breaching the 2% alert line\" mean?",
+   "question": "In the summary, what does the word \"downgraded\" mean?",
    "options": [
-    "Ignoring the 2% level",
-    "Staying exactly at 2%",
-    "Falling below the 2% level",
-    "Going above the 2% level"
+    "Sold all shares",
+    "Raised the stock price target",
+    "Lowered the stock rating",
+    "Kept the rating the same"
    ],
-   "answer": 3,
-   "explain_en": "It means the CPI inflation rate has risen above the 2% threshold that signals concern.",
-   "explain_zh": "表示 CPI 通膨率已超過 2% 的警戒線，屬於需要關注的狀況。",
-   "news_title_en": "Taiwan lifts 2026 growth forecast to 11.05% as CPI breaks above 2%",
-   "id": "2026-09-26-10"
+   "answer": 2,
+   "explain_en": "\"Downgraded\" means the analyst lowered their rating or price target for the stock.",
+   "explain_zh": "「downgraded」指的是分析師降低了對該股票的評等或目標價。",
+   "news_title_en": "Nike slips as Bank of America turns bearish before results (2026-09-25)",
+   "id": "2026-09-27-05"
   },
   {
    "type": "comprehension",
-   "question": "What is the new 2026 GDP growth forecast for Taiwan according to the summary?",
+   "question": "By how much did Nike shares ease after the Bank of America downgrade?",
    "options": [
-    "10.20%",
-    "11.05%",
-    "9.80%",
-    "12.00%"
+    "About 2%",
+    "About 0.7%",
+    "About 5%",
+    "About 1.5%"
    ],
    "answer": 1,
-   "explain_en": "The summary states the forecast was raised to 11.05%, the highest since 1988.",
-   "explain_zh": "摘要中提到台灣 2026 年的 GDP 成長預測被提升至 11.05%，為自 1988 年以來最高。",
-   "news_title_en": "Taiwan lifts 2026 growth forecast to 11.05% as CPI breaks above 2%",
-   "id": "2026-09-26-11"
+   "explain_en": "The summary states the stock eased about 0.7%.",
+   "explain_zh": "摘要中說股票下跌約 0.7%。",
+   "news_title_en": "Nike slips as Bank of America turns bearish before results (2026-09-25)",
+   "id": "2026-09-27-06"
   }
  ]
 }
