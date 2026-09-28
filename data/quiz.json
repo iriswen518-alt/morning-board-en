@@ -1,110 +1,170 @@
 {
- "date": "2026-09-27",
+ "date": "2026-09-28",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"shrug off\" mean?",
+   "question": "In the summary, what does the word \"turnover\" mean?",
    "options": [
-    "Invest more money",
-    "Celebrate loudly",
-    "Ignore or dismiss something",
-    "Lift something heavy"
+    "The interest rate set by the central bank",
+    "The number of companies listed on the exchange",
+    "The profit earned by a company",
+    "The total amount of money traded in the market"
    ],
-   "answer": 2,
-   "explain_en": "\"Shrug off\" means to ignore or dismiss something, as the market ignored the pressure from rising Treasury yields.",
-   "explain_zh": "「shrug off」指的是忽視或不在意，本文指的是市場不受美債殖利率上升的壓力影響。",
-   "news_title_en": "U.S. stocks end higher, notching first winning week in three (2026-09-26)",
-   "id": "2026-09-27-00"
+   "answer": 3,
+   "explain_en": "Turnover refers to the total value of shares that were bought and sold during the session.",
+   "explain_zh": "「turnover」指的是當日成交的總金額，即買賣股票的總金額。",
+   "news_title_en": "TAIEX eases before Mid-Autumn break as heavyweights soften",
+   "id": "2026-09-28-00"
   },
   {
    "type": "comprehension",
-   "question": "Which index had the smallest percentage increase on that day?",
+   "question": "According to the summary, why do institutions expect the medium-term uptrend to continue?",
    "options": [
-    "Dow Jones Industrial Average",
-    "S&P 500",
-    "Nasdaq Composite",
-    "All three had the same increase"
+    "Because the TAIEX index rose by more than 1%",
+    "Because the four major U.S. indices are gaining",
+    "Because Hon Hai's stock price increased sharply",
+    "Because of AI demand, high export orders, and TSMC's upcoming earnings call"
    ],
-   "answer": 2,
-   "explain_en": "The Nasdaq rose 0.48%, which is less than the Dow's 0.93% and the S&P 500's 0.49%.",
-   "explain_zh": "納斯達克上漲 0.48%，低於道瓊 0.93% 與標普 0.49%，因此漲幅最小。",
-   "news_title_en": "U.S. stocks end higher, notching first winning week in three (2026-09-26)",
-   "id": "2026-09-27-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"hover near\" mean?",
-   "options": [
-    "to move back and forth wildly",
-    "to quickly rise above",
-    "to stay at a level that is close to",
-    "to fall dramatically below"
-   ],
-   "answer": 2,
-   "explain_en": "\"Hover near\" means to stay at a level that is close to a certain point, without moving far away from it.",
-   "explain_zh": "「hover near」指的是保持在接近某個水平的狀態，沒有大幅上下波動。",
-   "news_title_en": "Treasury yields hover near two-decade highs as oil swings on Iran headlines (2026-09-25)",
-   "id": "2026-09-27-02"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"navigate\" mean?",
-   "options": [
-    "to write a report",
-    "to increase profits",
-    "to travel through a difficult situation",
-    "to sell products"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"navigate\" means to manage or deal with a challenging situation, like macro pressures.",
-   "explain_zh": "在此句中「navigate」指的是在困難的宏觀壓力下妥善處理或應對。",
-   "news_title_en": "Costco beats on fiscal Q4 as Goldman sees further upside (2026-09-25)",
-   "id": "2026-09-27-03"
+   "answer": 3,
+   "explain_en": "The summary states institutions see AI demand, strong export orders, and TSMC's mid‑October earnings call as supporting factors.",
+   "explain_zh": "摘要中提到，機構認為 AI 需求、出口訂單強勁以及台積電十月中旬的財報說明會是支撐中期上升趨勢的因素。",
+   "news_title_en": "TAIEX eases before Mid-Autumn break as heavyweights soften",
+   "id": "2026-09-28-01"
   },
   {
    "type": "comprehension",
-   "question": "What was Costco's earnings per share in the reported fiscal fourth quarter?",
+   "question": "According to the summary, when are investors expected to pay more attention to the 2nm ramp and related suppliers?",
    "options": [
-    "$6.60",
-    "$95.72",
-    "$5.00",
-    "$6.53"
+    "In the second quarter",
+    "In the first quarter",
+    "In the fourth quarter",
+    "In the third quarter"
    ],
-   "answer": 0,
-   "explain_en": "The summary states earnings were $6.60 a share, beating the $6.53 consensus.",
-   "explain_zh": "摘要中說每股盈餘為 6.60 美元，超過 6.53 美元的市場預期。",
-   "news_title_en": "Costco beats on fiscal Q4 as Goldman sees further upside (2026-09-25)",
-   "id": "2026-09-27-04"
+   "answer": 2,
+   "explain_en": "The summary says investors will focus on the 2nm ramp in the fourth quarter.",
+   "explain_zh": "摘要中提到投資者將在第四季關注 2nm 產能提升及相關供應商。",
+   "news_title_en": "Qualcomm flagship chips on TSMC 2nm keep advanced-node chain in focus",
+   "id": "2026-09-28-02"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"downgraded\" mean?",
+   "question": "In the summary, what does the word \"clear\" mean when it says \"life insurers should clear the 100% statutory qualifying line\"?",
    "options": [
-    "Sold all shares",
-    "Raised the stock price target",
-    "Lowered the stock rating",
-    "Kept the rating the same"
+    "to become invisible",
+    "to sell assets",
+    "to meet or pass the requirement",
+    "to erase data"
    ],
    "answer": 2,
-   "explain_en": "\"Downgraded\" means the analyst lowered their rating or price target for the stock.",
-   "explain_zh": "「downgraded」指的是分析師降低了對該股票的評等或目標價。",
-   "news_title_en": "Nike slips as Bank of America turns bearish before results (2026-09-25)",
-   "id": "2026-09-27-05"
+   "explain_en": "Here \"clear\" means to meet or pass the required level.",
+   "explain_zh": "此處的「clear」指的是達到或通過規定的標準。",
+   "news_title_en": "Life insurers on track to clear first TIS solvency test",
+   "id": "2026-09-28-03"
   },
   {
    "type": "comprehension",
-   "question": "By how much did Nike shares ease after the Bank of America downgrade?",
+   "question": "According to the summary, when is the first half-year filing for the new TIS regime due?",
    "options": [
-    "About 2%",
-    "About 0.7%",
-    "About 5%",
-    "About 1.5%"
+    "Next year",
+    "This month",
+    "End of December",
+    "End of September"
    ],
    "answer": 1,
-   "explain_en": "The summary states the stock eased about 0.7%.",
-   "explain_zh": "摘要中說股票下跌約 0.7%。",
-   "news_title_en": "Nike slips as Bank of America turns bearish before results (2026-09-25)",
-   "id": "2026-09-27-06"
+   "explain_en": "The summary states the first half-year filing is due this month.",
+   "explain_zh": "摘要中說明上半年的申報本月到期。",
+   "news_title_en": "Life insurers on track to clear first TIS solvency test",
+   "id": "2026-09-28-04"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the term \"concentration‑risk\" mean?",
+   "options": [
+    "The risk of low liquidity",
+    "The danger of holding too much of one stock",
+    "The risk of a market crash",
+    "The risk of high fees"
+   ],
+   "answer": 1,
+   "explain_en": "Concentration‑risk is the danger that a portfolio is overly weighted in a single company, so a bad move by that company hurts the whole portfolio.",
+   "explain_zh": "集中風險指的是投資組合過度集中在單一公司，若該公司表現不佳，整體資產會受較大衝擊。",
+   "news_title_en": "FSC raises single-stock cap for equity funds and active ETFs to 25%",
+   "id": "2026-09-28-05"
+  },
+  {
+   "type": "comprehension",
+   "question": "Before the regulator's change, what was the maximum percentage of net asset value that a domestic equity fund could hold in a single listed company?",
+   "options": [
+    "25%",
+    "10%",
+    "15%",
+    "20%"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the rule previously barred holdings of more than 10% of NAV in a single company.",
+   "explain_zh": "摘要中說明，原本規定單一公司持股上限為淨資產價值的10%。",
+   "news_title_en": "FSC raises single-stock cap for equity funds and active ETFs to 25%",
+   "id": "2026-09-28-06"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"buoyant\" mean?",
+   "options": [
+    "sad and gloomy",
+    "strong and active",
+    "slow and declining",
+    "unstable and risky"
+   ],
+   "answer": 1,
+   "explain_en": "Here \"buoyant\" describes equity turnover that is strong and active, not sad or slow.",
+   "explain_zh": "此處的「buoyant」指的是股市成交活絡、強勁，而不是悲觀或下降。",
+   "news_title_en": "Taiwan tax take tops NT$3tn in first eight months, a record",
+   "id": "2026-09-28-07"
+  },
+  {
+   "type": "comprehension",
+   "question": "By how much did the cumulative tax revenue from January to August increase compared to the previous year?",
+   "options": [
+    "15.8%",
+    "30.1%",
+    "20.5%",
+    "25.2%"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the January‑August cumulative haul was up 25.2% year on year.",
+   "explain_zh": "摘要中說明，1 月至 8 月的累計稅收較去年增加了 25.2%。",
+   "news_title_en": "Taiwan tax take tops NT$3tn in first eight months, a record",
+   "id": "2026-09-28-08"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"higher-for-longer\" mean?",
+   "options": [
+    "Inflation will disappear quickly",
+    "Interest rates will stay high for an extended period",
+    "The economy will grow rapidly",
+    "Interest rates will be lowered soon"
+   ],
+   "answer": 1,
+   "explain_en": "\"Higher-for-longer\" describes a policy where rates remain elevated for a longer time to combat inflation.",
+   "explain_zh": "「higher-for-longer」指的是為了抑制通膨，利率會長時間維持在較高水平。",
+   "news_title_en": "Fed hikes in September and signals another move before year-end",
+   "id": "2026-09-28-09"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many Federal Reserve officials expect at least one more rate hike in 2026?",
+   "options": [
+    "0",
+    "16",
+    "2",
+    "18"
+   ],
+   "answer": 1,
+   "explain_en": "The summary says 16 of 18 officials expect at least one more hike in 2026.",
+   "explain_zh": "摘要中指出 18 位官員中有 16 位預期 2026 年至少再加息一次。",
+   "news_title_en": "Fed hikes in September and signals another move before year-end",
+   "id": "2026-09-28-10"
   }
  ]
 }
