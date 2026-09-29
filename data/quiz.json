@@ -1,170 +1,185 @@
 {
- "date": "2026-09-28",
+ "date": "2026-09-29",
  "questions": [
   {
    "type": "vocab",
    "question": "In the summary, what does the word \"turnover\" mean?",
    "options": [
-    "The interest rate set by the central bank",
+    "The amount of cash a company holds in its bank account",
     "The number of companies listed on the exchange",
-    "The profit earned by a company",
-    "The total amount of money traded in the market"
+    "The profit earned by a single company",
+    "The total value of all shares traded during the day"
    ],
    "answer": 3,
-   "explain_en": "Turnover refers to the total value of shares that were bought and sold during the session.",
-   "explain_zh": "「turnover」指的是當日成交的總金額，即買賣股票的總金額。",
-   "news_title_en": "TAIEX eases before Mid-Autumn break as heavyweights soften",
-   "id": "2026-09-28-00"
+   "explain_en": "Turnover refers to the total trading volume, i.e., the total value of shares bought and sold that day.",
+   "explain_zh": "「turnover」指的是當天所有成交的總金額，也就是交易量的總值。",
+   "news_title_en": "Taiwan stocks close above 46,300 as turnover tops NT$1 trillion",
+   "id": "2026-09-29-00"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, why do institutions expect the medium-term uptrend to continue?",
+   "question": "What was the TAIEX closing level on September 28?",
    "options": [
-    "Because the TAIEX index rose by more than 1%",
-    "Because the four major U.S. indices are gaining",
-    "Because Hon Hai's stock price increased sharply",
-    "Because of AI demand, high export orders, and TSMC's upcoming earnings call"
+    "46,400",
+    "46,331",
+    "46,300",
+    "46,200"
    ],
-   "answer": 3,
-   "explain_en": "The summary states institutions see AI demand, strong export orders, and TSMC's mid‑October earnings call as supporting factors.",
-   "explain_zh": "摘要中提到，機構認為 AI 需求、出口訂單強勁以及台積電十月中旬的財報說明會是支撐中期上升趨勢的因素。",
-   "news_title_en": "TAIEX eases before Mid-Autumn break as heavyweights soften",
-   "id": "2026-09-28-01"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, when are investors expected to pay more attention to the 2nm ramp and related suppliers?",
-   "options": [
-    "In the second quarter",
-    "In the first quarter",
-    "In the fourth quarter",
-    "In the third quarter"
-   ],
-   "answer": 2,
-   "explain_en": "The summary says investors will focus on the 2nm ramp in the fourth quarter.",
-   "explain_zh": "摘要中提到投資者將在第四季關注 2nm 產能提升及相關供應商。",
-   "news_title_en": "Qualcomm flagship chips on TSMC 2nm keep advanced-node chain in focus",
-   "id": "2026-09-28-02"
+   "answer": 1,
+   "explain_en": "The summary states the index closed at 46,331 on that date.",
+   "explain_zh": "摘要中說明指數在 9 月 28 日收於 46,331 點。",
+   "news_title_en": "Taiwan stocks close above 46,300 as turnover tops NT$1 trillion",
+   "id": "2026-09-29-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"clear\" mean when it says \"life insurers should clear the 100% statutory qualifying line\"?",
+   "question": "In the summary, what does the word “capacity” mean?",
    "options": [
-    "to become invisible",
-    "to sell assets",
-    "to meet or pass the requirement",
-    "to erase data"
+    "The amount of production ability a factory has",
+    "The total amount of money a company owns",
+    "The physical size of a building",
+    "The number of employees working at a company"
    ],
-   "answer": 2,
-   "explain_en": "Here \"clear\" means to meet or pass the required level.",
-   "explain_zh": "此處的「clear」指的是達到或通過規定的標準。",
-   "news_title_en": "Life insurers on track to clear first TIS solvency test",
-   "id": "2026-09-28-03"
+   "answer": 0,
+   "explain_en": "Here “capacity” refers to how much chip production TSMC can do, not money or people.",
+   "explain_zh": "這裡的「capacity」指的是台積電的生產能力，而非金錢或員工數量。",
+   "news_title_en": "TSMC's AI revenue seen topping US$100bn as advanced-node demand booms",
+   "id": "2026-09-29-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, when is the first half-year filing for the new TIS regime due?",
+   "question": "According to the article, AI server processors could exceed what percentage of TSMC's revenue by 2028?",
    "options": [
-    "Next year",
-    "This month",
-    "End of December",
-    "End of September"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the first half-year filing is due this month.",
-   "explain_zh": "摘要中說明上半年的申報本月到期。",
-   "news_title_en": "Life insurers on track to clear first TIS solvency test",
-   "id": "2026-09-28-04"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the term \"concentration‑risk\" mean?",
-   "options": [
-    "The risk of low liquidity",
-    "The danger of holding too much of one stock",
-    "The risk of a market crash",
-    "The risk of high fees"
-   ],
-   "answer": 1,
-   "explain_en": "Concentration‑risk is the danger that a portfolio is overly weighted in a single company, so a bad move by that company hurts the whole portfolio.",
-   "explain_zh": "集中風險指的是投資組合過度集中在單一公司，若該公司表現不佳，整體資產會受較大衝擊。",
-   "news_title_en": "FSC raises single-stock cap for equity funds and active ETFs to 25%",
-   "id": "2026-09-28-05"
-  },
-  {
-   "type": "comprehension",
-   "question": "Before the regulator's change, what was the maximum percentage of net asset value that a domestic equity fund could hold in a single listed company?",
-   "options": [
-    "25%",
-    "10%",
+    "20%",
     "15%",
-    "20%"
+    "10%",
+    "25%"
    ],
-   "answer": 1,
-   "explain_en": "The summary states the rule previously barred holdings of more than 10% of NAV in a single company.",
-   "explain_zh": "摘要中說明，原本規定單一公司持股上限為淨資產價值的10%。",
-   "news_title_en": "FSC raises single-stock cap for equity funds and active ETFs to 25%",
-   "id": "2026-09-28-06"
+   "answer": 0,
+   "explain_en": "The summary states AI server processors could exceed 20% of revenue by 2028.",
+   "explain_zh": "摘要中提到 AI 伺服器處理器的營收佔比可能在 2028 年超過 20%。",
+   "news_title_en": "TSMC's AI revenue seen topping US$100bn as advanced-node demand booms",
+   "id": "2026-09-29-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"buoyant\" mean?",
+   "question": "In the summary, what does the word \"relief\" mean?",
    "options": [
-    "sad and gloomy",
-    "strong and active",
-    "slow and declining",
-    "unstable and risky"
+    "A new regulation",
+    "A reduction or easing of a burden",
+    "A feeling of happiness",
+    "A type of financial loan"
    ],
    "answer": 1,
-   "explain_en": "Here \"buoyant\" describes equity turnover that is strong and active, not sad or slow.",
-   "explain_zh": "此處的「buoyant」指的是股市成交活絡、強勁，而不是悲觀或下降。",
-   "news_title_en": "Taiwan tax take tops NT$3tn in first eight months, a record",
-   "id": "2026-09-28-07"
+   "explain_en": "Here \"relief\" refers to a reduction or easing of the capital requirement burden for the companies.",
+   "explain_zh": "此處的「relief」指的是減輕資本要求的負擔。",
+   "news_title_en": "FSC eases capital rules for financial holdings ahead of new solvency regime",
+   "id": "2026-09-29-04"
   },
   {
    "type": "comprehension",
-   "question": "By how much did the cumulative tax revenue from January to August increase compared to the previous year?",
+   "question": "How many insurance-type holding companies may defer their CAR filing by a month?",
    "options": [
-    "15.8%",
-    "30.1%",
-    "20.5%",
-    "25.2%"
+    "11",
+    "8",
+    "20",
+    "15"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that 11 insurance-type holdcos may defer their CAR filing by a month.",
+   "explain_zh": "摘要中提到有 11 家保險類控股公司可以將 CAR 申報延期一個月。",
+   "news_title_en": "FSC eases capital rules for financial holdings ahead of new solvency regime",
+   "id": "2026-09-29-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"allocation\" mean?",
+   "options": [
+    "How the assets are distributed",
+    "The risk level of an investment",
+    "The legal ownership of a property",
+    "The total amount of money"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"allocation\" refers to how the clients divide or distribute their money into offshore assets.",
+   "explain_zh": "此處的「allocation」指的是客戶如何把資金分配到離岸資產上。",
+   "news_title_en": "Ultra-rich Taiwanese pile into offshore assets, CTBC-BCG study finds",
+   "id": "2026-09-29-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the report, what percentage of ultra‑high‑net‑worth Taiwanese clients hold overseas assets?",
+   "options": [
+    "92%",
+    "75%",
+    "86%",
+    "50%"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that 86% of such clients have offshore assets.",
+   "explain_zh": "摘要中說明有 86% 的超高淨值客戶持有離岸資產。",
+   "news_title_en": "Ultra-rich Taiwanese pile into offshore assets, CTBC-BCG study finds",
+   "id": "2026-09-29-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"exempted\" mean?",
+   "options": [
+    "Sold at a discount",
+    "Listed as a proper noun",
+    "Added to the tax rate",
+    "Removed from tax calculation"
    ],
    "answer": 3,
-   "explain_en": "The summary states the January‑August cumulative haul was up 25.2% year on year.",
-   "explain_zh": "摘要中說明，1 月至 8 月的累計稅收較去年增加了 25.2%。",
-   "news_title_en": "Taiwan tax take tops NT$3tn in first eight months, a record",
-   "id": "2026-09-28-08"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"higher-for-longer\" mean?",
-   "options": [
-    "Inflation will disappear quickly",
-    "Interest rates will stay high for an extended period",
-    "The economy will grow rapidly",
-    "Interest rates will be lowered soon"
-   ],
-   "answer": 1,
-   "explain_en": "\"Higher-for-longer\" describes a policy where rates remain elevated for a longer time to combat inflation.",
-   "explain_zh": "「higher-for-longer」指的是為了抑制通膨，利率會長時間維持在較高水平。",
-   "news_title_en": "Fed hikes in September and signals another move before year-end",
-   "id": "2026-09-28-09"
+   "explain_en": "\"Exempted\" means the items are not included in the taxable estate, so they are removed from tax calculation.",
+   "explain_zh": "「exempted」表示這些項目不列入課稅遺產，亦即從稅額計算中剔除。",
+   "news_title_en": "2026 estate and gift tax thresholds set the year's wealth-transfer planning",
+   "id": "2026-09-29-08"
   },
   {
    "type": "comprehension",
-   "question": "How many Federal Reserve officials expect at least one more rate hike in 2026?",
+   "question": "According to the summary, what is the maximum value of everyday household items that can be excluded from the taxable estate in 2026?",
    "options": [
-    "0",
-    "16",
-    "2",
-    "18"
+    "NT$2,000,000",
+    "NT$560,000",
+    "NT$1,000,000",
+    "NT$5,000,000"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that everyday household items worth up to NT$1 million are excluded.",
+   "explain_zh": "摘要中說明，價值最高可達新台幣100萬元的日常家用品可免稅。",
+   "news_title_en": "2026 estate and gift tax thresholds set the year's wealth-transfer planning",
+   "id": "2026-09-29-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"hawkish\" mean?",
+   "options": [
+    "Encouraging rapid economic growth",
+    "Supportive of higher interest rates",
+    "Indifferent to inflation",
+    "Favoring lower taxes"
    ],
    "answer": 1,
-   "explain_en": "The summary says 16 of 18 officials expect at least one more hike in 2026.",
-   "explain_zh": "摘要中指出 18 位官員中有 16 位預期 2026 年至少再加息一次。",
-   "news_title_en": "Fed hikes in September and signals another move before year-end",
-   "id": "2026-09-28-10"
+   "explain_en": "\"Hawkish\" describes a stance that prefers raising interest rates to combat inflation.",
+   "explain_zh": "「鷹派」指的是傾向提高利率以抑制通膨的立場。",
+   "news_title_en": "CBC seen holding rates as inflation stays above 2%",
+   "id": "2026-09-29-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the August CPI rate mentioned in the summary?",
+   "options": [
+    "2.04%",
+    "2.10%",
+    "1.96%",
+    "2.00%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that August CPI rose to 2.04%.",
+   "explain_zh": "摘要中提到八月份的消費者物價指數上升至 2.04%。",
+   "news_title_en": "CBC seen holding rates as inflation stays above 2%",
+   "id": "2026-09-29-11"
   }
  ]
 }
