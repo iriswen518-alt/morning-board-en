@@ -1,185 +1,155 @@
 {
- "date": "2026-09-29",
+ "date": "2026-09-30",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"turnover\" mean?",
+   "question": "What does the word \"rallied\" mean as used in the text?",
    "options": [
-    "The amount of cash a company holds in its bank account",
-    "The number of companies listed on the exchange",
-    "The profit earned by a single company",
-    "The total value of all shares traded during the day"
+    "Stayed the same",
+    "Moved upward quickly",
+    "Fell sharply",
+    "Stopped moving"
+   ],
+   "answer": 1,
+   "explain_en": "In the summary, \"rallied\" describes the index moving upward quickly.",
+   "explain_zh": "在摘要中，「rallied」表示指數快速上升。",
+   "news_title_en": "Semiconductors power TAIEX to a multi-week high as TSMC leads",
+   "id": "2026-09-30-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "How long had it been since the TAIEX reached its current high level?",
+   "options": [
+    "Six months",
+    "One week",
+    "One year",
+    "About two and a half months"
    ],
    "answer": 3,
-   "explain_en": "Turnover refers to the total trading volume, i.e., the total value of shares bought and sold that day.",
-   "explain_zh": "「turnover」指的是當天所有成交的總金額，也就是交易量的總值。",
-   "news_title_en": "Taiwan stocks close above 46,300 as turnover tops NT$1 trillion",
-   "id": "2026-09-29-00"
+   "explain_en": "The summary says the index is at its highest level in about two and a half months.",
+   "explain_zh": "摘要中說指數已達約兩個半月以來的最高點。",
+   "news_title_en": "Semiconductors power TAIEX to a multi-week high as TSMC leads",
+   "id": "2026-09-30-01"
   },
   {
-   "type": "comprehension",
-   "question": "What was the TAIEX closing level on September 28?",
+   "type": "vocab",
+   "question": "In the summary, what does the word \"ramp\" mean?",
    "options": [
-    "46,400",
-    "46,331",
-    "46,300",
-    "46,200"
+    "to climb a hill",
+    "to increase production gradually",
+    "to stop operations",
+    "to lower prices"
    ],
    "answer": 1,
-   "explain_en": "The summary states the index closed at 46,331 on that date.",
-   "explain_zh": "摘要中說明指數在 9 月 28 日收於 46,331 點。",
-   "news_title_en": "Taiwan stocks close above 46,300 as turnover tops NT$1 trillion",
-   "id": "2026-09-29-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word “capacity” mean?",
-   "options": [
-    "The amount of production ability a factory has",
-    "The total amount of money a company owns",
-    "The physical size of a building",
-    "The number of employees working at a company"
-   ],
-   "answer": 0,
-   "explain_en": "Here “capacity” refers to how much chip production TSMC can do, not money or people.",
-   "explain_zh": "這裡的「capacity」指的是台積電的生產能力，而非金錢或員工數量。",
-   "news_title_en": "TSMC's AI revenue seen topping US$100bn as advanced-node demand booms",
-   "id": "2026-09-29-02"
+   "explain_en": "Here \"ramp\" refers to the gradual increase in production of the 2‑nanometer chips.",
+   "explain_zh": "此處的「ramp」指的是 2 奈米晶片的產量逐步提升。",
+   "news_title_en": "TSMC holds Taiwan technology forum with 2nm and advanced packaging in focus",
+   "id": "2026-09-30-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the article, AI server processors could exceed what percentage of TSMC's revenue by 2028?",
+   "question": "On what date did TSMC hold the Taiwan leg of its technology symposium?",
    "options": [
-    "20%",
-    "15%",
-    "10%",
-    "25%"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states AI server processors could exceed 20% of revenue by 2028.",
-   "explain_zh": "摘要中提到 AI 伺服器處理器的營收佔比可能在 2028 年超過 20%。",
-   "news_title_en": "TSMC's AI revenue seen topping US$100bn as advanced-node demand booms",
-   "id": "2026-09-29-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"relief\" mean?",
-   "options": [
-    "A new regulation",
-    "A reduction or easing of a burden",
-    "A feeling of happiness",
-    "A type of financial loan"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"relief\" refers to a reduction or easing of the capital requirement burden for the companies.",
-   "explain_zh": "此處的「relief」指的是減輕資本要求的負擔。",
-   "news_title_en": "FSC eases capital rules for financial holdings ahead of new solvency regime",
-   "id": "2026-09-29-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many insurance-type holding companies may defer their CAR filing by a month?",
-   "options": [
-    "11",
-    "8",
-    "20",
-    "15"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that 11 insurance-type holdcos may defer their CAR filing by a month.",
-   "explain_zh": "摘要中提到有 11 家保險類控股公司可以將 CAR 申報延期一個月。",
-   "news_title_en": "FSC eases capital rules for financial holdings ahead of new solvency regime",
-   "id": "2026-09-29-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"allocation\" mean?",
-   "options": [
-    "How the assets are distributed",
-    "The risk level of an investment",
-    "The legal ownership of a property",
-    "The total amount of money"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"allocation\" refers to how the clients divide or distribute their money into offshore assets.",
-   "explain_zh": "此處的「allocation」指的是客戶如何把資金分配到離岸資產上。",
-   "news_title_en": "Ultra-rich Taiwanese pile into offshore assets, CTBC-BCG study finds",
-   "id": "2026-09-29-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the report, what percentage of ultra‑high‑net‑worth Taiwanese clients hold overseas assets?",
-   "options": [
-    "92%",
-    "75%",
-    "86%",
-    "50%"
+    "Sept 28",
+    "Sept 29",
+    "Sept 30",
+    "Oct 1"
    ],
    "answer": 2,
-   "explain_en": "The summary states that 86% of such clients have offshore assets.",
-   "explain_zh": "摘要中說明有 86% 的超高淨值客戶持有離岸資產。",
-   "news_title_en": "Ultra-rich Taiwanese pile into offshore assets, CTBC-BCG study finds",
-   "id": "2026-09-29-07"
+   "explain_en": "The summary states the event took place on Sept 30.",
+   "explain_zh": "摘要中說明活動於 9 月 30 日舉行。",
+   "news_title_en": "TSMC holds Taiwan technology forum with 2nm and advanced packaging in focus",
+   "id": "2026-09-30-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"exempted\" mean?",
+   "question": "In the text, what does the word \"subsidiary\" mean?",
    "options": [
-    "Sold at a discount",
-    "Listed as a proper noun",
-    "Added to the tax rate",
-    "Removed from tax calculation"
+    "a government agency",
+    "a stock exchange",
+    "a type of loan",
+    "a company owned by another company"
    ],
    "answer": 3,
-   "explain_en": "\"Exempted\" means the items are not included in the taxable estate, so they are removed from tax calculation.",
-   "explain_zh": "「exempted」表示這些項目不列入課稅遺產，亦即從稅額計算中剔除。",
-   "news_title_en": "2026 estate and gift tax thresholds set the year's wealth-transfer planning",
-   "id": "2026-09-29-08"
+   "explain_en": "A subsidiary is a company that is controlled by a parent company.",
+   "explain_zh": "子公司是被母公司控制的公司。",
+   "news_title_en": "E.Sun Financial completes Mercuries Life takeover to become fifth-largest listed holdco",
+   "id": "2026-09-30-04"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what is the maximum value of everyday household items that can be excluded from the taxable estate in 2026?",
+   "question": "After the takeover, what is the total asset size of E.Sun Financial?",
    "options": [
-    "NT$2,000,000",
-    "NT$560,000",
-    "NT$1,000,000",
-    "NT$5,000,000"
+    "around NT$10 trillion",
+    "under NT$4 trillion",
+    "exactly NT$5 trillion",
+    "over NT$6.5 trillion"
    ],
-   "answer": 2,
-   "explain_en": "The summary states that everyday household items worth up to NT$1 million are excluded.",
-   "explain_zh": "摘要中說明，價值最高可達新台幣100萬元的日常家用品可免稅。",
-   "news_title_en": "2026 estate and gift tax thresholds set the year's wealth-transfer planning",
-   "id": "2026-09-29-09"
+   "answer": 3,
+   "explain_en": "The summary says the deal lifts total assets past NT$6.5 trillion.",
+   "explain_zh": "摘要中指出，交易使總資產超過新台幣6.5兆。",
+   "news_title_en": "E.Sun Financial completes Mercuries Life takeover to become fifth-largest listed holdco",
+   "id": "2026-09-30-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"hawkish\" mean?",
+   "question": "In the summary, what does the word \"ultra‑rich\" mean?",
    "options": [
-    "Encouraging rapid economic growth",
-    "Supportive of higher interest rates",
-    "Indifferent to inflation",
-    "Favoring lower taxes"
+    "People who travel a lot internationally",
+    "People who work in the ultra‑light industry",
+    "People with a very high level of personal wealth",
+    "People who are extremely healthy"
    ],
-   "answer": 1,
-   "explain_en": "\"Hawkish\" describes a stance that prefers raising interest rates to combat inflation.",
-   "explain_zh": "「鷹派」指的是傾向提高利率以抑制通膨的立場。",
-   "news_title_en": "CBC seen holding rates as inflation stays above 2%",
-   "id": "2026-09-29-10"
+   "answer": 2,
+   "explain_en": "\"Ultra‑rich\" refers to individuals who have an exceptionally large amount of personal wealth, far above the average high‑net‑worth group.",
+   "explain_zh": "「ultra‑rich」指的是個人財富極其龐大的富豪，遠高於一般高淨值族群。",
+   "news_title_en": "Taiwan's high-net-worth wealth seen growing ~10% a year through 2029",
+   "id": "2026-09-30-06"
   },
   {
    "type": "comprehension",
-   "question": "What was the August CPI rate mentioned in the summary?",
+   "question": "According to the KPMG study, how many high‑net‑worth individuals are expected in Taiwan by 2029?",
    "options": [
-    "2.04%",
-    "2.10%",
-    "1.96%",
-    "2.00%"
+    "About 123,000",
+    "About 155,000",
+    "About 8,000",
+    "About 11,000"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the population of high‑net‑worth individuals will rise from about 123,000 to about 155,000 by 2029.",
+   "explain_zh": "摘要中說，高淨值個人數量將從約 123,000 增至約 155,000 人。",
+   "news_title_en": "Taiwan's high-net-worth wealth seen growing ~10% a year through 2029",
+   "id": "2026-09-30-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the phrase \"tight side\" mean?",
+   "options": [
+    "More restrictive monetary policy",
+    "A high unemployment rate",
+    "A neutral economic stance",
+    "A loose fiscal policy"
    ],
    "answer": 0,
-   "explain_en": "The summary states that August CPI rose to 2.04%.",
-   "explain_zh": "摘要中提到八月份的消費者物價指數上升至 2.04%。",
-   "news_title_en": "CBC seen holding rates as inflation stays above 2%",
-   "id": "2026-09-29-11"
+   "explain_en": "\"Tight side\" refers to a more restrictive or contractionary monetary policy stance.",
+   "explain_zh": "「tight side」指的是較緊縮的貨幣政策立場。",
+   "news_title_en": "Central bank holds rates and leans tight as inflation runs above its 2% guard line",
+   "id": "2026-09-30-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "What inflation rate threshold did Governor Yang mention as a warning line?",
+   "options": [
+    "4%",
+    "2%",
+    "3%",
+    "1%"
+   ],
+   "answer": 1,
+   "explain_en": "The governor said the CPI was slightly above the 2% warning threshold.",
+   "explain_zh": "楊局長提到消費者物價指數稍微超過 2% 的警戒線。",
+   "news_title_en": "Central bank holds rates and leans tight as inflation runs above its 2% guard line",
+   "id": "2026-09-30-09"
   }
  ]
 }
