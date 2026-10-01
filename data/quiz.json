@@ -1,155 +1,170 @@
 {
- "date": "2026-09-30",
+ "date": "2026-10-01",
  "questions": [
   {
    "type": "vocab",
-   "question": "What does the word \"rallied\" mean as used in the text?",
+   "question": "In the summary, what does the word \"turnover\" mean?",
    "options": [
-    "Stayed the same",
-    "Moved upward quickly",
-    "Fell sharply",
-    "Stopped moving"
+    "The interest rate set by the central bank",
+    "The number of new companies listed",
+    "The profit earned by a single company",
+    "The total amount of money traded in the market"
    ],
-   "answer": 1,
-   "explain_en": "In the summary, \"rallied\" describes the index moving upward quickly.",
-   "explain_zh": "在摘要中，「rallied」表示指數快速上升。",
-   "news_title_en": "Semiconductors power TAIEX to a multi-week high as TSMC leads",
-   "id": "2026-09-30-00"
+   "answer": 3,
+   "explain_en": "Turnover refers to the total value of shares that were bought and sold during the trading day.",
+   "explain_zh": "「turnover」指的是當天買賣的股票總金額。",
+   "news_title_en": "Taiwan stocks close up 308 points as September caps a strong month",
+   "id": "2026-10-01-00"
   },
   {
    "type": "comprehension",
-   "question": "How long had it been since the TAIEX reached its current high level?",
+   "question": "What was the TAIEX level at the close on September 30?",
    "options": [
-    "Six months",
-    "One week",
-    "One year",
-    "About two and a half months"
+    "47,500.00",
+    "48,300.00",
+    "49,000.00",
+    "47,940.13"
    ],
    "answer": 3,
-   "explain_en": "The summary says the index is at its highest level in about two and a half months.",
-   "explain_zh": "摘要中說指數已達約兩個半月以來的最高點。",
-   "news_title_en": "Semiconductors power TAIEX to a multi-week high as TSMC leads",
-   "id": "2026-09-30-01"
+   "explain_en": "The summary states the index closed at 47,940.13 points on September 30.",
+   "explain_zh": "摘要中說明指數在 9 月 30 日收盤時是 47,940.13 點。",
+   "news_title_en": "Taiwan stocks close up 308 points as September caps a strong month",
+   "id": "2026-10-01-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"ramp\" mean?",
+   "question": "In the summary, what does the phrase \"advanced packaging\" mean?",
    "options": [
-    "to climb a hill",
-    "to increase production gradually",
-    "to stop operations",
-    "to lower prices"
+    "A way to sell chips at a higher price",
+    "A method of designing chips with more layers to improve performance",
+    "A marketing term for new chip brands",
+    "A type of software used for AI algorithms"
    ],
    "answer": 1,
-   "explain_en": "Here \"ramp\" refers to the gradual increase in production of the 2‑nanometer chips.",
-   "explain_zh": "此處的「ramp」指的是 2 奈米晶片的產量逐步提升。",
-   "news_title_en": "TSMC holds Taiwan technology forum with 2nm and advanced packaging in focus",
-   "id": "2026-09-30-02"
+   "explain_en": "Here \"advanced packaging\" refers to a technology that stacks or connects chips in complex ways to boost speed and efficiency.",
+   "explain_zh": "「advanced packaging」指的是將晶片以複雜方式堆疊或連接，以提升速度與效能的技術。",
+   "news_title_en": "AI demand to drive TSMC and the 2026 chip upcycle",
+   "id": "2026-10-01-02"
   },
   {
    "type": "comprehension",
-   "question": "On what date did TSMC hold the Taiwan leg of its technology symposium?",
+   "question": "According to the summary, what is the expected year‑on‑year change for TSMC's first‑quarter net profit?",
    "options": [
-    "Sept 28",
-    "Sept 29",
-    "Sept 30",
-    "Oct 1"
+    "It will rise about 30%",
+    "It will stay the same",
+    "It will fall about 10%",
+    "It will rise about 50%"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the first‑quarter net profit is seen up about 50% year‑on‑year.",
+   "explain_zh": "摘要中說明第一季淨利較去年同期上升約 50%。",
+   "news_title_en": "AI demand to drive TSMC and the 2026 chip upcycle",
+   "id": "2026-10-01-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"tightening\" mean?",
+   "options": [
+    "relaxing rules",
+    "delaying meetings",
+    "making rules stricter",
+    "adding more paperwork"
    ],
    "answer": 2,
-   "explain_en": "The summary states the event took place on Sept 30.",
-   "explain_zh": "摘要中說明活動於 9 月 30 日舉行。",
-   "news_title_en": "TSMC holds Taiwan technology forum with 2nm and advanced packaging in focus",
-   "id": "2026-09-30-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"subsidiary\" mean?",
-   "options": [
-    "a government agency",
-    "a stock exchange",
-    "a type of loan",
-    "a company owned by another company"
-   ],
-   "answer": 3,
-   "explain_en": "A subsidiary is a company that is controlled by a parent company.",
-   "explain_zh": "子公司是被母公司控制的公司。",
-   "news_title_en": "E.Sun Financial completes Mercuries Life takeover to become fifth-largest listed holdco",
-   "id": "2026-09-30-04"
+   "explain_en": "\"Tightening\" means making the disclosure rules stricter or more rigorous.",
+   "explain_zh": "「tightening」在此指的是把資訊揭露的規定變得更嚴格。",
+   "news_title_en": "Eight new financial rules take effect from Sept 30",
+   "id": "2026-10-01-04"
   },
   {
    "type": "comprehension",
-   "question": "After the takeover, what is the total asset size of E.Sun Financial?",
+   "question": "How many of the new measures apply to securities?",
    "options": [
-    "around NT$10 trillion",
-    "under NT$4 trillion",
-    "exactly NT$5 trillion",
-    "over NT$6.5 trillion"
-   ],
-   "answer": 3,
-   "explain_en": "The summary says the deal lifts total assets past NT$6.5 trillion.",
-   "explain_zh": "摘要中指出，交易使總資產超過新台幣6.5兆。",
-   "news_title_en": "E.Sun Financial completes Mercuries Life takeover to become fifth-largest listed holdco",
-   "id": "2026-09-30-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"ultra‑rich\" mean?",
-   "options": [
-    "People who travel a lot internationally",
-    "People who work in the ultra‑light industry",
-    "People with a very high level of personal wealth",
-    "People who are extremely healthy"
-   ],
-   "answer": 2,
-   "explain_en": "\"Ultra‑rich\" refers to individuals who have an exceptionally large amount of personal wealth, far above the average high‑net‑worth group.",
-   "explain_zh": "「ultra‑rich」指的是個人財富極其龐大的富豪，遠高於一般高淨值族群。",
-   "news_title_en": "Taiwan's high-net-worth wealth seen growing ~10% a year through 2029",
-   "id": "2026-09-30-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the KPMG study, how many high‑net‑worth individuals are expected in Taiwan by 2029?",
-   "options": [
-    "About 123,000",
-    "About 155,000",
-    "About 8,000",
-    "About 11,000"
+    "Four",
+    "Six",
+    "Eight",
+    "Two"
    ],
    "answer": 1,
-   "explain_en": "The summary states the population of high‑net‑worth individuals will rise from about 123,000 to about 155,000 by 2029.",
-   "explain_zh": "摘要中說，高淨值個人數量將從約 123,000 增至約 155,000 人。",
-   "news_title_en": "Taiwan's high-net-worth wealth seen growing ~10% a year through 2029",
-   "id": "2026-09-30-07"
+   "explain_en": "The summary states that six of the eight new measures cover securities.",
+   "explain_zh": "摘要中說明八項新措施中有六項是針對證券的。",
+   "news_title_en": "Eight new financial rules take effect from Sept 30",
+   "id": "2026-10-01-05"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the phrase \"tight side\" mean?",
+   "question": "In the summary, what does the word \"franchise\" mean?",
    "options": [
-    "More restrictive monetary policy",
-    "A high unemployment rate",
-    "A neutral economic stance",
-    "A loose fiscal policy"
+    "A government license for trading",
+    "A type of loan offered to customers",
+    "A legal document for patents",
+    "A brand or business model the bank is expanding"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"franchise\" refers to the bank's existing business model or brand that it is developing further.",
+   "explain_zh": "此處的「franchise」指的是銀行正在擴展的既有業務模式或品牌。",
+   "news_title_en": "Banks build dual-track wealth platforms for HNW clients and offshore ETFs",
+   "id": "2026-10-01-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "When is the overseas equity and ETF platform expected to launch?",
+   "options": [
+    "Early 2028",
+    "Early 2026",
+    "Early 2027",
+    "Early 2025"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the platform will be launched in early 2026.",
+   "explain_zh": "摘要中說明該平台將於2026年初上線。",
+   "news_title_en": "Banks build dual-track wealth platforms for HNW clients and offshore ETFs",
+   "id": "2026-10-01-07"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, who will now pay the portion of estate tax for property gifted within two years of death?",
+   "options": [
+    "The recipients of the gifts",
+    "The heirs of the deceased",
+    "The government",
+    "The executor of the estate"
    ],
    "answer": 0,
-   "explain_en": "\"Tight side\" refers to a more restrictive or contractionary monetary policy stance.",
-   "explain_zh": "「tight side」指的是較緊縮的貨幣政策立場。",
-   "news_title_en": "Central bank holds rates and leans tight as inflation runs above its 2% guard line",
-   "id": "2026-09-30-08"
+   "explain_en": "The amendment makes the recipients of the gifts bear that portion of the estate tax proportionally.",
+   "explain_zh": "修正案規定，受贈人需按比例負擔遺產稅的那一部分。",
+   "news_title_en": "Estate-tax overhaul shifts the burden to gift recipients",
+   "id": "2026-10-01-08"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"overheating\" mean?",
+   "options": [
+    "Too much economic growth that could cause inflation",
+    "The central bank's computers getting too hot",
+    "A sudden drop in the stock market",
+    "A rise in Taiwan's weather temperature"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"overheating\" refers to the economy growing too fast, which may create inflation pressure.",
+   "explain_zh": "此處的「overheating」指的是經濟成長過快，可能導致通膨壓力。",
+   "news_title_en": "Central bank holds rates for a 10th quarter, leans tighter",
+   "id": "2026-10-01-09"
   },
   {
    "type": "comprehension",
-   "question": "What inflation rate threshold did Governor Yang mention as a warning line?",
+   "question": "For how many consecutive quarters has Taiwan's central bank kept the discount rate unchanged?",
    "options": [
-    "4%",
-    "2%",
-    "3%",
-    "1%"
+    "11 quarters",
+    "10 quarters",
+    "9 quarters",
+    "8 quarters"
    ],
    "answer": 1,
-   "explain_en": "The governor said the CPI was slightly above the 2% warning threshold.",
-   "explain_zh": "楊局長提到消費者物價指數稍微超過 2% 的警戒線。",
-   "news_title_en": "Central bank holds rates and leans tight as inflation runs above its 2% guard line",
-   "id": "2026-09-30-09"
+   "explain_en": "The summary states it is the tenth consecutive quarter the rate was held at 2%.",
+   "explain_zh": "摘要中說明已連續第十個季度維持2%的貼現率。",
+   "news_title_en": "Central bank holds rates for a 10th quarter, leans tighter",
+   "id": "2026-10-01-10"
   }
  ]
 }
