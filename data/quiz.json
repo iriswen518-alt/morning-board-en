@@ -1,170 +1,185 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"turnover\" mean?",
+   "question": "In the summary, what does the word \"reclaiming\" mean?",
    "options": [
-    "The interest rate set by the central bank",
-    "The number of new companies listed",
-    "The profit earned by a single company",
-    "The total amount of money traded in the market"
+    "to lose something",
+    "to predict the future",
+    "to take back or regain",
+    "to sell quickly"
    ],
-   "answer": 3,
-   "explain_en": "Turnover refers to the total value of shares that were bought and sold during the trading day.",
-   "explain_zh": "「turnover」指的是當天買賣的股票總金額。",
-   "news_title_en": "Taiwan stocks close up 308 points as September caps a strong month",
-   "id": "2026-10-01-00"
+   "answer": 2,
+   "explain_en": "The text says the index is \"reclaiming the 48,000 level,\" meaning it has taken that level back after previously falling below it.",
+   "explain_zh": "文中「reclaiming」指的是重新取得或回到 48,000 點的水平。",
+   "news_title_en": "TAIEX storms to record close in October opener, up 413 points",
+   "id": "2026-10-02-00"
   },
   {
    "type": "comprehension",
-   "question": "What was the TAIEX level at the close on September 30?",
+   "question": "How many index points did TSMC contribute to the TAIEX rise?",
    "options": [
-    "47,500.00",
-    "48,300.00",
-    "49,000.00",
-    "47,940.13"
+    "about 239 points",
+    "about 413 points",
+    "about 48,000 points",
+    "about 30 points"
    ],
-   "answer": 3,
-   "explain_en": "The summary states the index closed at 47,940.13 points on September 30.",
-   "explain_zh": "摘要中說明指數在 9 月 30 日收盤時是 47,940.13 點。",
-   "news_title_en": "Taiwan stocks close up 308 points as September caps a strong month",
-   "id": "2026-10-01-01"
+   "answer": 0,
+   "explain_en": "The summary states that TSMC alone contributed roughly 239 index points.",
+   "explain_zh": "摘要中說 TSMC 單獨貢獻了大約 239 點。",
+   "news_title_en": "TAIEX storms to record close in October opener, up 413 points",
+   "id": "2026-10-02-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"advanced packaging\" mean?",
+   "question": "In the summary, what does the word \"underpinning\" mean?",
    "options": [
-    "A way to sell chips at a higher price",
-    "A method of designing chips with more layers to improve performance",
-    "A marketing term for new chip brands",
-    "A type of software used for AI algorithms"
+    "Removing a component",
+    "Supporting or forming the basis of something",
+    "Measuring the size of a server",
+    "Increasing the price quickly"
    ],
    "answer": 1,
-   "explain_en": "Here \"advanced packaging\" refers to a technology that stacks or connects chips in complex ways to boost speed and efficiency.",
-   "explain_zh": "「advanced packaging」指的是將晶片以複雜方式堆疊或連接，以提升速度與效能的技術。",
-   "news_title_en": "AI demand to drive TSMC and the 2026 chip upcycle",
-   "id": "2026-10-01-02"
+   "explain_en": "\"Underpinning\" means providing support or a foundation for something, here the demand story.",
+   "explain_zh": "「underpinning」指的是支撐或作為基礎，這裡是說支撐需求的故事。",
+   "news_title_en": "Passive-component super-cycle gathers pace on AI-server demand",
+   "id": "2026-10-02-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what is the expected year‑on‑year change for TSMC's first‑quarter net profit?",
+   "question": "How many multilayer ceramic capacitors (MLCCs) can a typical AI server hold according to the summary?",
    "options": [
-    "It will rise about 30%",
-    "It will stay the same",
-    "It will fall about 10%",
-    "It will rise about 50%"
+    "100,000 to 400,000",
+    "500 to 2,000",
+    "10,000 to 40,000",
+    "1,000 to 4,000"
    ],
-   "answer": 3,
-   "explain_en": "The summary states the first‑quarter net profit is seen up about 50% year‑on‑year.",
-   "explain_zh": "摘要中說明第一季淨利較去年同期上升約 50%。",
-   "news_title_en": "AI demand to drive TSMC and the 2026 chip upcycle",
-   "id": "2026-10-01-03"
+   "answer": 2,
+   "explain_en": "The summary states each AI server can carry 10,000 to 40,000 MLCCs.",
+   "explain_zh": "摘要中說每台 AI 伺服器可容納 10,000 到 40,000 個多層陶瓷電容。",
+   "news_title_en": "Passive-component super-cycle gathers pace on AI-server demand",
+   "id": "2026-10-02-03"
   },
   {
    "type": "vocab",
    "question": "In the summary, what does the word \"tightening\" mean?",
    "options": [
-    "relaxing rules",
-    "delaying meetings",
-    "making rules stricter",
-    "adding more paperwork"
+    "Making something more strict",
+    "Keeping things the same",
+    "Making something less strict",
+    "Removing rules"
    ],
-   "answer": 2,
-   "explain_en": "\"Tightening\" means making the disclosure rules stricter or more rigorous.",
-   "explain_zh": "「tightening」在此指的是把資訊揭露的規定變得更嚴格。",
-   "news_title_en": "Eight new financial rules take effect from Sept 30",
-   "id": "2026-10-01-04"
+   "answer": 0,
+   "explain_en": "\"Tightening\" here means the regulator is making its rules and oversight more strict.",
+   "explain_zh": "「tightening」在此指監管機構把規則和監督變得更嚴格。",
+   "news_title_en": "FSC fines on financial trio rise, topping NT$134m in first eight months",
+   "id": "2026-10-02-04"
   },
   {
    "type": "comprehension",
-   "question": "How many of the new measures apply to securities?",
+   "question": "How much did the penalties on the banking, securities and insurance sectors total in the first eight months?",
    "options": [
-    "Four",
-    "Six",
-    "Eight",
-    "Two"
+    "NT$134.28 million",
+    "NT$150 million",
+    "NT$130 million",
+    "NT$140 million"
    ],
-   "answer": 1,
-   "explain_en": "The summary states that six of the eight new measures cover securities.",
-   "explain_zh": "摘要中說明八項新措施中有六項是針對證券的。",
-   "news_title_en": "Eight new financial rules take effect from Sept 30",
-   "id": "2026-10-01-05"
+   "answer": 0,
+   "explain_en": "The summary states the penalties reached NT$134.28 million.",
+   "explain_zh": "摘要中說罰款總額達到新台幣 1.3428 億元。",
+   "news_title_en": "FSC fines on financial trio rise, topping NT$134m in first eight months",
+   "id": "2026-10-02-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"franchise\" mean?",
+   "question": "In the summary, what does the word \"allocation\" mean?",
    "options": [
-    "A government license for trading",
-    "A type of loan offered to customers",
-    "A legal document for patents",
-    "A brand or business model the bank is expanding"
+    "Choosing how to spread money among different investments",
+    "Writing a legal contract",
+    "Measuring the size of a company",
+    "Giving a gift to someone"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"allocation\" refers to deciding how to distribute wealth across various investment options.",
+   "explain_zh": "這裡的「allocation」指的是把資金分配到不同的投資項目上。",
+   "news_title_en": "Taiwan's high-net-worth wealth seen reaching NT$59 trillion by 2029",
+   "id": "2026-10-02-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the outlook, how many high‑net‑worth individuals are expected in Taiwan by 2029?",
+   "options": [
+    "59 trillion",
+    "123,000",
+    "11,000",
+    "155,000"
    ],
    "answer": 3,
-   "explain_en": "Here \"franchise\" refers to the bank's existing business model or brand that it is developing further.",
-   "explain_zh": "此處的「franchise」指的是銀行正在擴展的既有業務模式或品牌。",
-   "news_title_en": "Banks build dual-track wealth platforms for HNW clients and offshore ETFs",
-   "id": "2026-10-01-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "When is the overseas equity and ETF platform expected to launch?",
-   "options": [
-    "Early 2028",
-    "Early 2026",
-    "Early 2027",
-    "Early 2025"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the platform will be launched in early 2026.",
-   "explain_zh": "摘要中說明該平台將於2026年初上線。",
-   "news_title_en": "Banks build dual-track wealth platforms for HNW clients and offshore ETFs",
-   "id": "2026-10-01-07"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, who will now pay the portion of estate tax for property gifted within two years of death?",
-   "options": [
-    "The recipients of the gifts",
-    "The heirs of the deceased",
-    "The government",
-    "The executor of the estate"
-   ],
-   "answer": 0,
-   "explain_en": "The amendment makes the recipients of the gifts bear that portion of the estate tax proportionally.",
-   "explain_zh": "修正案規定，受贈人需按比例負擔遺產稅的那一部分。",
-   "news_title_en": "Estate-tax overhaul shifts the burden to gift recipients",
-   "id": "2026-10-01-08"
+   "explain_en": "The summary says the HNW population will rise from 123,000 in 2025 to 155,000 by 2029.",
+   "explain_zh": "摘要指出，高淨值人士數量將從2025年的 123,000 人增至2029年的 155,000 人。",
+   "news_title_en": "Taiwan's high-net-worth wealth seen reaching NT$59 trillion by 2029",
+   "id": "2026-10-02-07"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"overheating\" mean?",
+   "question": "What does the word \"exemption\" mean as used in the text?",
    "options": [
-    "Too much economic growth that could cause inflation",
-    "The central bank's computers getting too hot",
-    "A sudden drop in the stock market",
-    "A rise in Taiwan's weather temperature"
+    "An amount of money that does not have to be paid as tax",
+    "A special permission to avoid a law",
+    "A discount on a product price",
+    "A penalty for breaking a rule"
    ],
    "answer": 0,
-   "explain_en": "Here \"overheating\" refers to the economy growing too fast, which may create inflation pressure.",
-   "explain_zh": "此處的「overheating」指的是經濟成長過快，可能導致通膨壓力。",
-   "news_title_en": "Central bank holds rates for a 10th quarter, leans tighter",
-   "id": "2026-10-01-09"
+   "explain_en": "In the summary, \"exemption\" refers to the tax‑free amount that can be inherited without paying estate tax.",
+   "explain_zh": "在本文中，「exemption」指的是遺產稅免稅額，也就是可以免繳稅的金額。",
+   "news_title_en": "2026 estate-tax exemption and deductions stay put",
+   "id": "2026-10-02-08"
   },
   {
    "type": "comprehension",
-   "question": "For how many consecutive quarters has Taiwan's central bank kept the discount rate unchanged?",
+   "question": "What is the deduction amount for each lineal descendant in 2026?",
    "options": [
-    "11 quarters",
-    "10 quarters",
-    "9 quarters",
-    "8 quarters"
+    "NT$13.33 million per person",
+    "NT$560,000 per person",
+    "NT$1 million per household",
+    "NT$2.5 million per child"
    ],
    "answer": 1,
-   "explain_en": "The summary states it is the tenth consecutive quarter the rate was held at 2%.",
-   "explain_zh": "摘要中說明已連續第十個季度維持2%的貼現率。",
-   "news_title_en": "Central bank holds rates for a 10th quarter, leans tighter",
-   "id": "2026-10-01-10"
+   "explain_en": "The summary states that the deduction for lineal descendants is set at NT$560,000 per person.",
+   "explain_zh": "摘要中說明，直系子孫的扣除額為每人 NT$560,000。",
+   "news_title_en": "2026 estate-tax exemption and deductions stay put",
+   "id": "2026-10-02-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"contraction\" mean?",
+   "options": [
+    "A government policy to increase spending",
+    "A new technology breakthrough",
+    "A decline or shrinking of activity",
+    "A period when the economy is growing quickly"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"contraction\" refers to a decline or shrinking of manufacturing activity, as the PMI is below 50.",
+   "explain_zh": "在此文中「contraction」指的是製造業活動的下降或收縮，因為 PMI 低於 50。",
+   "news_title_en": "Taiwan's September manufacturing PMI stays in contraction",
+   "id": "2026-10-02-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many consecutive months has Taiwan's manufacturing PMI been in contraction as of September?",
+   "options": [
+    "Four months",
+    "Three months",
+    "Five months",
+    "Two months"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states the PMI stayed in contraction for a fourth straight month in September.",
+   "explain_zh": "摘要說明截至九月，製造業 PMI 已連續四個月處於收縮狀態。",
+   "news_title_en": "Taiwan's September manufacturing PMI stays in contraction",
+   "id": "2026-10-02-11"
   }
  ]
 }
