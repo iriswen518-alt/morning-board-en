@@ -1,185 +1,185 @@
 {
- "date": "2026-10-02",
+ "date": "2026-10-03",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"reclaiming\" mean?",
+   "question": "In the summary, what does the word \"bucked\" mean?",
    "options": [
-    "to lose something",
-    "to predict the future",
-    "to take back or regain",
-    "to sell quickly"
-   ],
-   "answer": 2,
-   "explain_en": "The text says the index is \"reclaiming the 48,000 level,\" meaning it has taken that level back after previously falling below it.",
-   "explain_zh": "文中「reclaiming」指的是重新取得或回到 48,000 點的水平。",
-   "news_title_en": "TAIEX storms to record close in October opener, up 413 points",
-   "id": "2026-10-02-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many index points did TSMC contribute to the TAIEX rise?",
-   "options": [
-    "about 239 points",
-    "about 413 points",
-    "about 48,000 points",
-    "about 30 points"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that TSMC alone contributed roughly 239 index points.",
-   "explain_zh": "摘要中說 TSMC 單獨貢獻了大約 239 點。",
-   "news_title_en": "TAIEX storms to record close in October opener, up 413 points",
-   "id": "2026-10-02-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"underpinning\" mean?",
-   "options": [
-    "Removing a component",
-    "Supporting or forming the basis of something",
-    "Measuring the size of a server",
-    "Increasing the price quickly"
-   ],
-   "answer": 1,
-   "explain_en": "\"Underpinning\" means providing support or a foundation for something, here the demand story.",
-   "explain_zh": "「underpinning」指的是支撐或作為基礎，這裡是說支撐需求的故事。",
-   "news_title_en": "Passive-component super-cycle gathers pace on AI-server demand",
-   "id": "2026-10-02-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many multilayer ceramic capacitors (MLCCs) can a typical AI server hold according to the summary?",
-   "options": [
-    "100,000 to 400,000",
-    "500 to 2,000",
-    "10,000 to 40,000",
-    "1,000 to 4,000"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states each AI server can carry 10,000 to 40,000 MLCCs.",
-   "explain_zh": "摘要中說每台 AI 伺服器可容納 10,000 到 40,000 個多層陶瓷電容。",
-   "news_title_en": "Passive-component super-cycle gathers pace on AI-server demand",
-   "id": "2026-10-02-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"tightening\" mean?",
-   "options": [
-    "Making something more strict",
-    "Keeping things the same",
-    "Making something less strict",
-    "Removing rules"
-   ],
-   "answer": 0,
-   "explain_en": "\"Tightening\" here means the regulator is making its rules and oversight more strict.",
-   "explain_zh": "「tightening」在此指監管機構把規則和監督變得更嚴格。",
-   "news_title_en": "FSC fines on financial trio rise, topping NT$134m in first eight months",
-   "id": "2026-10-02-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "How much did the penalties on the banking, securities and insurance sectors total in the first eight months?",
-   "options": [
-    "NT$134.28 million",
-    "NT$150 million",
-    "NT$130 million",
-    "NT$140 million"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states the penalties reached NT$134.28 million.",
-   "explain_zh": "摘要中說罰款總額達到新台幣 1.3428 億元。",
-   "news_title_en": "FSC fines on financial trio rise, topping NT$134m in first eight months",
-   "id": "2026-10-02-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"allocation\" mean?",
-   "options": [
-    "Choosing how to spread money among different investments",
-    "Writing a legal contract",
-    "Measuring the size of a company",
-    "Giving a gift to someone"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"allocation\" refers to deciding how to distribute wealth across various investment options.",
-   "explain_zh": "這裡的「allocation」指的是把資金分配到不同的投資項目上。",
-   "news_title_en": "Taiwan's high-net-worth wealth seen reaching NT$59 trillion by 2029",
-   "id": "2026-10-02-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the outlook, how many high‑net‑worth individuals are expected in Taiwan by 2029?",
-   "options": [
-    "59 trillion",
-    "123,000",
-    "11,000",
-    "155,000"
+    "Closed at a record high",
+    "Stayed the same",
+    "Increased rapidly",
+    "Moved in the opposite direction"
    ],
    "answer": 3,
-   "explain_en": "The summary says the HNW population will rise from 123,000 in 2025 to 155,000 by 2029.",
-   "explain_zh": "摘要指出，高淨值人士數量將從2025年的 123,000 人增至2029年的 155,000 人。",
-   "news_title_en": "Taiwan's high-net-worth wealth seen reaching NT$59 trillion by 2029",
-   "id": "2026-10-02-07"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the word \"exemption\" mean as used in the text?",
-   "options": [
-    "An amount of money that does not have to be paid as tax",
-    "A special permission to avoid a law",
-    "A discount on a product price",
-    "A penalty for breaking a rule"
-   ],
-   "answer": 0,
-   "explain_en": "In the summary, \"exemption\" refers to the tax‑free amount that can be inherited without paying estate tax.",
-   "explain_zh": "在本文中，「exemption」指的是遺產稅免稅額，也就是可以免繳稅的金額。",
-   "news_title_en": "2026 estate-tax exemption and deductions stay put",
-   "id": "2026-10-02-08"
+   "explain_en": "\"Bucked\" means to go against the general trend, here TSMC moved down while the index went up.",
+   "explain_zh": "「bucked」在文中指的是逆勢走，表示台積電下跌而指數上升。",
+   "news_title_en": "Taiwan stocks close at a record high as the index adds 122 points",
+   "id": "2026-10-03-00"
   },
   {
    "type": "comprehension",
-   "question": "What is the deduction amount for each lineal descendant in 2026?",
+   "question": "What was the turnover amount on the day the Taiex reached a record high?",
    "options": [
-    "NT$13.33 million per person",
-    "NT$560,000 per person",
-    "NT$1 million per household",
-    "NT$2.5 million per child"
+    "NT$2,500",
+    "NT$10",
+    "NT$48,476",
+    "NT$898.1 billion"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that turnover swelled to about NT$898.1 billion on that day.",
+   "explain_zh": "摘要中說當天成交金額約為新台幣898.1億。",
+   "news_title_en": "Taiwan stocks close at a record high as the index adds 122 points",
+   "id": "2026-10-03-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"smart manufacturing\" mean?",
+   "options": [
+    "Reducing the cost of raw materials",
+    "Hiring more workers to operate machines manually",
+    "Building factories that are physically smaller",
+    "Using advanced technology to make products more efficiently"
+   ],
+   "answer": 3,
+   "explain_en": "The text refers to \"smart manufacturing\" as a high‑tech way to improve chip production, meaning using advanced technology for efficiency.",
+   "explain_zh": "文中說的「smart manufacturing」指的是利用先進技術提升晶圓製造效率，而不是其他選項。",
+   "news_title_en": "SEMICON Taiwan 2026 opens as AI redraws the chip map",
+   "id": "2026-10-03-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many industry professionals were estimated to attend the SEMICON Taiwan 2026 show?",
+   "options": [
+    "Around 10,000",
+    "More than 500,000",
+    "About 50,000",
+    "Over 100,000"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the show drew an estimated 100,000‑plus industry professionals.",
+   "explain_zh": "摘要中提到預估有超過十萬名產業專業人士參加。",
+   "news_title_en": "SEMICON Taiwan 2026 opens as AI redraws the chip map",
+   "id": "2026-10-03-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"regime\" mean?",
+   "options": [
+    "A government department",
+    "A system of rules or a set of policies",
+    "A type of financial product",
+    "A trading platform"
    ],
    "answer": 1,
-   "explain_en": "The summary states that the deduction for lineal descendants is set at NT$560,000 per person.",
-   "explain_zh": "摘要中說明，直系子孫的扣除額為每人 NT$560,000。",
-   "news_title_en": "2026 estate-tax exemption and deductions stay put",
-   "id": "2026-10-02-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"contraction\" mean?",
-   "options": [
-    "A government policy to increase spending",
-    "A new technology breakthrough",
-    "A decline or shrinking of activity",
-    "A period when the economy is growing quickly"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"contraction\" refers to a decline or shrinking of manufacturing activity, as the PMI is below 50.",
-   "explain_zh": "在此文中「contraction」指的是製造業活動的下降或收縮，因為 PMI 低於 50。",
-   "news_title_en": "Taiwan's September manufacturing PMI stays in contraction",
-   "id": "2026-10-02-10"
+   "explain_en": "Here \"regime\" refers to the set of rules and supervision for virtual assets.",
+   "explain_zh": "這裡的「regime」指的是虛擬資產的規則與監管體系。",
+   "news_title_en": "Taiwan's FSC rolls out a packed October agenda",
+   "id": "2026-10-03-04"
   },
   {
    "type": "comprehension",
-   "question": "How many consecutive months has Taiwan's manufacturing PMI been in contraction as of September?",
+   "question": "When are the draft rules under the Virtual Asset Service Act scheduled for public hearings?",
    "options": [
-    "Four months",
-    "Three months",
-    "Five months",
-    "Two months"
+    "In December",
+    "In September",
+    "In November",
+    "In October"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that the draft rules will go to public hearings in October.",
+   "explain_zh": "摘要中說明草案規則將於十月進行公開聽證。",
+   "news_title_en": "Taiwan's FSC rolls out a packed October agenda",
+   "id": "2026-10-03-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"mandate\" mean?",
+   "options": [
+    "A type of bank loan",
+    "A legal order to close the business",
+    "The amount of money that clients have given the firm to manage",
+    "A marketing campaign"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"mandate\" refers to the assets that clients have entrusted the firm to manage, i.e., the amount under management.",
+   "explain_zh": "在此「mandate」指的是客戶委託公司管理的資金金額，也就是管理資產規模。",
+   "news_title_en": "Kaohsiung asset-management zone draws 57 firms and 21 banks",
+   "id": "2026-10-03-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many banks are included among the 57 financial institutions in the Kaohsiung asset‑management zone?",
+   "options": [
+    "0",
+    "57",
+    "21",
+    "2"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that out of the 57 financial institutions, 21 of them are banks.",
+   "explain_zh": "摘要中說明在 57 家金融機構中，有 21 家是銀行。",
+   "news_title_en": "Kaohsiung asset-management zone draws 57 firms and 21 banks",
+   "id": "2026-10-03-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"exemption\" mean?",
+   "options": [
+    "A discount on the tax rate",
+    "A tax that must be paid",
+    "A penalty for late payment",
+    "An amount that is not taxed"
+   ],
+   "answer": 3,
+   "explain_en": "An exemption is an amount that is excluded from tax, so it is not taxed.",
+   "explain_zh": "「exemption」指的是免稅額，也就是不需要繳稅的金額。",
+   "news_title_en": "2026 estate- and gift-tax thresholds held unchanged",
+   "id": "2026-10-03-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the estate‑tax exemption amount for 2026 in Taiwan?",
+   "options": [
+    "NT$13.33 million",
+    "NT$5.53 million",
+    "NT$56.21 million",
+    "NT$10 million"
    ],
    "answer": 0,
-   "explain_en": "The summary states the PMI stayed in contraction for a fourth straight month in September.",
-   "explain_zh": "摘要說明截至九月，製造業 PMI 已連續四個月處於收縮狀態。",
-   "news_title_en": "Taiwan's September manufacturing PMI stays in contraction",
-   "id": "2026-10-02-11"
+   "explain_en": "The summary states the exemption stays at NT$13.33 million for 2026.",
+   "explain_zh": "摘要中說明2026年的遺產稅免稅額是 NT$13.33 百萬。",
+   "news_title_en": "2026 estate- and gift-tax thresholds held unchanged",
+   "id": "2026-10-03-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"record\" mean?",
+   "options": [
+    "a mistake",
+    "a written document",
+    "the highest amount ever recorded",
+    "a type of computer chip"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"record\" means the highest amount that has ever been reached.",
+   "explain_zh": "這裡的「record」指的是有史以來最高的數字。",
+   "news_title_en": "Taiwan's August exports hit a record US$82.4bn, up 41%",
+   "id": "2026-10-03-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "By how much did Taiwan's August exports increase compared to the same month last year?",
+   "options": [
+    "41.0%",
+    "58%",
+    "34%",
+    "9.4%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states exports were up 41.0% on the year.",
+   "explain_zh": "摘要中說出口較去年同月增長了 41.0%。",
+   "news_title_en": "Taiwan's August exports hit a record US$82.4bn, up 41%",
+   "id": "2026-10-03-11"
   }
  ]
 }
