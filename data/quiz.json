@@ -1,185 +1,185 @@
 {
- "date": "2026-10-03",
+ "date": "2026-10-04",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"bucked\" mean?",
+   "question": "In the summary, what does the word \"resilient\" mean?",
    "options": [
-    "Closed at a record high",
-    "Stayed the same",
-    "Increased rapidly",
-    "Moved in the opposite direction"
-   ],
-   "answer": 3,
-   "explain_en": "\"Bucked\" means to go against the general trend, here TSMC moved down while the index went up.",
-   "explain_zh": "「bucked」在文中指的是逆勢走，表示台積電下跌而指數上升。",
-   "news_title_en": "Taiwan stocks close at a record high as the index adds 122 points",
-   "id": "2026-10-03-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the turnover amount on the day the Taiex reached a record high?",
-   "options": [
-    "NT$2,500",
-    "NT$10",
-    "NT$48,476",
-    "NT$898.1 billion"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that turnover swelled to about NT$898.1 billion on that day.",
-   "explain_zh": "摘要中說當天成交金額約為新台幣898.1億。",
-   "news_title_en": "Taiwan stocks close at a record high as the index adds 122 points",
-   "id": "2026-10-03-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"smart manufacturing\" mean?",
-   "options": [
-    "Reducing the cost of raw materials",
-    "Hiring more workers to operate machines manually",
-    "Building factories that are physically smaller",
-    "Using advanced technology to make products more efficiently"
-   ],
-   "answer": 3,
-   "explain_en": "The text refers to \"smart manufacturing\" as a high‑tech way to improve chip production, meaning using advanced technology for efficiency.",
-   "explain_zh": "文中說的「smart manufacturing」指的是利用先進技術提升晶圓製造效率，而不是其他選項。",
-   "news_title_en": "SEMICON Taiwan 2026 opens as AI redraws the chip map",
-   "id": "2026-10-03-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many industry professionals were estimated to attend the SEMICON Taiwan 2026 show?",
-   "options": [
-    "Around 10,000",
-    "More than 500,000",
-    "About 50,000",
-    "Over 100,000"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the show drew an estimated 100,000‑plus industry professionals.",
-   "explain_zh": "摘要中提到預估有超過十萬名產業專業人士參加。",
-   "news_title_en": "SEMICON Taiwan 2026 opens as AI redraws the chip map",
-   "id": "2026-10-03-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"regime\" mean?",
-   "options": [
-    "A government department",
-    "A system of rules or a set of policies",
-    "A type of financial product",
-    "A trading platform"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"regime\" refers to the set of rules and supervision for virtual assets.",
-   "explain_zh": "這裡的「regime」指的是虛擬資產的規則與監管體系。",
-   "news_title_en": "Taiwan's FSC rolls out a packed October agenda",
-   "id": "2026-10-03-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "When are the draft rules under the Virtual Asset Service Act scheduled for public hearings?",
-   "options": [
-    "In December",
-    "In September",
-    "In November",
-    "In October"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that the draft rules will go to public hearings in October.",
-   "explain_zh": "摘要中說明草案規則將於十月進行公開聽證。",
-   "news_title_en": "Taiwan's FSC rolls out a packed October agenda",
-   "id": "2026-10-03-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"mandate\" mean?",
-   "options": [
-    "A type of bank loan",
-    "A legal order to close the business",
-    "The amount of money that clients have given the firm to manage",
-    "A marketing campaign"
+    "Very cheap",
+    "Slow and steady",
+    "Strong and able to recover quickly",
+    "Uncertain and risky"
    ],
    "answer": 2,
-   "explain_en": "Here \"mandate\" refers to the assets that clients have entrusted the firm to manage, i.e., the amount under management.",
-   "explain_zh": "在此「mandate」指的是客戶委託公司管理的資金金額，也就是管理資產規模。",
-   "news_title_en": "Kaohsiung asset-management zone draws 57 firms and 21 banks",
-   "id": "2026-10-03-06"
+   "explain_en": "Here \"resilient\" describes risk appetite that stays strong despite challenges, meaning it can recover quickly.",
+   "explain_zh": "此處的「resilient」指風險偏好仍然很強，能快速恢復，意思是「有彈性、能快速恢復」的意思。",
+   "news_title_en": "TAIEX ends higher Friday, extends a 67% YTD run",
+   "id": "2026-10-04-00"
   },
   {
    "type": "comprehension",
-   "question": "How many banks are included among the 57 financial institutions in the Kaohsiung asset‑management zone?",
+   "question": "By how much has the TAIEX index increased year‑to‑date according to the summary?",
    "options": [
-    "0",
-    "57",
-    "21",
-    "2"
+    "About 25%",
+    "About 45%",
+    "About 10%",
+    "About 67%"
    ],
-   "answer": 2,
-   "explain_en": "The summary states that out of the 57 financial institutions, 21 of them are banks.",
-   "explain_zh": "摘要中說明在 57 家金融機構中，有 21 家是銀行。",
-   "news_title_en": "Kaohsiung asset-management zone draws 57 firms and 21 banks",
-   "id": "2026-10-03-07"
+   "answer": 3,
+   "explain_en": "The summary states the index is up roughly 67% year‑to‑date.",
+   "explain_zh": "摘要中說指數年初至今大約上漲了 67%。",
+   "news_title_en": "TAIEX ends higher Friday, extends a 67% YTD run",
+   "id": "2026-10-04-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"exemption\" mean?",
+   "question": "In the summary, what does the word \"footprint\" mean?",
    "options": [
-    "A discount on the tax rate",
-    "A tax that must be paid",
-    "A penalty for late payment",
-    "An amount that is not taxed"
+    "The shape of a shoe",
+    "The physical size of a building",
+    "The amount of money spent",
+    "The area or presence of a company in a region"
    ],
    "answer": 3,
-   "explain_en": "An exemption is an amount that is excluded from tax, so it is not taxed.",
-   "explain_zh": "「exemption」指的是免稅額，也就是不需要繳稅的金額。",
-   "news_title_en": "2026 estate- and gift-tax thresholds held unchanged",
-   "id": "2026-10-03-08"
+   "explain_en": "Here \"footprint\" refers to TSMC's geographic presence or influence in a region.",
+   "explain_zh": "在此句中，「footprint」指的是台積電在某個地區的佈局或影響力。",
+   "news_title_en": "TSMC weighs a second US campus and Terafab talks with Musk",
+   "id": "2026-10-04-02"
   },
   {
    "type": "comprehension",
-   "question": "What is the estate‑tax exemption amount for 2026 in Taiwan?",
+   "question": "According to the summary, what is TSMC currently discussing with Elon Musk?",
    "options": [
-    "NT$13.33 million",
-    "NT$5.53 million",
-    "NT$56.21 million",
-    "NT$10 million"
+    "Building a new headquarters in Taiwan",
+    "Launching a new smartphone",
+    "Buying Tesla shares",
+    "Joining the Terafab wafer initiative"
+   ],
+   "answer": 3,
+   "explain_en": "The text says TSMC is in early discussions about participating in Musk's Terafab wafer initiative.",
+   "explain_zh": "文中說台積電正與馬斯克討論參與 Terafab 晶圓計畫。",
+   "news_title_en": "TSMC weighs a second US campus and Terafab talks with Musk",
+   "id": "2026-10-04-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"normalize\" mean?",
+   "options": [
+    "to become regular or standard",
+    "to increase dramatically",
+    "to cancel a contract",
+    "to hide information"
    ],
    "answer": 0,
-   "explain_en": "The summary states the exemption stays at NT$13.33 million for 2026.",
-   "explain_zh": "摘要中說明2026年的遺產稅免稅額是 NT$13.33 百萬。",
-   "news_title_en": "2026 estate- and gift-tax thresholds held unchanged",
-   "id": "2026-10-03-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"record\" mean?",
-   "options": [
-    "a mistake",
-    "a written document",
-    "the highest amount ever recorded",
-    "a type of computer chip"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"record\" means the highest amount that has ever been reached.",
-   "explain_zh": "這裡的「record」指的是有史以來最高的數字。",
-   "news_title_en": "Taiwan's August exports hit a record US$82.4bn, up 41%",
-   "id": "2026-10-03-10"
+   "explain_en": "The text says premium income should \"normalize,\" meaning it is expected to become regular or return to a normal level.",
+   "explain_zh": "文中說保費收入應該「正常化」，意思是會回到正常或穩定的水平。",
+   "news_title_en": "Life insurers adopt IFRS 17 in 2026 as FSC adds four metrics",
+   "id": "2026-10-04-04"
   },
   {
    "type": "comprehension",
-   "question": "By how much did Taiwan's August exports increase compared to the same month last year?",
+   "question": "When will Taiwan's life insurers start using IFRS 17 accounting?",
    "options": [
-    "41.0%",
-    "58%",
-    "34%",
-    "9.4%"
+    "In 2030",
+    "In 2024",
+    "In 2028",
+    "In 2026"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that Taiwan's life insurance industry moves onto IFRS 17 accounting in 2026.",
+   "explain_zh": "摘要中說台灣人壽保險業將於 2026 年採用 IFRS 17 會計準則。",
+   "news_title_en": "Life insurers adopt IFRS 17 in 2026 as FSC adds four metrics",
+   "id": "2026-10-04-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"hedges\" mean?",
+   "options": [
+    "Ways to increase profits quickly",
+    "Tools for cutting trees",
+    "Methods to reduce taxes",
+    "Investments that protect against risk"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"hedges\" are investments used to protect a portfolio from potential losses.",
+   "explain_zh": "此處的「hedges」指的是用來降低投資組合風險的投資工具。",
+   "news_title_en": "Investors rotate to three alternatives amid a soft Treasury market",
+   "id": "2026-10-04-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, why are investors moving away from US Treasuries?",
+   "options": [
+    "Because Treasury prices have been in a five-year slump",
+    "Because the government announced new tax cuts",
+    "Because Treasury yields have risen sharply",
+    "Because gold prices have fallen dramatically"
    ],
    "answer": 0,
-   "explain_en": "The summary states exports were up 41.0% on the year.",
-   "explain_zh": "摘要中說出口較去年同月增長了 41.0%。",
-   "news_title_en": "Taiwan's August exports hit a record US$82.4bn, up 41%",
-   "id": "2026-10-03-11"
+   "explain_en": "The text says US Treasuries are stuck in a five‑year slump, prompting investors to look for alternatives.",
+   "explain_zh": "文中說美國國債已陷入五年低潮，因而投資人轉向其他資產。",
+   "news_title_en": "Investors rotate to three alternatives amid a soft Treasury market",
+   "id": "2026-10-04-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the phrase \"pricing roughly an 81% chance\" mean?",
+   "options": [
+    "Writing a report that costs 81 dollars",
+    "Charging customers 81% more than usual",
+    "Setting the price of a product at 81% of its value",
+    "Estimating that there is about an 81% likelihood"
+   ],
+   "answer": 3,
+   "explain_en": "It means the market estimates there is about an 81% probability of that outcome.",
+   "explain_zh": "意思是市場估計此結果的機率大約是81%。",
+   "news_title_en": "Weak September payrolls cool October Fed-hike expectations",
+   "id": "2026-10-04-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what event is expected to happen at the Oct. 27–28 meeting?",
+   "options": [
+    "The Federal Reserve will definitely raise rates by 0.5%",
+    "The Federal Reserve will release the September CPI data",
+    "The Federal Reserve will announce a new fiscal policy",
+    "The Federal Reserve will likely keep rates in the 3.75%–4% range"
+   ],
+   "answer": 3,
+   "explain_en": "The summary says markets expect the Fed to hold its rate range at that meeting.",
+   "explain_zh": "摘要指出市場預期聯準會在那次會議上維持3.75%–4%的利率區間。",
+   "news_title_en": "Weak September payrolls cool October Fed-hike expectations",
+   "id": "2026-10-04-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"inflection\" mean?",
+   "options": [
+    "A turning point that could change future performance",
+    "A type of car model",
+    "A new battery technology",
+    "A financial loss"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"inflection\" refers to a turning point, the year when Tesla’s growth may change direction.",
+   "explain_zh": "在此文中「inflection」指的是可能改變未來表現的轉折點。",
+   "news_title_en": "Tesla beats on deliveries but profit doubts linger",
+   "id": "2026-10-04-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what did Tesla's latest quarterly deliveries do?",
+   "options": [
+    "They were not reported",
+    "They matched expectations exactly",
+    "They exceeded expectations",
+    "They were lower than expected"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that Tesla's deliveries topped expectations, meaning they exceeded them.",
+   "explain_zh": "摘要說特斯拉的交付量超過了預期，表示超出預期。",
+   "news_title_en": "Tesla beats on deliveries but profit doubts linger",
+   "id": "2026-10-04-11"
   }
  ]
 }
