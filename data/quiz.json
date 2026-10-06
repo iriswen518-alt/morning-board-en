@@ -1,155 +1,185 @@
 {
- "date": "2026-10-05",
+ "date": "2026-10-06",
  "questions": [
   {
-   "type": "comprehension",
-   "question": "By how many points did the TAIEX rise when it opened the new month?",
+   "type": "vocab",
+   "question": "In the summary, what does the word \"slipped\" mean?",
    "options": [
-    "about 213 points",
-    "about 313 points",
-    "about 413 points",
-    "about 513 points"
+    "jumped quickly",
+    "rose sharply",
+    "stayed the same",
+    "fell slightly"
+   ],
+   "answer": 3,
+   "explain_en": "The summary says the TAIEX slipped around 220 points, meaning it fell a little.",
+   "explain_zh": "文中說 TAIEX slipped 約 220 點，表示指數稍微下跌。",
+   "news_title_en": "TSMC Single-Handedly Holds the TAIEX Above 47,000",
+   "id": "2026-10-06-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what kept the TAIEX above the 47,000 mark?",
+   "options": [
+    "All heavyweight stocks gaining momentum",
+    "A government intervention",
+    "TSMC's strength alone",
+    "AI‑related leaders performing well"
    ],
    "answer": 2,
-   "explain_en": "The summary says the TAIEX surged about 413 points.",
-   "explain_zh": "摘要中寫到台股指數上漲約 413 點。",
-   "news_title_en": "TAIEX storms back above 48K to open October",
-   "id": "2026-10-05-00"
+   "explain_en": "The text states that TSMC's strength alone kept the benchmark above 47,000.",
+   "explain_zh": "文章說只有台積電的強勢讓指數維持在 47,000 點以上。",
+   "news_title_en": "TSMC Single-Handedly Holds the TAIEX Above 47,000",
+   "id": "2026-10-06-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"pull‑through effect\" mean?",
+   "question": "In the summary, what does the phrase \"ramp up\" mean?",
    "options": [
-    "It describes how TSMC directly sells its products to customers",
-    "It indicates TSMC pulls in more investors",
-    "It means TSMC pulls its own profits through taxes",
-    "It refers to the influence TSMC has on its suppliers' sales"
+    "to increase production gradually",
+    "to move the factory to another country",
+    "to lower the price",
+    "to stop manufacturing"
    ],
-   "answer": 3,
-   "explain_en": "The \"pull‑through effect\" means TSMC’s strong demand helps increase sales for its advanced‑packaging and equipment suppliers.",
-   "explain_zh": "「pull‑through effect」指的是台積電的需求帶動其先進封裝與設備供應商的銷售。",
-   "news_title_en": "TSMC's 2026 growth seen broadening beyond AI",
-   "id": "2026-10-05-01"
+   "answer": 0,
+   "explain_en": "Here \"ramp up\" refers to increasing the production of 2nm chips step by step.",
+   "explain_zh": "在此句中「ramp up」指的是逐步提升 2nm 晶片的產量。",
+   "news_title_en": "ITRI Sees Taiwan Chip Output Topping NT$7 Trillion in 2026",
+   "id": "2026-10-06-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, how many wafers per month is the 2‑nanometer (N2) capacity expected to reach by the end of the year?",
+   "question": "According to the summary, by how much is Taiwan's semiconductor output expected to grow year‑on‑year in 2026?",
    "options": [
-    "50,000–60,000",
-    "100,000–120,000",
-    "60,000–70,000",
-    "80,000–100,000"
+    "about 5%",
+    "about 10%",
+    "about 2%",
+    "about 20%"
    ],
-   "answer": 3,
-   "explain_en": "The summary states the N2 capacity roughly doubles to about 80,000–100,000 wafers per month by year‑end.",
-   "explain_zh": "摘要中說明 N2 產能大約在年底會增至 80,000–100,000 片晶圓每月。",
-   "news_title_en": "TSMC's 2026 growth seen broadening beyond AI",
-   "id": "2026-10-05-02"
+   "answer": 1,
+   "explain_en": "The summary states the output will exceed NT$7 trillion, up roughly 10% year‑on‑year.",
+   "explain_zh": "摘要中說產值將超過 7 兆新台幣，年增率約為 10%。",
+   "news_title_en": "ITRI Sees Taiwan Chip Output Topping NT$7 Trillion in 2026",
+   "id": "2026-10-06-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"regulatory tilt\" mean?",
+   "question": "In the summary, what does “zero‑trust architecture” mean?",
    "options": [
-    "A new banking software",
-    "A legal penalty for fraud",
-    "A shift in focus of regulations",
-    "A type of financial instrument"
+    "A method for guaranteeing zero financial losses",
+    "A system that never allows any external connections",
+    "A type of building design for data centers",
+    "A security model that assumes no user or device is trusted by default"
+   ],
+   "answer": 3,
+   "explain_en": "Zero‑trust architecture means you treat every user, device, and network as untrusted until it is verified, so security checks are applied everywhere.",
+   "explain_zh": "零信任架構指的是在任何使用者、裝置或網路被驗證前，都不假設其可信，必須在每個環節都進行安全檢查。",
+   "news_title_en": "FSC Keeps \"Safety and Development in Parallel,\" Puts Anti-Fraud and Cyber-Resilience First",
+   "id": "2026-10-06-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the new cyber rules, what is required of financial CISOs?",
+   "options": [
+    "They must reduce the number of banks they oversee",
+    "They must eliminate all software updates",
+    "They must move all data to overseas servers",
+    "They must have clearly defined responsibilities"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that the new cyber rules define responsibilities for financial CISOs, meaning their duties must be clearly outlined.",
+   "explain_zh": "摘要中說明，新網路規則為金融資訊安全長（CISO）規定了明確的職責，必須清楚界定其工作內容。",
+   "news_title_en": "FSC Keeps \"Safety and Development in Parallel,\" Puts Anti-Fraud and Cyber-Resilience First",
+   "id": "2026-10-06-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"allocation\" mean?",
+   "options": [
+    "Giving money to different places or uses",
+    "A legal contract",
+    "A financial loss",
+    "A type of bank account"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"allocation\" refers to how money is distributed or assigned to various investments or regions.",
+   "explain_zh": "這裡的「allocation」指的是把資金分配到不同的投資或地區。",
+   "news_title_en": "Taiwan's Ultra-Rich to Top 124,000, Commanding NT$46 Trillion",
+   "id": "2026-10-06-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, how many high‑net‑worth individuals are projected for Taiwan by 2029?",
+   "options": [
+    "155,000",
+    "200,000",
+    "100,000",
+    "124,000"
+   ],
+   "answer": 0,
+   "explain_en": "The text says the number will grow to about 155,000 by 2029.",
+   "explain_zh": "文中說到到2029年，高淨值人士將增至約155,000人。",
+   "news_title_en": "Taiwan's Ultra-Rich to Top 124,000, Commanding NT$46 Trillion",
+   "id": "2026-10-06-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"tightens\" mean?",
+   "options": [
+    "strengthens",
+    "makes stricter",
+    "makes looser",
+    "opens up"
+   ],
+   "answer": 1,
+   "explain_en": "\"Tightens the net\" means to make it harder for tax avoidance to happen, i.e., to make the rules stricter.",
+   "explain_zh": "「tightens the net」指的是讓稅務規範更嚴格，防止逃稅。",
+   "news_title_en": "Crypto Reporting Widens as CARF and CRS 2.0 Take Hold",
+   "id": "2026-10-06-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, when will e‑money and central‑bank‑digital‑currency accounts be included in the reporting framework?",
+   "options": [
+    "2024",
+    "2027",
+    "2026",
+    "2025"
    ],
    "answer": 2,
-   "explain_en": "It refers to the direction or emphasis that regulators are giving to certain areas, such as digital‑asset oversight.",
-   "explain_zh": "指的是監管機關對特定領域（如數位資產監管）所給予的方向或重點。",
-   "news_title_en": "FSC lays out seven policy priorities for 2026",
-   "id": "2026-10-05-03"
-  },
-  {
-   "type": "comprehension",
-   "question": "Which of the following is NOT listed as one of the seven initiatives for 2026?",
-   "options": [
-    "A financial cybersecurity‑resilience blueprint",
-    "Stronger anti‑fraud legislation",
-    "Measures to build an Asian asset‑management hub",
-    "A new tax on foreign investments"
-   ],
-   "answer": 3,
-   "explain_en": "The summary mentions anti‑fraud laws, cybersecurity blueprint, and asset‑management hub, but does not mention a new tax on foreign investments.",
-   "explain_zh": "摘要中提到反詐騙法、資安藍圖與資產管理中心，沒有提到對外國投資的新稅收。",
-   "news_title_en": "FSC lays out seven policy priorities for 2026",
-   "id": "2026-10-05-04"
+   "explain_en": "The text says the coverage expands to e‑money and CBDC accounts from 2026.",
+   "explain_zh": "文中說從 2026 年起，電子貨幣與央行數位貨幣帳戶也會被納入報告範圍。",
+   "news_title_en": "Crypto Reporting Widens as CARF and CRS 2.0 Take Hold",
+   "id": "2026-10-06-09"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"high‑net‑worth clients\" mean?",
+   "question": "In the summary, what does the word \"tightening\" mean?",
    "options": [
-    "Clients who work in high‑rise buildings",
-    "Customers who buy expensive clothing",
-    "Clients who are very tall",
-    "People who have a lot of money and assets"
-   ],
-   "answer": 3,
-   "explain_en": "It refers to customers who possess a large amount of wealth or assets.",
-   "explain_zh": "指的是擁有大量財產或資產的客戶。",
-   "news_title_en": "Kaohsiung wealth hub draws NT$273bn as asset-management law looms",
-   "id": "2026-10-05-05"
-  },
-  {
-   "type": "comprehension",
-   "question": "How much total assets under management (AUM) have been attracted by the Kaohsiung pilot zone since its launch?",
-   "options": [
-    "NT$18 billion",
-    "NT$53 billion",
-    "NT$2.1 trillion",
-    "NT$273.2 billion"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the Kaohsiung pilot zone has attracted NT$273.2 billion in AUM.",
-   "explain_zh": "摘要中說高雄試點區已吸引了新台幣273.2億的資產管理規模。",
-   "news_title_en": "Kaohsiung wealth hub draws NT$273bn as asset-management law looms",
-   "id": "2026-10-05-06"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"loophole\" mean?",
-   "options": [
-    "A hidden advantage for the government",
-    "A mistake in the law",
-    "A type of financial instrument",
-    "A legal way to avoid paying tax"
-   ],
-   "answer": 3,
-   "explain_en": "A loophole is an unintended gap or ambiguity in a law that allows people to avoid its requirements, such as paying tax.",
-   "explain_zh": "「loophole」指的是法律中的漏洞，讓人可以藉此逃避稅款等規定。",
-   "news_title_en": "Estate-tax reform to fold two-year pre-death gifts into the estate",
-   "id": "2026-10-05-07"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, who will pay the estate tax on gifts made within two years before death?",
-   "options": [
-    "The government",
-    "The donor's spouse",
-    "The recipient of the gift",
-    "All the heirs together"
+    "Increasing government spending",
+    "Expanding the stock market",
+    "Making the money supply smaller",
+    "Lowering interest rates"
    ],
    "answer": 2,
-   "explain_en": "The summary states that the recipient—not all heirs—bears the resulting estate tax.",
-   "explain_zh": "摘要說明，這筆稅由受贈人負擔，而不是所有繼承人一起付。",
-   "news_title_en": "Estate-tax reform to fold two-year pre-death gifts into the estate",
-   "id": "2026-10-05-08"
+   "explain_en": "\"Tightening\" refers to actions that reduce the amount of money or credit in the economy, such as raising rates or selling assets.",
+   "explain_zh": "「tightening」指的是縮減貨幣或信貸供給的政策，例如升息或賣出資產。",
+   "news_title_en": "Central Bank Holds Rate at 2% but Leans Toward Tightening",
+   "id": "2026-10-06-10"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what is the market's current estimated probability that the Federal Reserve will hold rates in October?",
+   "question": "How long has Taiwan's central bank kept the benchmark policy rate at 2%?",
    "options": [
-    "about 90%",
-    "about 36%",
-    "about 50%",
-    "about 78%"
+    "Two months",
+    "About ten straight quarters",
+    "Eight consecutive years",
+    "Five years"
    ],
-   "answer": 3,
-   "explain_en": "The summary states markets now price roughly a 78% chance the Fed holds in October.",
-   "explain_zh": "摘要中說市場現在估計美聯儲十月維持利率的機率約為78%。",
-   "news_title_en": "Soft September payrolls shift the Fed toward an October hold",
-   "id": "2026-10-05-09"
+   "answer": 1,
+   "explain_en": "The summary states the rate has been held at 2% for roughly ten straight quarters.",
+   "explain_zh": "摘要中說明，基準利率已維持在 2% 約十個連續季。",
+   "news_title_en": "Central Bank Holds Rate at 2% but Leans Toward Tightening",
+   "id": "2026-10-06-11"
   }
  ]
 }
