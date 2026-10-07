@@ -1,185 +1,185 @@
 {
- "date": "2026-10-06",
+ "date": "2026-10-07",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"slipped\" mean?",
+   "question": "In the summary, what does the word \"turnover\" mean?",
    "options": [
-    "jumped quickly",
-    "rose sharply",
-    "stayed the same",
-    "fell slightly"
+    "The interest rate set by the central bank",
+    "The number of companies listed on the exchange",
+    "The profit earned by a single company",
+    "The total amount of money traded in the market"
    ],
    "answer": 3,
-   "explain_en": "The summary says the TAIEX slipped around 220 points, meaning it fell a little.",
-   "explain_zh": "文中說 TAIEX slipped 約 220 點，表示指數稍微下跌。",
-   "news_title_en": "TSMC Single-Handedly Holds the TAIEX Above 47,000",
-   "id": "2026-10-06-00"
+   "explain_en": "Turnover refers to the total value of shares that were bought and sold during the trading day.",
+   "explain_zh": "「turnover」指的是當天市場成交的總金額。",
+   "news_title_en": "TAIEX stalls just below 50,000 as TSMC leads late profit-taking",
+   "id": "2026-10-07-00"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what kept the TAIEX above the 47,000 mark?",
+   "question": "What was the closing level of the TAIEX index on Oct 6?",
    "options": [
-    "All heavyweight stocks gaining momentum",
-    "A government intervention",
-    "TSMC's strength alone",
-    "AI‑related leaders performing well"
-   ],
-   "answer": 2,
-   "explain_en": "The text states that TSMC's strength alone kept the benchmark above 47,000.",
-   "explain_zh": "文章說只有台積電的強勢讓指數維持在 47,000 點以上。",
-   "news_title_en": "TSMC Single-Handedly Holds the TAIEX Above 47,000",
-   "id": "2026-10-06-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"ramp up\" mean?",
-   "options": [
-    "to increase production gradually",
-    "to move the factory to another country",
-    "to lower the price",
-    "to stop manufacturing"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"ramp up\" refers to increasing the production of 2nm chips step by step.",
-   "explain_zh": "在此句中「ramp up」指的是逐步提升 2nm 晶片的產量。",
-   "news_title_en": "ITRI Sees Taiwan Chip Output Topping NT$7 Trillion in 2026",
-   "id": "2026-10-06-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, by how much is Taiwan's semiconductor output expected to grow year‑on‑year in 2026?",
-   "options": [
-    "about 5%",
-    "about 10%",
-    "about 2%",
-    "about 20%"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the output will exceed NT$7 trillion, up roughly 10% year‑on‑year.",
-   "explain_zh": "摘要中說產值將超過 7 兆新台幣，年增率約為 10%。",
-   "news_title_en": "ITRI Sees Taiwan Chip Output Topping NT$7 Trillion in 2026",
-   "id": "2026-10-06-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does “zero‑trust architecture” mean?",
-   "options": [
-    "A method for guaranteeing zero financial losses",
-    "A system that never allows any external connections",
-    "A type of building design for data centers",
-    "A security model that assumes no user or device is trusted by default"
+    "49,968.00",
+    "49,500.00",
+    "50,000.00",
+    "49,822.55"
    ],
    "answer": 3,
-   "explain_en": "Zero‑trust architecture means you treat every user, device, and network as untrusted until it is verified, so security checks are applied everywhere.",
-   "explain_zh": "零信任架構指的是在任何使用者、裝置或網路被驗證前，都不假設其可信，必須在每個環節都進行安全檢查。",
-   "news_title_en": "FSC Keeps \"Safety and Development in Parallel,\" Puts Anti-Fraud and Cyber-Resilience First",
-   "id": "2026-10-06-04"
+   "explain_en": "The summary states the index closed at 49,822.55 on Oct 6.",
+   "explain_zh": "摘要中說明指數在 10 月 6 日收於 49,822.55 點。",
+   "news_title_en": "TAIEX stalls just below 50,000 as TSMC leads late profit-taking",
+   "id": "2026-10-07-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"penetration\" mean?",
+   "options": [
+    "The share of AI servers that use advanced chips",
+    "The amount of money invested in semiconductor factories",
+    "The number of AI servers sold each year",
+    "The speed at which chips are manufactured"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"penetration\" refers to the proportion of AI servers that are equipped with advanced‑process chips, i.e., market share.",
+   "explain_zh": "此處的「penetration」指的是 AI 伺服器使用先進製程晶片的比例，也就是市場佔有率。",
+   "news_title_en": "ITRI sees 2026 chip output above NT$7tn, AI servers at 4.5 million units",
+   "id": "2026-10-07-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the new cyber rules, what is required of financial CISOs?",
+   "question": "According to the summary, what is the expected value of Taiwan's semiconductor output in 2026?",
    "options": [
-    "They must reduce the number of banks they oversee",
-    "They must eliminate all software updates",
-    "They must move all data to overseas servers",
-    "They must have clearly defined responsibilities"
+    "About NT$6.5 trillion",
+    "Exactly NT$7 trillion",
+    "More than NT$7.13 trillion",
+    "Around NT$8 trillion"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the 2026 output will exceed NT$7.13 trillion.",
+   "explain_zh": "摘要中提到 2026 年的半導體產值將超過新台幣 7.13 兆。",
+   "news_title_en": "ITRI sees 2026 chip output above NT$7tn, AI servers at 4.5 million units",
+   "id": "2026-10-07-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"relaxing\" mean?",
+   "options": [
+    "making a rule less strict",
+    "taking a break",
+    "ignoring a rule",
+    "making something softer"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"relaxing\" refers to easing the rule, i.e., making the 99‑investor cap less strict.",
+   "explain_zh": "此處的「relaxing」指的是放寬規定，使 99 位投資人上限變得較不嚴格。",
+   "news_title_en": "FSC adds three pilot schemes, plans a \"financial giveback\" guideline",
+   "id": "2026-10-07-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "By the end of April, how much have industry assets under management increased since mid‑2024?",
+   "options": [
+    "NT$10.62 trillion",
+    "NT$5.31 trillion",
+    "NT$8.45 trillion",
+    "NT$12.00 trillion"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states the assets have risen by NT$10.62 tn since mid‑2024.",
+   "explain_zh": "摘要中提到自 2024 年中以來，產業管理資產增加了新台幣 10.62 兆。",
+   "news_title_en": "FSC adds three pilot schemes, plans a \"financial giveback\" guideline",
+   "id": "2026-10-07-05"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the phrase \"offshore assets\" mean as used in the text?",
+   "options": [
+    "Cash that is spent on vacations",
+    "Money kept in a safe at home",
+    "Investments that are held outside the owner's home country",
+    "Assets that are underwater"
+   ],
+   "answer": 2,
+   "explain_en": "In the article, \"offshore assets\" refers to investments or holdings located in foreign jurisdictions, not in Taiwan.",
+   "explain_zh": "在文章中，「offshore assets」指的是放在國外的投資或資產，而不是台灣本地的。",
+   "news_title_en": "Taiwan's ultra-high-net-worth ranks hit a record, tilting to offshore assets",
+   "id": "2026-10-07-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many people had net assets above NT$100 million in 2025 according to the report?",
+   "options": [
+    "about 100,000",
+    "about 123,000",
+    "about 74,000",
+    "about 150,000"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that roughly 123,000 people owned net assets above NT$100 mn in 2025.",
+   "explain_zh": "摘要中說明，2025 年約有 123,000 人的淨資產超過新台幣 1 億元。",
+   "news_title_en": "Taiwan's ultra-high-net-worth ranks hit a record, tilting to offshore assets",
+   "id": "2026-10-07-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"folded\" mean?",
+   "options": [
+    "ignored",
+    "collapsed",
+    "added or included",
+    "wrapped tightly"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"folded into\" means the gifted assets are added to the taxable estate.",
+   "explain_zh": "這裡的「folded into」是指把贈與的資產加入到應稅遺產中。",
+   "news_title_en": "MOF tightens \"deemed estate\" rules on pre-death gifts",
+   "id": "2026-10-07-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, who will pay the tax on gifts made within two years before death?",
+   "options": [
+    "All of the heirs together",
+    "The government",
+    "The donor before death",
+    "The recipient of the gift"
    ],
    "answer": 3,
-   "explain_en": "The summary states that the new cyber rules define responsibilities for financial CISOs, meaning their duties must be clearly outlined.",
-   "explain_zh": "摘要中說明，新網路規則為金融資訊安全長（CISO）規定了明確的職責，必須清楚界定其工作內容。",
-   "news_title_en": "FSC Keeps \"Safety and Development in Parallel,\" Puts Anti-Fraud and Cyber-Resilience First",
-   "id": "2026-10-06-05"
+   "explain_en": "The summary says the tax is borne solely by the recipient, not shared among heirs.",
+   "explain_zh": "摘要說稅金只由受贈人負擔，而不是由所有繼承人共同分擔。",
+   "news_title_en": "MOF tightens \"deemed estate\" rules on pre-death gifts",
+   "id": "2026-10-07-09"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"allocation\" mean?",
+   "question": "In the text, what does the phrase \"tight side\" mean?",
    "options": [
-    "Giving money to different places or uses",
-    "A legal contract",
-    "A financial loss",
-    "A type of bank account"
+    "Very strict monetary policy",
+    "Low economic growth",
+    "High inflation",
+    "Loose monetary policy"
    ],
    "answer": 0,
-   "explain_en": "Here \"allocation\" refers to how money is distributed or assigned to various investments or regions.",
-   "explain_zh": "這裡的「allocation」指的是把資金分配到不同的投資或地區。",
-   "news_title_en": "Taiwan's Ultra-Rich to Top 124,000, Commanding NT$46 Trillion",
-   "id": "2026-10-06-06"
+   "explain_en": "\"Tight side\" refers to a strict or restrictive monetary policy stance.",
+   "explain_zh": "「tight side」指的是貨幣政策相當嚴格、收緊的狀態。",
+   "news_title_en": "Central bank holds rates, lifts inflation and growth forecasts",
+   "id": "2026-10-07-10"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, how many high‑net‑worth individuals are projected for Taiwan by 2029?",
+   "question": "What is the new 2026 CPI forecast mentioned in the summary?",
    "options": [
-    "155,000",
-    "200,000",
-    "100,000",
-    "124,000"
+    "2.03%",
+    "2.10%",
+    "1.95%",
+    "2.00%"
    ],
    "answer": 0,
-   "explain_en": "The text says the number will grow to about 155,000 by 2029.",
-   "explain_zh": "文中說到到2029年，高淨值人士將增至約155,000人。",
-   "news_title_en": "Taiwan's Ultra-Rich to Top 124,000, Commanding NT$46 Trillion",
-   "id": "2026-10-06-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"tightens\" mean?",
-   "options": [
-    "strengthens",
-    "makes stricter",
-    "makes looser",
-    "opens up"
-   ],
-   "answer": 1,
-   "explain_en": "\"Tightens the net\" means to make it harder for tax avoidance to happen, i.e., to make the rules stricter.",
-   "explain_zh": "「tightens the net」指的是讓稅務規範更嚴格，防止逃稅。",
-   "news_title_en": "Crypto Reporting Widens as CARF and CRS 2.0 Take Hold",
-   "id": "2026-10-06-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, when will e‑money and central‑bank‑digital‑currency accounts be included in the reporting framework?",
-   "options": [
-    "2024",
-    "2027",
-    "2026",
-    "2025"
-   ],
-   "answer": 2,
-   "explain_en": "The text says the coverage expands to e‑money and CBDC accounts from 2026.",
-   "explain_zh": "文中說從 2026 年起，電子貨幣與央行數位貨幣帳戶也會被納入報告範圍。",
-   "news_title_en": "Crypto Reporting Widens as CARF and CRS 2.0 Take Hold",
-   "id": "2026-10-06-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"tightening\" mean?",
-   "options": [
-    "Increasing government spending",
-    "Expanding the stock market",
-    "Making the money supply smaller",
-    "Lowering interest rates"
-   ],
-   "answer": 2,
-   "explain_en": "\"Tightening\" refers to actions that reduce the amount of money or credit in the economy, such as raising rates or selling assets.",
-   "explain_zh": "「tightening」指的是縮減貨幣或信貸供給的政策，例如升息或賣出資產。",
-   "news_title_en": "Central Bank Holds Rate at 2% but Leans Toward Tightening",
-   "id": "2026-10-06-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "How long has Taiwan's central bank kept the benchmark policy rate at 2%?",
-   "options": [
-    "Two months",
-    "About ten straight quarters",
-    "Eight consecutive years",
-    "Five years"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the rate has been held at 2% for roughly ten straight quarters.",
-   "explain_zh": "摘要中說明，基準利率已維持在 2% 約十個連續季。",
-   "news_title_en": "Central Bank Holds Rate at 2% but Leans Toward Tightening",
-   "id": "2026-10-06-11"
+   "explain_en": "The summary states the 2026 CPI forecast was nudged up to around 2.03%.",
+   "explain_zh": "摘要中提到2026年的CPI預測上調至約2.03%。",
+   "news_title_en": "Central bank holds rates, lifts inflation and growth forecasts",
+   "id": "2026-10-07-11"
   }
  ]
 }
