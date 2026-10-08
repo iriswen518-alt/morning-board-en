@@ -1,185 +1,185 @@
 {
- "date": "2026-10-07",
+ "date": "2026-10-08",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"turnover\" mean?",
+   "question": "In the summary, what does the phrase \"profit‑taking\" mean?",
    "options": [
-    "The interest rate set by the central bank",
-    "The number of companies listed on the exchange",
-    "The profit earned by a single company",
-    "The total amount of money traded in the market"
+    "Buying more stocks to increase profit",
+    "Holding stocks for a long time",
+    "Borrowing money to invest",
+    "Selling stocks to lock in gains"
    ],
    "answer": 3,
-   "explain_en": "Turnover refers to the total value of shares that were bought and sold during the trading day.",
-   "explain_zh": "「turnover」指的是當天市場成交的總金額。",
-   "news_title_en": "TAIEX stalls just below 50,000 as TSMC leads late profit-taking",
-   "id": "2026-10-07-00"
+   "explain_en": "\"Profit‑taking\" means investors sell their holdings to secure the gains they have made.",
+   "explain_zh": "「profit‑taking」指的是投資人賣出持有的股票以鎖定已獲得的獲利。",
+   "news_title_en": "TAIEX stalls just short of 50,000 as it edges down 16 points",
+   "id": "2026-10-08-00"
   },
   {
    "type": "comprehension",
-   "question": "What was the closing level of the TAIEX index on Oct 6?",
+   "question": "What was the exact closing value of the TAIEX on Oct 7?",
    "options": [
-    "49,968.00",
-    "49,500.00",
     "50,000.00",
-    "49,822.55"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the index closed at 49,822.55 on Oct 6.",
-   "explain_zh": "摘要中說明指數在 10 月 6 日收於 49,822.55 點。",
-   "news_title_en": "TAIEX stalls just below 50,000 as TSMC leads late profit-taking",
-   "id": "2026-10-07-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"penetration\" mean?",
-   "options": [
-    "The share of AI servers that use advanced chips",
-    "The amount of money invested in semiconductor factories",
-    "The number of AI servers sold each year",
-    "The speed at which chips are manufactured"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"penetration\" refers to the proportion of AI servers that are equipped with advanced‑process chips, i.e., market share.",
-   "explain_zh": "此處的「penetration」指的是 AI 伺服器使用先進製程晶片的比例，也就是市場佔有率。",
-   "news_title_en": "ITRI sees 2026 chip output above NT$7tn, AI servers at 4.5 million units",
-   "id": "2026-10-07-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what is the expected value of Taiwan's semiconductor output in 2026?",
-   "options": [
-    "About NT$6.5 trillion",
-    "Exactly NT$7 trillion",
-    "More than NT$7.13 trillion",
-    "Around NT$8 trillion"
+    "49,966.00",
+    "49,806.37",
+    "49,800.00"
    ],
    "answer": 2,
-   "explain_en": "The summary states the 2026 output will exceed NT$7.13 trillion.",
-   "explain_zh": "摘要中提到 2026 年的半導體產值將超過新台幣 7.13 兆。",
-   "news_title_en": "ITRI sees 2026 chip output above NT$7tn, AI servers at 4.5 million units",
-   "id": "2026-10-07-03"
+   "explain_en": "The summary states the TAIEX closed at 49,806.37 on Oct 7.",
+   "explain_zh": "摘要中說明台指在 10 月 7 日收盤為 49,806.37 點。",
+   "news_title_en": "TAIEX stalls just short of 50,000 as it edges down 16 points",
+   "id": "2026-10-08-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"relaxing\" mean?",
+   "question": "In the summary, what does the word \"shipment\" mean?",
    "options": [
-    "making a rule less strict",
-    "taking a break",
-    "ignoring a rule",
-    "making something softer"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"relaxing\" refers to easing the rule, i.e., making the 99‑investor cap less strict.",
-   "explain_zh": "此處的「relaxing」指的是放寬規定，使 99 位投資人上限變得較不嚴格。",
-   "news_title_en": "FSC adds three pilot schemes, plans a \"financial giveback\" guideline",
-   "id": "2026-10-07-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "By the end of April, how much have industry assets under management increased since mid‑2024?",
-   "options": [
-    "NT$10.62 trillion",
-    "NT$5.31 trillion",
-    "NT$8.45 trillion",
-    "NT$12.00 trillion"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states the assets have risen by NT$10.62 tn since mid‑2024.",
-   "explain_zh": "摘要中提到自 2024 年中以來，產業管理資產增加了新台幣 10.62 兆。",
-   "news_title_en": "FSC adds three pilot schemes, plans a \"financial giveback\" guideline",
-   "id": "2026-10-07-05"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the phrase \"offshore assets\" mean as used in the text?",
-   "options": [
-    "Cash that is spent on vacations",
-    "Money kept in a safe at home",
-    "Investments that are held outside the owner's home country",
-    "Assets that are underwater"
-   ],
-   "answer": 2,
-   "explain_en": "In the article, \"offshore assets\" refers to investments or holdings located in foreign jurisdictions, not in Taiwan.",
-   "explain_zh": "在文章中，「offshore assets」指的是放在國外的投資或資產，而不是台灣本地的。",
-   "news_title_en": "Taiwan's ultra-high-net-worth ranks hit a record, tilting to offshore assets",
-   "id": "2026-10-07-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many people had net assets above NT$100 million in 2025 according to the report?",
-   "options": [
-    "about 100,000",
-    "about 123,000",
-    "about 74,000",
-    "about 150,000"
+    "A marketing campaign",
+    "A delivery of goods to customers",
+    "A legal contract",
+    "A financial profit report"
    ],
    "answer": 1,
-   "explain_en": "The summary states that roughly 123,000 people owned net assets above NT$100 mn in 2025.",
-   "explain_zh": "摘要中說明，2025 年約有 123,000 人的淨資產超過新台幣 1 億元。",
-   "news_title_en": "Taiwan's ultra-high-net-worth ranks hit a record, tilting to offshore assets",
-   "id": "2026-10-07-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"folded\" mean?",
-   "options": [
-    "ignored",
-    "collapsed",
-    "added or included",
-    "wrapped tightly"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"folded into\" means the gifted assets are added to the taxable estate.",
-   "explain_zh": "這裡的「folded into」是指把贈與的資產加入到應稅遺產中。",
-   "news_title_en": "MOF tightens \"deemed estate\" rules on pre-death gifts",
-   "id": "2026-10-07-08"
+   "explain_en": "Here \"shipment\" refers to sending products, like AI servers, to buyers.",
+   "explain_zh": "這裡的「shipment」指的是把產品（例如 AI 伺服器）寄送給客戶的行為。",
+   "news_title_en": "Foxconn becomes first Taiwan firm to clear NT$1 trillion in monthly revenue",
+   "id": "2026-10-08-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, who will pay the tax on gifts made within two years before death?",
+   "question": "What was Foxconn's revenue in September?",
    "options": [
-    "All of the heirs together",
-    "The government",
-    "The donor before death",
-    "The recipient of the gift"
+    "NT$1.159 trillion",
+    "NT$1 trillion",
+    "NT$2.5 trillion",
+    "NT$3.03 trillion"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states September revenue was NT$1.159 trillion.",
+   "explain_zh": "摘要中說明 9 月營收為新台幣 1.159 兆。",
+   "news_title_en": "Foxconn becomes first Taiwan firm to clear NT$1 trillion in monthly revenue",
+   "id": "2026-10-08-03"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"capping\" mean as used in the text?",
+   "options": [
+    "Setting a maximum limit",
+    "Removing a limit",
+    "Increasing gradually",
+    "Comparing with peers"
+   ],
+   "answer": 0,
+   "explain_en": "\"Capping\" means setting a maximum limit, here it refers to limiting reported ratios at a target value.",
+   "explain_zh": "「capping」指設定上限，這裡是指把報告的比率限制在目標值。",
+   "news_title_en": "Insurers move to new TIS solvency regime with three FSC disclosure rules",
+   "id": "2026-10-08-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "When did Taiwan's insurers switch to the new TIS regime?",
+   "options": [
+    "2027",
+    "2025",
+    "2024",
+    "2026"
    ],
    "answer": 3,
-   "explain_en": "The summary says the tax is borne solely by the recipient, not shared among heirs.",
-   "explain_zh": "摘要說稅金只由受贈人負擔，而不是由所有繼承人共同分擔。",
-   "news_title_en": "MOF tightens \"deemed estate\" rules on pre-death gifts",
-   "id": "2026-10-07-09"
+   "explain_en": "The summary states that the switch to the new TIS regime happened in 2026.",
+   "explain_zh": "摘要中說明保險公司在2026年改採新 TIS 制度。",
+   "news_title_en": "Insurers move to new TIS solvency regime with three FSC disclosure rules",
+   "id": "2026-10-08-05"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the phrase \"tight side\" mean?",
+   "question": "In the summary, what does the phrase \"cross-border\" mean?",
    "options": [
-    "Very strict monetary policy",
-    "Low economic growth",
-    "High inflation",
-    "Loose monetary policy"
+    "Involving more than one country",
+    "Related to crossing a street",
+    "About border security",
+    "Describing a type of bank"
    ],
    "answer": 0,
-   "explain_en": "\"Tight side\" refers to a strict or restrictive monetary policy stance.",
-   "explain_zh": "「tight side」指的是貨幣政策相當嚴格、收緊的狀態。",
-   "news_title_en": "Central bank holds rates, lifts inflation and growth forecasts",
-   "id": "2026-10-07-10"
+   "explain_en": "\"Cross-border\" refers to activities that involve two or more countries, such as investing or financing across national borders.",
+   "explain_zh": "「cross-border」指的是跨越兩個或以上國家的活動，例如跨國投資或融資。",
+   "news_title_en": "Banks race to build high-net-worth services under Asian Asset Management Center push",
+   "id": "2026-10-08-06"
   },
   {
    "type": "comprehension",
-   "question": "What is the new 2026 CPI forecast mentioned in the summary?",
+   "question": "What is the entry threshold for the pilot programs mentioned in the summary?",
    "options": [
-    "2.03%",
-    "2.10%",
-    "1.95%",
-    "2.00%"
+    "NT$50 million",
+    "NT$500 million",
+    "NT$100 million",
+    "NT$10 million"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that the entry thresholds are around NT$100 million.",
+   "explain_zh": "摘要中提到，參與門檻大約是新台幣一億。",
+   "news_title_en": "Banks race to build high-net-worth services under Asian Asset Management Center push",
+   "id": "2026-10-08-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"streak\" mean?",
+   "options": [
+    "A period of continuous success",
+    "A sudden drop in numbers",
+    "A government policy",
+    "A type of financial instrument"
    ],
    "answer": 0,
-   "explain_en": "The summary states the 2026 CPI forecast was nudged up to around 2.03%.",
-   "explain_zh": "摘要中提到2026年的CPI預測上調至約2.03%。",
-   "news_title_en": "Central bank holds rates, lifts inflation and growth forecasts",
-   "id": "2026-10-07-11"
+   "explain_en": "Here \"streak\" refers to a series of months where exports kept growing.",
+   "explain_zh": "「streak」在此指的是連續多個月的成長。",
+   "news_title_en": "September exports set for 35th straight monthly gain as data lands Oct 8",
+   "id": "2026-10-08-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what was the estimated range of Taiwan's September exports?",
+   "options": [
+    "US$77-80.3 billion",
+    "US$70-73 billion",
+    "US$90-95 billion",
+    "US$82-85 billion"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states the estimate is US$77‑80.3 billion for September.",
+   "explain_zh": "摘要中說九月的出口預估在 7,700‑8,030 億美元之間。",
+   "news_title_en": "September exports set for 35th straight monthly gain as data lands Oct 8",
+   "id": "2026-10-08-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"souring\" mean?",
+   "options": [
+    "staying the same",
+    "becoming more positive",
+    "becoming less optimistic",
+    "increasing in price"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"souring\" describes sentiment that is getting worse or less optimistic.",
+   "explain_zh": "「souring」在文中指情緒變差、變得不那麼樂觀。",
+   "news_title_en": "Taiwan media: U.S. stocks slip from records as Treasury yields hit 24-year high",
+   "id": "2026-10-08-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what was the main risk to the Wall Street rally?",
+   "options": [
+    "Stronger U.S. dollar",
+    "Higher Asian market expectations",
+    "AI optimism",
+    "Rising long-term Treasury yields"
+   ],
+   "answer": 3,
+   "explain_en": "The text says rising long-term yields are the key risk now facing the rally.",
+   "explain_zh": "文章指出，長期美債殖利率上升是目前衝擊華爾街行情的主要風險。",
+   "news_title_en": "Taiwan media: U.S. stocks slip from records as Treasury yields hit 24-year high",
+   "id": "2026-10-08-11"
   }
  ]
 }
