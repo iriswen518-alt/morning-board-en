@@ -1,185 +1,185 @@
 {
- "date": "2026-10-08",
+ "date": "2026-10-09",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"profit‑taking\" mean?",
+   "question": "In the summary, what does the word \"flirting\" mean?",
    "options": [
-    "Buying more stocks to increase profit",
-    "Holding stocks for a long time",
-    "Borrowing money to invest",
-    "Selling stocks to lock in gains"
+    "Playing with someone romantically",
+    "Selling quickly",
+    "Ignoring completely",
+    "Almost reaching or approaching"
    ],
    "answer": 3,
-   "explain_en": "\"Profit‑taking\" means investors sell their holdings to secure the gains they have made.",
-   "explain_zh": "「profit‑taking」指的是投資人賣出持有的股票以鎖定已獲得的獲利。",
-   "news_title_en": "TAIEX stalls just short of 50,000 as it edges down 16 points",
-   "id": "2026-10-08-00"
+   "explain_en": "Here \"flirting with the 50,000 milestone\" means the index was close to reaching 50,000 but did not actually get there.",
+   "explain_zh": "這裡的「flirting」指的是指數差不多要到 50,000 點，但還沒真正突破。",
+   "news_title_en": "TAIEX plunges 493 points to 49,313 on pre-holiday selling",
+   "id": "2026-10-09-00"
   },
   {
    "type": "comprehension",
-   "question": "What was the exact closing value of the TAIEX on Oct 7?",
+   "question": "How much net did the three major institutional investors sell?",
    "options": [
-    "50,000.00",
-    "49,966.00",
-    "49,806.37",
-    "49,800.00"
+    "NT$89.9 billion",
+    "NT$869.7 billion",
+    "NT$492.93 million",
+    "NT$49,313.44"
    ],
-   "answer": 2,
-   "explain_en": "The summary states the TAIEX closed at 49,806.37 on Oct 7.",
-   "explain_zh": "摘要中說明台指在 10 月 7 日收盤為 49,806.37 點。",
-   "news_title_en": "TAIEX stalls just short of 50,000 as it edges down 16 points",
-   "id": "2026-10-08-01"
+   "answer": 0,
+   "explain_en": "The summary states the three major institutional investors sold a net NT$89.9 billion.",
+   "explain_zh": "摘要中說三大機構投資人淨賣出 889 億新台幣。",
+   "news_title_en": "TAIEX plunges 493 points to 49,313 on pre-holiday selling",
+   "id": "2026-10-09-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"shipment\" mean?",
+   "question": "In the summary, what does the word \"consolidated\" mean?",
    "options": [
-    "A marketing campaign",
-    "A delivery of goods to customers",
-    "A legal contract",
-    "A financial profit report"
+    "Combined into one total",
+    "Separated into parts",
+    "Ignored completely",
+    "Reduced in size"
+   ],
+   "answer": 0,
+   "explain_en": "\"Consolidated revenue\" means the total revenue after adding together all parts of the business.",
+   "explain_zh": "「合併營收」指的是把公司所有部門的營收加總成一個總額。",
+   "news_title_en": "TSMC September sales set same-period record ahead of earnings call",
+   "id": "2026-10-09-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the percentage increase in TSMC's September revenue compared to the same month last year?",
+   "options": [
+    "54.6%",
+    "41.1%",
+    "51%",
+    "17.6%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states September consolidated revenue was up 54.6% year‑on‑year.",
+   "explain_zh": "摘要中說九月合併營收較去年同期成長了54.6%。",
+   "news_title_en": "TSMC September sales set same-period record ahead of earnings call",
+   "id": "2026-10-09-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"incentives\" mean?",
+   "options": [
+    "Rewards or benefits offered to encourage something",
+    "A type of financial penalty",
+    "A government agency",
+    "A legal restriction"
+   ],
+   "answer": 0,
+   "explain_en": "\"Incentives\" are rewards or benefits given to motivate people or companies to act in a certain way.",
+   "explain_zh": "「incentives」指的是為了鼓勵某事而提供的獎勵或好處。",
+   "news_title_en": "FSC's October policy push: Kaohsiung asset-management zone and virtual-asset law roll out",
+   "id": "2026-10-09-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what is one goal of the FSC's October measures?",
+   "options": [
+    "To reduce the number of private banks in Taiwan",
+    "To eliminate virtual assets entirely",
+    "To bring crypto service providers under formal supervision",
+    "To close the Kaohsiung Asset Management Center"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that the measures aim to bring crypto service providers under formal supervision.",
+   "explain_zh": "摘要中說，這些措施的目標之一是將加密服務提供者納入正式監管。",
+   "news_title_en": "FSC's October policy push: Kaohsiung asset-management zone and virtual-asset law roll out",
+   "id": "2026-10-09-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"assets under advice\" mean?",
+   "options": [
+    "Money that banks have invested themselves",
+    "Money that banks manage for clients",
+    "Money that banks have lost",
+    "Money that banks have borrowed"
    ],
    "answer": 1,
-   "explain_en": "Here \"shipment\" refers to sending products, like AI servers, to buyers.",
-   "explain_zh": "這裡的「shipment」指的是把產品（例如 AI 伺服器）寄送給客戶的行為。",
-   "news_title_en": "Foxconn becomes first Taiwan firm to clear NT$1 trillion in monthly revenue",
-   "id": "2026-10-08-02"
+   "explain_en": "It refers to the total value of clients' assets that banks give advice on managing.",
+   "explain_zh": "指的是銀行為客戶提供管理建議的資產總額。",
+   "news_title_en": "FSC lets banks run family-office advisory services island-wide",
+   "id": "2026-10-09-06"
   },
   {
    "type": "comprehension",
-   "question": "What was Foxconn's revenue in September?",
+   "question": "How many banks had assets under advice exceeding NT$100 billion within the pilot zone?",
    "options": [
-    "NT$1.159 trillion",
-    "NT$1 trillion",
-    "NT$2.5 trillion",
-    "NT$3.03 trillion"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states September revenue was NT$1.159 trillion.",
-   "explain_zh": "摘要中說明 9 月營收為新台幣 1.159 兆。",
-   "news_title_en": "Foxconn becomes first Taiwan firm to clear NT$1 trillion in monthly revenue",
-   "id": "2026-10-08-03"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the word \"capping\" mean as used in the text?",
-   "options": [
-    "Setting a maximum limit",
-    "Removing a limit",
-    "Increasing gradually",
-    "Comparing with peers"
-   ],
-   "answer": 0,
-   "explain_en": "\"Capping\" means setting a maximum limit, here it refers to limiting reported ratios at a target value.",
-   "explain_zh": "「capping」指設定上限，這裡是指把報告的比率限制在目標值。",
-   "news_title_en": "Insurers move to new TIS solvency regime with three FSC disclosure rules",
-   "id": "2026-10-08-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "When did Taiwan's insurers switch to the new TIS regime?",
-   "options": [
-    "2027",
-    "2025",
-    "2024",
-    "2026"
+    "0",
+    "11",
+    "239",
+    "17"
    ],
    "answer": 3,
-   "explain_en": "The summary states that the switch to the new TIS regime happened in 2026.",
-   "explain_zh": "摘要中說明保險公司在2026年改採新 TIS 制度。",
-   "news_title_en": "Insurers move to new TIS solvency regime with three FSC disclosure rules",
-   "id": "2026-10-08-05"
+   "explain_en": "The summary states that 17 banks had assets under advice over NT$100 billion in the pilot zone.",
+   "explain_zh": "摘要中說明有 17 家銀行在試點區的受託資產超過 100 億新台幣。",
+   "news_title_en": "FSC lets banks run family-office advisory services island-wide",
+   "id": "2026-10-09-07"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"cross-border\" mean?",
+   "question": "In the summary, what does the word \"accumulation\" mean?",
    "options": [
-    "Involving more than one country",
-    "Related to crossing a street",
-    "About border security",
-    "Describing a type of bank"
-   ],
-   "answer": 0,
-   "explain_en": "\"Cross-border\" refers to activities that involve two or more countries, such as investing or financing across national borders.",
-   "explain_zh": "「cross-border」指的是跨越兩個或以上國家的活動，例如跨國投資或融資。",
-   "news_title_en": "Banks race to build high-net-worth services under Asian Asset Management Center push",
-   "id": "2026-10-08-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the entry threshold for the pilot programs mentioned in the summary?",
-   "options": [
-    "NT$50 million",
-    "NT$500 million",
-    "NT$100 million",
-    "NT$10 million"
+    "Getting a loan",
+    "Paying taxes",
+    "Saving money over time",
+    "Buying a house"
    ],
    "answer": 2,
-   "explain_en": "The summary states that the entry thresholds are around NT$100 million.",
-   "explain_zh": "摘要中提到，參與門檻大約是新台幣一億。",
-   "news_title_en": "Banks race to build high-net-worth services under Asian Asset Management Center push",
-   "id": "2026-10-08-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"streak\" mean?",
-   "options": [
-    "A period of continuous success",
-    "A sudden drop in numbers",
-    "A government policy",
-    "A type of financial instrument"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"streak\" refers to a series of months where exports kept growing.",
-   "explain_zh": "「streak」在此指的是連續多個月的成長。",
-   "news_title_en": "September exports set for 35th straight monthly gain as data lands Oct 8",
-   "id": "2026-10-08-08"
+   "explain_en": "Here \"accumulation\" refers to the process of building up savings or assets over time.",
+   "explain_zh": "此處的「accumulation」指的是長期累積儲蓄或資產。",
+   "news_title_en": "FSC lets wealth-management insurance policies with low death benefits go nationwide",
+   "id": "2026-10-09-08"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what was the estimated range of Taiwan's September exports?",
+   "question": "How many insurers are allowed to sell the wealth‑management insurance policies nationwide?",
    "options": [
-    "US$77-80.3 billion",
-    "US$70-73 billion",
-    "US$90-95 billion",
-    "US$82-85 billion"
+    "Five",
+    "Ten",
+    "Twelve",
+    "Eight"
    ],
-   "answer": 0,
-   "explain_en": "The summary states the estimate is US$77‑80.3 billion for September.",
-   "explain_zh": "摘要中說九月的出口預估在 7,700‑8,030 億美元之間。",
-   "news_title_en": "September exports set for 35th straight monthly gain as data lands Oct 8",
-   "id": "2026-10-08-09"
+   "answer": 1,
+   "explain_en": "The summary states that ten insurers can sell the policies across the island.",
+   "explain_zh": "摘要中說明有十家保險公司可在全台銷售此類保單。",
+   "news_title_en": "FSC lets wealth-management insurance policies with low death benefits go nationwide",
+   "id": "2026-10-09-09"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"souring\" mean?",
+   "question": "In the summary, what does the word \"boom\" mean?",
    "options": [
-    "staying the same",
-    "becoming more positive",
-    "becoming less optimistic",
-    "increasing in price"
+    "A type of musical instrument",
+    "A loud noise",
+    "A sudden increase or rapid growth",
+    "A financial loss"
    ],
    "answer": 2,
-   "explain_en": "Here \"souring\" describes sentiment that is getting worse or less optimistic.",
-   "explain_zh": "「souring」在文中指情緒變差、變得不那麼樂觀。",
-   "news_title_en": "Taiwan media: U.S. stocks slip from records as Treasury yields hit 24-year high",
-   "id": "2026-10-08-10"
+   "explain_en": "Here \"boom\" refers to a sudden increase or rapid growth in Taiwan's exports.",
+   "explain_zh": "這裡的「boom」指的是台灣出口的快速成長。",
+   "news_title_en": "Taiwan's September exports hit record US$87.2 billion, extending longest-ever winning streak to 35 months",
+   "id": "2026-10-09-10"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what was the main risk to the Wall Street rally?",
+   "question": "How many consecutive months has Taiwan's export growth record lasted?",
    "options": [
-    "Stronger U.S. dollar",
-    "Higher Asian market expectations",
-    "AI optimism",
-    "Rising long-term Treasury yields"
+    "40 months",
+    "30 months",
+    "35 months",
+    "45 months"
    ],
-   "answer": 3,
-   "explain_en": "The text says rising long-term yields are the key risk now facing the rally.",
-   "explain_zh": "文章指出，長期美債殖利率上升是目前衝擊華爾街行情的主要風險。",
-   "news_title_en": "Taiwan media: U.S. stocks slip from records as Treasury yields hit 24-year high",
-   "id": "2026-10-08-11"
+   "answer": 2,
+   "explain_en": "The summary states the export growth streak is now 35 months long.",
+   "explain_zh": "摘要中說出口成長連續已達35個月。",
+   "news_title_en": "Taiwan's September exports hit record US$87.2 billion, extending longest-ever winning streak to 35 months",
+   "id": "2026-10-09-11"
   }
  ]
 }
