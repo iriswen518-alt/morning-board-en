@@ -1,185 +1,170 @@
 {
- "date": "2026-10-09",
+ "date": "2026-10-10",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"flirting\" mean?",
+   "question": "In the summary, what does the word \"sequential\" mean?",
    "options": [
-    "Playing with someone romantically",
-    "Selling quickly",
-    "Ignoring completely",
-    "Almost reaching or approaching"
+    "relating to a stock split",
+    "relating to AI technology",
+    "relating to the change from one quarter to the next",
+    "relating to a sequence of numbers only"
+   ],
+   "answer": 2,
+   "explain_en": "\"Sequential\" describes a change that happens from one period to the following period, here a quarter‑to‑quarter change.",
+   "explain_zh": "「sequential」指的是從一個期間到下一個期間的變化，這裡指的是季與季之間的變化。",
+   "news_title_en": "TSMC posts record Q3 revenue of NT$989.9bn, up 6% QoQ",
+   "id": "2026-10-10-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was TSMC's consolidated revenue for the third quarter of 2026?",
+   "options": [
+    "NT$900.0 billion",
+    "NT$1.1 trillion",
+    "NT$850.0 billion",
+    "NT$989.9 billion"
    ],
    "answer": 3,
-   "explain_en": "Here \"flirting with the 50,000 milestone\" means the index was close to reaching 50,000 but did not actually get there.",
-   "explain_zh": "這裡的「flirting」指的是指數差不多要到 50,000 點，但還沒真正突破。",
-   "news_title_en": "TAIEX plunges 493 points to 49,313 on pre-holiday selling",
-   "id": "2026-10-09-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "How much net did the three major institutional investors sell?",
-   "options": [
-    "NT$89.9 billion",
-    "NT$869.7 billion",
-    "NT$492.93 million",
-    "NT$49,313.44"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states the three major institutional investors sold a net NT$89.9 billion.",
-   "explain_zh": "摘要中說三大機構投資人淨賣出 889 億新台幣。",
-   "news_title_en": "TAIEX plunges 493 points to 49,313 on pre-holiday selling",
-   "id": "2026-10-09-01"
+   "explain_en": "The summary states the revenue was NT$989.9 billion, a 6% sequential gain.",
+   "explain_zh": "摘要中說明營收為新台幣 989.9 億元，較前一季增長 6%。",
+   "news_title_en": "TSMC posts record Q3 revenue of NT$989.9bn, up 6% QoQ",
+   "id": "2026-10-10-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"consolidated\" mean?",
+   "question": "In the text, what does the word \"sustained\" mean?",
    "options": [
-    "Combined into one total",
-    "Separated into parts",
-    "Ignored completely",
-    "Reduced in size"
+    "lasting for a long time",
+    "expensive",
+    "temporary",
+    "unrelated"
    ],
    "answer": 0,
-   "explain_en": "\"Consolidated revenue\" means the total revenue after adding together all parts of the business.",
-   "explain_zh": "「合併營收」指的是把公司所有部門的營收加總成一個總額。",
-   "news_title_en": "TSMC September sales set same-period record ahead of earnings call",
-   "id": "2026-10-09-02"
+   "explain_en": "Here \"sustained\" describes TSMC's continued leadership over time.",
+   "explain_zh": "此處的「sustained」指的是台積電的領導地位持續很長時間。",
+   "news_title_en": "Yuanta: TSMC has no credible rival, target raised to NT$3,500",
+   "id": "2026-10-10-02"
   },
   {
    "type": "comprehension",
-   "question": "What was the percentage increase in TSMC's September revenue compared to the same month last year?",
+   "question": "What new target price did Yuanta set for TSMC?",
    "options": [
-    "54.6%",
-    "41.1%",
-    "51%",
-    "17.6%"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states September consolidated revenue was up 54.6% year‑on‑year.",
-   "explain_zh": "摘要中說九月合併營收較去年同期成長了54.6%。",
-   "news_title_en": "TSMC September sales set same-period record ahead of earnings call",
-   "id": "2026-10-09-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"incentives\" mean?",
-   "options": [
-    "Rewards or benefits offered to encourage something",
-    "A type of financial penalty",
-    "A government agency",
-    "A legal restriction"
-   ],
-   "answer": 0,
-   "explain_en": "\"Incentives\" are rewards or benefits given to motivate people or companies to act in a certain way.",
-   "explain_zh": "「incentives」指的是為了鼓勵某事而提供的獎勵或好處。",
-   "news_title_en": "FSC's October policy push: Kaohsiung asset-management zone and virtual-asset law roll out",
-   "id": "2026-10-09-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what is one goal of the FSC's October measures?",
-   "options": [
-    "To reduce the number of private banks in Taiwan",
-    "To eliminate virtual assets entirely",
-    "To bring crypto service providers under formal supervision",
-    "To close the Kaohsiung Asset Management Center"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that the measures aim to bring crypto service providers under formal supervision.",
-   "explain_zh": "摘要中說，這些措施的目標之一是將加密服務提供者納入正式監管。",
-   "news_title_en": "FSC's October policy push: Kaohsiung asset-management zone and virtual-asset law roll out",
-   "id": "2026-10-09-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"assets under advice\" mean?",
-   "options": [
-    "Money that banks have invested themselves",
-    "Money that banks manage for clients",
-    "Money that banks have lost",
-    "Money that banks have borrowed"
-   ],
-   "answer": 1,
-   "explain_en": "It refers to the total value of clients' assets that banks give advice on managing.",
-   "explain_zh": "指的是銀行為客戶提供管理建議的資產總額。",
-   "news_title_en": "FSC lets banks run family-office advisory services island-wide",
-   "id": "2026-10-09-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many banks had assets under advice exceeding NT$100 billion within the pilot zone?",
-   "options": [
-    "0",
-    "11",
-    "239",
-    "17"
+    "NT$3,300",
+    "NT$3,100",
+    "NT$3,700",
+    "NT$3,500"
    ],
    "answer": 3,
-   "explain_en": "The summary states that 17 banks had assets under advice over NT$100 billion in the pilot zone.",
-   "explain_zh": "摘要中說明有 17 家銀行在試點區的受託資產超過 100 億新台幣。",
-   "news_title_en": "FSC lets banks run family-office advisory services island-wide",
-   "id": "2026-10-09-07"
+   "explain_en": "The summary says Yuanta lifted the target price to NT$3,500.",
+   "explain_zh": "摘要中提到玉山證券將目標價上調至新台幣3,500元。",
+   "news_title_en": "Yuanta: TSMC has no credible rival, target raised to NT$3,500",
+   "id": "2026-10-10-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"accumulation\" mean?",
+   "question": "What does the word \"baseline\" mean as used in the text?",
    "options": [
-    "Getting a loan",
-    "Paying taxes",
-    "Saving money over time",
-    "Buying a house"
+    "a type of computer virus",
+    "a new banking product",
+    "a financial profit target",
+    "the minimum standard that must be met"
    ],
-   "answer": 2,
-   "explain_en": "Here \"accumulation\" refers to the process of building up savings or assets over time.",
-   "explain_zh": "此處的「accumulation」指的是長期累積儲蓄或資產。",
-   "news_title_en": "FSC lets wealth-management insurance policies with low death benefits go nationwide",
-   "id": "2026-10-09-08"
+   "answer": 3,
+   "explain_en": "In this context, a baseline is the minimum security standard that banks and insurers must achieve.",
+   "explain_zh": "在此文中，baseline 指的是銀行與保險公司必須達到的最低安全標準。",
+   "news_title_en": "FSC's four-year cyber-resilience roadmap sets 2026 security baselines",
+   "id": "2026-10-10-04"
   },
   {
    "type": "comprehension",
-   "question": "How many insurers are allowed to sell the wealth‑management insurance policies nationwide?",
+   "question": "By when must the API security baselines and AI-system protection guidelines be completed?",
    "options": [
-    "Five",
-    "Ten",
-    "Twelve",
-    "Eight"
+    "Mid 2027",
+    "End of 2024",
+    "Mid 2025",
+    "End of 2026"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that these measures are due by the end of 2026.",
+   "explain_zh": "摘要中說明，API 安全基準與 AI 系統保護指引須在 2026 年底前完成。",
+   "news_title_en": "FSC's four-year cyber-resilience roadmap sets 2026 security baselines",
+   "id": "2026-10-10-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"high‑net‑worth capital\" mean?",
+   "options": [
+    "Capital that is stored in foreign banks",
+    "Money owned by very rich individuals",
+    "Funds that are only used for government projects",
+    "Capital that is invested in high‑risk stocks"
    ],
    "answer": 1,
-   "explain_en": "The summary states that ten insurers can sell the policies across the island.",
-   "explain_zh": "摘要中說明有十家保險公司可在全台銷售此類保單。",
-   "news_title_en": "FSC lets wealth-management insurance policies with low death benefits go nationwide",
-   "id": "2026-10-09-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"boom\" mean?",
-   "options": [
-    "A type of musical instrument",
-    "A loud noise",
-    "A sudden increase or rapid growth",
-    "A financial loss"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"boom\" refers to a sudden increase or rapid growth in Taiwan's exports.",
-   "explain_zh": "這裡的「boom」指的是台灣出口的快速成長。",
-   "news_title_en": "Taiwan's September exports hit record US$87.2 billion, extending longest-ever winning streak to 35 months",
-   "id": "2026-10-09-10"
+   "explain_en": "It refers to the wealth owned by very rich people that the article wants to keep in Taiwan.",
+   "explain_zh": "指的是高淨值人士擁有的資金，文章希望把這些資金留在台灣。",
+   "news_title_en": "FSC admits BNP Paribas and Chang Hwa to Kaohsiung asset-management zone",
+   "id": "2026-10-10-06"
   },
   {
    "type": "comprehension",
-   "question": "How many consecutive months has Taiwan's export growth record lasted?",
+   "question": "How many banks are now participating in the Kaohsiung asset‑management pilot zone?",
    "options": [
-    "40 months",
-    "30 months",
-    "35 months",
-    "45 months"
+    "20",
+    "15",
+    "25",
+    "30"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that the participating banks have been lifted to 20.",
+   "explain_zh": "摘要中說參與的銀行已提升至20家。",
+   "news_title_en": "FSC admits BNP Paribas and Chang Hwa to Kaohsiung asset-management zone",
+   "id": "2026-10-10-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"deemed\" mean?",
+   "options": [
+    "removed from tax",
+    "ignored by law",
+    "given as a gift",
+    "considered legally as"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"deemed\" means that the estate is treated as if it were owned by someone for tax purposes.",
+   "explain_zh": "「deemed」在此指的是在稅務上被視為某人擁有的意思。",
+   "news_title_en": "Cabinet-passed estate-tax amendment shifts \"deemed estate\" liability to recipients",
+   "id": "2026-10-10-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, who will now pay the estate tax on the \"deemed estate\"?",
+   "options": [
+    "The recipient of the gift",
+    "The spouse only",
+    "The original owner of the estate",
+    "The government"
+   ],
+   "answer": 0,
+   "explain_en": "The amendment shifts the tax liability to the recipient of the gift.",
+   "explain_zh": "修正案把遺產稅的負擔轉移給了受贈人。",
+   "news_title_en": "Cabinet-passed estate-tax amendment shifts \"deemed estate\" liability to recipients",
+   "id": "2026-10-10-09"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many consecutive meetings has Taiwan's central bank kept the discount rate unchanged at 2%?",
+   "options": [
+    "12",
+    "5",
+    "10",
+    "8"
    ],
    "answer": 2,
-   "explain_en": "The summary states the export growth streak is now 35 months long.",
-   "explain_zh": "摘要中說出口成長連續已達35個月。",
-   "news_title_en": "Taiwan's September exports hit record US$87.2 billion, extending longest-ever winning streak to 35 months",
-   "id": "2026-10-09-11"
+   "explain_en": "The summary states it is the 10th consecutive hold of the discount rate at 2%.",
+   "explain_zh": "摘要中說明，折扣率已連續第十次保持在 2%。",
+   "news_title_en": "Central bank holds rate at 2% for 10th straight quarter, keeps tightening bias",
+   "id": "2026-10-10-10"
   }
  ]
 }
