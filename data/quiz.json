@@ -1,185 +1,185 @@
 {
- "date": "2026-10-11",
+ "date": "2026-10-12",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"anchor\" mean?",
+   "question": "In the summary, what does the phrase \"price‑hike themes\" mean?",
    "options": [
-    "to pull something down quickly",
-    "to ignore a situation",
-    "to keep something steady or stable",
-    "to sell something at a low price"
+    "Ideas about raising prices",
+    "Stories about inflation",
+    "Plans to cut costs",
+    "Reports of stock splits"
    ],
-   "answer": 2,
-   "explain_en": "Here \"anchor\" means that AI‑driven chip demand keeps the index steady and supports its direction.",
-   "explain_zh": "在此句中「anchor」指的是 AI 需求讓指數保持穩定、支撐走勢。",
-   "news_title_en": "Taiwan's TAIEX closes above 49,300 as tech heavyweights lead",
-   "id": "2026-10-11-00"
+   "answer": 0,
+   "explain_en": "It refers to topics or trends where companies are increasing the prices of their products.",
+   "explain_zh": "指的是公司提高產品價格的趨勢或主題。",
+   "news_title_en": "Taiwan stocks seen returning to profit-driven gains in Q4 as capital rotates",
+   "id": "2026-10-12-00"
   },
   {
    "type": "comprehension",
-   "question": "By how many points did the TAIEX close above 49,300?",
+   "question": "According to the summary, why are passive‑component names attracting funds?",
    "options": [
-    "492.93 points",
-    "0.99 points",
-    "35 points",
-    "13.44 points"
+    "Because AI servers and HPC are boosting demand for high‑end MLCCs and chip resistors",
+    "Because they have the highest dividend yields",
+    "Because they are the largest companies in Taiwan",
+    "Because they are unaffected by US rate policy"
+   ],
+   "answer": 0,
+   "explain_en": "The summary says AI servers and high‑performance computing raise demand for those components, making them attractive.",
+   "explain_zh": "摘要指出 AI 伺服器與高效能運算提升了高階 MLCC 與晶片電阻的需求，因而吸引資金。",
+   "news_title_en": "Taiwan stocks seen returning to profit-driven gains in Q4 as capital rotates",
+   "id": "2026-10-12-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"probe\" mean?",
+   "options": [
+    "A new product launch",
+    "A financial profit",
+    "A type of computer chip",
+    "A detailed investigation"
    ],
    "answer": 3,
-   "explain_en": "The summary states the TAIEX closed at 49,313.44, which is 13.44 points above 49,300.",
-   "explain_zh": "摘要說台指收於 49,313.44 點，剛好比 49,300 點高出 13.44 點。",
-   "news_title_en": "Taiwan's TAIEX closes above 49,300 as tech heavyweights lead",
-   "id": "2026-10-11-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"dominant\" mean?",
-   "options": [
-    "a type of electronic component",
-    "a financial loss",
-    "the strongest or most important",
-    "a government agency"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"dominant\" describes AI demand as the strongest driver of growth.",
-   "explain_zh": "此處的「dominant」指的是 AI 需求是最主要、最強大的成長動力。",
-   "news_title_en": "Taiwan's September exports hit record US$87.2bn, up 60.9% YoY",
-   "id": "2026-10-11-02"
+   "explain_en": "Here \"probe\" refers to an official investigation into possible patent infringement.",
+   "explain_zh": "這裡的「probe」指的是對可能的專利侵權進行的官方調查。",
+   "news_title_en": "Foxconn and Taiwan peers named in US ITC Section 337 patent probe",
+   "id": "2026-10-12-02"
   },
   {
    "type": "comprehension",
-   "question": "How many consecutive months has Taiwan recorded a record‑high export level?",
+   "question": "According to the summary, what did Foxconn say about its operations after the USITC investigation started?",
    "options": [
-    "35 months",
-    "45 months",
-    "30 months",
-    "40 months"
+    "They continued normally",
+    "They were halted completely",
+    "They were severely disrupted",
+    "They were moved to another country"
    ],
    "answer": 0,
-   "explain_en": "The summary says the record winning streak has lasted 35 straight months.",
-   "explain_zh": "摘要中提到連續 35 個月創下出口新高。",
-   "news_title_en": "Taiwan's September exports hit record US$87.2bn, up 60.9% YoY",
-   "id": "2026-10-11-03"
+   "explain_en": "Foxconn stated that its operations remain normal, with no material impact on production, shipments, or customer cooperation.",
+   "explain_zh": "富士康表示其營運仍然正常，對產量、出貨或客戶合作沒有實質影響。",
+   "news_title_en": "Foxconn and Taiwan peers named in US ITC Section 337 patent probe",
+   "id": "2026-10-12-03"
   },
   {
    "type": "vocab",
-   "question": "In the news, what does the term \"share swap\" mean?",
+   "question": "In the summary, what does the word \"havens\" mean?",
    "options": [
-    "Buying shares using cash",
-    "Selling shares on the stock market",
-    "Exchanging shares of one company for shares of another",
-    "Merging two companies into one"
+    "New government bonds",
+    "Locations where ships dock",
+    "Places where investors keep money safe",
+    "Types of financial losses"
    ],
    "answer": 2,
-   "explain_en": "A share swap is when a company offers its own shares in exchange for shares of another company.",
-   "explain_zh": "「share swap」指的是用一間公司的股票換取另一間公司的股票。",
-   "news_title_en": "FSC clears E.Sun Financial's share-swap takeover of Mercuries Life",
-   "id": "2026-10-11-04"
+   "explain_en": "Here \"havens\" refers to safe investment options where investors put cash to protect it from market risk.",
+   "explain_zh": "此處的「havens」指的是投資人為了避險而把資金放入的安全投資工具。",
+   "news_title_en": "Money-market funds pull in $153.8bn as investors flee to safety",
+   "id": "2026-10-12-04"
   },
   {
    "type": "comprehension",
-   "question": "What did regulators require about Mercuries Life's staff after the takeover?",
+   "question": "How much net inflow did global money‑market funds receive in the week to Oct 7?",
    "options": [
-    "Staff must be moved to a new office",
-    "Half of the staff must be laid off",
-    "All staff must be kept for three years",
-    "Staff must receive a salary increase"
-   ],
-   "answer": 2,
-   "explain_en": "The regulators said that all insurer staff must be retained for three years after the acquisition.",
-   "explain_zh": "監管機關要求所有保險公司員工在收購後必須保留三年。",
-   "news_title_en": "FSC clears E.Sun Financial's share-swap takeover of Mercuries Life",
-   "id": "2026-10-11-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"channelling\" mean?",
-   "options": [
-    "Creating a new product",
-    "Stopping something from happening",
-    "Sending or directing something toward a particular purpose",
-    "Measuring the size of something"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"channelling\" means directing long‑term capital toward the aging‑society economy.",
-   "explain_zh": "此處的「channelling」是指把長期資金導向高齡社會經濟。",
-   "news_title_en": "FSC widens insurers' \"health and welfare\" investment scope",
-   "id": "2026-10-11-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the ruling, insurers can now hold up to what percentage of unlisted targets?",
-   "options": [
-    "100%",
-    "75%",
-    "50%",
-    "25%"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states insurers may hold up to 100% of unlisted targets.",
-   "explain_zh": "摘要中說保險公司可持有未上市標的最高 100%。",
-   "news_title_en": "FSC widens insurers' \"health and welfare\" investment scope",
-   "id": "2026-10-11-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"tightening\" mean?",
-   "options": [
-    "Loosening the rules",
-    "Writing new rules",
-    "Making the rules stricter",
-    "Ignoring the rules"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"tightening\" means the legislature is making the tax rules stricter or more restrictive.",
-   "explain_zh": "在此句中「tightening」指的是立法機關把稅制規定寫得更嚴格。",
-   "news_title_en": "Legislature passes \"deemed estate\" tax amendment; MOF drafts implementing rules",
-   "id": "2026-10-11-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what will the Ministry of Finance do after the president promulgates the law?",
-   "options": [
-    "Raise the estate tax rate",
-    "Cancel the amendment",
-    "Step up guidance on the new tax rules",
-    "Create a new tax on corporate profits"
-   ],
-   "answer": 2,
-   "explain_en": "The summary says the Ministry of Finance will step up guidance once the president promulgates the law.",
-   "explain_zh": "摘要中說明，總統頒布法律後，財政部會加強對新稅制的指導說明。",
-   "news_title_en": "Legislature passes \"deemed estate\" tax amendment; MOF drafts implementing rules",
-   "id": "2026-10-11-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"tightening bias\" mean?",
-   "options": [
-    "A tendency to make monetary policy more restrictive",
-    "A preference for lower interest rates",
-    "A plan to reduce the money supply quickly",
-    "A focus on increasing government spending"
-   ],
-   "answer": 0,
-   "explain_en": "The text says the bank keeps a tightening bias because inflation is above the alert line, meaning it leans toward stricter policy.",
-   "explain_zh": "文中說因通膨高於警戒線，央行保持緊縮傾向，表示偏好更嚴格的貨幣政策。",
-   "news_title_en": "Central bank holds rate at 2% for 10th straight quarter, lifts CPI forecast",
-   "id": "2026-10-11-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the new CPI forecast for 2026 announced by Taiwan's central bank?",
-   "options": [
-    "1.91%",
-    "2.03%",
-    "2.00%",
-    "2.10%"
+    "$200.2 billion",
+    "$153.81 billion",
+    "$10.00 billion",
+    "$5.11 billion"
    ],
    "answer": 1,
-   "explain_en": "The summary states the 2026 CPI forecast was raised to 2.03% from 1.91%.",
-   "explain_zh": "摘要中提到2026 年的 CPI 預測從 1.91% 提升至 2.03%。",
-   "news_title_en": "Central bank holds rate at 2% for 10th straight quarter, lifts CPI forecast",
-   "id": "2026-10-11-11"
+   "explain_en": "The summary states that global money‑market funds took in $153.81 bn in that week.",
+   "explain_zh": "摘要中說明全球貨幣市場基金在該週淨流入 153.81 億美元。",
+   "news_title_en": "Money-market funds pull in $153.8bn as investors flee to safety",
+   "id": "2026-10-12-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"retreated\" mean?",
+   "options": [
+    "Stayed the same",
+    "Went down after going up",
+    "Moved forward quickly",
+    "Never changed"
+   ],
+   "answer": 1,
+   "explain_en": "The market \"retreated\" after reaching highs, meaning it fell back down.",
+   "explain_zh": "文中「retreated」指的是在創高之後回落，意思是跌回去。",
+   "news_title_en": "Twelve Taiwan equity ETFs hit record size even as the index pulls back",
+   "id": "2026-10-12-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "Which ETF had the highest total‑return gain this year according to the summary?",
+   "options": [
+    "Cathay Sustainability High Dividend (00878)",
+    "Yuanta High Dividend (0056)",
+    "Capital TIP Semiconductor Income (00927)",
+    "All had the same gain"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that 00927 leads with a 107.36% gain, the highest among the listed ETFs.",
+   "explain_zh": "摘要說 00927 的總報酬率為 107.36%，是最高的。",
+   "news_title_en": "Twelve Taiwan equity ETFs hit record size even as the index pulls back",
+   "id": "2026-10-12-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"impasse\" mean?",
+   "options": [
+    "A legal contract",
+    "A complete stop with no progress",
+    "A financial profit",
+    "A type of computer chip"
+   ],
+   "answer": 1,
+   "explain_en": "\"Impasse\" means a situation where no further progress can be made.",
+   "explain_zh": "「impasse」指的是無法再前進的僵局。",
+   "news_title_en": "Qualcomm–Arm licensing fight stalls again as jury fails to reach a verdict",
+   "id": "2026-10-12-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "When is the trial scheduled to resume?",
+   "options": [
+    "Oct 15",
+    "Oct 13",
+    "Oct 12",
+    "Oct 14"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the trial resumes on Tuesday, Oct 13.",
+   "explain_zh": "摘要中說審判將於 10 月 13 日（星期二）恢復。",
+   "news_title_en": "Qualcomm–Arm licensing fight stalls again as jury fails to reach a verdict",
+   "id": "2026-10-12-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"headline\" mean when it says \"headline CPI\"?",
+   "options": [
+    "A special CPI for executives",
+    "The main or overall CPI figure",
+    "A CPI that only includes food prices",
+    "The title of a newspaper article"
+   ],
+   "answer": 1,
+   "explain_en": "\"Headline CPI\" refers to the overall consumer price index, the main figure that shows total inflation.",
+   "explain_zh": "「headline CPI」指的是整體消費者物價指數，是顯示總體通膨的主要數值。",
+   "news_title_en": "US September CPI and the Fed meeting headline a pivotal week",
+   "id": "2026-10-12-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, when is the Federal Reserve expected to make its next policy decision?",
+   "options": [
+    "Early September",
+    "Late November",
+    "Mid December",
+    "Late October"
+   ],
+   "answer": 3,
+   "explain_en": "The text says the Fed's decision is scheduled for late October, after the September CPI data.",
+   "explain_zh": "文中指出美聯儲的下一次政策決策將在十月下旬，於九月 CPI 資料之後。",
+   "news_title_en": "US September CPI and the Fed meeting headline a pivotal week",
+   "id": "2026-10-12-11"
   }
  ]
 }
