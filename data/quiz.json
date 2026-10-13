@@ -1,185 +1,155 @@
 {
- "date": "2026-10-12",
+ "date": "2026-10-13",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"price‑hike themes\" mean?",
+   "question": "In the summary, what does the word \"ramp\" mean?",
    "options": [
-    "Ideas about raising prices",
-    "Stories about inflation",
-    "Plans to cut costs",
-    "Reports of stock splits"
+    "to lower the price of a product",
+    "to increase production quickly",
+    "to move a factory to a new location",
+    "to stop a project temporarily"
    ],
-   "answer": 0,
-   "explain_en": "It refers to topics or trends where companies are increasing the prices of their products.",
-   "explain_zh": "指的是公司提高產品價格的趨勢或主題。",
-   "news_title_en": "Taiwan stocks seen returning to profit-driven gains in Q4 as capital rotates",
-   "id": "2026-10-12-00"
+   "answer": 1,
+   "explain_en": "Here \"ramp\" refers to the rapid increase in production of the 2nm chips.",
+   "explain_zh": "此處的「ramp」指的是 2 奈米晶片的產量快速提升。",
+   "news_title_en": "TSMC posts record Q3 revenue ahead of its Oct 15 earnings call",
+   "id": "2026-10-13-00"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, why are passive‑component names attracting funds?",
+   "question": "What was TSMM's third‑quarter revenue compared to the previous quarter?",
    "options": [
-    "Because AI servers and HPC are boosting demand for high‑end MLCCs and chip resistors",
-    "Because they have the highest dividend yields",
-    "Because they are the largest companies in Taiwan",
-    "Because they are unaffected by US rate policy"
+    "It was 17.62% higher than the previous quarter.",
+    "It was 0.6% lower than the previous quarter.",
+    "It was 54.6% higher than the previous quarter.",
+    "It was the same as the previous quarter."
    ],
    "answer": 0,
-   "explain_en": "The summary says AI servers and high‑performance computing raise demand for those components, making them attractive.",
-   "explain_zh": "摘要指出 AI 伺服器與高效能運算提升了高階 MLCC 與晶片電阻的需求，因而吸引資金。",
-   "news_title_en": "Taiwan stocks seen returning to profit-driven gains in Q4 as capital rotates",
-   "id": "2026-10-12-01"
+   "explain_en": "The summary says third‑quarter revenue was up 17.62% sequentially, meaning compared to the prior quarter.",
+   "explain_zh": "摘要指出第三季營收較前一季成長 17.62%，即較上季高出此比例。",
+   "news_title_en": "TSMC posts record Q3 revenue ahead of its Oct 15 earnings call",
+   "id": "2026-10-13-01"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what is expected to happen to the pace of price increases later in the year?",
+   "options": [
+    "They will moderate",
+    "They will become faster",
+    "They will stay the same",
+    "They will stop completely"
+   ],
+   "answer": 0,
+   "explain_en": "The summary says the pace of increases is expected to moderate from earlier, more aggressive jumps.",
+   "explain_zh": "摘要中指出，價格上漲的速度預計會從之前較激進的漲幅中放緩。",
+   "news_title_en": "Memory contract prices seen rising further this quarter on tight supply",
+   "id": "2026-10-13-02"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"probe\" mean?",
+   "question": "In the summary, what does the word “scope” mean?",
    "options": [
-    "A new product launch",
-    "A financial profit",
-    "A type of computer chip",
-    "A detailed investigation"
+    "the amount of money involved",
+    "the range of activities allowed",
+    "the number of companies involved",
+    "the speed of investment"
+   ],
+   "answer": 1,
+   "explain_en": "Here “scope” refers to the range of activities insurers are allowed to do, i.e., the types of health and wellbeing businesses they can invest in.",
+   "explain_zh": "這裡的「scope」指的是保險公司被允許的投資範圍，也就是可以投資的健康與福祉業務類型。",
+   "news_title_en": "Regulator broadens insurers' scope to invest in \"health and wellbeing\" businesses",
+   "id": "2026-10-13-03"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what percentage of unlisted health‑business targets can insurers now hold?",
+   "options": [
+    "0%",
+    "100%",
+    "50%",
+    "150%"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states insurers may hold up to 100% of unlisted health‑business targets.",
+   "explain_zh": "摘要中說明保險公司現在可以持有未上市健康業務標的的最高比例是 100%。",
+   "news_title_en": "Regulator broadens insurers' scope to invest in \"health and wellbeing\" businesses",
+   "id": "2026-10-13-04"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"payout\" mean as used in the text?",
+   "options": [
+    "A fee charged by the fund manager",
+    "The total value of the fund's assets",
+    "The number of shares issued",
+    "The amount of money paid out to investors"
    ],
    "answer": 3,
-   "explain_en": "Here \"probe\" refers to an official investigation into possible patent infringement.",
-   "explain_zh": "這裡的「probe」指的是對可能的專利侵權進行的官方調查。",
-   "news_title_en": "Foxconn and Taiwan peers named in US ITC Section 337 patent probe",
-   "id": "2026-10-12-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what did Foxconn say about its operations after the USITC investigation started?",
-   "options": [
-    "They continued normally",
-    "They were halted completely",
-    "They were severely disrupted",
-    "They were moved to another country"
-   ],
-   "answer": 0,
-   "explain_en": "Foxconn stated that its operations remain normal, with no material impact on production, shipments, or customer cooperation.",
-   "explain_zh": "富士康表示其營運仍然正常，對產量、出貨或客戶合作沒有實質影響。",
-   "news_title_en": "Foxconn and Taiwan peers named in US ITC Section 337 patent probe",
-   "id": "2026-10-12-03"
+   "explain_en": "In the summary, \"payout\" refers to the cash distribution the ETF gives to its investors.",
+   "explain_zh": "在摘要中，「payout」指的是ETF向投資人發放的現金分配金額。",
+   "news_title_en": "High-dividend ETF 00878 pushes assets to records as payouts climb",
+   "id": "2026-10-13-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"havens\" mean?",
+   "question": "In the summary, what does the word \"burden\" mean?",
    "options": [
-    "New government bonds",
-    "Locations where ships dock",
-    "Places where investors keep money safe",
-    "Types of financial losses"
+    "A heavy weight that is physically carried",
+    "A type of tax form",
+    "A responsibility or duty",
+    "A financial profit"
    ],
    "answer": 2,
-   "explain_en": "Here \"havens\" refers to safe investment options where investors put cash to protect it from market risk.",
-   "explain_zh": "此處的「havens」指的是投資人為了避險而把資金放入的安全投資工具。",
-   "news_title_en": "Money-market funds pull in $153.8bn as investors flee to safety",
-   "id": "2026-10-12-04"
+   "explain_en": "Here \"burden\" refers to the responsibility of paying the tax.",
+   "explain_zh": "此處的「burden」指的是繳稅的責任。",
+   "news_title_en": "Estate-and-gift-tax amendment shifts the tax burden to gift recipients",
+   "id": "2026-10-13-06"
   },
   {
    "type": "comprehension",
-   "question": "How much net inflow did global money‑market funds receive in the week to Oct 7?",
+   "question": "According to the summary, who will now pay the estate and gift tax?",
    "options": [
-    "$200.2 billion",
-    "$153.81 billion",
-    "$10.00 billion",
-    "$5.11 billion"
+    "The deceased's spouse only",
+    "All other heirs together",
+    "The government",
+    "Each gift recipient proportionally"
    ],
-   "answer": 1,
-   "explain_en": "The summary states that global money‑market funds took in $153.81 bn in that week.",
-   "explain_zh": "摘要中說明全球貨幣市場基金在該週淨流入 153.81 億美元。",
-   "news_title_en": "Money-market funds pull in $153.8bn as investors flee to safety",
-   "id": "2026-10-12-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"retreated\" mean?",
-   "options": [
-    "Stayed the same",
-    "Went down after going up",
-    "Moved forward quickly",
-    "Never changed"
-   ],
-   "answer": 1,
-   "explain_en": "The market \"retreated\" after reaching highs, meaning it fell back down.",
-   "explain_zh": "文中「retreated」指的是在創高之後回落，意思是跌回去。",
-   "news_title_en": "Twelve Taiwan equity ETFs hit record size even as the index pulls back",
-   "id": "2026-10-12-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "Which ETF had the highest total‑return gain this year according to the summary?",
-   "options": [
-    "Cathay Sustainability High Dividend (00878)",
-    "Yuanta High Dividend (0056)",
-    "Capital TIP Semiconductor Income (00927)",
-    "All had the same gain"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that 00927 leads with a 107.36% gain, the highest among the listed ETFs.",
-   "explain_zh": "摘要說 00927 的總報酬率為 107.36%，是最高的。",
-   "news_title_en": "Twelve Taiwan equity ETFs hit record size even as the index pulls back",
-   "id": "2026-10-12-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"impasse\" mean?",
-   "options": [
-    "A legal contract",
-    "A complete stop with no progress",
-    "A financial profit",
-    "A type of computer chip"
-   ],
-   "answer": 1,
-   "explain_en": "\"Impasse\" means a situation where no further progress can be made.",
-   "explain_zh": "「impasse」指的是無法再前進的僵局。",
-   "news_title_en": "Qualcomm–Arm licensing fight stalls again as jury fails to reach a verdict",
-   "id": "2026-10-12-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "When is the trial scheduled to resume?",
-   "options": [
-    "Oct 15",
-    "Oct 13",
-    "Oct 12",
-    "Oct 14"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the trial resumes on Tuesday, Oct 13.",
-   "explain_zh": "摘要中說審判將於 10 月 13 日（星期二）恢復。",
-   "news_title_en": "Qualcomm–Arm licensing fight stalls again as jury fails to reach a verdict",
-   "id": "2026-10-12-09"
+   "answer": 3,
+   "explain_en": "The amendment makes each recipient of a gift pay a proportional share of the tax.",
+   "explain_zh": "修正後，贈與的每位受贈人會按比例負擔稅款。",
+   "news_title_en": "Estate-and-gift-tax amendment shifts the tax burden to gift recipients",
+   "id": "2026-10-13-07"
   },
   {
    "type": "vocab",
    "question": "In the summary, what does the word \"headline\" mean when it says \"headline CPI\"?",
    "options": [
-    "A special CPI for executives",
-    "The main or overall CPI figure",
-    "A CPI that only includes food prices",
-    "The title of a newspaper article"
+    "The CPI for the most important companies",
+    "The overall or total CPI figure",
+    "The CPI for the highest inflation month",
+    "The CPI for newspaper prices"
    ],
    "answer": 1,
-   "explain_en": "\"Headline CPI\" refers to the overall consumer price index, the main figure that shows total inflation.",
-   "explain_zh": "「headline CPI」指的是整體消費者物價指數，是顯示總體通膨的主要數值。",
-   "news_title_en": "US September CPI and the Fed meeting headline a pivotal week",
-   "id": "2026-10-12-10"
+   "explain_en": "Here \"headline\" refers to the total consumer price index, not a specific sub‑category.",
+   "explain_zh": "「headline」在此指的是整體消費者物價指數，而不是特定子項目。",
+   "news_title_en": "US September CPI (Wednesday) is the last big data point before the Fed meets",
+   "id": "2026-10-13-08"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, when is the Federal Reserve expected to make its next policy decision?",
+   "question": "According to the summary, which factor is expected to be the main driver of the September headline CPI rise?",
    "options": [
-    "Early September",
-    "Late November",
-    "Mid December",
-    "Late October"
+    "Medical expenses",
+    "Gasoline prices",
+    "Housing costs",
+    "Food prices"
    ],
-   "answer": 3,
-   "explain_en": "The text says the Fed's decision is scheduled for late October, after the September CPI data.",
-   "explain_zh": "文中指出美聯儲的下一次政策決策將在十月下旬，於九月 CPI 資料之後。",
-   "news_title_en": "US September CPI and the Fed meeting headline a pivotal week",
-   "id": "2026-10-12-11"
+   "answer": 1,
+   "explain_en": "The summary states that gasoline is seen as the main driver of the headline rise.",
+   "explain_zh": "摘要中說明汽油價格被視為整體 CPI 上漲的主要動因。",
+   "news_title_en": "US September CPI (Wednesday) is the last big data point before the Fed meets",
+   "id": "2026-10-13-09"
   }
  ]
 }
