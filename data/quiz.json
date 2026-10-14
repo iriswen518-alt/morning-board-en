@@ -1,155 +1,155 @@
 {
- "date": "2026-10-13",
+ "date": "2026-10-14",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"ramp\" mean?",
+   "question": "In the summary, what does the word \"compress\" mean?",
    "options": [
-    "to lower the price of a product",
-    "to increase production quickly",
-    "to move a factory to a new location",
-    "to stop a project temporarily"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"ramp\" refers to the rapid increase in production of the 2nm chips.",
-   "explain_zh": "此處的「ramp」指的是 2 奈米晶片的產量快速提升。",
-   "news_title_en": "TSMC posts record Q3 revenue ahead of its Oct 15 earnings call",
-   "id": "2026-10-13-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was TSMM's third‑quarter revenue compared to the previous quarter?",
-   "options": [
-    "It was 17.62% higher than the previous quarter.",
-    "It was 0.6% lower than the previous quarter.",
-    "It was 54.6% higher than the previous quarter.",
-    "It was the same as the previous quarter."
+    "Make smaller or tighter",
+    "Ignore completely",
+    "Break apart",
+    "Increase quickly"
    ],
    "answer": 0,
-   "explain_en": "The summary says third‑quarter revenue was up 17.62% sequentially, meaning compared to the prior quarter.",
-   "explain_zh": "摘要指出第三季營收較前一季成長 17.62%，即較上季高出此比例。",
-   "news_title_en": "TSMC posts record Q3 revenue ahead of its Oct 15 earnings call",
-   "id": "2026-10-13-01"
+   "explain_en": "Here \"compress gross margin\" means the margin could become smaller or tighter.",
+   "explain_zh": "在文中 \"compress\" 指的是毛利率可能變小或變緊。",
+   "news_title_en": "TSMC's Oct 15 earnings call looms as foreign brokers split on margins vs AI demand",
+   "id": "2026-10-14-00"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what is expected to happen to the pace of price increases later in the year?",
+   "question": "When will TSMC report its third‑quarter results?",
    "options": [
-    "They will moderate",
-    "They will become faster",
-    "They will stay the same",
-    "They will stop completely"
-   ],
-   "answer": 0,
-   "explain_en": "The summary says the pace of increases is expected to moderate from earlier, more aggressive jumps.",
-   "explain_zh": "摘要中指出，價格上漲的速度預計會從之前較激進的漲幅中放緩。",
-   "news_title_en": "Memory contract prices seen rising further this quarter on tight supply",
-   "id": "2026-10-13-02"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word “scope” mean?",
-   "options": [
-    "the amount of money involved",
-    "the range of activities allowed",
-    "the number of companies involved",
-    "the speed of investment"
+    "Nov 1",
+    "Oct 15",
+    "Oct 10",
+    "Sep 30"
    ],
    "answer": 1,
-   "explain_en": "Here “scope” refers to the range of activities insurers are allowed to do, i.e., the types of health and wellbeing businesses they can invest in.",
-   "explain_zh": "這裡的「scope」指的是保險公司被允許的投資範圍，也就是可以投資的健康與福祉業務類型。",
-   "news_title_en": "Regulator broadens insurers' scope to invest in \"health and wellbeing\" businesses",
-   "id": "2026-10-13-03"
+   "explain_en": "The summary states that TSMC reports its third‑quarter results on Oct 15.",
+   "explain_zh": "摘要中說明台積電的第三季財報將於 10 月 15 日公布。",
+   "news_title_en": "TSMC's Oct 15 earnings call looms as foreign brokers split on margins vs AI demand",
+   "id": "2026-10-14-01"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what percentage of unlisted health‑business targets can insurers now hold?",
+   "question": "According to the summary, why is the market for DRAM and NAND Flash undersupplied?",
    "options": [
-    "0%",
-    "100%",
-    "50%",
-    "150%"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states insurers may hold up to 100% of unlisted health‑business targets.",
-   "explain_zh": "摘要中說明保險公司現在可以持有未上市健康業務標的的最高比例是 100%。",
-   "news_title_en": "Regulator broadens insurers' scope to invest in \"health and wellbeing\" businesses",
-   "id": "2026-10-13-04"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the word \"payout\" mean as used in the text?",
-   "options": [
-    "A fee charged by the fund manager",
-    "The total value of the fund's assets",
-    "The number of shares issued",
-    "The amount of money paid out to investors"
+    "Because AI‑server demand has decreased sharply",
+    "Because manufacturers are focusing on low‑cost consumer products",
+    "Because supply chains have been disrupted by natural disasters",
+    "Because makers are prioritizing advanced‑process capacity for server products"
    ],
    "answer": 3,
-   "explain_en": "In the summary, \"payout\" refers to the cash distribution the ETF gives to its investors.",
-   "explain_zh": "在摘要中，「payout」指的是ETF向投資人發放的現金分配金額。",
-   "news_title_en": "High-dividend ETF 00878 pushes assets to records as payouts climb",
-   "id": "2026-10-13-05"
+   "explain_en": "The text says makers keep prioritizing advanced‑process capacity for server products, leaving the market undersupplied.",
+   "explain_zh": "文中說廠商優先投入先進製程產能給伺服器產品，導致市場供不應求。",
+   "news_title_en": "TrendForce sees memory contract prices still climbing in Q4 on AI-server demand",
+   "id": "2026-10-14-02"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"burden\" mean?",
+   "question": "In the summary, what does the word \"phasing\" mean?",
    "options": [
-    "A heavy weight that is physically carried",
-    "A type of tax form",
-    "A responsibility or duty",
-    "A financial profit"
+    "Stopping something completely",
+    "Doing something all at once",
+    "Doing something incorrectly",
+    "Doing something gradually over time"
+   ],
+   "answer": 3,
+   "explain_en": "\"Phasing\" means implementing something step by step, not all at once.",
+   "explain_zh": "「phasing」指的是逐步、分階段地推行，而不是一次完成。",
+   "news_title_en": "FSC rolls out a package of 2026 securities-market reforms",
+   "id": "2026-10-14-03"
+  },
+  {
+   "type": "comprehension",
+   "question": "When does the electronic filing for treasury‑share buybacks start?",
+   "options": [
+    "March 31, 2026",
+    "January 1, 2026",
+    "December 31, 2025",
+    "May 1, 2026"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that electronic filing for treasury‑share buybacks begins on May 1.",
+   "explain_zh": "摘要中說明，從 5 月 1 日開始使用電子方式申報庫藏股回購。",
+   "news_title_en": "FSC rolls out a package of 2026 securities-market reforms",
+   "id": "2026-10-14-04"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"underscores\" mean?",
+   "options": [
+    "shows clearly",
+    "calculates",
+    "ignores",
+    "hides"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"underscores\" means that the higher payout clearly shows steady retail demand for dividend products.",
+   "explain_zh": "在此句中 \"underscores\" 表示「清楚顯示」穩定的散戶對股息商品的需求。",
+   "news_title_en": "Cathay 00878 lifts payout as its investor base tops 1.7 million",
+   "id": "2026-10-14-05"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many investors does the Cathay Sustainability High Dividend ETF have according to the summary?",
+   "options": [
+    "More than 1.7 million",
+    "Around 2 million",
+    "Exactly 1.5 million",
+    "Less than 1 million"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that the beneficiary count exceeds 1.7 million.",
+   "explain_zh": "摘要中提到受益人數已超過 1.7 百萬。",
+   "news_title_en": "Cathay 00878 lifts payout as its investor base tops 1.7 million",
+   "id": "2026-10-14-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, who now pays the estate and gift tax on property given within two years before death?",
+   "options": [
+    "The donor’s spouse",
+    "The government",
+    "The deceased’s other heirs",
+    "Each recipient of the gift proportionally"
+   ],
+   "answer": 3,
+   "explain_en": "The amendment makes each recipient of the gift pay a proportional share of the tax.",
+   "explain_zh": "修正後，所有受贈人會按比例分擔稅金。",
+   "news_title_en": "Estate-and-gift-tax amendment shifts the tax burden to gift recipients",
+   "id": "2026-10-14-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"imminent\" mean?",
+   "options": [
+    "not related",
+    "already happened",
+    "happening soon",
+    "unlikely to happen"
    ],
    "answer": 2,
-   "explain_en": "Here \"burden\" refers to the responsibility of paying the tax.",
-   "explain_zh": "此處的「burden」指的是繳稅的責任。",
-   "news_title_en": "Estate-and-gift-tax amendment shifts the tax burden to gift recipients",
-   "id": "2026-10-13-06"
+   "explain_en": "\"Imminent\" means something is expected to happen very soon.",
+   "explain_zh": "「imminent」表示很快就會發生。",
+   "news_title_en": "US September CPI due today is the last big data point before the Fed",
+   "id": "2026-10-14-08"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, who will now pay the estate and gift tax?",
+   "question": "When is the FOMC meeting scheduled according to the summary?",
    "options": [
-    "The deceased's spouse only",
-    "All other heirs together",
-    "The government",
-    "Each gift recipient proportionally"
-   ],
-   "answer": 3,
-   "explain_en": "The amendment makes each recipient of a gift pay a proportional share of the tax.",
-   "explain_zh": "修正後，贈與的每位受贈人會按比例負擔稅款。",
-   "news_title_en": "Estate-and-gift-tax amendment shifts the tax burden to gift recipients",
-   "id": "2026-10-13-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"headline\" mean when it says \"headline CPI\"?",
-   "options": [
-    "The CPI for the most important companies",
-    "The overall or total CPI figure",
-    "The CPI for the highest inflation month",
-    "The CPI for newspaper prices"
+    "Sep 30",
+    "Oct 27–28",
+    "Oct 14",
+    "Nov 1"
    ],
    "answer": 1,
-   "explain_en": "Here \"headline\" refers to the total consumer price index, not a specific sub‑category.",
-   "explain_zh": "「headline」在此指的是整體消費者物價指數，而不是特定子項目。",
-   "news_title_en": "US September CPI (Wednesday) is the last big data point before the Fed meets",
-   "id": "2026-10-13-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, which factor is expected to be the main driver of the September headline CPI rise?",
-   "options": [
-    "Medical expenses",
-    "Gasoline prices",
-    "Housing costs",
-    "Food prices"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states that gasoline is seen as the main driver of the headline rise.",
-   "explain_zh": "摘要中說明汽油價格被視為整體 CPI 上漲的主要動因。",
-   "news_title_en": "US September CPI (Wednesday) is the last big data point before the Fed meets",
-   "id": "2026-10-13-09"
+   "explain_en": "The summary states the FOMC meeting is on Oct 27–28.",
+   "explain_zh": "摘要中說聯邦公開市場委員會會議安排在 10 月 27–28 日。",
+   "news_title_en": "US September CPI due today is the last big data point before the Fed",
+   "id": "2026-10-14-09"
   }
  ]
 }
