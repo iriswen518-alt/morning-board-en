@@ -1,185 +1,170 @@
 {
- "date": "2026-10-15",
+ "date": "2026-10-16",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"gross margin\" mean?",
+   "question": "In the summary, what does the word \"margin\" mean?",
    "options": [
-    "The amount of profit after all expenses",
-    "The price at which a stock is sold",
-    "The difference between sales price and production cost as a percentage",
-    "The total revenue after taxes"
+    "A type of financial report",
+    "The profit left after costs are deducted",
+    "The distance between two objects",
+    "A legal agreement"
    ],
-   "answer": 2,
-   "explain_en": "Gross margin is the percentage of revenue left after subtracting the cost of goods sold, showing how much profit a company makes on its sales before other expenses.",
-   "explain_zh": "毛利率是指營收扣除製造成本後的百分比，顯示公司在銷售商品前能保留多少利潤。",
-   "news_title_en": "TSMC's Q3 earnings call today in focus as foreign brokers lift targets toward NT$1,800",
-   "id": "2026-10-15-00"
+   "answer": 1,
+   "explain_en": "\"Margin\" here refers to the gross margin, which is the profit remaining after subtracting production costs from revenue.",
+   "explain_zh": "「margin」在此指的是毛利率，即從營收扣除成本後剩下的利潤。",
+   "news_title_en": "TSMC reports record Q3 profit with EPS of NT$29.43 as AI demand drives revenue up 50.9%",
+   "id": "2026-10-16-00"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what is the range of the new price targets set by the six major foreign brokers?",
+   "question": "What was TSMC's earnings per share (EPS) for the third quarter?",
    "options": [
-    "NT$1,200–1,400",
-    "NT$1,600–1,800",
-    "NT$1,400–1,600",
-    "NT$1,800–2,000"
+    "NT$29.43",
+    "NT$1.494 trillion",
+    "NT$763.1 billion",
+    "66.4%"
    ],
-   "answer": 1,
-   "explain_en": "The summary states that six major foreign brokers have raised price targets to roughly NT$1,600–1,800.",
-   "explain_zh": "摘要中提到六家主要外資券商將目標價上調至大約新台幣1,600至1,800元。",
-   "news_title_en": "TSMC's Q3 earnings call today in focus as foreign brokers lift targets toward NT$1,800",
-   "id": "2026-10-15-01"
+   "answer": 0,
+   "explain_en": "The summary states that the EPS was NT$29.43, which is a record high for the company.",
+   "explain_zh": "摘要中說明每股盈餘（EPS）為 NT$29.43，創下新高。",
+   "news_title_en": "TSMC reports record Q3 profit with EPS of NT$29.43 as AI demand drives revenue up 50.9%",
+   "id": "2026-10-16-01"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the phrase \"seller‑driven cycle\" mean?",
+   "question": "In the summary, what does the word \"engine\" mean?",
    "options": [
-    "A period when sellers set higher prices because demand is strong",
-    "A phase where sellers stop producing the product",
-    "A time when sellers are forced to lower prices due to weak demand",
-    "A situation where sellers give away products for free"
+    "a literal machine that moves chips",
+    "the main driving force",
+    "a type of computer chip",
+    "a financial profit margin"
    ],
-   "answer": 0,
-   "explain_en": "It refers to a market condition where sellers can raise prices because demand remains strong.",
-   "explain_zh": "指的是因需求強勁，賣方能夠提高價格的市場狀況。",
-   "news_title_en": "Samsung seeks to double 2027 HBM prices as AI memory stays tight",
-   "id": "2026-10-15-02"
+   "answer": 1,
+   "explain_en": "Here \"engine\" refers to the main driving force behind the chip supply chain, i.e., AI and advanced‑node demand.",
+   "explain_zh": "這裡的「engine」指的是推動晶片供應鏈的主要動力，也就是 AI 與先進製程的需求。",
+   "news_title_en": "TSMC guides Q4 revenue to US$52.3–54.3bn as 2nm climbs toward 8% of wafer sales",
+   "id": "2026-10-16-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, by how much could average HBM prices increase in 2027?",
+   "question": "What percentage of TSMC's fourth‑quarter revenue is expected to come from the 2nm (N2) node?",
    "options": [
-    "About 50%",
-    "About 121%",
-    "About 200%",
-    "They will stay the same"
+    "about 8%",
+    "about 20%",
+    "about 15%",
+    "about 5%"
    ],
-   "answer": 1,
-   "explain_en": "TrendForce projects the average HBM prices could jump about 121% in 2027.",
-   "explain_zh": "TrendForce 預測 2027 年平均 HBM 價格可能上漲約 121%。",
-   "news_title_en": "Samsung seeks to double 2027 HBM prices as AI memory stays tight",
-   "id": "2026-10-15-03"
+   "answer": 0,
+   "explain_en": "The summary states that the 2nm node lifted its revenue contribution to around 8%.",
+   "explain_zh": "摘要中說明 2nm (N2) 製程的營收貢獻約為 8%。",
+   "news_title_en": "TSMC guides Q4 revenue to US$52.3–54.3bn as 2nm climbs toward 8% of wafer sales",
+   "id": "2026-10-16-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"disclosure\" mean?",
+   "question": "In the summary, what does the phrase \"currency-hedging costs\" mean?",
    "options": [
-    "the act of sharing information publicly",
-    "a type of insurance",
-    "the process of buying stocks",
-    "a meeting souvenir"
+    "The fees paid to protect against changes in exchange rates",
+    "The taxes on foreign currency transactions",
+    "The profit earned from foreign investments",
+    "The interest earned on domestic bonds"
    ],
    "answer": 0,
-   "explain_en": "Here, \"disclosure\" refers to giving investors public information about companies.",
-   "explain_zh": "在此文中，「disclosure」指的是向投資人公開公司資訊。",
-   "news_title_en": "FSC unveils eight 2026 reforms spanning securities and insurance",
-   "id": "2026-10-15-04"
+   "explain_en": "It refers to the expenses insurers incur to protect themselves from fluctuations in foreign exchange rates.",
+   "explain_zh": "指的是保險公司為防範匯率波動而支付的費用。",
+   "news_title_en": "Life insurers navigate IFRS 17 and new solvency regime amid FX-hedging cost pressure",
+   "id": "2026-10-16-04"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, when will treasury‑share buyback filings move to electronic submission?",
+   "question": "According to the summary, what did regulators introduce for capital‑adequacy calculations?",
    "options": [
-    "March 31",
-    "December 31",
-    "June 1",
-    "May 1"
+    "A reduction in solvency requirements",
+    "An averaged exchange‑rate basis",
+    "A new tax on hedging",
+    "A fixed exchange‑rate rule"
+   ],
+   "answer": 1,
+   "explain_en": "The regulators applied transitional measures such as an averaged exchange-rate basis for capital‑adequacy calculations.",
+   "explain_zh": "監管機構採用了以平均匯率為基礎的過渡性資本充足率計算方式。",
+   "news_title_en": "Life insurers navigate IFRS 17 and new solvency regime amid FX-hedging cost pressure",
+   "id": "2026-10-16-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"allocation\" mean?",
+   "options": [
+    "Choosing a single product only",
+    "Saving money in a bank account",
+    "Selling assets quickly",
+    "Distributing assets among different investments"
    ],
    "answer": 3,
-   "explain_en": "The text states that electronic filing for treasury‑share buybacks starts on May 1.",
-   "explain_zh": "文中說明，從 5 月 1 日起，庫存股票回購的申請將改為電子提交。",
-   "news_title_en": "FSC unveils eight 2026 reforms spanning securities and insurance",
-   "id": "2026-10-15-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the news summary, what does the term \"trailing yield\" mean?",
-   "options": [
-    "The annual dividend yield calculated from past dividend payments",
-    "The interest rate set by the central bank",
-    "The future expected dividend yield for the next year",
-    "The profit margin of a company"
-   ],
-   "answer": 0,
-   "explain_en": "Trailing yield is the dividend yield based on the most recent dividends paid, not a forecast.",
-   "explain_zh": "追蹤殖利率是根據最近已發放的股息計算的殖利率，而不是未來的預測。",
-   "news_title_en": "High-dividend ETF payouts hit records in 2026, but watch dividend recovery",
-   "id": "2026-10-15-06"
+   "explain_en": "Here \"allocation\" refers to how investors spread their money across various assets.",
+   "explain_zh": "此處的「allocation」指的是投資人將資金分散到不同的投資標的上。",
+   "news_title_en": "High-net-worth wealth AUM nears NT$2.08tn as banks expand private-banking offerings",
+   "id": "2026-10-16-06"
   },
   {
    "type": "comprehension",
-   "question": "Which ETF paid a record NT$0.66 dividend in May, according to the summary?",
+   "question": "According to the summary, by roughly how much did high‑net‑worth AUM increase year‑on‑year?",
    "options": [
-    "Cathay Sustainability High Dividend (00878)",
-    "Capital High Dividend (00919)",
-    "Yuanta High Dividend (0056)",
-    "None of the above"
+    "50%",
+    "25%",
+    "10%",
+    "75%"
    ],
    "answer": 0,
-   "explain_en": "The summary states that Cathay Sustainability High Dividend (00878) paid NT$0.66 in May.",
-   "explain_zh": "摘要中說明，Cathay Sustainability High Dividend (00878) 在五月發放了 NT$0.66 的股息。",
-   "news_title_en": "High-dividend ETF payouts hit records in 2026, but watch dividend recovery",
-   "id": "2026-10-15-07"
+   "explain_en": "The summary states the AUM grew about 50% compared with the previous year.",
+   "explain_zh": "摘要中提到資產規模較去年大約成長了 50%。",
+   "news_title_en": "High-net-worth wealth AUM nears NT$2.08tn as banks expand private-banking offerings",
+   "id": "2026-10-16-07"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"assessment\" mean?",
+   "question": "In the summary, what does the word \"tighten\" mean?",
    "options": [
-    "A formal calculation of how much tax someone must pay",
-    "A legal document that transfers property",
-    "A meeting to discuss inheritance",
-    "A personal opinion about a gift"
+    "make something stricter",
+    "make something faster",
+    "make something cheaper",
+    "make something larger"
    ],
    "answer": 0,
-   "explain_en": "An assessment is the tax authority's calculation of the tax owed, which is sent to the recipient.",
-   "explain_zh": "「assessment」指的是稅務機關計算出的稅額，會直接寄給受贈人。",
-   "news_title_en": "Estate-and-gift-tax amendment makes gift recipients the taxpayers",
-   "id": "2026-10-15-08"
+   "explain_en": "Here \"tighten\" refers to making the anti‑avoidance rules stricter.",
+   "explain_zh": "這裡的「tighten」是指把防止規避的規定變得更嚴格。",
+   "news_title_en": "Legislature overhauls estate-tax basis as Finance Ministry drafts implementing rules",
+   "id": "2026-10-16-08"
   },
   {
    "type": "comprehension",
-   "question": "According to the amendment, who must pay tax on a gift given within two years before death?",
+   "question": "What will the Ministry of Finance do after the president promulgates the changes?",
    "options": [
-    "The deceased’s spouse only",
-    "The government automatically",
-    "The recipient of the gift",
-    "The person who gave the gift"
+    "Step up public guidance",
+    "Close the online filing system",
+    "Eliminate the estate‑tax filing forms",
+    "Raise estate‑tax rates"
    ],
-   "answer": 2,
-   "explain_en": "The amendment makes each recipient the taxpayer for their share of the gift, so they receive the tax assessment.",
-   "explain_zh": "修正案規定，受贈人在兩年內收到的贈與，需由受贈人自行繳稅。",
-   "news_title_en": "Estate-and-gift-tax amendment makes gift recipients the taxpayers",
-   "id": "2026-10-15-09"
+   "answer": 0,
+   "explain_en": "The summary says the ministry will step up public guidance once the president promulgates the changes.",
+   "explain_zh": "摘要中說，總統公布變更後，財政部會加強對外說明。",
+   "news_title_en": "Legislature overhauls estate-tax basis as Finance Ministry drafts implementing rules",
+   "id": "2026-10-16-09"
   },
   {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"tightening\" mean as used in \"Fed tightening\"?",
+   "type": "comprehension",
+   "question": "What is the new 2026 GDP growth forecast announced by Taiwan's central bank?",
    "options": [
-    "Reducing government spending",
-    "Increasing interest rates",
-    "Making loans cheaper",
-    "Lowering taxes"
+    "10.5%",
+    "11.48%",
+    "12.0%",
+    "9.45%"
    ],
    "answer": 1,
-   "explain_en": "Here \"tightening\" refers to the Federal Reserve raising interest rates to slow inflation.",
-   "explain_zh": "此處的「tightening」指的是美聯儲提高利率，以抑制通脹。",
-   "news_title_en": "US September CPI runs hot at 3.7%, core at 2.6%",
-   "id": "2026-10-15-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the year‑on‑year increase in the US consumer price index (CPI) for September?",
-   "options": [
-    "3.7%",
-    "3.5%",
-    "4.0%",
-    "3.6%"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that US consumer prices rose 3.7% year‑on‑year in September.",
-   "explain_zh": "摘要中說明美國九月的消費者物價指數年增率為 3.7%。",
-   "news_title_en": "US September CPI runs hot at 3.7%, core at 2.6%",
-   "id": "2026-10-15-11"
+   "explain_en": "The summary states the forecast was raised to 11.48% for 2026.",
+   "explain_zh": "摘要中說明2026年的GDP成長預測提升至11.48%。",
+   "news_title_en": "Taiwan's central bank holds rates for a 10th straight quarter and lifts growth forecast",
+   "id": "2026-10-16-10"
   }
  ]
 }
