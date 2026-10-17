@@ -1,170 +1,170 @@
 {
- "date": "2026-10-16",
+ "date": "2026-10-17",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"margin\" mean?",
+   "question": "In the summary, what does the word \"bounce\" mean?",
    "options": [
-    "A type of financial report",
-    "The profit left after costs are deducted",
-    "The distance between two objects",
-    "A legal agreement"
+    "A complete stop in trading",
+    "A sudden drop in price",
+    "A quick recovery after a decline",
+    "A steady increase over months"
    ],
-   "answer": 1,
-   "explain_en": "\"Margin\" here refers to the gross margin, which is the profit remaining after subtracting production costs from revenue.",
-   "explain_zh": "「margin」在此指的是毛利率，即從營收扣除成本後剩下的利潤。",
-   "news_title_en": "TSMC reports record Q3 profit with EPS of NT$29.43 as AI demand drives revenue up 50.9%",
-   "id": "2026-10-16-00"
+   "answer": 2,
+   "explain_en": "Here \"bounce\" refers to the index quickly recovering after it fell the previous day.",
+   "explain_zh": "這裡的「bounce」指的是指數在前一天下跌後快速回升。",
+   "news_title_en": "TAIEX rebounds 141 points to 47,111 in technical bounce after prior-day plunge",
+   "id": "2026-10-17-00"
   },
   {
    "type": "comprehension",
-   "question": "What was TSMC's earnings per share (EPS) for the third quarter?",
+   "question": "How many points did the TAIEX index rise intraday before the gains narrowed?",
    "options": [
-    "NT$29.43",
-    "NT$1.494 trillion",
-    "NT$763.1 billion",
-    "66.4%"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that the EPS was NT$29.43, which is a record high for the company.",
-   "explain_zh": "摘要中說明每股盈餘（EPS）為 NT$29.43，創下新高。",
-   "news_title_en": "TSMC reports record Q3 profit with EPS of NT$29.43 as AI demand drives revenue up 50.9%",
-   "id": "2026-10-16-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"engine\" mean?",
-   "options": [
-    "a literal machine that moves chips",
-    "the main driving force",
-    "a type of computer chip",
-    "a financial profit margin"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"engine\" refers to the main driving force behind the chip supply chain, i.e., AI and advanced‑node demand.",
-   "explain_zh": "這裡的「engine」指的是推動晶片供應鏈的主要動力，也就是 AI 與先進製程的需求。",
-   "news_title_en": "TSMC guides Q4 revenue to US$52.3–54.3bn as 2nm climbs toward 8% of wafer sales",
-   "id": "2026-10-16-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "What percentage of TSMC's fourth‑quarter revenue is expected to come from the 2nm (N2) node?",
-   "options": [
-    "about 8%",
-    "about 20%",
-    "about 15%",
-    "about 5%"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that the 2nm node lifted its revenue contribution to around 8%.",
-   "explain_zh": "摘要中說明 2nm (N2) 製程的營收貢獻約為 8%。",
-   "news_title_en": "TSMC guides Q4 revenue to US$52.3–54.3bn as 2nm climbs toward 8% of wafer sales",
-   "id": "2026-10-16-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"currency-hedging costs\" mean?",
-   "options": [
-    "The fees paid to protect against changes in exchange rates",
-    "The taxes on foreign currency transactions",
-    "The profit earned from foreign investments",
-    "The interest earned on domestic bonds"
-   ],
-   "answer": 0,
-   "explain_en": "It refers to the expenses insurers incur to protect themselves from fluctuations in foreign exchange rates.",
-   "explain_zh": "指的是保險公司為防範匯率波動而支付的費用。",
-   "news_title_en": "Life insurers navigate IFRS 17 and new solvency regime amid FX-hedging cost pressure",
-   "id": "2026-10-16-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what did regulators introduce for capital‑adequacy calculations?",
-   "options": [
-    "A reduction in solvency requirements",
-    "An averaged exchange‑rate basis",
-    "A new tax on hedging",
-    "A fixed exchange‑rate rule"
-   ],
-   "answer": 1,
-   "explain_en": "The regulators applied transitional measures such as an averaged exchange-rate basis for capital‑adequacy calculations.",
-   "explain_zh": "監管機構採用了以平均匯率為基礎的過渡性資本充足率計算方式。",
-   "news_title_en": "Life insurers navigate IFRS 17 and new solvency regime amid FX-hedging cost pressure",
-   "id": "2026-10-16-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"allocation\" mean?",
-   "options": [
-    "Choosing a single product only",
-    "Saving money in a bank account",
-    "Selling assets quickly",
-    "Distributing assets among different investments"
+    "about 100 points",
+    "exactly 141 points",
+    "over 1,600 points",
+    "more than 500 points"
    ],
    "answer": 3,
-   "explain_en": "Here \"allocation\" refers to how investors spread their money across various assets.",
-   "explain_zh": "此處的「allocation」指的是投資人將資金分散到不同的投資標的上。",
-   "news_title_en": "High-net-worth wealth AUM nears NT$2.08tn as banks expand private-banking offerings",
-   "id": "2026-10-16-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, by roughly how much did high‑net‑worth AUM increase year‑on‑year?",
-   "options": [
-    "50%",
-    "25%",
-    "10%",
-    "75%"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states the AUM grew about 50% compared with the previous year.",
-   "explain_zh": "摘要中提到資產規模較去年大約成長了 50%。",
-   "news_title_en": "High-net-worth wealth AUM nears NT$2.08tn as banks expand private-banking offerings",
-   "id": "2026-10-16-07"
+   "explain_en": "The summary says the index rallied more than 500 points intraday before the gains narrowed.",
+   "explain_zh": "摘要中說指數在盤中上漲超過 500 點後，漲幅才收斂。",
+   "news_title_en": "TAIEX rebounds 141 points to 47,111 in technical bounce after prior-day plunge",
+   "id": "2026-10-17-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"tighten\" mean?",
+   "question": "In the summary, what does the word \"up-cycle\" mean?",
    "options": [
-    "make something stricter",
-    "make something faster",
-    "make something cheaper",
-    "make something larger"
+    "A legal term for contracts",
+    "A type of computer processor",
+    "A period when prices and demand are falling",
+    "A period when prices and demand are rising"
    ],
-   "answer": 0,
-   "explain_en": "Here \"tighten\" refers to making the anti‑avoidance rules stricter.",
-   "explain_zh": "這裡的「tighten」是指把防止規避的規定變得更嚴格。",
-   "news_title_en": "Legislature overhauls estate-tax basis as Finance Ministry drafts implementing rules",
-   "id": "2026-10-16-08"
+   "answer": 3,
+   "explain_en": "An up-cycle is a phase where market prices and demand are increasing, as described for memory makers.",
+   "explain_zh": "上升循環指的是市場價格與需求同時上升的階段，正如文中所說的記憶體製造商的情況。",
+   "news_title_en": "Server DRAM and NAND Flash contract prices seen rising another 10–20% in Q4 on AI demand",
+   "id": "2026-10-17-02"
   },
   {
    "type": "comprehension",
-   "question": "What will the Ministry of Finance do after the president promulgates the changes?",
+   "question": "According to the summary, by how much are NAND Flash contract prices expected to rise in Q4?",
    "options": [
-    "Step up public guidance",
-    "Close the online filing system",
-    "Eliminate the estate‑tax filing forms",
-    "Raise estate‑tax rates"
+    "15–20%",
+    "20–25%",
+    "5–10%",
+    "10–15%"
    ],
    "answer": 0,
-   "explain_en": "The summary says the ministry will step up public guidance once the president promulgates the changes.",
-   "explain_zh": "摘要中說，總統公布變更後，財政部會加強對外說明。",
-   "news_title_en": "Legislature overhauls estate-tax basis as Finance Ministry drafts implementing rules",
-   "id": "2026-10-16-09"
+   "explain_en": "The summary states NAND Flash prices are projected to increase by 15–20% in the fourth quarter.",
+   "explain_zh": "摘要中提到第四季 NAND Flash 合約價格預計上漲 15% 到 20%。",
+   "news_title_en": "Server DRAM and NAND Flash contract prices seen rising another 10–20% in Q4 on AI demand",
+   "id": "2026-10-17-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"succession‑planning\" mean?",
+   "options": [
+    "Planning how to open new bank branches",
+    "Planning how to invest in stocks",
+    "Planning how to manage family wealth after a death",
+    "Planning how a company will replace its leaders"
+   ],
+   "answer": 2,
+   "explain_en": "\"Succession‑planning\" refers to arranging how family wealth or a business will be handled and transferred after someone dies or retires.",
+   "explain_zh": "「succession‑planning」指的是在有人過世或退休後，安排家族財產或企業的傳承與管理方式。",
+   "news_title_en": "FSC opens family-office advisory beyond Kaohsiung, with 11 banks qualifying in first wave",
+   "id": "2026-10-17-04"
   },
   {
    "type": "comprehension",
-   "question": "What is the new 2026 GDP growth forecast announced by Taiwan's central bank?",
+   "question": "How many banks qualified in the first wave of the family‑office advisory expansion?",
    "options": [
-    "10.5%",
-    "11.48%",
-    "12.0%",
-    "9.45%"
+    "12",
+    "10",
+    "11",
+    "9"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that an initial 11 banks met the application criteria.",
+   "explain_zh": "摘要中提到有 11 家銀行符合申請條件，屬於第一波合格。",
+   "news_title_en": "FSC opens family-office advisory beyond Kaohsiung, with 11 banks qualifying in first wave",
+   "id": "2026-10-17-05"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the deposit share of high‑net‑worth portfolios in August?",
+   "options": [
+    "50%",
+    "40%",
+    "39.4%",
+    "45%"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the deposit share fell to 39.4%, the lowest since April 2022.",
+   "explain_zh": "摘要中說明存款比例下降至 39.4%，為自 2022 年 4 月以來的最低。",
+   "news_title_en": "High-net-worth wealth AUM at Taiwan's banks tops NT$3tn as deposit share falls below 40%",
+   "id": "2026-10-17-06"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"exemption\" mean?",
+   "options": [
+    "A bonus for high income",
+    "A tax that must be paid",
+    "A penalty for late payment",
+    "A rule that reduces the tax amount"
+   ],
+   "answer": 3,
+   "explain_en": "An exemption is a rule that reduces or removes the amount of tax you have to pay.",
+   "explain_zh": "「exemption」指的是減免稅額的規定，讓納稅人可以少付或不付稅。",
+   "news_title_en": "2027 estate-tax exemption set to rise with inflation, easing the burden on wealth transfers",
+   "id": "2026-10-17-07"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, how much could a taxpayer save at a 10% estate‑tax rate after the exemption increase?",
+   "options": [
+    "NT$145,000",
+    "NT$14,800",
+    "NT$1,450,000",
+    "NT$14.78 million"
+   ],
+   "answer": 0,
+   "explain_en": "The text says the higher exemption could save taxpayers about NT$145,000 at a 10% rate.",
+   "explain_zh": "文中說，按10%稅率計算，提升免稅額可為納稅人節省約145,000新台幣。",
+   "news_title_en": "2027 estate-tax exemption set to rise with inflation, easing the burden on wealth transfers",
+   "id": "2026-10-17-08"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"risk-off stance\" mean?",
+   "options": [
+    "A plan to raise interest rates",
+    "A willingness to take more financial risks",
+    "A preference for safer investments",
+    "A strategy to increase borrowing"
+   ],
+   "answer": 2,
+   "explain_en": "A \"risk-off stance\" means investors prefer safer assets and avoid risky ones.",
+   "explain_zh": "「risk-off stance」指的是投資人偏好較安全的資產，避免冒險投資。",
+   "news_title_en": "Fed rate-hike bets build ahead of Oct 28 meeting as September inflation runs hot",
+   "id": "2026-10-17-09"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, why did the market rebuild bets on a Fed rate hike for the Oct 27‑28 meeting?",
+   "options": [
+    "Because the CPI fell below target",
+    "Because the CPI rose 0.6% month‑on‑month",
+    "Because AI spending decreased",
+    "Because the Fed announced a cut in rates"
    ],
    "answer": 1,
-   "explain_en": "The summary states the forecast was raised to 11.48% for 2026.",
-   "explain_zh": "摘要中說明2026年的GDP成長預測提升至11.48%。",
-   "news_title_en": "Taiwan's central bank holds rates for a 10th straight quarter and lifts growth forecast",
-   "id": "2026-10-16-10"
+   "explain_en": "The market rebuilt bets because September's CPI increased 0.6% month‑on‑month, keeping inflation above target.",
+   "explain_zh": "市場重新預期加息是因為 9 月的消費者物價指數環比上升 0.6%，通膨仍高於目標。",
+   "news_title_en": "Fed rate-hike bets build ahead of Oct 28 meeting as September inflation runs hot",
+   "id": "2026-10-17-10"
   }
  ]
 }
