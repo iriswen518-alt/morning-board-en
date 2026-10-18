@@ -1,170 +1,185 @@
 {
- "date": "2026-10-17",
+ "date": "2026-10-18",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"bounce\" mean?",
+   "question": "In the summary, what does the word \"whipsawed\" mean?",
    "options": [
-    "A complete stop in trading",
-    "A sudden drop in price",
-    "A quick recovery after a decline",
-    "A steady increase over months"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"bounce\" refers to the index quickly recovering after it fell the previous day.",
-   "explain_zh": "這裡的「bounce」指的是指數在前一天下跌後快速回升。",
-   "news_title_en": "TAIEX rebounds 141 points to 47,111 in technical bounce after prior-day plunge",
-   "id": "2026-10-17-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many points did the TAIEX index rise intraday before the gains narrowed?",
-   "options": [
-    "about 100 points",
-    "exactly 141 points",
-    "over 1,600 points",
-    "more than 500 points"
-   ],
-   "answer": 3,
-   "explain_en": "The summary says the index rallied more than 500 points intraday before the gains narrowed.",
-   "explain_zh": "摘要中說指數在盤中上漲超過 500 點後，漲幅才收斂。",
-   "news_title_en": "TAIEX rebounds 141 points to 47,111 in technical bounce after prior-day plunge",
-   "id": "2026-10-17-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"up-cycle\" mean?",
-   "options": [
-    "A legal term for contracts",
-    "A type of computer processor",
-    "A period when prices and demand are falling",
-    "A period when prices and demand are rising"
-   ],
-   "answer": 3,
-   "explain_en": "An up-cycle is a phase where market prices and demand are increasing, as described for memory makers.",
-   "explain_zh": "上升循環指的是市場價格與需求同時上升的階段，正如文中所說的記憶體製造商的情況。",
-   "news_title_en": "Server DRAM and NAND Flash contract prices seen rising another 10–20% in Q4 on AI demand",
-   "id": "2026-10-17-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, by how much are NAND Flash contract prices expected to rise in Q4?",
-   "options": [
-    "15–20%",
-    "20–25%",
-    "5–10%",
-    "10–15%"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states NAND Flash prices are projected to increase by 15–20% in the fourth quarter.",
-   "explain_zh": "摘要中提到第四季 NAND Flash 合約價格預計上漲 15% 到 20%。",
-   "news_title_en": "Server DRAM and NAND Flash contract prices seen rising another 10–20% in Q4 on AI demand",
-   "id": "2026-10-17-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"succession‑planning\" mean?",
-   "options": [
-    "Planning how to open new bank branches",
-    "Planning how to invest in stocks",
-    "Planning how to manage family wealth after a death",
-    "Planning how a company will replace its leaders"
-   ],
-   "answer": 2,
-   "explain_en": "\"Succession‑planning\" refers to arranging how family wealth or a business will be handled and transferred after someone dies or retires.",
-   "explain_zh": "「succession‑planning」指的是在有人過世或退休後，安排家族財產或企業的傳承與管理方式。",
-   "news_title_en": "FSC opens family-office advisory beyond Kaohsiung, with 11 banks qualifying in first wave",
-   "id": "2026-10-17-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many banks qualified in the first wave of the family‑office advisory expansion?",
-   "options": [
-    "12",
-    "10",
-    "11",
-    "9"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that an initial 11 banks met the application criteria.",
-   "explain_zh": "摘要中提到有 11 家銀行符合申請條件，屬於第一波合格。",
-   "news_title_en": "FSC opens family-office advisory beyond Kaohsiung, with 11 banks qualifying in first wave",
-   "id": "2026-10-17-05"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the deposit share of high‑net‑worth portfolios in August?",
-   "options": [
-    "50%",
-    "40%",
-    "39.4%",
-    "45%"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the deposit share fell to 39.4%, the lowest since April 2022.",
-   "explain_zh": "摘要中說明存款比例下降至 39.4%，為自 2022 年 4 月以來的最低。",
-   "news_title_en": "High-net-worth wealth AUM at Taiwan's banks tops NT$3tn as deposit share falls below 40%",
-   "id": "2026-10-17-06"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"exemption\" mean?",
-   "options": [
-    "A bonus for high income",
-    "A tax that must be paid",
-    "A penalty for late payment",
-    "A rule that reduces the tax amount"
-   ],
-   "answer": 3,
-   "explain_en": "An exemption is a rule that reduces or removes the amount of tax you have to pay.",
-   "explain_zh": "「exemption」指的是減免稅額的規定，讓納稅人可以少付或不付稅。",
-   "news_title_en": "2027 estate-tax exemption set to rise with inflation, easing the burden on wealth transfers",
-   "id": "2026-10-17-07"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, how much could a taxpayer save at a 10% estate‑tax rate after the exemption increase?",
-   "options": [
-    "NT$145,000",
-    "NT$14,800",
-    "NT$1,450,000",
-    "NT$14.78 million"
-   ],
-   "answer": 0,
-   "explain_en": "The text says the higher exemption could save taxpayers about NT$145,000 at a 10% rate.",
-   "explain_zh": "文中說，按10%稅率計算，提升免稅額可為納稅人節省約145,000新台幣。",
-   "news_title_en": "2027 estate-tax exemption set to rise with inflation, easing the burden on wealth transfers",
-   "id": "2026-10-17-08"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"risk-off stance\" mean?",
-   "options": [
-    "A plan to raise interest rates",
-    "A willingness to take more financial risks",
-    "A preference for safer investments",
-    "A strategy to increase borrowing"
-   ],
-   "answer": 2,
-   "explain_en": "A \"risk-off stance\" means investors prefer safer assets and avoid risky ones.",
-   "explain_zh": "「risk-off stance」指的是投資人偏好較安全的資產，避免冒險投資。",
-   "news_title_en": "Fed rate-hike bets build ahead of Oct 28 meeting as September inflation runs hot",
-   "id": "2026-10-17-09"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, why did the market rebuild bets on a Fed rate hike for the Oct 27‑28 meeting?",
-   "options": [
-    "Because the CPI fell below target",
-    "Because the CPI rose 0.6% month‑on‑month",
-    "Because AI spending decreased",
-    "Because the Fed announced a cut in rates"
+    "Stuck at the same level for a long time",
+    "Moved sharply up and down in a short time",
+    "Was cancelled by the market",
+    "Closed at a record high"
    ],
    "answer": 1,
-   "explain_en": "The market rebuilt bets because September's CPI increased 0.6% month‑on‑month, keeping inflation above target.",
-   "explain_zh": "市場重新預期加息是因為 9 月的消費者物價指數環比上升 0.6%，通膨仍高於目標。",
-   "news_title_en": "Fed rate-hike bets build ahead of Oct 28 meeting as September inflation runs hot",
-   "id": "2026-10-17-10"
+   "explain_en": "The summary says the benchmark \"whipsawed from a 1,656‑point plunge to a technical bounce,\" showing a rapid swing down then up.",
+   "explain_zh": "文中說指數先大跌後又回彈，表示在短時間內劇烈上下波動。",
+   "news_title_en": "Record foreign selling drives a volatile week; overnight futures slide toward 46,140",
+   "id": "2026-10-18-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much net selling did foreign investors record in a single day?",
+   "options": [
+    "About 93,000 lots",
+    "About NT$680 billion",
+    "About NT$302.5 billion",
+    "About NT$46,140"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states foreign investors set a single‑day net‑sell record of about NT$302.5 bn.",
+   "explain_zh": "摘要中提到外資單日淨賣出創下約3025億新台幣的紀錄。",
+   "news_title_en": "Record foreign selling drives a volatile week; overnight futures slide toward 46,140",
+   "id": "2026-10-18-01"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"ramp\" mean as used in the text?",
+   "options": [
+    "to stop operations",
+    "to hire new staff",
+    "to lower prices",
+    "to increase production quickly"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"ramp\" refers to the rapid increase in production of the 2nm chips.",
+   "explain_zh": "此處的「ramp」指的是 2nm 晶片的產量快速提升。",
+   "news_title_en": "TSMC's Q3 revenue estimated near NT$1.49tn, up about 50% and above guidance",
+   "id": "2026-10-18-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "By approximately what percentage did TSMC's third‑quarter revenue grow year over year?",
+   "options": [
+    "70%",
+    "50%",
+    "20%",
+    "30%"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the revenue rose about 50% compared with the previous year.",
+   "explain_zh": "摘要中說明營收較去年同期大約成長 50%。",
+   "news_title_en": "TSMC's Q3 revenue estimated near NT$1.49tn, up about 50% and above guidance",
+   "id": "2026-10-18-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the phrase \"de-risking\" mean?",
+   "options": [
+    "Selling all foreign holdings",
+    "Reducing the amount of risk taken",
+    "Increasing investment in risky assets",
+    "Buying more foreign stocks"
+   ],
+   "answer": 1,
+   "explain_en": "\"De-risking\" means lowering or removing risk, here foreign investors are pulling back to avoid risk.",
+   "explain_zh": "「de-risking」指降低或移除風險，本文指外資為避免風險而減少投資。",
+   "news_title_en": "Record foreign outflow tests market stability as the national team intervenes",
+   "id": "2026-10-18-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much was the single-day foreign net-sell record reported in the summary?",
+   "options": [
+    "NT$3.025 billion",
+    "NT$30.25 billion",
+    "NT$302.5 million",
+    "NT$302.5 billion"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the record was about NT$302.5bn for a single day.",
+   "explain_zh": "摘要中說明單日外資淨賣出創下約新台幣3025億的紀錄。",
+   "news_title_en": "Record foreign outflow tests market stability as the national team intervenes",
+   "id": "2026-10-18-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"custody\" mean?",
+   "options": [
+    "Holding and safekeeping of the gold",
+    "Investing gold in stocks",
+    "Selling the gold to customers",
+    "Borrowing gold from other banks"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"custody\" refers to the bank keeping the physical gold safe for its clients, not selling or investing it.",
+   "explain_zh": "在文中「custody」指的是銀行為客戶保管實體黃金，並非販售或投資。",
+   "news_title_en": "Bank of Taiwan launches high-net-worth services with gold-custody offering",
+   "id": "2026-10-18-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "Which institution is the first to offer designated physical‑gold custody?",
+   "options": [
+    "BankTaiwan Securities",
+    "Bank of Taiwan",
+    "Private banks",
+    "BankTaiwan Life"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that the state‑owned Bank of Taiwan has become the first to provide this service.",
+   "explain_zh": "摘要中說明，國營的台灣銀行是第一家提供指定實體黃金保管服務的機構。",
+   "news_title_en": "Bank of Taiwan launches high-net-worth services with gold-custody offering",
+   "id": "2026-10-18-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"compliance\" mean?",
+   "options": [
+    "Following the rules",
+    "Making a profit",
+    "Paying taxes",
+    "Creating content"
+   ],
+   "answer": 0,
+   "explain_en": "\"Compliance\" refers to obeying or following the tax rules that are set by the authorities.",
+   "explain_zh": "「compliance」指的是遵守稅務規定，依照規則辦事。",
+   "news_title_en": "New tax rules clarify how influencer and platform income is taxed",
+   "id": "2026-10-18-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "Until when is the guidance period for the new tax rules on influencer income?",
+   "options": [
+    "End of June 2026",
+    "End of June 2025",
+    "End of December 2025",
+    "End of December 2026"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states the guidance period runs to the end of June 2026 before full enforcement.",
+   "explain_zh": "摘要中說明指導期間會持續到2026年6月底，之後才全面實施。",
+   "news_title_en": "New tax rules clarify how influencer and platform income is taxed",
+   "id": "2026-10-18-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"benchmark\" mean?",
+   "options": [
+    "A standard or reference rate",
+    "A type of loan",
+    "A government policy",
+    "The highest possible rate"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"benchmark rate\" refers to the standard interest rate used as a reference for other rates.",
+   "explain_zh": "此處的「benchmark」指的是作為其他利率參考的標準利率。",
+   "news_title_en": "Taiwan's central bank holds rates at 2% for a tenth straight quarter, eases housing curbs",
+   "id": "2026-10-18-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What change did the central bank make to the loan-to-value cap for second homes?",
+   "options": [
+    "It kept the cap at 60%",
+    "It raised the cap from 60% to 70%",
+    "It removed the cap completely",
+    "It lowered the cap from 70% to 60%"
+   ],
+   "answer": 1,
+   "explain_en": "The summary says the cap was lifted from 60% to 70%.",
+   "explain_zh": "摘要指出，第二住宅的貸款價值比上限從60%提升至70%。",
+   "news_title_en": "Taiwan's central bank holds rates at 2% for a tenth straight quarter, eases housing curbs",
+   "id": "2026-10-18-11"
   }
  ]
 }
