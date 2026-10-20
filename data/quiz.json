@@ -1,185 +1,170 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"net sellers\" mean?",
+   "question": "In the summary, what does the word \"consolidated\" mean?",
    "options": [
-    "They bought more than they sold",
-    "They sold more than they bought",
-    "They neither bought nor sold",
-    "They traded equal amounts"
-   ],
-   "answer": 1,
-   "explain_en": "\"Net sellers\" are investors who sold more securities than they bought during the period.",
-   "explain_zh": "「net sellers」指的是賣出金額大於買入金額的投資人。",
-   "news_title_en": "TAIEX closes higher as institutions stay net sellers (2026-10-16)",
-   "id": "2026-10-19-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "How much did foreign funds offload on the day?",
-   "options": [
-    "NT$46.1bn",
-    "NT$986.4bn",
-    "NT$67.8bn",
-    "NT$53.4bn"
+    "Combined from all parts of the company",
+    "Separated into different divisions",
+    "Ignored in the report",
+    "Reduced to a smaller amount"
    ],
    "answer": 0,
-   "explain_en": "The summary states foreign funds offloaded NT$46.1bn.",
-   "explain_zh": "摘要中說外資賣出金額為 NT$46.1 億。",
-   "news_title_en": "TAIEX closes higher as institutions stay net sellers (2026-10-16)",
-   "id": "2026-10-19-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the news summary, what does the word \"investigation\" mean?",
-   "options": [
-    "A formal inquiry to find out facts",
-    "A marketing campaign",
-    "A new product launch",
-    "A financial profit report"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"investigation\" refers to a formal inquiry by the USITC to examine the alleged trade violation.",
-   "explain_zh": "在此文中，「investigation」指的是美國國際貿易委員會對涉嫌違規的正式調查。",
-   "news_title_en": "USITC opens Section 337 probe naming Foxconn, Delta and Quanta (2026-10-11)",
-   "id": "2026-10-19-02"
+   "explain_en": "\"Consolidated\" means the revenue is added together from all parts of TSMC.",
+   "explain_zh": "「consolidated」表示把台積電所有部門的營收加總在一起。",
+   "news_title_en": "TSMC's Q3 beat lifts the market's heavyweight",
+   "id": "2026-10-20-00"
   },
   {
    "type": "comprehension",
-   "question": "How much did Delta Electronics' shares fall intraday after the USITC announcement?",
+   "question": "What full‑year USD revenue growth guidance did TSMC raise?",
    "options": [
-    "5.2%",
-    "3.8%",
-    "0.9%",
-    "1.5%"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states that Delta shares fell as much as 3.8% intraday.",
-   "explain_zh": "摘要中提到，Delta 電子的股價在盤中跌幅最高達 3.8%。",
-   "news_title_en": "USITC opens Section 337 probe naming Foxconn, Delta and Quanta (2026-10-11)",
-   "id": "2026-10-19-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"financial resilience\" mean?",
-   "options": [
-    "The number of customers a bank has",
-    "The ability of the financial system to recover quickly from shocks",
-    "The amount of profit banks make each year",
-    "The speed at which transactions are processed"
-   ],
-   "answer": 1,
-   "explain_en": "Financial resilience refers to how well the financial system can withstand and bounce back from problems or crises.",
-   "explain_zh": "金融韌性指的是金融體系面對衝擊時能快速恢復的能力。",
-   "news_title_en": "FSC chief lays out six policy priorities ahead of legislative briefing (2026-10-16)",
-   "id": "2026-10-19-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "When is the large language model for financial business planned to be introduced?",
-   "options": [
-    "In the second quarter of 2026",
-    "In the fourth quarter of 2028",
-    "In the third quarter of 2025",
-    "In the first quarter of 2027"
+    "Around 20%",
+    "Around 60%",
+    "Around 30%",
+    "Around 44%"
    ],
    "answer": 3,
-   "explain_en": "The summary states the model is flagged for Q1 2027, meaning the first quarter of 2027.",
-   "explain_zh": "摘要中提到該大型語言模型預計在 2027 年第一季推出。",
-   "news_title_en": "FSC chief lays out six policy priorities ahead of legislative briefing (2026-10-16)",
-   "id": "2026-10-19-05"
+   "explain_en": "The summary says management raised full‑year USD revenue growth guidance to around 44%.",
+   "explain_zh": "摘要中提到管理層將全年美元營收成長指引提高至約44%。",
+   "news_title_en": "TSMC's Q3 beat lifts the market's heavyweight",
+   "id": "2026-10-20-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"integrated asset‑liability management\" mean?",
+   "question": "What does the word \"up-cycle\" mean as used in the text?",
    "options": [
-    "Combining how a bank handles its own assets and debts with how it manages clients' assets and liabilities",
-    "Only focusing on selling assets to clients",
-    "Ignoring clients' liabilities when managing assets",
-    "Separating a bank's assets from its liabilities completely"
-   ],
-   "answer": 0,
-   "explain_en": "It refers to the bank coordinating both the assets and liabilities of clients together, not just selling products.",
-   "explain_zh": "指的是銀行將客戶的資產與負債一起協調管理，而不是單純賣產品。",
-   "news_title_en": "Taishin wins global wealth awards as HNW clients surge (2026-10-12)",
-   "id": "2026-10-19-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "By what percentage did Taishin Bank's high‑net‑worth client base grow compared with 2025?",
-   "options": [
-    "150%",
-    "186%",
-    "176%",
-    "200%"
+    "A new type of memory chip",
+    "A rise in demand that pushes prices higher",
+    "A government policy change",
+    "A decrease in production capacity"
    ],
    "answer": 1,
-   "explain_en": "The summary states the private‑banking high‑net‑worth client base grew 186% versus 2025.",
-   "explain_zh": "摘要中說明高淨值客戶基數較2025年成長了186%。",
-   "news_title_en": "Taishin wins global wealth awards as HNW clients surge (2026-10-12)",
-   "id": "2026-10-19-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"folded back into the estate\" mean?",
-   "options": [
-    "Saved for future use by the heirs",
-    "Removed from the estate and given to the government",
-    "Added again to the total value of the estate for tax purposes",
-    "Ignored by the tax authorities"
-   ],
-   "answer": 2,
-   "explain_en": "It means the gifted property is counted again as part of the deceased's estate when calculating tax.",
-   "explain_zh": "「folded back into the estate」指的是把贈與的財產重新算入遺產總額，以計算遺產稅。",
-   "news_title_en": "Legislature overhauls estate tax on gifts to spouses before death",
-   "id": "2026-10-19-08"
+   "explain_en": "In the article, \"up-cycle\" refers to a period when demand and prices are increasing, especially for memory products.",
+   "explain_zh": "在本文中，「up-cycle」指的是需求上升、價格上漲的階段，特別是記憶體產品。",
+   "news_title_en": "Memory up-cycle accelerates as capacity shifts to HBM",
+   "id": "2026-10-20-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the new rule, who pays the estate tax on a gift to a spouse made within two years before death?",
+   "question": "Which Taiwanese memory companies did Morgan Stanley upgrade according to the summary?",
    "options": [
-    "The spouse who receives the gift",
-    "The Ministry of Finance",
-    "The government automatically pays it",
-    "The deceased’s children"
-   ],
-   "answer": 0,
-   "explain_en": "The summary says each recipient now pays a proportional share under the \"recipient pays\" principle.",
-   "explain_zh": "根據摘要，受贈配偶須依「受贈人負擔」原則，按比例繳納遺產稅。",
-   "news_title_en": "Legislature overhauls estate tax on gifts to spouses before death",
-   "id": "2026-10-19-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the sentence \"powered by AI‑driven exports,\" what does the word \"powered\" mean?",
-   "options": [
-    "measured or calculated",
-    "blocked or stopped",
-    "caused or driven by",
-    "ignored or overlooked"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"powered\" means that AI‑driven exports are the main cause of the growth.",
-   "explain_zh": "這裡的「powered」指的是 AI 驅動的出口是成長的主要原因。",
-   "news_title_en": "DGBAS lifts 2026 growth forecast to 11.05%, strongest in ~40 years",
-   "id": "2026-10-19-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the revised growth rate for the second quarter?",
-   "options": [
-    "6.04%",
-    "11.05%",
-    "14.15%",
-    "12.92%"
+    "TSMC, UMC, MediaTek and Foxconn",
+    "Acer, Asus, Gigabyte and MSI",
+    "Delta Electronics, Quanta, Wistron and Compal",
+    "Nanya, Winbond, Macronix and PSMC"
    ],
    "answer": 3,
-   "explain_en": "The summary states the second‑quarter growth was revised up to 12.92%.",
-   "explain_zh": "摘要中說第二季成長率已修正為 12.92%。",
-   "news_title_en": "DGBAS lifts 2026 growth forecast to 11.05%, strongest in ~40 years",
-   "id": "2026-10-19-11"
+   "explain_en": "The summary states that Morgan Stanley upgraded Taiwan memory names Nanya, Winbond, Macronix and PSMC due to the ongoing shortage.",
+   "explain_zh": "摘要中提到，因持續短缺，摩根士丹利將台灣記憶體公司 Nanya、Winbond、Macronix 和 PSMC 升級。",
+   "news_title_en": "Memory up-cycle accelerates as capacity shifts to HBM",
+   "id": "2026-10-20-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"custody\" mean?",
+   "options": [
+    "A legal trial for a criminal case",
+    "A government agency",
+    "A type of financial profit",
+    "Keeping and protecting assets for someone else"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"custody\" refers to the service of holding and safeguarding virtual assets for clients.",
+   "explain_zh": "在此文中，「custody」指的是為客戶保管與保護虛擬資產的服務。",
+   "news_title_en": "FSC outlines six priorities in Legislative report",
+   "id": "2026-10-20-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "When is the financial‑industry large language model expected to be launched?",
+   "options": [
+    "Q1 2028",
+    "Q1 2025",
+    "Q1 2026",
+    "Q1 2027"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the model is slated for the first quarter of 2027.",
+   "explain_zh": "摘要中說明該大型語言模型預計在2027年第一季推出。",
+   "news_title_en": "FSC outlines six priorities in Legislative report",
+   "id": "2026-10-20-05"
+  },
+  {
+   "type": "comprehension",
+   "question": "On which date did Taishin Bank announce its awards?",
+   "options": [
+    "Nov 12",
+    "Oct 12",
+    "Sep 30",
+    "Oct 10"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that Taishin Bank announced the awards on Oct 12.",
+   "explain_zh": "摘要中說明台新銀行於10月12日宣布獲獎。",
+   "news_title_en": "Taishin Bank wins PBI Global Wealth Awards",
+   "id": "2026-10-20-06"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the phrase \"tightening bias\" mean?",
+   "options": [
+    "A neutral stance on rates",
+    "A tendency to lower interest rates",
+    "A mistake in policy",
+    "A tendency to raise interest rates"
+   ],
+   "answer": 3,
+   "explain_en": "It means the central bank is more likely to increase rates.",
+   "explain_zh": "表示央行較傾向提高利率。",
+   "news_title_en": "Central bank holds at 2% but leans hawkish",
+   "id": "2026-10-20-07"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many consecutive quarters has Taiwan's central bank kept its policy rate unchanged?",
+   "options": [
+    "Ten quarters",
+    "Eight quarters",
+    "Eleven quarters",
+    "Nine quarters"
+   ],
+   "answer": 0,
+   "explain_en": "The summary says it is a tenth straight quarter on hold.",
+   "explain_zh": "摘要中說已連續第十個季度維持不變。",
+   "news_title_en": "Central bank holds at 2% but leans hawkish",
+   "id": "2026-10-20-08"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"retreat\" mean?",
+   "options": [
+    "A decrease or pullback",
+    "A new investment",
+    "A rise in stock prices",
+    "A government policy"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"retreat\" refers to a decline or pullback in Wall Street prices.",
+   "explain_zh": "此處的「retreat」指的是華爾街股價的下跌或回撤。",
+   "news_title_en": "Wall Street pullback and Fed watch set a cautious tone",
+   "id": "2026-10-20-09"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, which sector's shares slid and created a cautious backdrop for Asian markets?",
+   "options": [
+    "Technology",
+    "Utilities",
+    "Healthcare",
+    "Energy"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that US technology shares slid, setting a cautious tone for Asian markets.",
+   "explain_zh": "摘要中提到美國科技股下跌，形成了亞洲市場的謹慎氛圍。",
+   "news_title_en": "Wall Street pullback and Fed watch set a cautious tone",
+   "id": "2026-10-20-10"
   }
  ]
 }
