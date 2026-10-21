@@ -1,170 +1,125 @@
 {
- "date": "2026-10-20",
+ "date": "2026-10-21",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"consolidated\" mean?",
+   "question": "In the summary, what does the word \"bellwether\" mean?",
    "options": [
-    "Combined from all parts of the company",
-    "Separated into different divisions",
-    "Ignored in the report",
-    "Reduced to a smaller amount"
+    "A warning sign of market decline",
+    "A type of financial report released quarterly",
+    "A company that leads or predicts the direction of an industry",
+    "A special tax for technology firms"
+   ],
+   "answer": 2,
+   "explain_en": "The text calls TSMC the \"chipmaking bellwether,\" meaning it is a leading indicator for the chip sector.",
+   "explain_zh": "文中說 TSMC 是 \"chipmaking bellwether\"，指的是它是晶片產業的領頭羊或指標。",
+   "news_title_en": "Taiwan stocks tumble 529 points as TSMC slips toward NT$2,400",
+   "id": "2026-10-21-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many points did the TAIEX drop on Oct 20?",
+   "options": [
+    "529.15 points",
+    "800 points",
+    "1.13 points",
+    "387.88 points"
    ],
    "answer": 0,
-   "explain_en": "\"Consolidated\" means the revenue is added together from all parts of TSMC.",
-   "explain_zh": "「consolidated」表示把台積電所有部門的營收加總在一起。",
-   "news_title_en": "TSMC's Q3 beat lifts the market's heavyweight",
-   "id": "2026-10-20-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What full‑year USD revenue growth guidance did TSMC raise?",
-   "options": [
-    "Around 20%",
-    "Around 60%",
-    "Around 30%",
-    "Around 44%"
-   ],
-   "answer": 3,
-   "explain_en": "The summary says management raised full‑year USD revenue growth guidance to around 44%.",
-   "explain_zh": "摘要中提到管理層將全年美元營收成長指引提高至約44%。",
-   "news_title_en": "TSMC's Q3 beat lifts the market's heavyweight",
-   "id": "2026-10-20-01"
+   "explain_en": "The summary states the benchmark TAIEX fell 529.15 points, or 1.13%, on Oct 20.",
+   "explain_zh": "摘要中說明台灣指數在 10 月 20 日下跌了 529.15 點（跌幅 1.13%）。",
+   "news_title_en": "Taiwan stocks tumble 529 points as TSMC slips toward NT$2,400",
+   "id": "2026-10-21-01"
   },
   {
    "type": "vocab",
-   "question": "What does the word \"up-cycle\" mean as used in the text?",
+   "question": "In the summary, what does the word \"bucked\" mean?",
    "options": [
-    "A new type of memory chip",
-    "A rise in demand that pushes prices higher",
-    "A government policy change",
-    "A decrease in production capacity"
+    "Increased rapidly",
+    "Stayed the same",
+    "Went down sharply",
+    "Moved in the opposite direction"
+   ],
+   "answer": 3,
+   "explain_en": "\"Bucked\" means it moved opposite to the overall market trend, gaining while others fell.",
+   "explain_zh": "「bucked」表示與整體市場走勢相反，其他下跌時它卻上漲。",
+   "news_title_en": "Wistron bucks the sell-off as AI-server names stay resilient",
+   "id": "2026-10-21-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "On October 20, how did Wistron's stock perform compared to the overall Taiwan market?",
+   "options": [
+    "It rose about 5% and the market also rose over 500 points",
+    "It stayed flat while the market fell over 500 points",
+    "It rose about 5% while the market fell over 500 points",
+    "It fell about 5% while the market rose over 500 points"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states Wistron gained about 5% while the broader market sank more than 500 points.",
+   "explain_zh": "摘要說明，Wistron 上漲約 5%，而整體台灣市場下跌超過 500 點。",
+   "news_title_en": "Wistron bucks the sell-off as AI-server names stay resilient",
+   "id": "2026-10-21-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"drag\" mean?",
+   "options": [
+    "to stay the same",
+    "to pull down or reduce",
+    "to help improve",
+    "to increase quickly"
    ],
    "answer": 1,
-   "explain_en": "In the article, \"up-cycle\" refers to a period when demand and prices are increasing, especially for memory products.",
-   "explain_zh": "在本文中，「up-cycle」指的是需求上升、價格上漲的階段，特別是記憶體產品。",
-   "news_title_en": "Memory up-cycle accelerates as capacity shifts to HBM",
-   "id": "2026-10-20-02"
+   "explain_en": "Here \"drag\" means to pull down or reduce, describing how financial shares lowered the market.",
+   "explain_zh": "這裡的「drag」指的是拉低或減少，說明金融股讓市場下跌。",
+   "news_title_en": "Financial heavyweights lead Taiwan's market lower",
+   "id": "2026-10-21-04"
   },
   {
    "type": "comprehension",
-   "question": "Which Taiwanese memory companies did Morgan Stanley upgrade according to the summary?",
+   "question": "On October 20, why did the Taiwan market fall?",
    "options": [
-    "TSMC, UMC, MediaTek and Foxconn",
-    "Acer, Asus, Gigabyte and MSI",
-    "Delta Electronics, Quanta, Wistron and Compal",
-    "Nanya, Winbond, Macronix and PSMC"
+    "Because of higher interest rates in the US",
+    "Because of a rise in small- and mid-cap stocks",
+    "Because of heavy foreign selling and a softer local currency",
+    "Because of strong foreign buying"
    ],
-   "answer": 3,
-   "explain_en": "The summary states that Morgan Stanley upgraded Taiwan memory names Nanya, Winbond, Macronix and PSMC due to the ongoing shortage.",
-   "explain_zh": "摘要中提到，因持續短缺，摩根士丹利將台灣記憶體公司 Nanya、Winbond、Macronix 和 PSMC 升級。",
-   "news_title_en": "Memory up-cycle accelerates as capacity shifts to HBM",
-   "id": "2026-10-20-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"custody\" mean?",
-   "options": [
-    "A legal trial for a criminal case",
-    "A government agency",
-    "A type of financial profit",
-    "Keeping and protecting assets for someone else"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"custody\" refers to the service of holding and safeguarding virtual assets for clients.",
-   "explain_zh": "在此文中，「custody」指的是為客戶保管與保護虛擬資產的服務。",
-   "news_title_en": "FSC outlines six priorities in Legislative report",
-   "id": "2026-10-20-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "When is the financial‑industry large language model expected to be launched?",
-   "options": [
-    "Q1 2028",
-    "Q1 2025",
-    "Q1 2026",
-    "Q1 2027"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the model is slated for the first quarter of 2027.",
-   "explain_zh": "摘要中說明該大型語言模型預計在2027年第一季推出。",
-   "news_title_en": "FSC outlines six priorities in Legislative report",
-   "id": "2026-10-20-05"
-  },
-  {
-   "type": "comprehension",
-   "question": "On which date did Taishin Bank announce its awards?",
-   "options": [
-    "Nov 12",
-    "Oct 12",
-    "Sep 30",
-    "Oct 10"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states that Taishin Bank announced the awards on Oct 12.",
-   "explain_zh": "摘要中說明台新銀行於10月12日宣布獲獎。",
-   "news_title_en": "Taishin Bank wins PBI Global Wealth Awards",
-   "id": "2026-10-20-06"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the phrase \"tightening bias\" mean?",
-   "options": [
-    "A neutral stance on rates",
-    "A tendency to lower interest rates",
-    "A mistake in policy",
-    "A tendency to raise interest rates"
-   ],
-   "answer": 3,
-   "explain_en": "It means the central bank is more likely to increase rates.",
-   "explain_zh": "表示央行較傾向提高利率。",
-   "news_title_en": "Central bank holds at 2% but leans hawkish",
-   "id": "2026-10-20-07"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many consecutive quarters has Taiwan's central bank kept its policy rate unchanged?",
-   "options": [
-    "Ten quarters",
-    "Eight quarters",
-    "Eleven quarters",
-    "Nine quarters"
-   ],
-   "answer": 0,
-   "explain_en": "The summary says it is a tenth straight quarter on hold.",
-   "explain_zh": "摘要中說已連續第十個季度維持不變。",
-   "news_title_en": "Central bank holds at 2% but leans hawkish",
-   "id": "2026-10-20-08"
+   "answer": 2,
+   "explain_en": "The summary states the market fell due to heavy foreign selling and a softer local currency, which hurt sentiment.",
+   "explain_zh": "摘要說明市場因外資大量拋售與本幣走軟，情緒受壓而下跌。",
+   "news_title_en": "Financial heavyweights lead Taiwan's market lower",
+   "id": "2026-10-21-05"
   },
   {
    "type": "vocab",
    "question": "In the summary, what does the word \"retreat\" mean?",
    "options": [
-    "A decrease or pullback",
-    "A new investment",
+    "A withdrawal or selling off",
     "A rise in stock prices",
-    "A government policy"
+    "A move to buy more stocks",
+    "A new investment strategy"
    ],
    "answer": 0,
-   "explain_en": "Here \"retreat\" refers to a decline or pullback in Wall Street prices.",
-   "explain_zh": "此處的「retreat」指的是華爾街股價的下跌或回撤。",
-   "news_title_en": "Wall Street pullback and Fed watch set a cautious tone",
-   "id": "2026-10-20-09"
+   "explain_en": "Here \"retreat\" refers to foreign investors pulling back and selling their Taiwan shares.",
+   "explain_zh": "在此文中「retreat」指的是外資撤回、拋售台灣股票的行為。",
+   "news_title_en": "Foreign funds extend aggressive retreat from Taiwan equities",
+   "id": "2026-10-21-06"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, which sector's shares slid and created a cautious backdrop for Asian markets?",
+   "question": "How much did foreign investors sell in net value on Oct 20 according to one tally?",
    "options": [
-    "Technology",
-    "Utilities",
-    "Healthcare",
-    "Energy"
+    "About NT$2.04 trillion",
+    "About NT$76.7 billion",
+    "About NT$838 billion",
+    "About NT$79.5 billion"
    ],
-   "answer": 0,
-   "explain_en": "The summary states that US technology shares slid, setting a cautious tone for Asian markets.",
-   "explain_zh": "摘要中提到美國科技股下跌，形成了亞洲市場的謹慎氛圍。",
-   "news_title_en": "Wall Street pullback and Fed watch set a cautious tone",
-   "id": "2026-10-20-10"
+   "answer": 3,
+   "explain_en": "One tally reported the net sale as near NT$79.5 billion on Oct 20.",
+   "explain_zh": "根據其中一個統計，外資在10月20日的淨賣出金額約為795億新台幣。",
+   "news_title_en": "Foreign funds extend aggressive retreat from Taiwan equities",
+   "id": "2026-10-21-07"
   }
  ]
 }
