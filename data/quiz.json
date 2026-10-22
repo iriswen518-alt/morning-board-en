@@ -1,125 +1,185 @@
 {
- "date": "2026-10-21",
+ "date": "2026-10-22",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"bellwether\" mean?",
+   "question": "In the summary, what does the word \"reclaiming\" mean?",
    "options": [
-    "A warning sign of market decline",
-    "A type of financial report released quarterly",
-    "A company that leads or predicts the direction of an industry",
-    "A special tax for technology firms"
+    "Losing value quickly",
+    "Selling all holdings",
+    "Going back to a previous level",
+    "Buying new stocks"
    ],
    "answer": 2,
-   "explain_en": "The text calls TSMC the \"chipmaking bellwether,\" meaning it is a leading indicator for the chip sector.",
-   "explain_zh": "文中說 TSMC 是 \"chipmaking bellwether\"，指的是它是晶片產業的領頭羊或指標。",
-   "news_title_en": "Taiwan stocks tumble 529 points as TSMC slips toward NT$2,400",
-   "id": "2026-10-21-00"
+   "explain_en": "\"Reclaiming\" means the index went back up to the 46,800 level after having been below it.",
+   "explain_zh": "「reclaiming」在此指的是指數回到先前的 46,800 點位。",
+   "news_title_en": "Taiwan stocks rebound 595 points as TSMC firms into futures settlement",
+   "id": "2026-10-22-00"
   },
   {
    "type": "comprehension",
-   "question": "How many points did the TAIEX drop on Oct 20?",
+   "question": "What was the exact closing level of the TAIEX on Oct 21?",
    "options": [
-    "529.15 points",
-    "800 points",
-    "1.13 points",
-    "387.88 points"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states the benchmark TAIEX fell 529.15 points, or 1.13%, on Oct 20.",
-   "explain_zh": "摘要中說明台灣指數在 10 月 20 日下跌了 529.15 點（跌幅 1.13%）。",
-   "news_title_en": "Taiwan stocks tumble 529 points as TSMC slips toward NT$2,400",
-   "id": "2026-10-21-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"bucked\" mean?",
-   "options": [
-    "Increased rapidly",
-    "Stayed the same",
-    "Went down sharply",
-    "Moved in the opposite direction"
-   ],
-   "answer": 3,
-   "explain_en": "\"Bucked\" means it moved opposite to the overall market trend, gaining while others fell.",
-   "explain_zh": "「bucked」表示與整體市場走勢相反，其他下跌時它卻上漲。",
-   "news_title_en": "Wistron bucks the sell-off as AI-server names stay resilient",
-   "id": "2026-10-21-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "On October 20, how did Wistron's stock perform compared to the overall Taiwan market?",
-   "options": [
-    "It rose about 5% and the market also rose over 500 points",
-    "It stayed flat while the market fell over 500 points",
-    "It rose about 5% while the market fell over 500 points",
-    "It fell about 5% while the market rose over 500 points"
+    "46,800.00",
+    "47,254.93",
+    "46,887.77",
+    "45,900.00"
    ],
    "answer": 2,
-   "explain_en": "The summary states Wistron gained about 5% while the broader market sank more than 500 points.",
-   "explain_zh": "摘要說明，Wistron 上漲約 5%，而整體台灣市場下跌超過 500 點。",
-   "news_title_en": "Wistron bucks the sell-off as AI-server names stay resilient",
-   "id": "2026-10-21-03"
+   "explain_en": "The summary states the TAIEX closed at 46,887.77 on Oct 21.",
+   "explain_zh": "摘要中說明台股指數在 10 月 21 日收盤於 46,887.77 點。",
+   "news_title_en": "Taiwan stocks rebound 595 points as TSMC firms into futures settlement",
+   "id": "2026-10-22-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"drag\" mean?",
+   "question": "In the summary, what does the word \"outstrips\" mean?",
    "options": [
-    "to stay the same",
-    "to pull down or reduce",
-    "to help improve",
-    "to increase quickly"
+    "is equal to",
+    "exceeds",
+    "is unrelated to",
+    "is slower than"
    ],
    "answer": 1,
-   "explain_en": "Here \"drag\" means to pull down or reduce, describing how financial shares lowered the market.",
-   "explain_zh": "這裡的「drag」指的是拉低或減少，說明金融股讓市場下跌。",
-   "news_title_en": "Financial heavyweights lead Taiwan's market lower",
-   "id": "2026-10-21-04"
+   "explain_en": "\"Outstrips\" means to go beyond or exceed something, here AI demand exceeds supply.",
+   "explain_zh": "「outstrips」表示超過或勝過，這裡指 AI 需求超過供應。",
+   "news_title_en": "TSMC lifts full-year outlook as AI demand outstrips supply",
+   "id": "2026-10-22-02"
   },
   {
    "type": "comprehension",
-   "question": "On October 20, why did the Taiwan market fall?",
+   "question": "What revenue range did TSMC guide for the fourth quarter in US dollars?",
    "options": [
-    "Because of higher interest rates in the US",
-    "Because of a rise in small- and mid-cap stocks",
-    "Because of heavy foreign selling and a softer local currency",
-    "Because of strong foreign buying"
+    "US$60–64bn",
+    "US$40–42bn",
+    "US$45–47bn",
+    "US$52.3–54.3bn"
    ],
-   "answer": 2,
-   "explain_en": "The summary states the market fell due to heavy foreign selling and a softer local currency, which hurt sentiment.",
-   "explain_zh": "摘要說明市場因外資大量拋售與本幣走軟，情緒受壓而下跌。",
-   "news_title_en": "Financial heavyweights lead Taiwan's market lower",
-   "id": "2026-10-21-05"
+   "answer": 3,
+   "explain_en": "The summary states TSMC guided fourth‑quarter revenue to US$52.3–54.3 billion.",
+   "explain_zh": "摘要中說明台積電預估第四季營收為 52.3–54.3 億美元。",
+   "news_title_en": "TSMC lifts full-year outlook as AI demand outstrips supply",
+   "id": "2026-10-22-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"retreat\" mean?",
+   "question": "In the summary, what does the word \"custody\" mean?",
    "options": [
-    "A withdrawal or selling off",
-    "A rise in stock prices",
-    "A move to buy more stocks",
-    "A new investment strategy"
+    "Legal ownership of a company",
+    "A government regulation",
+    "A type of financial loan",
+    "Keeping and protecting assets for someone else"
    ],
-   "answer": 0,
-   "explain_en": "Here \"retreat\" refers to foreign investors pulling back and selling their Taiwan shares.",
-   "explain_zh": "在此文中「retreat」指的是外資撤回、拋售台灣股票的行為。",
-   "news_title_en": "Foreign funds extend aggressive retreat from Taiwan equities",
-   "id": "2026-10-21-06"
+   "answer": 3,
+   "explain_en": "\"Custody\" here refers to the service of holding and safeguarding virtual assets for clients.",
+   "explain_zh": "「custody」在此指的是為客戶保管與保護虛擬資產的服務。",
+   "news_title_en": "FSC lays out six policy priorities, plans financial-sector LLM",
+   "id": "2026-10-22-04"
   },
   {
    "type": "comprehension",
-   "question": "How much did foreign investors sell in net value on Oct 20 according to one tally?",
+   "question": "When does the regulator plan to release the first version of the finance‑knowledge large language model (FinLLM)?",
    "options": [
-    "About NT$2.04 trillion",
-    "About NT$76.7 billion",
-    "About NT$838 billion",
-    "About NT$79.5 billion"
+    "Fourth quarter of 2028",
+    "First quarter of 2027",
+    "Second quarter of 2026",
+    "Third quarter of 2025"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the FinLLM will be released in the first quarter of 2027.",
+   "explain_zh": "摘要中說明 FinLLM 將於 2027 年第一季推出。",
+   "news_title_en": "FSC lays out six policy priorities, plans financial-sector LLM",
+   "id": "2026-10-22-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"asset‑management hub\" mean?",
+   "options": [
+    "A type of bank that only deals with cash deposits",
+    "A place where many companies manage investments for clients",
+    "A software tool for tracking personal expenses",
+    "A government office that sets tax rates"
+   ],
+   "answer": 1,
+   "explain_en": "An \"asset‑management hub\" is a location or center where many firms handle investment assets for clients.",
+   "explain_zh": "「資產管理中心」指的是許多公司為客戶管理投資資產的地方。",
+   "news_title_en": "Regulator weighs wider high-asset access as 21 banks win private-wealth licenses",
+   "id": "2026-10-22-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many banks have been approved to run high‑net‑worth wealth services?",
+   "options": [
+    "18",
+    "15",
+    "24",
+    "21"
    ],
    "answer": 3,
-   "explain_en": "One tally reported the net sale as near NT$79.5 billion on Oct 20.",
-   "explain_zh": "根據其中一個統計，外資在10月20日的淨賣出金額約為795億新台幣。",
-   "news_title_en": "Foreign funds extend aggressive retreat from Taiwan equities",
-   "id": "2026-10-21-07"
+   "explain_en": "The summary states that 21 banks have been approved for those services.",
+   "explain_zh": "摘要中提到已批准 21 家銀行提供高淨值財富服務。",
+   "news_title_en": "Regulator weighs wider high-asset access as 21 banks win private-wealth licenses",
+   "id": "2026-10-22-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"deemed\" mean?",
+   "options": [
+    "sold to the government",
+    "ignored by the law",
+    "removed from taxes",
+    "considered as legally existing"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"deemed\" means that the assets are treated as if they really exist for tax purposes, even if they are not physically transferred.",
+   "explain_zh": "此處的「deemed」指的是在稅務上被視為實際存在的資產，即使實際上未轉移。",
+   "news_title_en": "Estate-tax \"deemed-asset\" rules advance as finance ministry preps enforcement",
+   "id": "2026-10-22-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "Who should pay attention to the new rules about \"deemed\" estate assets?",
+   "options": [
+    "Small retail shoppers",
+    "Tourists visiting Taiwan",
+    "Year‑end succession planners and high‑net‑worth families",
+    "University students studying literature"
+   ],
+   "answer": 2,
+   "explain_en": "The summary says the change is a point that year‑end succession planners and high‑net‑worth families should watch.",
+   "explain_zh": "摘要指出，年底遺產規劃師與高淨值家族應特別留意此項變更。",
+   "news_title_en": "Estate-tax \"deemed-asset\" rules advance as finance ministry preps enforcement",
+   "id": "2026-10-22-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"nudged\" mean?",
+   "options": [
+    "ignored completely",
+    "pushed strongly",
+    "guided slightly",
+    "removed entirely"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"nudged\" means the bank is gently guiding monetary policy toward tighter conditions.",
+   "explain_zh": "「nudged」在文中指的是央行稍微推動、引導政策走向更緊縮的方向。",
+   "news_title_en": "Central bank holds rates for a 10th straight quarter, leans tighter",
+   "id": "2026-10-22-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many consecutive quarters has Taiwan's central bank kept its policy rate unchanged?",
+   "options": [
+    "10 quarters",
+    "8 quarters",
+    "12 quarters",
+    "9 quarters"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states the rate has been on hold for ten consecutive quarters.",
+   "explain_zh": "摘要中說明利率已連續十個季度保持不變。",
+   "news_title_en": "Central bank holds rates for a 10th straight quarter, leans tighter",
+   "id": "2026-10-22-11"
   }
  ]
 }
