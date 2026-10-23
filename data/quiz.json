@@ -1,185 +1,170 @@
 {
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"reclaiming\" mean?",
+   "question": "In the summary, what does the phrase \"risk appetite\" mean?",
    "options": [
-    "Losing value quickly",
-    "Selling all holdings",
-    "Going back to a previous level",
-    "Buying new stocks"
-   ],
-   "answer": 2,
-   "explain_en": "\"Reclaiming\" means the index went back up to the 46,800 level after having been below it.",
-   "explain_zh": "「reclaiming」在此指的是指數回到先前的 46,800 點位。",
-   "news_title_en": "Taiwan stocks rebound 595 points as TSMC firms into futures settlement",
-   "id": "2026-10-22-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the exact closing level of the TAIEX on Oct 21?",
-   "options": [
-    "46,800.00",
-    "47,254.93",
-    "46,887.77",
-    "45,900.00"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the TAIEX closed at 46,887.77 on Oct 21.",
-   "explain_zh": "摘要中說明台股指數在 10 月 21 日收盤於 46,887.77 點。",
-   "news_title_en": "Taiwan stocks rebound 595 points as TSMC firms into futures settlement",
-   "id": "2026-10-22-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"outstrips\" mean?",
-   "options": [
-    "is equal to",
-    "exceeds",
-    "is unrelated to",
-    "is slower than"
-   ],
-   "answer": 1,
-   "explain_en": "\"Outstrips\" means to go beyond or exceed something, here AI demand exceeds supply.",
-   "explain_zh": "「outstrips」表示超過或勝過，這裡指 AI 需求超過供應。",
-   "news_title_en": "TSMC lifts full-year outlook as AI demand outstrips supply",
-   "id": "2026-10-22-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "What revenue range did TSMC guide for the fourth quarter in US dollars?",
-   "options": [
-    "US$60–64bn",
-    "US$40–42bn",
-    "US$45–47bn",
-    "US$52.3–54.3bn"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states TSMC guided fourth‑quarter revenue to US$52.3–54.3 billion.",
-   "explain_zh": "摘要中說明台積電預估第四季營收為 52.3–54.3 億美元。",
-   "news_title_en": "TSMC lifts full-year outlook as AI demand outstrips supply",
-   "id": "2026-10-22-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"custody\" mean?",
-   "options": [
-    "Legal ownership of a company",
     "A government regulation",
-    "A type of financial loan",
-    "Keeping and protecting assets for someone else"
-   ],
-   "answer": 3,
-   "explain_en": "\"Custody\" here refers to the service of holding and safeguarding virtual assets for clients.",
-   "explain_zh": "「custody」在此指的是為客戶保管與保護虛擬資產的服務。",
-   "news_title_en": "FSC lays out six policy priorities, plans financial-sector LLM",
-   "id": "2026-10-22-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "When does the regulator plan to release the first version of the finance‑knowledge large language model (FinLLM)?",
-   "options": [
-    "Fourth quarter of 2028",
-    "First quarter of 2027",
-    "Second quarter of 2026",
-    "Third quarter of 2025"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the FinLLM will be released in the first quarter of 2027.",
-   "explain_zh": "摘要中說明 FinLLM 將於 2027 年第一季推出。",
-   "news_title_en": "FSC lays out six policy priorities, plans financial-sector LLM",
-   "id": "2026-10-22-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"asset‑management hub\" mean?",
-   "options": [
-    "A type of bank that only deals with cash deposits",
-    "A place where many companies manage investments for clients",
-    "A software tool for tracking personal expenses",
-    "A government office that sets tax rates"
-   ],
-   "answer": 1,
-   "explain_en": "An \"asset‑management hub\" is a location or center where many firms handle investment assets for clients.",
-   "explain_zh": "「資產管理中心」指的是許多公司為客戶管理投資資產的地方。",
-   "news_title_en": "Regulator weighs wider high-asset access as 21 banks win private-wealth licenses",
-   "id": "2026-10-22-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many banks have been approved to run high‑net‑worth wealth services?",
-   "options": [
-    "18",
-    "15",
-    "24",
-    "21"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that 21 banks have been approved for those services.",
-   "explain_zh": "摘要中提到已批准 21 家銀行提供高淨值財富服務。",
-   "news_title_en": "Regulator weighs wider high-asset access as 21 banks win private-wealth licenses",
-   "id": "2026-10-22-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"deemed\" mean?",
-   "options": [
-    "sold to the government",
-    "ignored by the law",
-    "removed from taxes",
-    "considered as legally existing"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"deemed\" means that the assets are treated as if they really exist for tax purposes, even if they are not physically transferred.",
-   "explain_zh": "此處的「deemed」指的是在稅務上被視為實際存在的資產，即使實際上未轉移。",
-   "news_title_en": "Estate-tax \"deemed-asset\" rules advance as finance ministry preps enforcement",
-   "id": "2026-10-22-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "Who should pay attention to the new rules about \"deemed\" estate assets?",
-   "options": [
-    "Small retail shoppers",
-    "Tourists visiting Taiwan",
-    "Year‑end succession planners and high‑net‑worth families",
-    "University students studying literature"
+    "A feeling of hunger while trading",
+    "A desire to take more financial risks",
+    "A type of insurance policy"
    ],
    "answer": 2,
-   "explain_en": "The summary says the change is a point that year‑end succession planners and high‑net‑worth families should watch.",
-   "explain_zh": "摘要指出，年底遺產規劃師與高淨值家族應特別留意此項變更。",
-   "news_title_en": "Estate-tax \"deemed-asset\" rules advance as finance ministry preps enforcement",
-   "id": "2026-10-22-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"nudged\" mean?",
-   "options": [
-    "ignored completely",
-    "pushed strongly",
-    "guided slightly",
-    "removed entirely"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"nudged\" means the bank is gently guiding monetary policy toward tighter conditions.",
-   "explain_zh": "「nudged」在文中指的是央行稍微推動、引導政策走向更緊縮的方向。",
-   "news_title_en": "Central bank holds rates for a 10th straight quarter, leans tighter",
-   "id": "2026-10-22-10"
+   "explain_en": "Here \"risk appetite\" refers to investors' willingness to accept higher risk in order to seek higher returns.",
+   "explain_zh": "此處的「risk appetite」指的是投資人願意承擔較高風險以追求更高報酬的意願。",
+   "news_title_en": "Foreign funds pile back into TSMC and Delta as TAIEX nears 50,000",
+   "id": "2026-10-23-00"
   },
   {
    "type": "comprehension",
-   "question": "How many consecutive quarters has Taiwan's central bank kept its policy rate unchanged?",
+   "question": "Which two companies were mentioned as the biggest single‑session purchases by foreign investors?",
    "options": [
-    "10 quarters",
-    "8 quarters",
-    "12 quarters",
-    "9 quarters"
+    "Foxconn and MediaTek",
+    "TSMC and Delta Electronics",
+    "Apple and Nvidia",
+    "Huawei and Samsung"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that foreign investors loaded up on index heavyweights TSMC and Delta Electronics in their biggest single‑session purchases.",
+   "explain_zh": "摘要中提到外資在單日最大買入的兩家公司是台積電（TSMC）和台達電子（Delta Electronics）。",
+   "news_title_en": "Foreign funds pile back into TSMC and Delta as TAIEX nears 50,000",
+   "id": "2026-10-23-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"accelerators\" mean?",
+   "options": [
+    "Tools for speeding up internet connections",
+    "Machines that accelerate cars",
+    "People who run marathons",
+    "Devices that speed up AI computations"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"accelerators\" refers to hardware that speeds up AI processing, not people or cars.",
+   "explain_zh": "此處的「accelerators」指的是加速 AI 計算的硬體，而非跑者或汽車。",
+   "news_title_en": "Analysts lift TSMC CoWoS capacity forecasts on strong AI accelerator demand",
+   "id": "2026-10-23-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, which company is expected to reserve over half of TSMC's CoWoS output?",
+   "options": [
+    "Google",
+    "Microsoft",
+    "Apple",
+    "Nvidia"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that Nvidia is expected to reserve more than half of the output.",
+   "explain_zh": "摘要中說明 Nvidia 將預計預留超過一半的產能。",
+   "news_title_en": "Analysts lift TSMC CoWoS capacity forecasts on strong AI accelerator demand",
+   "id": "2026-10-23-03"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the combined pre‑tax profit of banking, securities and insurance in the first eight months?",
+   "options": [
+    "About NT$1.17 trillion",
+    "About NT$460 billion",
+    "About NT$15.16 trillion",
+    "About NT$500 billion"
    ],
    "answer": 0,
-   "explain_en": "The summary states the rate has been on hold for ten consecutive quarters.",
+   "explain_en": "The summary states the combined pre‑tax profit was about NT$1.17 trillion.",
+   "explain_zh": "摘要中說明，銀行、證券與保險的合計稅前盈餘約為 1.17 兆新台幣。",
+   "news_title_en": "FSC raises bank SME-lending target, reports record industry profits",
+   "id": "2026-10-23-04"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"asset-and-liability management\" mean?",
+   "options": [
+    "Planning a vacation budget",
+    "Choosing which stocks to buy",
+    "Managing both what a client owns and what they owe",
+    "Calculating tax refunds"
+   ],
+   "answer": 2,
+   "explain_en": "It refers to handling both the assets (what a client owns) and the liabilities (what they owe) together.",
+   "explain_zh": "指的是同時管理客戶的資產（擁有的東西）與負債（欠的錢）。",
+   "news_title_en": "Taishin wins global wealth awards as high-asset needs shift to balance-sheet management",
+   "id": "2026-10-23-05"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what did Taishin Bank win at the PBI awards?",
+   "options": [
+    "A prize for best mobile app",
+    "Twin honours at the global wealth‑management awards",
+    "An award for community service",
+    "The most profitable bank award"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states Taishin Bank took twin honours at the PBI global wealth‑management awards.",
+   "explain_zh": "摘要中說台新銀行在 PBI 全球財富管理獎中獲得了雙重榮譽。",
+   "news_title_en": "Taishin wins global wealth awards as high-asset needs shift to balance-sheet management",
+   "id": "2026-10-23-06"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"promulgates the changes\" mean?",
+   "options": [
+    "Cancels the new rules",
+    "Delays the new rules",
+    "Ignores the new rules",
+    "Announces the new rules officially"
+   ],
+   "answer": 3,
+   "explain_en": "To promulgate means to officially announce or put a law into effect.",
+   "explain_zh": "「promulgates the changes」是指正式公布或實施這項變更。",
+   "news_title_en": "Taiwan overhauls estate tax, folding pre-death gifts into estates",
+   "id": "2026-10-23-07"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, who will have to pay the tax on gifts made within two years before death?",
+   "options": [
+    "The deceased's spouse",
+    "The recipient of the gift",
+    "The government",
+    "The person who gave the gift"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that the recipient of the gift will bear the related tax.",
+   "explain_zh": "摘要說明，收到贈與的人需要負擔相關稅款。",
+   "news_title_en": "Taiwan overhauls estate tax, folding pre-death gifts into estates",
+   "id": "2026-10-23-08"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"liquidity\" mean?",
+   "options": [
+    "the speed of internet connections",
+    "the number of employees in a bank",
+    "the amount of cash and easily‑convertible assets in the market",
+    "the level of government taxes"
+   ],
+   "answer": 2,
+   "explain_en": "Liquidity refers to how much cash or assets that can quickly be turned into cash are available in the financial system.",
+   "explain_zh": "流動性指的是金融體系中可快速變成現金的資金或資產的多少。",
+   "news_title_en": "Taiwan's central bank holds rates for a 10th straight quarter, leans tighter",
+   "id": "2026-10-23-09"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many consecutive quarters has Taiwan's central bank kept its benchmark discount rate unchanged?",
+   "options": [
+    "10",
+    "8",
+    "11",
+    "9"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states the rate has been unchanged for ten quarters in a row.",
    "explain_zh": "摘要中說明利率已連續十個季度保持不變。",
-   "news_title_en": "Central bank holds rates for a 10th straight quarter, leans tighter",
-   "id": "2026-10-22-11"
+   "news_title_en": "Taiwan's central bank holds rates for a 10th straight quarter, leans tighter",
+   "id": "2026-10-23-10"
   }
  ]
 }
