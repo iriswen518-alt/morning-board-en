@@ -1,170 +1,170 @@
 {
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"risk appetite\" mean?",
+   "question": "In the summary, what does the word \"anchor\" mean?",
    "options": [
-    "A government regulation",
-    "A feeling of hunger while trading",
-    "A desire to take more financial risks",
-    "A type of insurance policy"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"risk appetite\" refers to investors' willingness to accept higher risk in order to seek higher returns.",
-   "explain_zh": "此處的「risk appetite」指的是投資人願意承擔較高風險以追求更高報酬的意願。",
-   "news_title_en": "Foreign funds pile back into TSMC and Delta as TAIEX nears 50,000",
-   "id": "2026-10-23-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "Which two companies were mentioned as the biggest single‑session purchases by foreign investors?",
-   "options": [
-    "Foxconn and MediaTek",
-    "TSMC and Delta Electronics",
-    "Apple and Nvidia",
-    "Huawei and Samsung"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states that foreign investors loaded up on index heavyweights TSMC and Delta Electronics in their biggest single‑session purchases.",
-   "explain_zh": "摘要中提到外資在單日最大買入的兩家公司是台積電（TSMC）和台達電子（Delta Electronics）。",
-   "news_title_en": "Foreign funds pile back into TSMC and Delta as TAIEX nears 50,000",
-   "id": "2026-10-23-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"accelerators\" mean?",
-   "options": [
-    "Tools for speeding up internet connections",
-    "Machines that accelerate cars",
-    "People who run marathons",
-    "Devices that speed up AI computations"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"accelerators\" refers to hardware that speeds up AI processing, not people or cars.",
-   "explain_zh": "此處的「accelerators」指的是加速 AI 計算的硬體，而非跑者或汽車。",
-   "news_title_en": "Analysts lift TSMC CoWoS capacity forecasts on strong AI accelerator demand",
-   "id": "2026-10-23-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, which company is expected to reserve over half of TSMC's CoWoS output?",
-   "options": [
-    "Google",
-    "Microsoft",
-    "Apple",
-    "Nvidia"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that Nvidia is expected to reserve more than half of the output.",
-   "explain_zh": "摘要中說明 Nvidia 將預計預留超過一半的產能。",
-   "news_title_en": "Analysts lift TSMC CoWoS capacity forecasts on strong AI accelerator demand",
-   "id": "2026-10-23-03"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the combined pre‑tax profit of banking, securities and insurance in the first eight months?",
-   "options": [
-    "About NT$1.17 trillion",
-    "About NT$460 billion",
-    "About NT$15.16 trillion",
-    "About NT$500 billion"
+    "to support or stabilize something",
+    "to ignore something",
+    "to hold something firmly in place",
+    "to pull something down"
    ],
    "answer": 0,
-   "explain_en": "The summary states the combined pre‑tax profit was about NT$1.17 trillion.",
-   "explain_zh": "摘要中說明，銀行、證券與保險的合計稅前盈餘約為 1.17 兆新台幣。",
-   "news_title_en": "FSC raises bank SME-lending target, reports record industry profits",
-   "id": "2026-10-23-04"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"asset-and-liability management\" mean?",
-   "options": [
-    "Planning a vacation budget",
-    "Choosing which stocks to buy",
-    "Managing both what a client owns and what they owe",
-    "Calculating tax refunds"
-   ],
-   "answer": 2,
-   "explain_en": "It refers to handling both the assets (what a client owns) and the liabilities (what they owe) together.",
-   "explain_zh": "指的是同時管理客戶的資產（擁有的東西）與負債（欠的錢）。",
-   "news_title_en": "Taishin wins global wealth awards as high-asset needs shift to balance-sheet management",
-   "id": "2026-10-23-05"
+   "explain_en": "Here \"anchor\" means to support or stabilize investor sentiment.",
+   "explain_zh": "這裡的「anchor」是指支撐或穩定投資人情緒。",
+   "news_title_en": "TAIEX extends record run as chip giants lead (2026-09-22)",
+   "id": "2026-10-24-00"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what did Taishin Bank win at the PBI awards?",
+   "question": "How many consecutive sessions has the TAIEX risen according to the summary?",
    "options": [
-    "A prize for best mobile app",
-    "Twin honours at the global wealth‑management awards",
-    "An award for community service",
-    "The most profitable bank award"
+    "Three",
+    "Four",
+    "Five",
+    "Six"
    ],
-   "answer": 1,
-   "explain_en": "The summary states Taishin Bank took twin honours at the PBI global wealth‑management awards.",
-   "explain_zh": "摘要中說台新銀行在 PBI 全球財富管理獎中獲得了雙重榮譽。",
-   "news_title_en": "Taishin wins global wealth awards as high-asset needs shift to balance-sheet management",
-   "id": "2026-10-23-06"
+   "answer": 2,
+   "explain_en": "The summary says it is a \"fifth straight session of gains\".",
+   "explain_zh": "摘要中提到是連續第五個交易日上漲。",
+   "news_title_en": "TAIEX extends record run as chip giants lead (2026-09-22)",
+   "id": "2026-10-24-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"promulgates the changes\" mean?",
+   "question": "What does the word \"cluster\" mean as used in the text?",
    "options": [
-    "Cancels the new rules",
-    "Delays the new rules",
-    "Ignores the new rules",
-    "Announces the new rules officially"
+    "A new AI algorithm",
+    "A type of computer chip",
+    "A financial term for a stock bundle",
+    "A group of related companies in the same area"
    ],
    "answer": 3,
-   "explain_en": "To promulgate means to officially announce or put a law into effect.",
-   "explain_zh": "「promulgates the changes」是指正式公布或實施這項變更。",
-   "news_title_en": "Taiwan overhauls estate tax, folding pre-death gifts into estates",
-   "id": "2026-10-23-07"
+   "explain_en": "In the article, \"cluster\" refers to a group of related semiconductor companies located together in Taiwan.",
+   "explain_zh": "在文中，「cluster」指的是台灣同一地區內相關半導體公司的聚集。",
+   "news_title_en": "SEMICON Taiwan gathers 65 nations around AI-era chip collaboration",
+   "id": "2026-10-24-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, who will have to pay the tax on gifts made within two years before death?",
+   "question": "How many semiconductor fabs are expected to be under construction worldwide between 2030 and 2035?",
    "options": [
-    "The deceased's spouse",
-    "The recipient of the gift",
-    "The government",
-    "The person who gave the gift"
+    "Around 89",
+    "Exactly 100",
+    "More than 80",
+    "About 65"
    ],
-   "answer": 1,
-   "explain_en": "The summary states that the recipient of the gift will bear the related tax.",
-   "explain_zh": "摘要說明，收到贈與的人需要負擔相關稅款。",
-   "news_title_en": "Taiwan overhauls estate tax, folding pre-death gifts into estates",
-   "id": "2026-10-23-08"
+   "answer": 2,
+   "explain_en": "The summary says 80-plus fabs are expected between 2030 and 2035.",
+   "explain_zh": "摘要中提到 2030 到 2035 年間預計會有超過 80 座晶圓廠在建。",
+   "news_title_en": "SEMICON Taiwan gathers 65 nations around AI-era chip collaboration",
+   "id": "2026-10-24-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"liquidity\" mean?",
+   "question": "In the summary, what does the phrase \"financial resilience\" mean?",
    "options": [
-    "the speed of internet connections",
-    "the number of employees in a bank",
-    "the amount of cash and easily‑convertible assets in the market",
-    "the level of government taxes"
+    "The number of new financial products launched",
+    "The ability of the financial system to withstand shocks",
+    "The speed at which banks can lend money",
+    "The amount of profit banks earn each year"
    ],
-   "answer": 2,
-   "explain_en": "Liquidity refers to how much cash or assets that can quickly be turned into cash are available in the financial system.",
-   "explain_zh": "流動性指的是金融體系中可快速變成現金的資金或資產的多少。",
-   "news_title_en": "Taiwan's central bank holds rates for a 10th straight quarter, leans tighter",
-   "id": "2026-10-23-09"
+   "answer": 1,
+   "explain_en": "Financial resilience refers to how well the financial system can absorb and recover from economic shocks.",
+   "explain_zh": "金融韌性指的是金融體系能夠承受並從經濟衝擊中恢復的能力。",
+   "news_title_en": "FSC lays out six policy priorities in legislative report",
+   "id": "2026-10-24-04"
   },
   {
    "type": "comprehension",
-   "question": "How many consecutive quarters has Taiwan's central bank kept its benchmark discount rate unchanged?",
+   "question": "What was the average capital adequacy ratio of domestic banks in Q2 according to the report?",
    "options": [
-    "10",
-    "8",
-    "11",
-    "9"
+    "15.16%",
+    "18.3%",
+    "12.5%",
+    "10.0%"
    ],
    "answer": 0,
-   "explain_en": "The summary states the rate has been unchanged for ten quarters in a row.",
-   "explain_zh": "摘要中說明利率已連續十個季度保持不變。",
-   "news_title_en": "Taiwan's central bank holds rates for a 10th straight quarter, leans tighter",
-   "id": "2026-10-23-10"
+   "explain_en": "The summary states that domestic banks' average capital adequacy ratio stood at 15.16% in Q2.",
+   "explain_zh": "摘要中提到，國內銀行在第二季的平均資本充足率為 15.16%。",
+   "news_title_en": "FSC lays out six policy priorities in legislative report",
+   "id": "2026-10-24-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"holistic\" mean?",
+   "options": [
+    "focused on one part only",
+    "about legal matters",
+    "considering the whole",
+    "related to money only"
+   ],
+   "answer": 2,
+   "explain_en": "\"Holistic\" means looking at the entire situation, not just separate parts.",
+   "explain_zh": "「holistic」指的是全面、整體的觀點，而不是只看單一部分。",
+   "news_title_en": "Taishin wins global private-banking awards as HNW demand shifts",
+   "id": "2026-10-24-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "When did Taishin Bank's private‑banking client count and assets under management grow sharply?",
+   "options": [
+    "second half of 2026",
+    "first half of 2026",
+    "2027",
+    "first half of 2025"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the growth happened in the first half of 2026.",
+   "explain_zh": "摘要中說明成長發生在2026年上半年。",
+   "news_title_en": "Taishin wins global private-banking awards as HNW demand shifts",
+   "id": "2026-10-24-07"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much does the basic living‑expense allowance increase to for each person?",
+   "options": [
+    "NT$213,000",
+    "NT$210,000",
+    "NT$212,000",
+    "NT$211,000"
+   ],
+   "answer": 0,
+   "explain_en": "The summary says the allowance is lifted to NT$213,000 per person.",
+   "explain_zh": "摘要中說每人基本生活費免稅額提升至新台幣 213,000 元。",
+   "news_title_en": "Taiwan rolls out NT$13.9 billion in income-tax relief for 2026 filing",
+   "id": "2026-10-24-08"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"tightening\" mean?",
+   "options": [
+    "Loosening the policy",
+    "Keeping the rate the same",
+    "Making the policy more restrictive",
+    "Increasing the discount rate"
+   ],
+   "answer": 2,
+   "explain_en": "\"Tightening\" refers to making monetary policy more restrictive, such as raising rates or reducing liquidity.",
+   "explain_zh": "「tightening」指的是使貨幣政策更緊縮，例如升息或減少流動性。",
+   "news_title_en": "Taiwan's central bank holds rate at 2% for a tenth straight quarter",
+   "id": "2026-10-24-09"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many consecutive quarters has Taiwan's central bank kept the discount rate at 2%?",
+   "options": [
+    "Nine quarters",
+    "Eight quarters",
+    "Eleven quarters",
+    "Ten quarters"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the rate has been unchanged for a tenth consecutive quarter.",
+   "explain_zh": "摘要中說利率已連續第十個季度維持在2%。",
+   "news_title_en": "Taiwan's central bank holds rate at 2% for a tenth straight quarter",
+   "id": "2026-10-24-10"
   }
  ]
 }
