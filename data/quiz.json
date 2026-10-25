@@ -1,170 +1,185 @@
 {
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"anchor\" mean?",
+   "question": "In the summary, what does the word \"rally\" mean?",
    "options": [
-    "to support or stabilize something",
-    "to ignore something",
-    "to hold something firmly in place",
-    "to pull something down"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"anchor\" means to support or stabilize investor sentiment.",
-   "explain_zh": "這裡的「anchor」是指支撐或穩定投資人情緒。",
-   "news_title_en": "TAIEX extends record run as chip giants lead (2026-09-22)",
-   "id": "2026-10-24-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many consecutive sessions has the TAIEX risen according to the summary?",
-   "options": [
-    "Three",
-    "Four",
-    "Five",
-    "Six"
-   ],
-   "answer": 2,
-   "explain_en": "The summary says it is a \"fifth straight session of gains\".",
-   "explain_zh": "摘要中提到是連續第五個交易日上漲。",
-   "news_title_en": "TAIEX extends record run as chip giants lead (2026-09-22)",
-   "id": "2026-10-24-01"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the word \"cluster\" mean as used in the text?",
-   "options": [
-    "A new AI algorithm",
+    "A quick increase in stock prices",
     "A type of computer chip",
-    "A financial term for a stock bundle",
-    "A group of related companies in the same area"
+    "A government meeting",
+    "A sudden drop in stock prices"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"rally\" refers to a rapid rise in the market, meaning stock prices went up.",
+   "explain_zh": "在文中「rally」指的是股市快速上漲，表示股價上升。",
+   "news_title_en": "Taiwan stocks notch record closing high as AI leaders power the index",
+   "id": "2026-10-25-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "Which two companies were mentioned as climbing together in the market?",
+   "options": [
+    "Apple and Microsoft",
+    "Samsung and Intel",
+    "TSMC and Hon Hai (Foxconn)",
+    "Google and Amazon"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that foundry giant TSMC and assembler Hon Hai (Foxconn) climbed together.",
+   "explain_zh": "摘要中說明晶圓代工巨頭台積電 (TSMC) 與組裝大廠鴻海 (Foxconn) 同時上漲。",
+   "news_title_en": "Taiwan stocks notch record closing high as AI leaders power the index",
+   "id": "2026-10-25-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word “accelerator” mean?",
+   "options": [
+    "A device that speeds up processing",
+    "A type of stock that rises quickly",
+    "A financial bonus given to employees",
+    "A marketing campaign to attract customers"
+   ],
+   "answer": 0,
+   "explain_en": "Here “accelerator” refers to an AI accelerator, a chip that makes computing faster.",
+   "explain_zh": "此處的 “accelerator” 指的是 AI 加速器，能讓運算速度提升的晶片。",
+   "news_title_en": "TSMC's September revenue hits a fresh same-period record on AI demand",
+   "id": "2026-10-25-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "By what percentage did TSMC's September revenue increase compared to the same month last year?",
+   "options": [
+    "100%",
+    "41%",
+    "0.6%",
+    "54.6%"
    ],
    "answer": 3,
-   "explain_en": "In the article, \"cluster\" refers to a group of related semiconductor companies located together in Taiwan.",
-   "explain_zh": "在文中，「cluster」指的是台灣同一地區內相關半導體公司的聚集。",
-   "news_title_en": "SEMICON Taiwan gathers 65 nations around AI-era chip collaboration",
-   "id": "2026-10-24-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many semiconductor fabs are expected to be under construction worldwide between 2030 and 2035?",
-   "options": [
-    "Around 89",
-    "Exactly 100",
-    "More than 80",
-    "About 65"
-   ],
-   "answer": 2,
-   "explain_en": "The summary says 80-plus fabs are expected between 2030 and 2035.",
-   "explain_zh": "摘要中提到 2030 到 2035 年間預計會有超過 80 座晶圓廠在建。",
-   "news_title_en": "SEMICON Taiwan gathers 65 nations around AI-era chip collaboration",
-   "id": "2026-10-24-03"
+   "explain_en": "The summary states September revenue was up 54.6% from a year earlier.",
+   "explain_zh": "摘要中說明，九月營收較去年同期增長了 54.6%。",
+   "news_title_en": "TSMC's September revenue hits a fresh same-period record on AI demand",
+   "id": "2026-10-25-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"financial resilience\" mean?",
+   "question": "In the summary, what does the word \"resilience\" mean?",
    "options": [
-    "The number of new financial products launched",
-    "The ability of the financial system to withstand shocks",
-    "The speed at which banks can lend money",
-    "The amount of profit banks earn each year"
+    "A type of financial product",
+    "A new technology",
+    "The ability to recover quickly from difficulties",
+    "A government regulation"
    ],
-   "answer": 1,
-   "explain_en": "Financial resilience refers to how well the financial system can absorb and recover from economic shocks.",
-   "explain_zh": "金融韌性指的是金融體系能夠承受並從經濟衝擊中恢復的能力。",
-   "news_title_en": "FSC lays out six policy priorities in legislative report",
-   "id": "2026-10-24-04"
+   "answer": 2,
+   "explain_en": "Resilience refers to the ability to bounce back or recover quickly after a setback, especially in finance.",
+   "explain_zh": "韌性指的是在遭遇困難後能快速恢復的能力，尤其在金融領域。",
+   "news_title_en": "FSC chair sets out six policy priorities, including a finance-sector LLM",
+   "id": "2026-10-25-04"
   },
   {
    "type": "comprehension",
-   "question": "What was the average capital adequacy ratio of domestic banks in Q2 according to the report?",
+   "question": "When is the finance-industry large language model planned to be released?",
    "options": [
-    "15.16%",
-    "18.3%",
-    "12.5%",
-    "10.0%"
+    "First quarter of 2026",
+    "First quarter of 2028",
+    "First quarter of 2025",
+    "First quarter of 2027"
    ],
-   "answer": 0,
-   "explain_en": "The summary states that domestic banks' average capital adequacy ratio stood at 15.16% in Q2.",
-   "explain_zh": "摘要中提到，國內銀行在第二季的平均資本充足率為 15.16%。",
-   "news_title_en": "FSC lays out six policy priorities in legislative report",
-   "id": "2026-10-24-05"
+   "answer": 3,
+   "explain_en": "The summary states the model is targeted for release in the first quarter of 2027.",
+   "explain_zh": "摘要中說明該大型語言模型預計在2027 年第一季推出。",
+   "news_title_en": "FSC chair sets out six policy priorities, including a finance-sector LLM",
+   "id": "2026-10-25-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"holistic\" mean?",
+   "question": "In the news, what does the term \"ex-dividend\" mean?",
    "options": [
-    "focused on one part only",
-    "about legal matters",
-    "considering the whole",
-    "related to money only"
+    "A special tax applied to dividend income",
+    "The date when a company announces a new dividend amount",
+    "The date when a security is sold without the right to receive the next dividend",
+    "A type of high‑yield ETF"
    ],
    "answer": 2,
-   "explain_en": "\"Holistic\" means looking at the entire situation, not just separate parts.",
-   "explain_zh": "「holistic」指的是全面、整體的觀點，而不是只看單一部分。",
-   "news_title_en": "Taishin wins global private-banking awards as HNW demand shifts",
-   "id": "2026-10-24-06"
+   "explain_en": "\"Ex-dividend\" is the day a stock or ETF trades without the right to the upcoming dividend, so buyers after that date won't receive it.",
+   "explain_zh": "「除息日」是指證券在此日期之後交易，買進者將無法取得即將發放的股息。",
+   "news_title_en": "October brings a wave of ETF ex-dividend dates for income investors",
+   "id": "2026-10-25-06"
   },
   {
    "type": "comprehension",
-   "question": "When did Taishin Bank's private‑banking client count and assets under management grow sharply?",
+   "question": "How many Taiwan‑listed ETFs are scheduled to go ex‑dividend in October 2026?",
    "options": [
-    "second half of 2026",
-    "first half of 2026",
-    "2027",
-    "first half of 2025"
+    "21",
+    "12",
+    "48",
+    "35"
    ],
-   "answer": 1,
-   "explain_en": "The summary states the growth happened in the first half of 2026.",
-   "explain_zh": "摘要中說明成長發生在2026年上半年。",
-   "news_title_en": "Taishin wins global private-banking awards as HNW demand shifts",
-   "id": "2026-10-24-07"
-  },
-  {
-   "type": "comprehension",
-   "question": "How much does the basic living‑expense allowance increase to for each person?",
-   "options": [
-    "NT$213,000",
-    "NT$210,000",
-    "NT$212,000",
-    "NT$211,000"
-   ],
-   "answer": 0,
-   "explain_en": "The summary says the allowance is lifted to NT$213,000 per person.",
-   "explain_zh": "摘要中說每人基本生活費免稅額提升至新台幣 213,000 元。",
-   "news_title_en": "Taiwan rolls out NT$13.9 billion in income-tax relief for 2026 filing",
-   "id": "2026-10-24-08"
+   "answer": 2,
+   "explain_en": "The summary states that about 48 Taiwan‑listed ETFs go ex‑dividend in October 2026.",
+   "explain_zh": "摘要中提到約有 48 檔台灣上市 ETF 於 2026 年十月除息。",
+   "news_title_en": "October brings a wave of ETF ex-dividend dates for income investors",
+   "id": "2026-10-25-07"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"tightening\" mean?",
+   "question": "In the summary, what does the word \"anchoring\" mean?",
    "options": [
-    "Loosening the policy",
-    "Keeping the rate the same",
-    "Making the policy more restrictive",
-    "Increasing the discount rate"
+    "Ignoring something important",
+    "Removing something completely",
+    "Keeping something steady or stable",
+    "Increasing something quickly"
    ],
    "answer": 2,
-   "explain_en": "\"Tightening\" refers to making monetary policy more restrictive, such as raising rates or reducing liquidity.",
-   "explain_zh": "「tightening」指的是使貨幣政策更緊縮，例如升息或減少流動性。",
-   "news_title_en": "Taiwan's central bank holds rate at 2% for a tenth straight quarter",
-   "id": "2026-10-24-09"
+   "explain_en": "Here \"anchoring\" means keeping inflation expectations steady and stable.",
+   "explain_zh": "此處的「anchoring」指的是讓通膨預期保持穩定。",
+   "news_title_en": "Taiwan's central bank holds its policy rate at 2% for a 10th straight quarter",
+   "id": "2026-10-25-08"
   },
   {
    "type": "comprehension",
-   "question": "How many consecutive quarters has Taiwan's central bank kept the discount rate at 2%?",
+   "question": "How many consecutive quarters has Taiwan's central bank kept the policy rate unchanged?",
    "options": [
-    "Nine quarters",
-    "Eight quarters",
     "Eleven quarters",
-    "Ten quarters"
+    "Eight quarters",
+    "Ten quarters",
+    "Nine quarters"
    ],
-   "answer": 3,
-   "explain_en": "The summary states the rate has been unchanged for a tenth consecutive quarter.",
-   "explain_zh": "摘要中說利率已連續第十個季度維持在2%。",
-   "news_title_en": "Taiwan's central bank holds rate at 2% for a tenth straight quarter",
-   "id": "2026-10-24-10"
+   "answer": 2,
+   "explain_en": "The summary states the hold now spans ten consecutive quarters.",
+   "explain_zh": "摘要中說明政策利率已連續十個季度維持不變。",
+   "news_title_en": "Taiwan's central bank holds its policy rate at 2% for a 10th straight quarter",
+   "id": "2026-10-25-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"margin\" mean?",
+   "options": [
+    "A type of oil refinery",
+    "The profit left after costs are paid",
+    "The distance between two countries",
+    "A government tax on exports"
+   ],
+   "answer": 1,
+   "explain_en": "\"Margin\" refers to the profit that remains after a company pays its costs, especially in transport and manufacturing.",
+   "explain_zh": "「margin」指的是在扣除成本後剩下的利潤，特別是運輸和製造業的利潤。",
+   "news_title_en": "Oil prices climb to a multi-year high, pressuring global equities",
+   "id": "2026-10-25-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, how long has it been since crude oil reached this price level?",
+   "options": [
+    "More than four years",
+    "Six months",
+    "Two decades",
+    "Exactly one year"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that crude oil prices rose to their highest level in more than four years.",
+   "explain_zh": "摘要中說原油價格升至四年多以來的最高水平。",
+   "news_title_en": "Oil prices climb to a multi-year high, pressuring global equities",
+   "id": "2026-10-25-11"
   }
  ]
 }
