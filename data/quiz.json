@@ -1,185 +1,185 @@
 {
- "date": "2026-10-25",
+ "date": "2026-10-26",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"rally\" mean?",
+   "question": "In the summary, what does the phrase \"underpin sentiment\" mean?",
    "options": [
-    "A quick increase in stock prices",
-    "A type of computer chip",
-    "A government meeting",
-    "A sudden drop in stock prices"
+    "to support or strengthen the feeling of investors",
+    "to hide the true feelings of investors",
+    "to ignore investors' feelings",
+    "to cause investors to feel angry"
    ],
    "answer": 0,
-   "explain_en": "Here \"rally\" refers to a rapid rise in the market, meaning stock prices went up.",
-   "explain_zh": "在文中「rally」指的是股市快速上漲，表示股價上升。",
-   "news_title_en": "Taiwan stocks notch record closing high as AI leaders power the index",
-   "id": "2026-10-25-00"
+   "explain_en": "Here \"underpin\" means to provide a foundation or support, so the AI-led rally is supporting investors' positive sentiment.",
+   "explain_zh": "「underpin」在此指提供基礎或支撐，表示 AI 帶動的上漲在支撐投資人正面的情緒。",
+   "news_title_en": "Super Typhoon Champi disrupts Taiwan's trading week (2026-10-21)",
+   "id": "2026-10-26-00"
   },
   {
    "type": "comprehension",
-   "question": "Which two companies were mentioned as climbing together in the market?",
+   "question": "According to the summary, when is Super Typhoon Champi expected to head toward Japan?",
    "options": [
-    "Apple and Microsoft",
-    "Samsung and Intel",
-    "TSMC and Hon Hai (Foxconn)",
-    "Google and Amazon"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that foundry giant TSMC and assembler Hon Hai (Foxconn) climbed together.",
-   "explain_zh": "摘要中說明晶圓代工巨頭台積電 (TSMC) 與組裝大廠鴻海 (Foxconn) 同時上漲。",
-   "news_title_en": "Taiwan stocks notch record closing high as AI leaders power the index",
-   "id": "2026-10-25-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word “accelerator” mean?",
-   "options": [
-    "A device that speeds up processing",
-    "A type of stock that rises quickly",
-    "A financial bonus given to employees",
-    "A marketing campaign to attract customers"
-   ],
-   "answer": 0,
-   "explain_en": "Here “accelerator” refers to an AI accelerator, a chip that makes computing faster.",
-   "explain_zh": "此處的 “accelerator” 指的是 AI 加速器，能讓運算速度提升的晶片。",
-   "news_title_en": "TSMC's September revenue hits a fresh same-period record on AI demand",
-   "id": "2026-10-25-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "By what percentage did TSMC's September revenue increase compared to the same month last year?",
-   "options": [
-    "100%",
-    "41%",
-    "0.6%",
-    "54.6%"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states September revenue was up 54.6% from a year earlier.",
-   "explain_zh": "摘要中說明，九月營收較去年同期增長了 54.6%。",
-   "news_title_en": "TSMC's September revenue hits a fresh same-period record on AI demand",
-   "id": "2026-10-25-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"resilience\" mean?",
-   "options": [
-    "A type of financial product",
-    "A new technology",
-    "The ability to recover quickly from difficulties",
-    "A government regulation"
-   ],
-   "answer": 2,
-   "explain_en": "Resilience refers to the ability to bounce back or recover quickly after a setback, especially in finance.",
-   "explain_zh": "韌性指的是在遭遇困難後能快速恢復的能力，尤其在金融領域。",
-   "news_title_en": "FSC chair sets out six policy priorities, including a finance-sector LLM",
-   "id": "2026-10-25-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "When is the finance-industry large language model planned to be released?",
-   "options": [
-    "First quarter of 2026",
-    "First quarter of 2028",
-    "First quarter of 2025",
-    "First quarter of 2027"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the model is targeted for release in the first quarter of 2027.",
-   "explain_zh": "摘要中說明該大型語言模型預計在2027 年第一季推出。",
-   "news_title_en": "FSC chair sets out six policy priorities, including a finance-sector LLM",
-   "id": "2026-10-25-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the news, what does the term \"ex-dividend\" mean?",
-   "options": [
-    "A special tax applied to dividend income",
-    "The date when a company announces a new dividend amount",
-    "The date when a security is sold without the right to receive the next dividend",
-    "A type of high‑yield ETF"
-   ],
-   "answer": 2,
-   "explain_en": "\"Ex-dividend\" is the day a stock or ETF trades without the right to the upcoming dividend, so buyers after that date won't receive it.",
-   "explain_zh": "「除息日」是指證券在此日期之後交易，買進者將無法取得即將發放的股息。",
-   "news_title_en": "October brings a wave of ETF ex-dividend dates for income investors",
-   "id": "2026-10-25-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many Taiwan‑listed ETFs are scheduled to go ex‑dividend in October 2026?",
-   "options": [
-    "21",
-    "12",
-    "48",
-    "35"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that about 48 Taiwan‑listed ETFs go ex‑dividend in October 2026.",
-   "explain_zh": "摘要中提到約有 48 檔台灣上市 ETF 於 2026 年十月除息。",
-   "news_title_en": "October brings a wave of ETF ex-dividend dates for income investors",
-   "id": "2026-10-25-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"anchoring\" mean?",
-   "options": [
-    "Ignoring something important",
-    "Removing something completely",
-    "Keeping something steady or stable",
-    "Increasing something quickly"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"anchoring\" means keeping inflation expectations steady and stable.",
-   "explain_zh": "此處的「anchoring」指的是讓通膨預期保持穩定。",
-   "news_title_en": "Taiwan's central bank holds its policy rate at 2% for a 10th straight quarter",
-   "id": "2026-10-25-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many consecutive quarters has Taiwan's central bank kept the policy rate unchanged?",
-   "options": [
-    "Eleven quarters",
-    "Eight quarters",
-    "Ten quarters",
-    "Nine quarters"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the hold now spans ten consecutive quarters.",
-   "explain_zh": "摘要中說明政策利率已連續十個季度維持不變。",
-   "news_title_en": "Taiwan's central bank holds its policy rate at 2% for a 10th straight quarter",
-   "id": "2026-10-25-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"margin\" mean?",
-   "options": [
-    "A type of oil refinery",
-    "The profit left after costs are paid",
-    "The distance between two countries",
-    "A government tax on exports"
+    "Friday, Oct 23",
+    "Sunday, Oct 25",
+    "Monday, Oct 26",
+    "Saturday, Oct 24"
    ],
    "answer": 1,
-   "explain_en": "\"Margin\" refers to the profit that remains after a company pays its costs, especially in transport and manufacturing.",
-   "explain_zh": "「margin」指的是在扣除成本後剩下的利潤，特別是運輸和製造業的利潤。",
-   "news_title_en": "Oil prices climb to a multi-year high, pressuring global equities",
-   "id": "2026-10-25-10"
+   "explain_en": "The text says the storm will weaken and head toward Japan on Sunday.",
+   "explain_zh": "文中說颱風會在週日減弱後朝日本移動。",
+   "news_title_en": "Super Typhoon Champi disrupts Taiwan's trading week (2026-10-21)",
+   "id": "2026-10-26-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"resilient\" mean?",
+   "options": [
+    "Very cheap",
+    "Not related to finance",
+    "Strong and able to recover quickly",
+    "Uncertain and risky"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"resilient\" describes AI accelerator demand that stays strong even when conditions change.",
+   "explain_zh": "此處的「resilient」指的是 AI 加速器需求在變化中仍保持強勁，能快速恢復。",
+   "news_title_en": "TSMC posts record Q3 results on AI demand at its Oct 15 earnings call (2026-10-15)",
+   "id": "2026-10-26-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, how long has it been since crude oil reached this price level?",
+   "question": "What was TSMC's consolidated revenue for the third quarter in US dollars?",
    "options": [
-    "More than four years",
-    "Six months",
-    "Two decades",
-    "Exactly one year"
+    "$60 billion",
+    "$46.7 billion",
+    "$29.43 billion",
+    "$1.49 trillion"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the revenue reached US$46.7 billion.",
+   "explain_zh": "摘要中說明營收達到 467 億美元。",
+   "news_title_en": "TSMC posts record Q3 results on AI demand at its Oct 15 earnings call (2026-10-15)",
+   "id": "2026-10-26-03"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the phrase \"dividend‑capture\" mean as used in the text?",
+   "options": [
+    "Investing in a company that has never paid dividends before",
+    "Recording the amount of dividend paid in a financial report",
+    "Capturing the attention of investors with high dividend yields",
+    "Buying a stock just before the dividend date and selling it right after to collect the dividend"
+   ],
+   "answer": 3,
+   "explain_en": "In the article, \"dividend‑capture\" refers to the strategy of buying shares before the ex‑dividend date and selling them shortly after to receive the dividend payment.",
+   "explain_zh": "文中「dividend‑capture」指的是在除息日前買進、除息後賣出，以取得股息的操作手法。",
+   "news_title_en": "October brings a peak of Taiwan ETF dividend payouts for income investors (2026-10)",
+   "id": "2026-10-26-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many equity ETFs paid out more than NT$42.1 billion combined during the peak window?",
+   "options": [
+    "19",
+    "12",
+    "21",
+    "42"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that 21 equity ETFs paid out more than NT$42.1 billion in total during the October 12–16 period.",
+   "explain_zh": "摘要中說明在 10 月 12–16 日期間，共有 21 檔股票型 ETF 發放超過 421 億新台幣的股利。",
+   "news_title_en": "October brings a peak of Taiwan ETF dividend payouts for income investors (2026-10)",
+   "id": "2026-10-26-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"exemption\" mean?",
+   "options": [
+    "A government subsidy",
+    "A rule that reduces or removes a tax",
+    "A penalty for late payment",
+    "A type of investment"
+   ],
+   "answer": 1,
+   "explain_en": "An exemption is a rule that lowers or removes a tax liability.",
+   "explain_zh": "「exemption」指的是減免稅金的規定。",
+   "news_title_en": "Taiwan finalises deemed-estate tax reform; exemption seen rising in 2027 (2026-08)",
+   "id": "2026-10-26-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what is the estimated estate‑tax exemption amount for 2027?",
+   "options": [
+    "NT$14.78 million",
+    "NT$15.00 million",
+    "NT$13.33 million",
+    "NT$12.50 million"
    ],
    "answer": 0,
-   "explain_en": "The summary states that crude oil prices rose to their highest level in more than four years.",
-   "explain_zh": "摘要中說原油價格升至四年多以來的最高水平。",
-   "news_title_en": "Oil prices climb to a multi-year high, pressuring global equities",
-   "id": "2026-10-25-11"
+   "explain_en": "The summary states officials estimate the exemption could rise to about NT$14.78 million in 2027.",
+   "explain_zh": "摘要中說明，2027 年的遺產稅免稅額估計約為 1,478 萬新台幣。",
+   "news_title_en": "Taiwan finalises deemed-estate tax reform; exemption seen rising in 2027 (2026-08)",
+   "id": "2026-10-26-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"rippling\" mean?",
+   "options": [
+    "Stopping suddenly",
+    "Making a loud noise",
+    "Increasing in price",
+    "Spreading outward like waves"
+   ],
+   "answer": 3,
+   "explain_en": "\"Rippling\" describes how the market move spread to other markets, like waves spreading outward.",
+   "explain_zh": "「rippling」指的是市場的波動向其他市場擴散，就像波浪向外擴散一樣。",
+   "news_title_en": "Wall Street slips as surging oil stokes inflation fears (2026-10-23)",
+   "id": "2026-10-26-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, why were investors cautious before the Federal Reserve decision?",
+   "options": [
+    "Because technology stocks were rising rapidly",
+    "Because mega‑cap earnings were already announced",
+    "Because higher energy costs could keep inflation above target",
+    "Because oil prices were falling sharply"
+   ],
+   "answer": 2,
+   "explain_en": "The text says higher energy costs could keep inflation above target, making investors cautious ahead of the Fed decision.",
+   "explain_zh": "文中指出能源成本上升可能讓通膨高於目標，因而使投資人對聯準會決策保持謹慎。",
+   "news_title_en": "Wall Street slips as surging oil stokes inflation fears (2026-10-23)",
+   "id": "2026-10-26-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"slip\" mean?",
+   "options": [
+    "to move upward slightly",
+    "to stay the same",
+    "to rise sharply",
+    "to decrease a little"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"slip\" means the indexes went down a little, not that they rose.",
+   "explain_zh": "在文中「slip」指的是指數稍微下跌，而不是上升。",
+   "news_title_en": "U.S. stocks close lower Friday as all three major indexes slip (2026-10-23, 最近交易日)",
+   "id": "2026-10-26-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "By how much did the Dow Jones Industrial Average fall on Friday?",
+   "options": [
+    "about 0.21 points",
+    "about 1.23 points",
+    "about 652 points",
+    "about 0.52 points"
+   ],
+   "answer": 2,
+   "explain_en": "The summary says the Dow was down about 1.23%, roughly 652 points.",
+   "explain_zh": "摘要指出道瓊指數下跌約 1.23%，約 652 點。",
+   "news_title_en": "U.S. stocks close lower Friday as all three major indexes slip (2026-10-23, 最近交易日)",
+   "id": "2026-10-26-11"
   }
  ]
 }
