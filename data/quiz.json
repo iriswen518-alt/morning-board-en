@@ -1,185 +1,185 @@
 {
- "date": "2026-10-26",
+ "date": "2026-10-27",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"underpin sentiment\" mean?",
+   "question": "In the summary, what does the word \"rebound\" mean?",
    "options": [
-    "to support or strengthen the feeling of investors",
-    "to hide the true feelings of investors",
-    "to ignore investors' feelings",
-    "to cause investors to feel angry"
+    "A new product launch",
+    "A rise after a decline",
+    "A government policy",
+    "A type of semiconductor"
+   ],
+   "answer": 1,
+   "explain_en": "Here \"rebound\" refers to the market going up again after falling.",
+   "explain_zh": "此處的「rebound」指的是市場在下跌後再次上升。",
+   "news_title_en": "Taiwan shares reclaim the 5-day line as TSMC holds above NT$2,400 (2026-10-21)",
+   "id": "2026-10-27-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the turnover amount mentioned for the latest confirmed session?",
+   "options": [
+    "About NT$500 million",
+    "About NT$300 billion",
+    "About NT$1.2 trillion",
+    "About NT$833 billion"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the turnover was about NT$833 billion.",
+   "explain_zh": "摘要中提到成交金額約為新台幣8330億。",
+   "news_title_en": "Taiwan shares reclaim the 5-day line as TSMC holds above NT$2,400 (2026-10-21)",
+   "id": "2026-10-27-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"underpinning the AI accelerator supply chain\" mean?",
+   "options": [
+    "Ignoring the AI accelerator supply chain",
+    "Supporting and strengthening the AI accelerator supply chain",
+    "Destroying the AI accelerator supply chain",
+    "Selling the AI accelerator supply chain"
+   ],
+   "answer": 1,
+   "explain_en": "Here \"underpinning\" means providing a base or support, so the capacity helps support the AI accelerator supply chain.",
+   "explain_zh": "「underpinning」在此指提供基礎或支撐，表示產能有助於支撐 AI 加速器供應鏈。",
+   "news_title_en": "CoWoS capacity, higher capex and 2027 EPS hopes keep TSMC in focus (2026-10)",
+   "id": "2026-10-27-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the estimated capital spending (capex) for TSMC in 2026 according to the summary?",
+   "options": [
+    "About NT$150 billion",
+    "About 70,000 wafers",
+    "About US$85 billion",
+    "About US$64 billion"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that 2026 capex is estimated near US$64 billion.",
+   "explain_zh": "摘要中說明 2026 年的資本支出估計約為 640 億美元。",
+   "news_title_en": "CoWoS capacity, higher capex and 2027 EPS hopes keep TSMC in focus (2026-10)",
+   "id": "2026-10-27-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"resilience\" mean?",
+   "options": [
+    "A type of financial product",
+    "A legal document",
+    "The ability to recover quickly from difficulties",
+    "A government agency"
+   ],
+   "answer": 2,
+   "explain_en": "Resilience refers to the ability to bounce back or recover from challenges, here about the financial system.",
+   "explain_zh": "韌性指的是能夠快速從困難中恢復，這裡指金融體系的恢復能力。",
+   "news_title_en": "Taiwan's FSC outlines six policy priorities, including an Asian asset-management hub and a financial-sector LLM (2026-10)",
+   "id": "2026-10-27-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "When does the FSC plan to release the first-generation FinLLM?",
+   "options": [
+    "Third quarter of 2028",
+    "Fourth quarter of 2025",
+    "Second quarter of 2026",
+    "First quarter of 2027"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the FSC will release the FinLLM in the first quarter of 2027.",
+   "explain_zh": "摘要中說明金融監督管理委員會預計在2027 年第一季發布 FinLLM。",
+   "news_title_en": "Taiwan's FSC outlines six policy priorities, including an Asian asset-management hub and a financial-sector LLM (2026-10)",
+   "id": "2026-10-27-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"engine\" mean?",
+   "options": [
+    "A device that produces power or drives growth",
+    "A person who drives a car",
+    "A government agency",
+    "A type of financial instrument"
    ],
    "answer": 0,
-   "explain_en": "Here \"underpin\" means to provide a foundation or support, so the AI-led rally is supporting investors' positive sentiment.",
-   "explain_zh": "「underpin」在此指提供基礎或支撐，表示 AI 帶動的上漲在支撐投資人正面的情緒。",
-   "news_title_en": "Super Typhoon Champi disrupts Taiwan's trading week (2026-10-21)",
-   "id": "2026-10-26-00"
+   "explain_en": "Here \"engine\" refers to something that drives or powers market growth, like a catalyst.",
+   "explain_zh": "此處的「engine」指的是推動或促進市場成長的動力，就像催化劑一樣。",
+   "news_title_en": "Taiwan's high-net-worth cohort seen nearing 124,000 people holding NT$46tn (2026)",
+   "id": "2026-10-27-06"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, when is Super Typhoon Champi expected to head toward Japan?",
+   "question": "According to the report, how many people in Taiwan are expected to have net assets above NT$100 million by 2026?",
    "options": [
-    "Friday, Oct 23",
-    "Sunday, Oct 25",
-    "Monday, Oct 26",
-    "Saturday, Oct 24"
-   ],
-   "answer": 1,
-   "explain_en": "The text says the storm will weaken and head toward Japan on Sunday.",
-   "explain_zh": "文中說颱風會在週日減弱後朝日本移動。",
-   "news_title_en": "Super Typhoon Champi disrupts Taiwan's trading week (2026-10-21)",
-   "id": "2026-10-26-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"resilient\" mean?",
-   "options": [
-    "Very cheap",
-    "Not related to finance",
-    "Strong and able to recover quickly",
-    "Uncertain and risky"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"resilient\" describes AI accelerator demand that stays strong even when conditions change.",
-   "explain_zh": "此處的「resilient」指的是 AI 加速器需求在變化中仍保持強勁，能快速恢復。",
-   "news_title_en": "TSMC posts record Q3 results on AI demand at its Oct 15 earnings call (2026-10-15)",
-   "id": "2026-10-26-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was TSMC's consolidated revenue for the third quarter in US dollars?",
-   "options": [
-    "$60 billion",
-    "$46.7 billion",
-    "$29.43 billion",
-    "$1.49 trillion"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the revenue reached US$46.7 billion.",
-   "explain_zh": "摘要中說明營收達到 467 億美元。",
-   "news_title_en": "TSMC posts record Q3 results on AI demand at its Oct 15 earnings call (2026-10-15)",
-   "id": "2026-10-26-03"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the phrase \"dividend‑capture\" mean as used in the text?",
-   "options": [
-    "Investing in a company that has never paid dividends before",
-    "Recording the amount of dividend paid in a financial report",
-    "Capturing the attention of investors with high dividend yields",
-    "Buying a stock just before the dividend date and selling it right after to collect the dividend"
+    "About 1,000,000",
+    "About 46,000",
+    "About 200,000",
+    "About 124,000"
    ],
    "answer": 3,
-   "explain_en": "In the article, \"dividend‑capture\" refers to the strategy of buying shares before the ex‑dividend date and selling them shortly after to receive the dividend payment.",
-   "explain_zh": "文中「dividend‑capture」指的是在除息日前買進、除息後賣出，以取得股息的操作手法。",
-   "news_title_en": "October brings a peak of Taiwan ETF dividend payouts for income investors (2026-10)",
-   "id": "2026-10-26-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many equity ETFs paid out more than NT$42.1 billion combined during the peak window?",
-   "options": [
-    "19",
-    "12",
-    "21",
-    "42"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that 21 equity ETFs paid out more than NT$42.1 billion in total during the October 12–16 period.",
-   "explain_zh": "摘要中說明在 10 月 12–16 日期間，共有 21 檔股票型 ETF 發放超過 421 億新台幣的股利。",
-   "news_title_en": "October brings a peak of Taiwan ETF dividend payouts for income investors (2026-10)",
-   "id": "2026-10-26-05"
+   "explain_en": "The summary states the number could reach about 124,000 people.",
+   "explain_zh": "摘要中提到，預計到2026年，擁有超過1億新台幣資產的人數約為12.4萬人。",
+   "news_title_en": "Taiwan's high-net-worth cohort seen nearing 124,000 people holding NT$46tn (2026)",
+   "id": "2026-10-27-07"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"exemption\" mean?",
+   "question": "In the article, what does the word \"exemption\" mean?",
    "options": [
-    "A government subsidy",
-    "A rule that reduces or removes a tax",
-    "A penalty for late payment",
-    "A type of investment"
+    "a government subsidy",
+    "a reduction or removal of tax liability",
+    "a tax that must be paid",
+    "a penalty for late payment"
    ],
    "answer": 1,
-   "explain_en": "An exemption is a rule that lowers or removes a tax liability.",
-   "explain_zh": "「exemption」指的是減免稅金的規定。",
-   "news_title_en": "Taiwan finalises deemed-estate tax reform; exemption seen rising in 2027 (2026-08)",
-   "id": "2026-10-26-06"
+   "explain_en": "An exemption means you do not have to pay that part of the tax.",
+   "explain_zh": "「exemption」指的是免除該部分稅金，不需要繳納。",
+   "news_title_en": "Taiwan's estate-tax exemption seen rising toward NT$14.8m in 2027 (2026-10)",
+   "id": "2026-10-27-08"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what is the estimated estate‑tax exemption amount for 2027?",
+   "question": "How much did estate‑tax receipts total in 2025?",
    "options": [
-    "NT$14.78 million",
-    "NT$15.00 million",
-    "NT$13.33 million",
-    "NT$12.50 million"
+    "NT$50.00 billion",
+    "NT$20.00 billion",
+    "NT$44.33 billion",
+    "NT$30.00 billion"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that estate‑tax receipts hit a record NT$44.33 billion in 2025.",
+   "explain_zh": "摘要中說明，2025 年遺產稅收入創下 NT$44.33 億的紀錄。",
+   "news_title_en": "Taiwan's estate-tax exemption seen rising toward NT$14.8m in 2027 (2026-10)",
+   "id": "2026-10-27-09"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"forecast\" mean as used in the text?",
+   "options": [
+    "A prediction about future economic growth",
+    "A historical record of past performance",
+    "A legal document required for trade",
+    "A type of financial penalty"
    ],
    "answer": 0,
-   "explain_en": "The summary states officials estimate the exemption could rise to about NT$14.78 million in 2027.",
-   "explain_zh": "摘要中說明，2027 年的遺產稅免稅額估計約為 1,478 萬新台幣。",
-   "news_title_en": "Taiwan finalises deemed-estate tax reform; exemption seen rising in 2027 (2026-08)",
-   "id": "2026-10-26-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"rippling\" mean?",
-   "options": [
-    "Stopping suddenly",
-    "Making a loud noise",
-    "Increasing in price",
-    "Spreading outward like waves"
-   ],
-   "answer": 3,
-   "explain_en": "\"Rippling\" describes how the market move spread to other markets, like waves spreading outward.",
-   "explain_zh": "「rippling」指的是市場的波動向其他市場擴散，就像波浪向外擴散一樣。",
-   "news_title_en": "Wall Street slips as surging oil stokes inflation fears (2026-10-23)",
-   "id": "2026-10-26-08"
+   "explain_en": "In the article, \"forecast\" refers to a prediction of future GDP growth.",
+   "explain_zh": "在文章中，「forecast」指的是對未來 GDP 成長的預測。",
+   "news_title_en": "Institutions lift Taiwan's 2026 GDP forecasts as AI powers exports (2026-09)",
+   "id": "2026-10-27-10"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, why were investors cautious before the Federal Reserve decision?",
+   "question": "What was the record amount of Taiwan's August exports according to the report?",
    "options": [
-    "Because technology stocks were rising rapidly",
-    "Because mega‑cap earnings were already announced",
-    "Because higher energy costs could keep inflation above target",
-    "Because oil prices were falling sharply"
-   ],
-   "answer": 2,
-   "explain_en": "The text says higher energy costs could keep inflation above target, making investors cautious ahead of the Fed decision.",
-   "explain_zh": "文中指出能源成本上升可能讓通膨高於目標，因而使投資人對聯準會決策保持謹慎。",
-   "news_title_en": "Wall Street slips as surging oil stokes inflation fears (2026-10-23)",
-   "id": "2026-10-26-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"slip\" mean?",
-   "options": [
-    "to move upward slightly",
-    "to stay the same",
-    "to rise sharply",
-    "to decrease a little"
+    "US$5.1 billion",
+    "US$10.1 billion",
+    "US$11.6 billion",
+    "US$82.4 billion"
    ],
    "answer": 3,
-   "explain_en": "Here \"slip\" means the indexes went down a little, not that they rose.",
-   "explain_zh": "在文中「slip」指的是指數稍微下跌，而不是上升。",
-   "news_title_en": "U.S. stocks close lower Friday as all three major indexes slip (2026-10-23, 最近交易日)",
-   "id": "2026-10-26-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "By how much did the Dow Jones Industrial Average fall on Friday?",
-   "options": [
-    "about 0.21 points",
-    "about 1.23 points",
-    "about 652 points",
-    "about 0.52 points"
-   ],
-   "answer": 2,
-   "explain_en": "The summary says the Dow was down about 1.23%, roughly 652 points.",
-   "explain_zh": "摘要指出道瓊指數下跌約 1.23%，約 652 點。",
-   "news_title_en": "U.S. stocks close lower Friday as all three major indexes slip (2026-10-23, 最近交易日)",
-   "id": "2026-10-26-11"
+   "explain_en": "The summary states that August exports reached a record of about US$82.4 billion.",
+   "explain_zh": "摘要中提到八月的出口額創下約 824 億美元的紀錄。",
+   "news_title_en": "Institutions lift Taiwan's 2026 GDP forecasts as AI powers exports (2026-09)",
+   "id": "2026-10-27-11"
   }
  ]
 }
