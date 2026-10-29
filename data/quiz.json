@@ -1,185 +1,185 @@
 {
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"rally\" mean?",
+   "question": "In the summary, what does the word \"anchor\" mean?",
    "options": [
-    "A quick increase in stock prices",
-    "A new product launch",
-    "A meeting of company executives",
-    "A sudden drop in prices"
+    "to pull something down",
+    "to ignore something",
+    "to keep something stable or steady",
+    "to start a new project"
    ],
-   "answer": 0,
-   "explain_en": "Here \"rally\" refers to a rapid rise in stock prices, as the chips and AI stocks went up.",
-   "explain_zh": "在此文中「rally」指的是股價快速上漲，因為晶片與 AI 股票上漲。",
-   "news_title_en": "Global chip rally sets an upbeat tone for TSMC-led Taiwan large-caps",
-   "id": "2026-10-28-00"
+   "answer": 2,
+   "explain_en": "Here \"anchor\" means TSMC helps keep the index stable and high.",
+   "explain_zh": "這裡的「anchor」指的是台積電讓指數保持穩定且偏高。",
+   "news_title_en": "TSMC's raised outlook keeps heavyweights leading the index",
+   "id": "2026-10-29-00"
   },
   {
    "type": "comprehension",
-   "question": "On which date did the Nasdaq reach fresh highs according to the summary?",
+   "question": "What full-year revenue growth target did TSMC set?",
    "options": [
-    "Oct. 25",
-    "Oct. 27",
-    "Oct. 26",
-    "Oct. 28"
+    "about 61%",
+    "about 30%",
+    "about 20%",
+    "about 44%"
+   ],
+   "answer": 3,
+   "explain_en": "The summary says TSMC lifted its full-year revenue growth target to about 44%.",
+   "explain_zh": "摘要中提到台積電把全年營收成長目標提升至約44%。",
+   "news_title_en": "TSMC's raised outlook keeps heavyweights leading the index",
+   "id": "2026-10-29-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"bottleneck\" mean?",
+   "options": [
+    "A point that speeds up the process",
+    "A new AI technology",
+    "A problem that slows down the process",
+    "A type of financial investment"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"bottleneck\" refers to a limitation that slows down the flow of AI accelerator shipments.",
+   "explain_zh": "在此句中，「bottleneck」指的是阻礙 AI 加速器出貨的瓶頸問題。",
+   "news_title_en": "CoWoS capacity accelerates on AI orders",
+   "id": "2026-10-29-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "By the end of 2027, how many CoWoS wafers per month does TSMC expect to produce?",
+   "options": [
+    "Less than 100,000 wafers",
+    "More than 200,000 wafers",
+    "About 170,000 wafers",
+    "About 140,000 wafers"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the capacity will be about 170k wafers per month by the end of 2027.",
+   "explain_zh": "摘要中說明到 2027 年底，TSMC 的產能約為每月 17 萬片。",
+   "news_title_en": "CoWoS capacity accelerates on AI orders",
+   "id": "2026-10-29-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"deploy\" mean?",
+   "options": [
+    "to travel abroad",
+    "to sell a product",
+    "to write a report",
+    "to invest or use resources"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"deploy\" means to invest or use capital for a purpose.",
+   "explain_zh": "在此句中，「deploy」指的是投資或使用資金以達成目的。",
+   "news_title_en": "FSC opens insurers to health-and-wellness investments",
+   "id": "2026-10-29-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what is the maximum stake insurers can now take?",
+   "options": [
+    "100%",
+    "75%",
+    "150%",
+    "50%"
+   ],
+   "answer": 0,
+   "explain_en": "The text says insurers can take stakes of up to 100%.",
+   "explain_zh": "文章指出，保險公司現在可以持有最高 100% 的股份。",
+   "news_title_en": "FSC opens insurers to health-and-wellness investments",
+   "id": "2026-10-29-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"exemption\" mean?",
+   "options": [
+    "A rule that must be followed",
+    "A type of insurance policy",
+    "A new law",
+    "A permission to ignore a rule"
+   ],
+   "answer": 3,
+   "explain_en": "An exemption is a permission to not follow a specific rule.",
+   "explain_zh": "「exemption」指的是允許不遵守特定規則的許可。",
+   "news_title_en": "FSC relaxes rules for wealth-management insurance products",
+   "id": "2026-10-29-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "Who is the target audience for the newly flexible wealth‑management insurance products?",
+   "options": [
+    "Low‑income families",
+    "Small businesses",
+    "Affluent clients",
+    "Retirees"
+   ],
+   "answer": 2,
+   "explain_en": "The summary says the products are aimed at affluent clients.",
+   "explain_zh": "摘要中說這些產品是為富裕客戶設計的。",
+   "news_title_en": "FSC relaxes rules for wealth-management insurance products",
+   "id": "2026-10-29-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the term \"deemed‑estate\" mean?",
+   "options": [
+    "A type of investment fund in Taiwan",
+    "Property that is considered part of the estate for tax purposes",
+    "A gift that is given after the donor dies",
+    "An estate that has been legally approved by the court"
    ],
    "answer": 1,
-   "explain_en": "The summary states that the Nasdaq hit fresh highs on Oct. 27.",
-   "explain_zh": "摘要中說 Nasdaq 在 10 月 27 日創下新高。",
-   "news_title_en": "Global chip rally sets an upbeat tone for TSMC-led Taiwan large-caps",
-   "id": "2026-10-28-01"
-  },
-  {
-   "type": "vocab",
-   "question": "What does the word \"accelerators\" mean as used in the text?",
-   "options": [
-    "Devices that speed up computer tasks",
-    "Programs that increase salary",
-    "Tools for accelerating cars",
-    "People who speed up a race"
-   ],
-   "answer": 0,
-   "explain_en": "In the article, \"accelerators\" refers to hardware that speeds up AI computations.",
-   "explain_zh": "在文章中，「accelerators」指的是加速 AI 計算的硬體裝置。",
-   "news_title_en": "Broadcom–Anthropic AI deal powers semiconductor demand",
-   "id": "2026-10-28-02"
+   "explain_en": "A \"deemed‑estate\" is property treated as belonging to the estate for tax calculation, even if it was given as a gift before death.",
+   "explain_zh": "「deemed‑estate」指的是即使是死亡前的贈與，也被視為遺產的一部份，用來計算稅金。",
+   "news_title_en": "Legislature finalises deemed-estate tax change",
+   "id": "2026-10-29-08"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, which region's suppliers benefit from the AI chip demand?",
+   "question": "According to the summary, what was the estate‑tax revenue in 2025?",
    "options": [
-    "North America",
-    "South America",
-    "Taiwan",
-    "Europe"
-   ],
-   "answer": 2,
-   "explain_en": "The text says the demand flows directly to Taiwan's foundry, advanced‑packaging and component suppliers.",
-   "explain_zh": "文中指出，需求直接流向台灣的晶圓代工、先進封裝與零件供應商。",
-   "news_title_en": "Broadcom–Anthropic AI deal powers semiconductor demand",
-   "id": "2026-10-28-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"pause\" mean?",
-   "options": [
-    "an increase in rates",
-    "a permanent end",
-    "a new policy direction",
-    "a temporary stop"
+    "NT$30.00 billion",
+    "NT$50.00 billion",
+    "NT$13.33 million",
+    "NT$44.33 billion"
    ],
    "answer": 3,
-   "explain_en": "Here \"pause\" means the Fed stops changing rates for a short time.",
-   "explain_zh": "在此文中「pause」指的是美聯儲暫時停止調整利率。",
-   "news_title_en": "Fed widely expected to hold rates at its Oct. 28 meeting",
-   "id": "2026-10-28-04"
+   "explain_en": "The summary states that estate‑tax revenue hit a record NT$44.33 billion in 2025.",
+   "explain_zh": "摘要中提到 2025 年遺產稅收入創下新高，為新台幣 44.33 億元。",
+   "news_title_en": "Legislature finalises deemed-estate tax change",
+   "id": "2026-10-29-09"
   },
   {
-   "type": "comprehension",
-   "question": "What is the current target range for the Federal Reserve's policy rate?",
+   "type": "vocab",
+   "question": "In the summary, what does the word \"surge\" mean?",
    "options": [
-    "5.00%–5.25%",
-    "4.25%–4.50%",
-    "2.50%–2.75%",
-    "3.75%–4.00%"
+    "A small decrease",
+    "An average level",
+    "A steady decline",
+    "A sudden and large increase"
    ],
    "answer": 3,
-   "explain_en": "The summary states the target range stands at 3.75%–4.00% after the September increase.",
-   "explain_zh": "摘要中說明目標區間是 3.75% 至 4.00%。",
-   "news_title_en": "Fed widely expected to hold rates at its Oct. 28 meeting",
-   "id": "2026-10-28-05"
+   "explain_en": "The text says \"AI-led export surge,\" meaning exports are rising quickly and sharply.",
+   "explain_zh": "文中「AI-led export surge」指的是出口快速大幅上升。",
+   "news_title_en": "DGBAS lifts 2026 growth forecast to a near-40-year high",
+   "id": "2026-10-29-10"
   },
   {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"momentum\" mean?",
+   "type": "comprehension",
+   "question": "What is the projected CPI for Taiwan in 2026 according to the summary?",
    "options": [
-    "A steady increase in activity",
-    "A type of computer chip",
-    "A legal agreement",
-    "A sudden drop in price"
+    "2.07%",
+    "2.50%",
+    "1.95%",
+    "3.00%"
    ],
    "answer": 0,
-   "explain_en": "Here \"momentum\" refers to the continued upward movement or growing interest in AI and chip stocks.",
-   "explain_zh": "此處的「momentum」指的是 AI 與晶片股票持續上漲或興趣增加的趨勢。",
-   "news_title_en": "Nasdaq and Russell 2000 gain as Anthropic lifts the tech sector",
-   "id": "2026-10-28-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the approximate level of the Nasdaq Composite after it rose?",
-   "options": [
-    "Around 27,000",
-    "Around 25,000",
-    "Around 26,477",
-    "Around 26,000"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the Nasdaq Composite climbed to about 26,477.",
-   "explain_zh": "摘要中提到納斯達克指數上升至約 26,477 點。",
-   "news_title_en": "Nasdaq and Russell 2000 gain as Anthropic lifts the tech sector",
-   "id": "2026-10-28-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"higher‑for‑longer\" mean?",
-   "options": [
-    "The economy will grow faster",
-    "Interest rates will be lowered soon",
-    "The stock market will keep rising",
-    "Interest rates will stay elevated for an extended period"
-   ],
-   "answer": 3,
-   "explain_en": "It means that interest rates are expected to remain high for a longer time than usual.",
-   "explain_zh": "表示利率預計會長時間維持在較高水平。",
-   "news_title_en": "UOB: more hikes may still lie ahead despite an October pause",
-   "id": "2026-10-28-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what do policymakers generally still view as likely by year‑end?",
-   "options": [
-    "A sharp decline in inflation",
-    "A major currency devaluation",
-    "At least one more rate hike",
-    "A large fiscal stimulus package"
-   ],
-   "answer": 2,
-   "explain_en": "The Fed’s September minutes suggest they expect at least one additional interest‑rate increase before the year ends.",
-   "explain_zh": "根據美聯儲九月會議紀要，政策制定者仍認為年底前可能再加息一次。",
-   "news_title_en": "UOB: more hikes may still lie ahead despite an October pause",
-   "id": "2026-10-28-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"risk‑on tone\" mean?",
-   "options": [
-    "Investors are feeling confident and willing to buy riskier assets",
-    "Investors are demanding higher interest rates",
-    "Investors are avoiding all stocks and buying only cash",
-    "Investors are focusing on government bonds"
-   ],
-   "answer": 0,
-   "explain_en": "A \"risk‑on tone\" means investors are optimistic and more willing to invest in higher‑risk assets like stocks.",
-   "explain_zh": "「risk‑on tone」表示投資人較有信心，願意投入較高風險的資產，如股票。",
-   "news_title_en": "S&P 500 posts back-to-back winning days as chips rally and oil slides",
-   "id": "2026-10-28-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, why did the S&P 500 rise for a second day?",
-   "options": [
-    "Because a new trade agreement was signed",
-    "Because semiconductor strength and lower oil prices boosted the market",
-    "Because the Federal Reserve cut interest rates",
-    "Because the housing market surged dramatically"
-   ],
-   "answer": 1,
-   "explain_en": "The text says the market was powered by strong chips (semiconductors) and falling oil prices, which helped the S&P 500 rise.",
-   "explain_zh": "文中說因為半導體表現強勁以及油價下跌，推動了標普500連續第二天上漲。",
-   "news_title_en": "S&P 500 posts back-to-back winning days as chips rally and oil slides",
-   "id": "2026-10-28-11"
+   "explain_en": "The summary states the 2026 CPI is expected to be 2.07%.",
+   "explain_zh": "摘要中說明 2026 年的 CPI 預估為 2.07%。",
+   "news_title_en": "DGBAS lifts 2026 growth forecast to a near-40-year high",
+   "id": "2026-10-29-11"
   }
  ]
 }
