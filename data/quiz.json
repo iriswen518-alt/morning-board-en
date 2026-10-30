@@ -1,185 +1,185 @@
 {
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"anchor\" mean?",
+   "question": "In the text, what does the word \"baseline\" mean?",
    "options": [
-    "to pull something down",
-    "to ignore something",
-    "to keep something stable or steady",
-    "to start a new project"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"anchor\" means TSMC helps keep the index stable and high.",
-   "explain_zh": "這裡的「anchor」指的是台積電讓指數保持穩定且偏高。",
-   "news_title_en": "TSMC's raised outlook keeps heavyweights leading the index",
-   "id": "2026-10-29-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What full-year revenue growth target did TSMC set?",
-   "options": [
-    "about 61%",
-    "about 30%",
-    "about 20%",
-    "about 44%"
-   ],
-   "answer": 3,
-   "explain_en": "The summary says TSMC lifted its full-year revenue growth target to about 44%.",
-   "explain_zh": "摘要中提到台積電把全年營收成長目標提升至約44%。",
-   "news_title_en": "TSMC's raised outlook keeps heavyweights leading the index",
-   "id": "2026-10-29-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"bottleneck\" mean?",
-   "options": [
-    "A point that speeds up the process",
-    "A new AI technology",
-    "A problem that slows down the process",
-    "A type of financial investment"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"bottleneck\" refers to a limitation that slows down the flow of AI accelerator shipments.",
-   "explain_zh": "在此句中，「bottleneck」指的是阻礙 AI 加速器出貨的瓶頸問題。",
-   "news_title_en": "CoWoS capacity accelerates on AI orders",
-   "id": "2026-10-29-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "By the end of 2027, how many CoWoS wafers per month does TSMC expect to produce?",
-   "options": [
-    "Less than 100,000 wafers",
-    "More than 200,000 wafers",
-    "About 170,000 wafers",
-    "About 140,000 wafers"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the capacity will be about 170k wafers per month by the end of 2027.",
-   "explain_zh": "摘要中說明到 2027 年底，TSMC 的產能約為每月 17 萬片。",
-   "news_title_en": "CoWoS capacity accelerates on AI orders",
-   "id": "2026-10-29-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"deploy\" mean?",
-   "options": [
-    "to travel abroad",
-    "to sell a product",
-    "to write a report",
-    "to invest or use resources"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"deploy\" means to invest or use capital for a purpose.",
-   "explain_zh": "在此句中，「deploy」指的是投資或使用資金以達成目的。",
-   "news_title_en": "FSC opens insurers to health-and-wellness investments",
-   "id": "2026-10-29-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what is the maximum stake insurers can now take?",
-   "options": [
-    "100%",
-    "75%",
-    "150%",
-    "50%"
-   ],
-   "answer": 0,
-   "explain_en": "The text says insurers can take stakes of up to 100%.",
-   "explain_zh": "文章指出，保險公司現在可以持有最高 100% 的股份。",
-   "news_title_en": "FSC opens insurers to health-and-wellness investments",
-   "id": "2026-10-29-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"exemption\" mean?",
-   "options": [
-    "A rule that must be followed",
-    "A type of insurance policy",
-    "A new law",
-    "A permission to ignore a rule"
-   ],
-   "answer": 3,
-   "explain_en": "An exemption is a permission to not follow a specific rule.",
-   "explain_zh": "「exemption」指的是允許不遵守特定規則的許可。",
-   "news_title_en": "FSC relaxes rules for wealth-management insurance products",
-   "id": "2026-10-29-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "Who is the target audience for the newly flexible wealth‑management insurance products?",
-   "options": [
-    "Low‑income families",
-    "Small businesses",
-    "Affluent clients",
-    "Retirees"
-   ],
-   "answer": 2,
-   "explain_en": "The summary says the products are aimed at affluent clients.",
-   "explain_zh": "摘要中說這些產品是為富裕客戶設計的。",
-   "news_title_en": "FSC relaxes rules for wealth-management insurance products",
-   "id": "2026-10-29-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the term \"deemed‑estate\" mean?",
-   "options": [
-    "A type of investment fund in Taiwan",
-    "Property that is considered part of the estate for tax purposes",
-    "A gift that is given after the donor dies",
-    "An estate that has been legally approved by the court"
+    "the lowest possible level",
+    "the standard or reference level",
+    "the profit margin",
+    "a type of packaging material"
    ],
    "answer": 1,
-   "explain_en": "A \"deemed‑estate\" is property treated as belonging to the estate for tax calculation, even if it was given as a gift before death.",
-   "explain_zh": "「deemed‑estate」指的是即使是死亡前的贈與，也被視為遺產的一部份，用來計算稅金。",
-   "news_title_en": "Legislature finalises deemed-estate tax change",
-   "id": "2026-10-29-08"
+   "explain_en": "Here \"baseline\" refers to the standard level that the company expects to maintain in the future.",
+   "explain_zh": "此處的「baseline」指的是公司未來預期維持的標準水平。",
+   "news_title_en": "ASE posts a 28% jump in Q3 net profit as packaging margins top 30%",
+   "id": "2026-10-30-00"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what was the estate‑tax revenue in 2025?",
+   "question": "What profit increase did ASE report for the third quarter?",
    "options": [
-    "NT$30.00 billion",
-    "NT$50.00 billion",
-    "NT$13.33 million",
-    "NT$44.33 billion"
+    "no increase",
+    "about 28%",
+    "about 10%",
+    "about 50%"
    ],
-   "answer": 3,
-   "explain_en": "The summary states that estate‑tax revenue hit a record NT$44.33 billion in 2025.",
-   "explain_zh": "摘要中提到 2025 年遺產稅收入創下新高，為新台幣 44.33 億元。",
-   "news_title_en": "Legislature finalises deemed-estate tax change",
-   "id": "2026-10-29-09"
+   "answer": 1,
+   "explain_en": "The summary states ASE's third‑quarter net profit rose about 28% sequentially.",
+   "explain_zh": "摘要中說明 ASE 第三季淨利大約成長 28%。",
+   "news_title_en": "ASE posts a 28% jump in Q3 net profit as packaging margins top 30%",
+   "id": "2026-10-30-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"surge\" mean?",
+   "question": "In the text, what does the word \"shift\" mean?",
    "options": [
-    "A small decrease",
-    "An average level",
-    "A steady decline",
-    "A sudden and large increase"
+    "to stop working",
+    "to move from one thing to another",
+    "to increase in size",
+    "to change color"
    ],
-   "answer": 3,
-   "explain_en": "The text says \"AI-led export surge,\" meaning exports are rising quickly and sharply.",
-   "explain_zh": "文中「AI-led export surge」指的是出口快速大幅上升。",
-   "news_title_en": "DGBAS lifts 2026 growth forecast to a near-40-year high",
-   "id": "2026-10-29-10"
+   "answer": 1,
+   "explain_en": "Here \"shift\" means to move from using LCD screens to using OLED screens.",
+   "explain_zh": "這裡的「shift」指的是從 LCD 轉換到 OLED，意思是改變使用的螢幕類型。",
+   "news_title_en": "TrendForce: OLED notebook shipments to grow over 40% in 2027 as a new MacBook Pro joins",
+   "id": "2026-10-30-02"
   },
   {
    "type": "comprehension",
-   "question": "What is the projected CPI for Taiwan in 2026 according to the summary?",
+   "question": "By how much does TrendForce expect global OLED notebook shipments to increase in 2027 compared to the previous year?",
    "options": [
-    "2.07%",
-    "2.50%",
-    "1.95%",
-    "3.00%"
+    "More than 50%",
+    "More than 20%",
+    "More than 30%",
+    "More than 40%"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states shipments will rise more than 40% year‑on‑year in 2027.",
+   "explain_zh": "摘要中說 2027 年 OLED 筆記本出貨量將比前一年成長超過 40%。",
+   "news_title_en": "TrendForce: OLED notebook shipments to grow over 40% in 2027 as a new MacBook Pro joins",
+   "id": "2026-10-30-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"momentum\" mean?",
+   "options": [
+    "A steady forward movement",
+    "A government policy",
+    "A type of financial instrument",
+    "A sudden increase in price"
    ],
    "answer": 0,
-   "explain_en": "The summary states the 2026 CPI is expected to be 2.07%.",
-   "explain_zh": "摘要中說明 2026 年的 CPI 預估為 2.07%。",
-   "news_title_en": "DGBAS lifts 2026 growth forecast to a near-40-year high",
-   "id": "2026-10-29-11"
+   "explain_en": "Here \"momentum\" refers to the dollar's steady forward movement or strength before it slowed down.",
+   "explain_zh": "在此文中「momentum」指的是美元之前的持續上升趨勢，現在變弱了。",
+   "news_title_en": "Fed's rate hold trims the dollar's upside, banks say",
+   "id": "2026-10-30-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "What action did the US Federal Reserve take according to the summary?",
+   "options": [
+    "Lowered policy rates",
+    "Raised policy rates",
+    "Left policy rates unchanged",
+    "Changed the currency of the United States"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the Fed left policy rates unchanged, as expected.",
+   "explain_zh": "摘要中說美聯儲維持政策利率不變，符合預期。",
+   "news_title_en": "Fed's rate hold trims the dollar's upside, banks say",
+   "id": "2026-10-30-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"franchise\" mean?",
+   "options": [
+    "A temporary promotional event",
+    "A business with a strong, lasting brand",
+    "A legal right to sell a product",
+    "A type of restaurant chain"
+   ],
+   "answer": 1,
+   "explain_en": "Here \"franchise\" refers to a company that has a durable, strong brand and business model, not a legal or restaurant term.",
+   "explain_zh": "此處的「franchise」指的是具有持久、強大品牌的企業，而非餐飲連鎖或法律授權。",
+   "news_title_en": "Ackman's playbook: own a few businesses still valuable in 20 years",
+   "id": "2026-10-30-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what does Bill Ackman recommend for high‑net‑worth portfolios?",
+   "options": [
+    "Focusing on quality companies and holding them long term",
+    "Investing only in AI companies",
+    "Buying many different stocks quickly",
+    "Chasing short‑term market trends"
+   ],
+   "answer": 0,
+   "explain_en": "The text says the message favours quality, durable franchises and long holding periods over short‑term momentum.",
+   "explain_zh": "文中指出，對高淨值投資組合應偏好優質、耐久的企業，並長期持有，而非追逐短期波動。",
+   "news_title_en": "Ackman's playbook: own a few businesses still valuable in 20 years",
+   "id": "2026-10-30-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"rate‑hike card\" mean?",
+   "options": [
+    "A document listing past rate hikes",
+    "A nickname for a Fed official",
+    "A playing card with a rate printed on it",
+    "A tool the Fed can use to raise interest rates"
+   ],
+   "answer": 3,
+   "explain_en": "It refers to the Fed's ability to increase interest rates if needed.",
+   "explain_zh": "指的是美聯儲在需要時可以提高利率的手段。",
+   "news_title_en": "Warsh keeps a rate-hike card in reserve, reshaping Fed decision-making",
+   "id": "2026-10-30-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, when could a potential rate hike still happen?",
+   "options": [
+    "In March, when inflation drops",
+    "In December, while inflation stays elevated",
+    "In June, after the next election",
+    "In September, when the Fed changes its chair"
+   ],
+   "answer": 1,
+   "explain_en": "The text says a possible December hike remains on the table while inflation stays high.",
+   "explain_zh": "文中指出，儘管通膨仍然偏高，12 月仍可能有加息的機會。",
+   "news_title_en": "Warsh keeps a rate-hike card in reserve, reshaping Fed decision-making",
+   "id": "2026-10-30-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"heavy AI‑infrastructure spending\" mean?",
+   "options": [
+    "Spending a lot of money on AI equipment and facilities",
+    "Spending money on AI software licenses",
+    "Spending lightly on AI research papers",
+    "Spending money on AI advertising campaigns"
+   ],
+   "answer": 0,
+   "explain_en": "It refers to large investments in the physical hardware and data centers needed for AI, not small or light expenses.",
+   "explain_zh": "指的是在 AI 所需的硬體與資料中心等基礎建設上投入大量資金，而不是少量或輕微的支出。",
+   "news_title_en": "Microsoft to raise at least $25bn in debt, joining the AI-funding wave",
+   "id": "2026-10-30-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much debt does Microsoft plan to raise according to the summary?",
+   "options": [
+    "At least US$10 billion",
+    "At least US$25 billion",
+    "Exactly US$30 billion",
+    "At most US$20 billion"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states Microsoft will issue at least US$25 billion in bonds.",
+   "explain_zh": "摘要中說明微軟將發行至少 250 億美元的債券。",
+   "news_title_en": "Microsoft to raise at least $25bn in debt, joining the AI-funding wave",
+   "id": "2026-10-30-11"
   }
  ]
 }
