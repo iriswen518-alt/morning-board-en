@@ -1,185 +1,185 @@
 {
- "date": "2026-10-30",
+ "date": "2026-10-31",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"baseline\" mean?",
+   "question": "In the summary, what does the phrase \"on the defensive\" mean?",
    "options": [
-    "the lowest possible level",
-    "the standard or reference level",
-    "the profit margin",
-    "a type of packaging material"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"baseline\" refers to the standard level that the company expects to maintain in the future.",
-   "explain_zh": "此處的「baseline」指的是公司未來預期維持的標準水平。",
-   "news_title_en": "ASE posts a 28% jump in Q3 net profit as packaging margins top 30%",
-   "id": "2026-10-30-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What profit increase did ASE report for the third quarter?",
-   "options": [
-    "no increase",
-    "about 28%",
-    "about 10%",
-    "about 50%"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states ASE's third‑quarter net profit rose about 28% sequentially.",
-   "explain_zh": "摘要中說明 ASE 第三季淨利大約成長 28%。",
-   "news_title_en": "ASE posts a 28% jump in Q3 net profit as packaging margins top 30%",
-   "id": "2026-10-30-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"shift\" mean?",
-   "options": [
-    "to stop working",
-    "to move from one thing to another",
-    "to increase in size",
-    "to change color"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"shift\" means to move from using LCD screens to using OLED screens.",
-   "explain_zh": "這裡的「shift」指的是從 LCD 轉換到 OLED，意思是改變使用的螢幕類型。",
-   "news_title_en": "TrendForce: OLED notebook shipments to grow over 40% in 2027 as a new MacBook Pro joins",
-   "id": "2026-10-30-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "By how much does TrendForce expect global OLED notebook shipments to increase in 2027 compared to the previous year?",
-   "options": [
-    "More than 50%",
-    "More than 20%",
-    "More than 30%",
-    "More than 40%"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states shipments will rise more than 40% year‑on‑year in 2027.",
-   "explain_zh": "摘要中說 2027 年 OLED 筆記本出貨量將比前一年成長超過 40%。",
-   "news_title_en": "TrendForce: OLED notebook shipments to grow over 40% in 2027 as a new MacBook Pro joins",
-   "id": "2026-10-30-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"momentum\" mean?",
-   "options": [
-    "A steady forward movement",
-    "A government policy",
-    "A type of financial instrument",
-    "A sudden increase in price"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"momentum\" refers to the dollar's steady forward movement or strength before it slowed down.",
-   "explain_zh": "在此文中「momentum」指的是美元之前的持續上升趨勢，現在變弱了。",
-   "news_title_en": "Fed's rate hold trims the dollar's upside, banks say",
-   "id": "2026-10-30-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "What action did the US Federal Reserve take according to the summary?",
-   "options": [
-    "Lowered policy rates",
-    "Raised policy rates",
-    "Left policy rates unchanged",
-    "Changed the currency of the United States"
+    "Increasing its prices aggressively",
+    "Leading the market with new products",
+    "Trying to protect itself from criticism or attack",
+    "Expanding its operations overseas"
    ],
    "answer": 2,
-   "explain_en": "The summary states the Fed left policy rates unchanged, as expected.",
-   "explain_zh": "摘要中說美聯儲維持政策利率不變，符合預期。",
-   "news_title_en": "Fed's rate hold trims the dollar's upside, banks say",
-   "id": "2026-10-30-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"franchise\" mean?",
-   "options": [
-    "A temporary promotional event",
-    "A business with a strong, lasting brand",
-    "A legal right to sell a product",
-    "A type of restaurant chain"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"franchise\" refers to a company that has a durable, strong brand and business model, not a legal or restaurant term.",
-   "explain_zh": "此處的「franchise」指的是具有持久、強大品牌的企業，而非餐飲連鎖或法律授權。",
-   "news_title_en": "Ackman's playbook: own a few businesses still valuable in 20 years",
-   "id": "2026-10-30-06"
+   "explain_en": "The text says Taiwan's AI supply chain is \"on the defensive,\" meaning it is trying to protect itself from the market pressure.",
+   "explain_zh": "文中說台灣的 AI 供應鏈「處於防禦狀態」，表示它正試圖保護自己免受市場壓力。",
+   "news_title_en": "Taiwan shares tumble 3.88% as the global chip sell-off deepens",
+   "id": "2026-10-31-00"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what does Bill Ackman recommend for high‑net‑worth portfolios?",
+   "question": "By how much did Taiwan's weighted index close down on Oct 30?",
    "options": [
-    "Focusing on quality companies and holding them long term",
-    "Investing only in AI companies",
-    "Buying many different stocks quickly",
-    "Chasing short‑term market trends"
+    "4.4%",
+    "2%",
+    "3.88%",
+    "5%"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the weighted index closed down 3.88% on Oct 30.",
+   "explain_zh": "摘要中說台灣加權指數在 10 月 30 日收跌 3.88%。",
+   "news_title_en": "Taiwan shares tumble 3.88% as the global chip sell-off deepens",
+   "id": "2026-10-31-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"non‑red\" mean?",
+   "options": [
+    "It refers to a supply chain that does not involve Chinese components.",
+    "It means the supply chain is environmentally friendly.",
+    "It describes a supply chain that uses red-colored parts.",
+    "It indicates the supply chain is inexpensive."
    ],
    "answer": 0,
-   "explain_en": "The text says the message favours quality, durable franchises and long holding periods over short‑term momentum.",
-   "explain_zh": "文中指出，對高淨值投資組合應偏好優質、耐久的企業，並長期持有，而非追逐短期波動。",
-   "news_title_en": "Ackman's playbook: own a few businesses still valuable in 20 years",
-   "id": "2026-10-30-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"rate‑hike card\" mean?",
-   "options": [
-    "A document listing past rate hikes",
-    "A nickname for a Fed official",
-    "A playing card with a rate printed on it",
-    "A tool the Fed can use to raise interest rates"
-   ],
-   "answer": 3,
-   "explain_en": "It refers to the Fed's ability to increase interest rates if needed.",
-   "explain_zh": "指的是美聯儲在需要時可以提高利率的手段。",
-   "news_title_en": "Warsh keeps a rate-hike card in reserve, reshaping Fed decision-making",
-   "id": "2026-10-30-08"
+   "explain_en": "The text says \"non‑red\" to describe a trusted supply chain that avoids Chinese (red‑team) involvement.",
+   "explain_zh": "文中「non‑red」指的是不使用中國元件的可信供應鏈。",
+   "news_title_en": "Vice President Hsiao outlines three pillars for a \"100% non-red\" drone supply chain",
+   "id": "2026-10-31-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, when could a potential rate hike still happen?",
+   "question": "According to the summary, what is one of the three pillars of Taiwan's drone plan?",
    "options": [
-    "In March, when inflation drops",
-    "In December, while inflation stays elevated",
-    "In June, after the next election",
-    "In September, when the Fed changes its chair"
+    "Building more drone manufacturing factories in Europe.",
+    "A supply chain that avoids Chinese components.",
+    "Increasing the number of drone pilots.",
+    "Reducing the cost of drone batteries."
    ],
    "answer": 1,
-   "explain_en": "The text says a possible December hike remains on the table while inflation stays high.",
-   "explain_zh": "文中指出，儘管通膨仍然偏高，12 月仍可能有加息的機會。",
-   "news_title_en": "Warsh keeps a rate-hike card in reserve, reshaping Fed decision-making",
-   "id": "2026-10-30-09"
+   "explain_en": "The summary lists a \"non‑red, trusted supply chain\" as one of the three pillars.",
+   "explain_zh": "摘要中提到「非中國、可信的供應鏈」是三大支柱之一。",
+   "news_title_en": "Vice President Hsiao outlines three pillars for a \"100% non-red\" drone supply chain",
+   "id": "2026-10-31-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"heavy AI‑infrastructure spending\" mean?",
+   "question": "In the summary, what does the word \"syndicated\" mean?",
    "options": [
-    "Spending a lot of money on AI equipment and facilities",
-    "Spending money on AI software licenses",
-    "Spending lightly on AI research papers",
-    "Spending money on AI advertising campaigns"
+    "A loan that is given to a single person",
+    "A loan that is given by one bank only",
+    "A loan that is shared by several banks",
+    "A loan that is paid back in cash only"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"syndicated\" describes a loan that is provided by a group of banks together, not by a single bank.",
+   "explain_zh": "「syndicated」在文中指的是由多家銀行共同提供的貸款，而不是單一銀行。",
+   "news_title_en": "Taichung Bank leads NT$2.3bn syndicated loan for a Kaohsiung urban-renewal project",
+   "id": "2026-10-31-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "Which bank participated in the NT$2.3bn joint credit facility for the Kaohsiung urban‑renewal project?",
+   "options": [
+    "National Agricultural Credit Union",
+    "Taiwan SME Bank",
+    "Kaohsiung Bank",
+    "Cooperative Bank"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that Kaohsiung Bank participated in the loan together with the other banks.",
+   "explain_zh": "摘要中提到高雄銀行有參與這筆聯合貸款。",
+   "news_title_en": "Taichung Bank leads NT$2.3bn syndicated loan for a Kaohsiung urban-renewal project",
+   "id": "2026-10-31-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"durable\" mean?",
+   "options": [
+    "easy to understand",
+    "quick to change",
+    "lasting for a long time",
+    "expensive to buy"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"durable\" means that the real return stays strong for a long period.",
+   "explain_zh": "此處的「durable」指的是實際報酬能長期保持穩定。",
+   "news_title_en": "US inflation-protected savings bonds now yield 5.51%, with the fixed rate at a near-20-year high",
+   "id": "2026-10-31-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the current composite annual rate on US inflation-indexed savings bonds?",
+   "options": [
+    "6.75%",
+    "5.51%",
+    "3.10%",
+    "4.20%"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the composite annual rate has risen to 5.51%.",
+   "explain_zh": "摘要中說明綜合年化率已上升至5.51%。",
+   "news_title_en": "US inflation-protected savings bonds now yield 5.51%, with the fixed rate at a near-20-year high",
+   "id": "2026-10-31-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the term \"non-reciprocal\" mean?",
+   "options": [
+    "Countries that do not give the same treatment back",
+    "Countries that have no trade agreements",
+    "Countries that are geographically opposite",
+    "Countries that are not part of the United Nations"
    ],
    "answer": 0,
-   "explain_en": "It refers to large investments in the physical hardware and data centers needed for AI, not small or light expenses.",
-   "explain_zh": "指的是在 AI 所需的硬體與資料中心等基礎建設上投入大量資金，而不是少量或輕微的支出。",
-   "news_title_en": "Microsoft to raise at least $25bn in debt, joining the AI-funding wave",
-   "id": "2026-10-30-10"
+   "explain_en": "\"Non-reciprocal\" refers to economies that do not provide the same level of access or treatment in return, so the FCC is targeting them.",
+   "explain_zh": "「non-reciprocal」指的是不提供相同回報或待遇的經濟體，故 FCC 針對這類國家。",
+   "news_title_en": "US FCC bars Chinese testing and certification bodies; Beijing demands withdrawal",
+   "id": "2026-10-31-08"
   },
   {
    "type": "comprehension",
-   "question": "How much debt does Microsoft plan to raise according to the summary?",
+   "question": "When are the new FCC rules set to take effect?",
    "options": [
-    "At least US$10 billion",
-    "At least US$25 billion",
-    "Exactly US$30 billion",
-    "At most US$20 billion"
+    "January 2025",
+    "December 2028",
+    "June 2027",
+    "March 2029"
    ],
    "answer": 1,
-   "explain_en": "The summary states Microsoft will issue at least US$25 billion in bonds.",
-   "explain_zh": "摘要中說明微軟將發行至少 250 億美元的債券。",
-   "news_title_en": "Microsoft to raise at least $25bn in debt, joining the AI-funding wave",
-   "id": "2026-10-30-11"
+   "explain_en": "The summary states the rules will take effect in December 2028.",
+   "explain_zh": "摘要中說明這些規則將於 2028 年 12 月生效。",
+   "news_title_en": "US FCC bars Chinese testing and certification bodies; Beijing demands withdrawal",
+   "id": "2026-10-31-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"resilience\" mean?",
+   "options": [
+    "A type of financial instrument",
+    "A measure of inflation",
+    "The ability to recover quickly from difficulties",
+    "A government policy"
+   ],
+   "answer": 2,
+   "explain_en": "Resilience means the economy can bounce back or stay strong despite challenges.",
+   "explain_zh": "韌性指的是經濟能在困難中快速恢復或保持穩健。",
+   "news_title_en": "NDC chief says Taiwan's full-year CPI stays near 2% and growth may be revised up",
+   "id": "2026-10-31-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what is expected to happen to Taiwan's growth forecast next month?",
+   "options": [
+    "It will be cancelled",
+    "It may be revised higher",
+    "It will be lowered significantly",
+    "It will stay exactly the same"
+   ],
+   "answer": 1,
+   "explain_en": "The chair said there is a good chance the growth forecast will be revised higher when the statistics agency updates projections next month.",
+   "explain_zh": "主席表示，下個月統計機關更新預測時，成長預測很可能會上修。",
+   "news_title_en": "NDC chief says Taiwan's full-year CPI stays near 2% and growth may be revised up",
+   "id": "2026-10-31-11"
   }
  ]
 }
