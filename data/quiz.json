@@ -1,185 +1,185 @@
 {
- "date": "2026-10-31",
+ "date": "2026-11-01",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"on the defensive\" mean?",
+   "question": "In the text, what does the word \"decouple\" mean?",
    "options": [
-    "Increasing its prices aggressively",
-    "Leading the market with new products",
-    "Trying to protect itself from criticism or attack",
-    "Expanding its operations overseas"
+    "to tie together tightly",
+    "to increase in price",
+    "to become less connected",
+    "to stop working"
    ],
    "answer": 2,
-   "explain_en": "The text says Taiwan's AI supply chain is \"on the defensive,\" meaning it is trying to protect itself from the market pressure.",
-   "explain_zh": "文中說台灣的 AI 供應鏈「處於防禦狀態」，表示它正試圖保護自己免受市場壓力。",
-   "news_title_en": "Taiwan shares tumble 3.88% as the global chip sell-off deepens",
-   "id": "2026-10-31-00"
+   "explain_en": "Here \"decouple\" means to become less connected or independent from something else, like the market.",
+   "explain_zh": "在文中「decouple」指的是與其他事物變得較不相關或獨立。",
+   "news_title_en": "Advantech bucks a sharp TAIEX plunge with record Q3 profit",
+   "id": "2026-11-01-00"
   },
   {
    "type": "comprehension",
-   "question": "By how much did Taiwan's weighted index close down on Oct 30?",
+   "question": "What did Advantech report for the third quarter?",
    "options": [
-    "4.4%",
-    "2%",
-    "3.88%",
-    "5%"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the weighted index closed down 3.88% on Oct 30.",
-   "explain_zh": "摘要中說台灣加權指數在 10 月 30 日收跌 3.88%。",
-   "news_title_en": "Taiwan shares tumble 3.88% as the global chip sell-off deepens",
-   "id": "2026-10-31-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"non‑red\" mean?",
-   "options": [
-    "It refers to a supply chain that does not involve Chinese components.",
-    "It means the supply chain is environmentally friendly.",
-    "It describes a supply chain that uses red-colored parts.",
-    "It indicates the supply chain is inexpensive."
+    "record profit",
+    "a dividend cut",
+    "no change in earnings",
+    "a loss"
    ],
    "answer": 0,
-   "explain_en": "The text says \"non‑red\" to describe a trusted supply chain that avoids Chinese (red‑team) involvement.",
-   "explain_zh": "文中「non‑red」指的是不使用中國元件的可信供應鏈。",
-   "news_title_en": "Vice President Hsiao outlines three pillars for a \"100% non-red\" drone supply chain",
-   "id": "2026-10-31-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what is one of the three pillars of Taiwan's drone plan?",
-   "options": [
-    "Building more drone manufacturing factories in Europe.",
-    "A supply chain that avoids Chinese components.",
-    "Increasing the number of drone pilots.",
-    "Reducing the cost of drone batteries."
-   ],
-   "answer": 1,
-   "explain_en": "The summary lists a \"non‑red, trusted supply chain\" as one of the three pillars.",
-   "explain_zh": "摘要中提到「非中國、可信的供應鏈」是三大支柱之一。",
-   "news_title_en": "Vice President Hsiao outlines three pillars for a \"100% non-red\" drone supply chain",
-   "id": "2026-10-31-03"
+   "explain_en": "The summary says Advantech reported record third‑quarter earnings, meaning a record profit.",
+   "explain_zh": "摘要中提到 Advantech 公布了創紀錄的第三季盈餘，即創新高的利潤。",
+   "news_title_en": "Advantech bucks a sharp TAIEX plunge with record Q3 profit",
+   "id": "2026-11-01-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"syndicated\" mean?",
+   "question": "In the text, what does the word \"track\" mean?",
    "options": [
-    "A loan that is given to a single person",
-    "A loan that is given by one bank only",
-    "A loan that is shared by several banks",
-    "A loan that is paid back in cash only"
+    "to compete in a race",
+    "to record a video",
+    "to draw a line on a map",
+    "to follow or match a schedule"
    ],
-   "answer": 2,
-   "explain_en": "Here \"syndicated\" describes a loan that is provided by a group of banks together, not by a single bank.",
-   "explain_zh": "「syndicated」在文中指的是由多家銀行共同提供的貸款，而不是單一銀行。",
-   "news_title_en": "Taichung Bank leads NT$2.3bn syndicated loan for a Kaohsiung urban-renewal project",
-   "id": "2026-10-31-04"
+   "answer": 3,
+   "explain_en": "Here \"track\" means to follow or match the customers' data‑center power‑provisioning schedules.",
+   "explain_zh": "這裡的 \"track\" 指的是跟隨或配合客戶資料中心的電力供應排程。",
+   "news_title_en": "Lite-On raises capex to NT$19.7bn as AI power demand builds",
+   "id": "2026-11-01-02"
   },
   {
    "type": "comprehension",
-   "question": "Which bank participated in the NT$2.3bn joint credit facility for the Kaohsiung urban‑renewal project?",
+   "question": "How much did Lite‑On increase its capital‑expenditure plan to?",
    "options": [
-    "National Agricultural Credit Union",
-    "Taiwan SME Bank",
-    "Kaohsiung Bank",
-    "Cooperative Bank"
+    "NT$10.3 billion",
+    "NT$15.0 billion",
+    "NT$19.7 billion",
+    "NT$22.5 billion"
    ],
    "answer": 2,
-   "explain_en": "The summary states that Kaohsiung Bank participated in the loan together with the other banks.",
-   "explain_zh": "摘要中提到高雄銀行有參與這筆聯合貸款。",
-   "news_title_en": "Taichung Bank leads NT$2.3bn syndicated loan for a Kaohsiung urban-renewal project",
-   "id": "2026-10-31-05"
+   "explain_en": "The summary states that Lite‑On lifted its capex plan to NT$19.7 billion.",
+   "explain_zh": "摘要中說明 Lite‑On 將資本支出計畫提升至新台幣 197 億元。",
+   "news_title_en": "Lite-On raises capex to NT$19.7bn as AI power demand builds",
+   "id": "2026-11-01-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"durable\" mean?",
+   "question": "In the text, what does the word \"stablecoin\" mean?",
    "options": [
-    "easy to understand",
-    "quick to change",
-    "lasting for a long time",
-    "expensive to buy"
+    "A type of cryptocurrency used only for gaming",
+    "A physical coin made of stable metal",
+    "A coin that never changes its design",
+    "A digital token whose value is linked to a stable asset like the US dollar"
    ],
-   "answer": 2,
-   "explain_en": "Here \"durable\" means that the real return stays strong for a long period.",
-   "explain_zh": "此處的「durable」指的是實際報酬能長期保持穩定。",
-   "news_title_en": "US inflation-protected savings bonds now yield 5.51%, with the fixed rate at a near-20-year high",
-   "id": "2026-10-31-06"
+   "answer": 3,
+   "explain_en": "A stablecoin is a cryptocurrency designed to keep its price stable by being pegged to a real‑world asset such as the US dollar.",
+   "explain_zh": "穩定幣是一種加密貨幣，價格與美元等實體資產掛鉤，保持相對穩定。",
+   "news_title_en": "First Bank becomes the first local lender to convert loyalty points into USDT",
+   "id": "2026-11-01-04"
   },
   {
    "type": "comprehension",
-   "question": "What is the current composite annual rate on US inflation-indexed savings bonds?",
+   "question": "Which bank was the first in Taiwan to let customers exchange reward points for USDT?",
    "options": [
-    "6.75%",
-    "5.51%",
-    "3.10%",
-    "4.20%"
+    "Taiwan Cooperative Bank",
+    "Mega International Commercial Bank",
+    "Bank of Taiwan",
+    "First Commercial Bank"
    ],
-   "answer": 1,
-   "explain_en": "The summary states the composite annual rate has risen to 5.51%.",
-   "explain_zh": "摘要中說明綜合年化率已上升至5.51%。",
-   "news_title_en": "US inflation-protected savings bonds now yield 5.51%, with the fixed rate at a near-20-year high",
-   "id": "2026-10-31-07"
+   "answer": 3,
+   "explain_en": "The summary states that First Commercial Bank partnered with HOYA BIT to allow customers to redeem \"Lion Coin\" points for USDT, making it the first local lender to do so.",
+   "explain_zh": "摘要說明第一商業銀行與 HOYA BIT 合作，讓客戶可用「Lion Coin」點數換取 USDT，成為台灣首家這樣做的銀行。",
+   "news_title_en": "First Bank becomes the first local lender to convert loyalty points into USDT",
+   "id": "2026-11-01-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the term \"non-reciprocal\" mean?",
+   "question": "In the summary, what does the phrase \"underappreciated opportunity\" mean?",
    "options": [
-    "Countries that do not give the same treatment back",
-    "Countries that have no trade agreements",
-    "Countries that are geographically opposite",
-    "Countries that are not part of the United Nations"
+    "A chance that many people do not realize is valuable",
+    "A chance that is illegal",
+    "A chance that is already fully used",
+    "A chance that is too expensive"
    ],
    "answer": 0,
-   "explain_en": "\"Non-reciprocal\" refers to economies that do not provide the same level of access or treatment in return, so the FCC is targeting them.",
-   "explain_zh": "「non-reciprocal」指的是不提供相同回報或待遇的經濟體，故 FCC 針對這類國家。",
-   "news_title_en": "US FCC bars Chinese testing and certification bodies; Beijing demands withdrawal",
-   "id": "2026-10-31-08"
+   "explain_en": "The text says the bonds are an \"underappreciated opportunity,\" meaning investors have not fully recognized how valuable they are.",
+   "explain_zh": "文中說這些債券是「未被充分欣賞的機會」，表示投資人還沒完全意識到它的價值。",
+   "news_title_en": "Tech bonds called a 'diamond in the rough' as AI giants ramp up borrowing",
+   "id": "2026-11-01-06"
   },
   {
    "type": "comprehension",
-   "question": "When are the new FCC rules set to take effect?",
+   "question": "According to the summary, why might wealth clients consider overseas‑bond allocations?",
    "options": [
-    "January 2025",
-    "December 2028",
-    "June 2027",
-    "March 2029"
+    "To invest directly in AI company stocks",
+    "To join the AI theme without taking direct equity‑valuation risk",
+    "To avoid paying any taxes",
+    "Because overseas bonds have higher interest rates than any other investment"
    ],
    "answer": 1,
-   "explain_en": "The summary states the rules will take effect in December 2028.",
-   "explain_zh": "摘要中說明這些規則將於 2028 年 12 月生效。",
-   "news_title_en": "US FCC bars Chinese testing and certification bodies; Beijing demands withdrawal",
-   "id": "2026-10-31-09"
+   "explain_en": "The summary states that selective overseas‑bond and credit allocations let wealth clients join the AI theme while avoiding direct equity‑valuation risk.",
+   "explain_zh": "摘要指出，透過挑選海外債券與信用配置，富裕客戶可以參與 AI 主題，同時避免直接的股票估值風險。",
+   "news_title_en": "Tech bonds called a 'diamond in the rough' as AI giants ramp up borrowing",
+   "id": "2026-11-01-07"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"resilience\" mean?",
+   "question": "In the summary, what does the phrase \"terminal rate\" mean?",
    "options": [
-    "A type of financial instrument",
-    "A measure of inflation",
-    "The ability to recover quickly from difficulties",
-    "A government policy"
+    "The final interest rate that the central bank aims to reach",
+    "The highest exchange rate of the yen against the dollar",
+    "The rate used for calculating taxes on profits",
+    "The rate at which banks stop lending money"
    ],
-   "answer": 2,
-   "explain_en": "Resilience means the economy can bounce back or stay strong despite challenges.",
-   "explain_zh": "韌性指的是經濟能在困難中快速恢復或保持穩健。",
-   "news_title_en": "NDC chief says Taiwan's full-year CPI stays near 2% and growth may be revised up",
-   "id": "2026-10-31-10"
+   "answer": 0,
+   "explain_en": "The text says the terminal rate is seen around 2%, meaning the final target interest rate the BOJ expects to end up at.",
+   "explain_zh": "文中說終端利率約為 2%，指的是日本央行最終想達到的利率目標。",
+   "news_title_en": "BOJ holds at 1.25%, but analysts eye a December hike toward a 2% terminal rate",
+   "id": "2026-11-01-08"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what is expected to happen to Taiwan's growth forecast next month?",
+   "question": "According to the summary, when do analysts expect the BOJ might raise the policy rate to 1.5%?",
    "options": [
-    "It will be cancelled",
-    "It may be revised higher",
-    "It will be lowered significantly",
-    "It will stay exactly the same"
+    "In March",
+    "In June",
+    "In September",
+    "In December"
    ],
-   "answer": 1,
-   "explain_en": "The chair said there is a good chance the growth forecast will be revised higher when the statistics agency updates projections next month.",
-   "explain_zh": "主席表示，下個月統計機關更新預測時，成長預測很可能會上修。",
-   "news_title_en": "NDC chief says Taiwan's full-year CPI stays near 2% and growth may be revised up",
-   "id": "2026-10-31-11"
+   "answer": 3,
+   "explain_en": "The summary states analysts expect a move to 1.5% as soon as December.",
+   "explain_zh": "摘要中提到分析師預計最早在十二月將政策利率提升至 1.5%。",
+   "news_title_en": "BOJ holds at 1.25%, but analysts eye a December hike toward a 2% terminal rate",
+   "id": "2026-11-01-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"evaporating\" mean?",
+   "options": [
+    "increasing rapidly",
+    "becoming solid",
+    "turning into vapor",
+    "disappearing quickly"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"evaporating\" describes the market value disappearing fast, not literal water turning into vapor.",
+   "explain_zh": "此處的「evaporating」指的是市值快速消失，而不是水變成蒸氣。",
+   "news_title_en": "Alphabet suffers a brutal October, shedding about US$758bn in market value",
+   "id": "2026-11-01-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much market value did Alphabet lose in October according to the summary?",
+   "options": [
+    "About US$500 billion",
+    "About US$200 billion",
+    "About US$1 trillion",
+    "About US$758 billion"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that Alphabet’s market capitalization evaporated by roughly US$758 billion in October.",
+   "explain_zh": "摘要中說明 Alphabet 在十月損失了約 758 億美元的市值。",
+   "news_title_en": "Alphabet suffers a brutal October, shedding about US$758bn in market value",
+   "id": "2026-11-01-11"
   }
  ]
 }
