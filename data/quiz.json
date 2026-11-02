@@ -1,185 +1,170 @@
 {
- "date": "2026-11-01",
+ "date": "2026-11-02",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"decouple\" mean?",
+   "question": "In the summary, what does the phrase \"risk‑off selling\" mean?",
    "options": [
-    "to tie together tightly",
-    "to increase in price",
-    "to become less connected",
-    "to stop working"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"decouple\" means to become less connected or independent from something else, like the market.",
-   "explain_zh": "在文中「decouple」指的是與其他事物變得較不相關或獨立。",
-   "news_title_en": "Advantech bucks a sharp TAIEX plunge with record Q3 profit",
-   "id": "2026-11-01-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What did Advantech report for the third quarter?",
-   "options": [
-    "record profit",
-    "a dividend cut",
-    "no change in earnings",
-    "a loss"
-   ],
-   "answer": 0,
-   "explain_en": "The summary says Advantech reported record third‑quarter earnings, meaning a record profit.",
-   "explain_zh": "摘要中提到 Advantech 公布了創紀錄的第三季盈餘，即創新高的利潤。",
-   "news_title_en": "Advantech bucks a sharp TAIEX plunge with record Q3 profit",
-   "id": "2026-11-01-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"track\" mean?",
-   "options": [
-    "to compete in a race",
-    "to record a video",
-    "to draw a line on a map",
-    "to follow or match a schedule"
+    "Investors are holding onto their stocks",
+    "Investors are ignoring market news",
+    "Investors are buying risky assets",
+    "Investors are selling risky assets"
    ],
    "answer": 3,
-   "explain_en": "Here \"track\" means to follow or match the customers' data‑center power‑provisioning schedules.",
-   "explain_zh": "這裡的 \"track\" 指的是跟隨或配合客戶資料中心的電力供應排程。",
-   "news_title_en": "Lite-On raises capex to NT$19.7bn as AI power demand builds",
-   "id": "2026-11-01-02"
+   "explain_en": "\"Risk‑off selling\" means investors are selling assets they consider risky because they want to avoid risk.",
+   "explain_zh": "「risk‑off selling」指的是投資人因為想降低風險而拋售他們認為有風險的資產。",
+   "news_title_en": "TAIEX tumbles 2.5% Friday as foreign funds flee",
+   "id": "2026-11-02-00"
   },
   {
    "type": "comprehension",
-   "question": "How much did Lite‑On increase its capital‑expenditure plan to?",
+   "question": "By how many points did the TAIEX drop on Friday?",
    "options": [
-    "NT$10.3 billion",
-    "NT$15.0 billion",
-    "NT$19.7 billion",
-    "NT$22.5 billion"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that Lite‑On lifted its capex plan to NT$19.7 billion.",
-   "explain_zh": "摘要中說明 Lite‑On 將資本支出計畫提升至新台幣 197 億元。",
-   "news_title_en": "Lite-On raises capex to NT$19.7bn as AI power demand builds",
-   "id": "2026-11-01-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"stablecoin\" mean?",
-   "options": [
-    "A type of cryptocurrency used only for gaming",
-    "A physical coin made of stable metal",
-    "A coin that never changes its design",
-    "A digital token whose value is linked to a stable asset like the US dollar"
+    "45,000 points",
+    "1,056.5 points",
+    "2,500 points",
+    "1,156.5 points"
    ],
    "answer": 3,
-   "explain_en": "A stablecoin is a cryptocurrency designed to keep its price stable by being pegged to a real‑world asset such as the US dollar.",
-   "explain_zh": "穩定幣是一種加密貨幣，價格與美元等實體資產掛鉤，保持相對穩定。",
-   "news_title_en": "First Bank becomes the first local lender to convert loyalty points into USDT",
-   "id": "2026-11-01-04"
+   "explain_en": "The summary states the TAIEX fell by 1,156.5 points, which is a 2.49% decline.",
+   "explain_zh": "摘要中說明台股指數下跌了 1,156.5 點，跌幅為 2.49%。",
+   "news_title_en": "TAIEX tumbles 2.5% Friday as foreign funds flee",
+   "id": "2026-11-02-01"
   },
   {
    "type": "comprehension",
-   "question": "Which bank was the first in Taiwan to let customers exchange reward points for USDT?",
+   "question": "How much AI server revenue has Foxconn reported for the first three quarters?",
    "options": [
-    "Taiwan Cooperative Bank",
-    "Mega International Commercial Bank",
-    "Bank of Taiwan",
-    "First Commercial Bank"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that First Commercial Bank partnered with HOYA BIT to allow customers to redeem \"Lion Coin\" points for USDT, making it the first local lender to do so.",
-   "explain_zh": "摘要說明第一商業銀行與 HOYA BIT 合作，讓客戶可用「Lion Coin」點數換取 USDT，成為台灣首家這樣做的銀行。",
-   "news_title_en": "First Bank becomes the first local lender to convert loyalty points into USDT",
-   "id": "2026-11-01-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"underappreciated opportunity\" mean?",
-   "options": [
-    "A chance that many people do not realize is valuable",
-    "A chance that is illegal",
-    "A chance that is already fully used",
-    "A chance that is too expensive"
-   ],
-   "answer": 0,
-   "explain_en": "The text says the bonds are an \"underappreciated opportunity,\" meaning investors have not fully recognized how valuable they are.",
-   "explain_zh": "文中說這些債券是「未被充分欣賞的機會」，表示投資人還沒完全意識到它的價值。",
-   "news_title_en": "Tech bonds called a 'diamond in the rough' as AI giants ramp up borrowing",
-   "id": "2026-11-01-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, why might wealth clients consider overseas‑bond allocations?",
-   "options": [
-    "To invest directly in AI company stocks",
-    "To join the AI theme without taking direct equity‑valuation risk",
-    "To avoid paying any taxes",
-    "Because overseas bonds have higher interest rates than any other investment"
+    "NT$750 billion",
+    "NT$1 trillion",
+    "NT$2 trillion",
+    "NT$500 billion"
    ],
    "answer": 1,
-   "explain_en": "The summary states that selective overseas‑bond and credit allocations let wealth clients join the AI theme while avoiding direct equity‑valuation risk.",
-   "explain_zh": "摘要指出，透過挑選海外債券與信用配置，富裕客戶可以參與 AI 主題，同時避免直接的股票估值風險。",
-   "news_title_en": "Tech bonds called a 'diamond in the rough' as AI giants ramp up borrowing",
-   "id": "2026-11-01-07"
+   "explain_en": "The summary states that AI server revenue has already exceeded NT$1 trillion through the first three quarters.",
+   "explain_zh": "摘要中說明，前九個月的 AI 伺服器營收已超過新台幣 1 兆。",
+   "news_title_en": "Foxconn's AI server revenue tops NT$1 trillion in first nine months",
+   "id": "2026-11-02-02"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"terminal rate\" mean?",
+   "question": "In the summary, what does the word \"resilience\" mean?",
    "options": [
-    "The final interest rate that the central bank aims to reach",
-    "The highest exchange rate of the yen against the dollar",
-    "The rate used for calculating taxes on profits",
-    "The rate at which banks stop lending money"
+    "the amount of money a bank holds",
+    "the speed of a computer network",
+    "the ability to recover quickly from difficulties",
+    "the number of customers a bank has"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"resilience\" refers to the ability to withstand and recover from cyber attacks.",
+   "explain_zh": "此處的「resilience」指的是在面對網路攻擊時能夠快速恢復的能力。",
+   "news_title_en": "FSC sets 2026 exam focus on fraud, AML and cyber-resilience",
+   "id": "2026-11-02-03"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many inspection points are included in the FSC's 2026 examination priorities?",
+   "options": [
+    "2026",
+    "4",
+    "two",
+    "113"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the four priority areas cover a combined 113 inspection points.",
+   "explain_zh": "摘要中說明，四個重點領域合計有 113 個檢查點。",
+   "news_title_en": "FSC sets 2026 exam focus on fraud, AML and cyber-resilience",
+   "id": "2026-11-02-04"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"succession\" mean?",
+   "options": [
+    "A type of investment fund",
+    "A government policy",
+    "Passing assets to the next generation",
+    "A financial loss"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"succession\" refers to planning for who will inherit or manage assets after the current owner dies.",
+   "explain_zh": "此處的「succession」指的是資產在所有者過世後的繼承或管理規劃。",
+   "news_title_en": "Taiwan's high-net-worth pool keeps expanding into 2026, KPMG says",
+   "id": "2026-11-02-05"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the KPMG report, what percentage of high‑net‑worth residents already hold offshore assets?",
+   "options": [
+    "74%",
+    "90%",
+    "50%",
+    "30%"
    ],
    "answer": 0,
-   "explain_en": "The text says the terminal rate is seen around 2%, meaning the final target interest rate the BOJ expects to end up at.",
-   "explain_zh": "文中說終端利率約為 2%，指的是日本央行最終想達到的利率目標。",
-   "news_title_en": "BOJ holds at 1.25%, but analysts eye a December hike toward a 2% terminal rate",
-   "id": "2026-11-01-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, when do analysts expect the BOJ might raise the policy rate to 1.5%?",
-   "options": [
-    "In March",
-    "In June",
-    "In September",
-    "In December"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states analysts expect a move to 1.5% as soon as December.",
-   "explain_zh": "摘要中提到分析師預計最早在十二月將政策利率提升至 1.5%。",
-   "news_title_en": "BOJ holds at 1.25%, but analysts eye a December hike toward a 2% terminal rate",
-   "id": "2026-11-01-09"
+   "explain_en": "The summary states that roughly 74% of those residents already hold offshore assets.",
+   "explain_zh": "摘要中說明約有 74% 的高淨值居民已持有離岸資產。",
+   "news_title_en": "Taiwan's high-net-worth pool keeps expanding into 2026, KPMG says",
+   "id": "2026-11-02-06"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"evaporating\" mean?",
+   "question": "In the summary, what does the phrase \"folded back into\" mean?",
    "options": [
-    "increasing rapidly",
-    "becoming solid",
-    "turning into vapor",
-    "disappearing quickly"
+    "sent abroad",
+    "removed from",
+    "included again in",
+    "ignored by"
    ],
-   "answer": 3,
-   "explain_en": "Here \"evaporating\" describes the market value disappearing fast, not literal water turning into vapor.",
-   "explain_zh": "此處的「evaporating」指的是市值快速消失，而不是水變成蒸氣。",
-   "news_title_en": "Alphabet suffers a brutal October, shedding about US$758bn in market value",
-   "id": "2026-11-01-10"
+   "answer": 2,
+   "explain_en": "It means the gifted assets are counted again as part of the taxable estate.",
+   "explain_zh": "「folded back into」指的是把贈與的資產重新算入應稅遺產中。",
+   "news_title_en": "Taiwan tightens estate-tax rules on gifts made before death",
+   "id": "2026-11-02-07"
   },
   {
    "type": "comprehension",
-   "question": "How much market value did Alphabet lose in October according to the summary?",
+   "question": "According to the summary, who becomes liable for the estate tax on gifts made within two years before death?",
    "options": [
-    "About US$500 billion",
-    "About US$200 billion",
-    "About US$1 trillion",
-    "About US$758 billion"
+    "The government",
+    "The recipient of the gift",
+    "The spouse of the recipient",
+    "The original owner of the asset"
    ],
-   "answer": 3,
-   "explain_en": "The summary states that Alphabet’s market capitalization evaporated by roughly US$758 billion in October.",
-   "explain_zh": "摘要中說明 Alphabet 在十月損失了約 758 億美元的市值。",
-   "news_title_en": "Alphabet suffers a brutal October, shedding about US$758bn in market value",
-   "id": "2026-11-01-11"
+   "answer": 1,
+   "explain_en": "The summary states that the recipient now has to pay the related estate tax.",
+   "explain_zh": "摘要說明，收到贈與的人現在需要負擔相關的遺產稅。",
+   "news_title_en": "Taiwan tightens estate-tax rules on gifts made before death",
+   "id": "2026-11-02-08"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"buoyed\" mean?",
+   "options": [
+    "Calculated",
+    "Ignored",
+    "Supported or lifted up",
+    "Sunk down"
+   ],
+   "answer": 2,
+   "explain_en": "\"Buoyed\" means that something was supported or helped, in this case AI-driven exports and private investment helped the economy.",
+   "explain_zh": "「buoyed」指受到支撐或提升，這裡是說 AI 相關的出口與民間投資讓經濟得到幫助。",
+   "news_title_en": "Central bank holds rates again, lifts 2026 growth forecast",
+   "id": "2026-11-02-09"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many consecutive quarters has Taiwan's central bank kept policy rates unchanged?",
+   "options": [
+    "Eleven quarters",
+    "Eight quarters",
+    "Ten quarters",
+    "Nine quarters"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the hold has been extended to ten straight quarters.",
+   "explain_zh": "摘要中說明政策利率已連續保持十個季度不變。",
+   "news_title_en": "Central bank holds rates again, lifts 2026 growth forecast",
+   "id": "2026-11-02-10"
   }
  ]
 }
