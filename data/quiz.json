@@ -1,170 +1,185 @@
 {
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"risk‑off selling\" mean?",
+   "question": "In the summary, what does the word \"plunging\" mean?",
    "options": [
-    "Investors are holding onto their stocks",
-    "Investors are ignoring market news",
-    "Investors are buying risky assets",
-    "Investors are selling risky assets"
+    "moving slowly",
+    "rising quickly",
+    "staying the same",
+    "falling sharply"
    ],
    "answer": 3,
-   "explain_en": "\"Risk‑off selling\" means investors are selling assets they consider risky because they want to avoid risk.",
-   "explain_zh": "「risk‑off selling」指的是投資人因為想降低風險而拋售他們認為有風險的資產。",
-   "news_title_en": "TAIEX tumbles 2.5% Friday as foreign funds flee",
-   "id": "2026-11-02-00"
+   "explain_en": "\"Plunging\" means falling sharply, as used to describe the index dropping to an intraday low.",
+   "explain_zh": "「plunging」在文中指的是急速下跌，表示指數跌至盤中低點。",
+   "news_title_en": "TAIEX loses 45,000 as Monday open stumbles, TSMC leads declines",
+   "id": "2026-11-03-00"
   },
   {
    "type": "comprehension",
-   "question": "By how many points did the TAIEX drop on Friday?",
+   "question": "What was the closing level of the TAIEX on Monday?",
    "options": [
-    "45,000 points",
-    "1,056.5 points",
-    "2,500 points",
-    "1,156.5 points"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the TAIEX fell by 1,156.5 points, which is a 2.49% decline.",
-   "explain_zh": "摘要中說明台股指數下跌了 1,156.5 點，跌幅為 2.49%。",
-   "news_title_en": "TAIEX tumbles 2.5% Friday as foreign funds flee",
-   "id": "2026-11-02-01"
-  },
-  {
-   "type": "comprehension",
-   "question": "How much AI server revenue has Foxconn reported for the first three quarters?",
-   "options": [
-    "NT$750 billion",
-    "NT$1 trillion",
-    "NT$2 trillion",
-    "NT$500 billion"
+    "44,500.0",
+    "44,920.14",
+    "45,000.0",
+    "44,399.1"
    ],
    "answer": 1,
-   "explain_en": "The summary states that AI server revenue has already exceeded NT$1 trillion through the first three quarters.",
-   "explain_zh": "摘要中說明，前九個月的 AI 伺服器營收已超過新台幣 1 兆。",
-   "news_title_en": "Foxconn's AI server revenue tops NT$1 trillion in first nine months",
-   "id": "2026-11-02-02"
+   "explain_en": "The summary states the index closed at 44,920.14 after the session.",
+   "explain_zh": "摘要中說明指數收盤於 44,920.14 點。",
+   "news_title_en": "TAIEX loses 45,000 as Monday open stumbles, TSMC leads declines",
+   "id": "2026-11-03-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"resilience\" mean?",
+   "question": "In the text, what does the word \"consolidated\" mean?",
    "options": [
-    "the amount of money a bank holds",
-    "the speed of a computer network",
-    "the ability to recover quickly from difficulties",
-    "the number of customers a bank has"
+    "Ignored completely",
+    "Reduced in size",
+    "Combined into one total",
+    "Separated into parts"
    ],
    "answer": 2,
-   "explain_en": "Here \"resilience\" refers to the ability to withstand and recover from cyber attacks.",
-   "explain_zh": "此處的「resilience」指的是在面對網路攻擊時能夠快速恢復的能力。",
-   "news_title_en": "FSC sets 2026 exam focus on fraud, AML and cyber-resilience",
-   "id": "2026-11-02-03"
+   "explain_en": "\"Consolidated\" means the revenue numbers are added together to show a total amount.",
+   "explain_zh": "「consolidated」表示把營收加總成一個總額。",
+   "news_title_en": "TSMC September revenue jumps 54.7% to NT$511.9bn, nine-month sales up 41%",
+   "id": "2026-11-03-02"
   },
   {
    "type": "comprehension",
-   "question": "How many inspection points are included in the FSC's 2026 examination priorities?",
+   "question": "What percentage did TSMC's September revenue increase compared to the same month last year?",
    "options": [
-    "2026",
-    "4",
-    "two",
-    "113"
+    "52.3%",
+    "41.1%",
+    "0.6%",
+    "54.7%"
    ],
    "answer": 3,
-   "explain_en": "The summary states the four priority areas cover a combined 113 inspection points.",
-   "explain_zh": "摘要中說明，四個重點領域合計有 113 個檢查點。",
-   "news_title_en": "FSC sets 2026 exam focus on fraud, AML and cyber-resilience",
-   "id": "2026-11-02-04"
+   "explain_en": "The summary states September revenue was up 54.7% year‑on‑year.",
+   "explain_zh": "摘要中說九月營收較去年同期成長了54.7%。",
+   "news_title_en": "TSMC September revenue jumps 54.7% to NT$511.9bn, nine-month sales up 41%",
+   "id": "2026-11-03-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"succession\" mean?",
+   "question": "In the summary, what does the word \"resilient\" mean?",
    "options": [
-    "A type of investment fund",
-    "A government policy",
-    "Passing assets to the next generation",
-    "A financial loss"
+    "Very expensive",
+    "A type of financial instrument",
+    "Able to recover quickly from difficulties",
+    "Related to real estate"
    ],
    "answer": 2,
-   "explain_en": "Here \"succession\" refers to planning for who will inherit or manage assets after the current owner dies.",
-   "explain_zh": "此處的「succession」指的是資產在所有者過世後的繼承或管理規劃。",
-   "news_title_en": "Taiwan's high-net-worth pool keeps expanding into 2026, KPMG says",
-   "id": "2026-11-02-05"
+   "explain_en": "\"Resilient\" describes earnings that can bounce back or stay strong despite challenges.",
+   "explain_zh": "「resilient」指的是盈餘能在困難中快速恢復或保持穩健。",
+   "news_title_en": "All 13 financial holdings grow first-nine-month profits; Fubon leads with EPS NT$8.8",
+   "id": "2026-11-03-04"
   },
   {
    "type": "comprehension",
-   "question": "According to the KPMG report, what percentage of high‑net‑worth residents already hold offshore assets?",
+   "question": "Which financial holding company had the highest cumulative EPS for the first three quarters of 2026?",
    "options": [
-    "74%",
-    "90%",
-    "50%",
-    "30%"
+    "Cathay Financial",
+    "Yuanta",
+    "CTBC",
+    "Fubon Financial"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that Fubon Financial led with a cumulative EPS of NT$8.8.",
+   "explain_zh": "摘要中說明富邦金控以 NT$8.8 的每股盈餘領先。",
+   "news_title_en": "All 13 financial holdings grow first-nine-month profits; Fubon leads with EPS NT$8.8",
+   "id": "2026-11-03-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"allocation\" mean?",
+   "options": [
+    "Choosing how to spread money among different investments",
+    "The process of selling stocks quickly",
+    "A government regulation on banking",
+    "A type of tax applied to funds"
    ],
    "answer": 0,
-   "explain_en": "The summary states that roughly 74% of those residents already hold offshore assets.",
-   "explain_zh": "摘要中說明約有 74% 的高淨值居民已持有離岸資產。",
-   "news_title_en": "Taiwan's high-net-worth pool keeps expanding into 2026, KPMG says",
-   "id": "2026-11-02-06"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"folded back into\" mean?",
-   "options": [
-    "sent abroad",
-    "removed from",
-    "included again in",
-    "ignored by"
-   ],
-   "answer": 2,
-   "explain_en": "It means the gifted assets are counted again as part of the taxable estate.",
-   "explain_zh": "「folded back into」指的是把贈與的資產重新算入應稅遺產中。",
-   "news_title_en": "Taiwan tightens estate-tax rules on gifts made before death",
-   "id": "2026-11-02-07"
+   "explain_en": "Here \"allocation\" refers to how investors divide their money across various assets.",
+   "explain_zh": "這裡的「allocation」指的是投資人如何把資金分配到不同的投資標的上。",
+   "news_title_en": "Taiwan onshore fund assets hit record NT$16.17tn as ETFs reach 62% share",
+   "id": "2026-11-03-06"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, who becomes liable for the estate tax on gifts made within two years before death?",
+   "question": "How many ETFs were listed in Taiwan's onshore market according to the summary?",
    "options": [
-    "The government",
+    "150",
+    "420",
+    "350",
+    "289"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that the market now hosts 289 ETFs.",
+   "explain_zh": "摘要中提到目前市場上有 289 檔 ETF。",
+   "news_title_en": "Taiwan onshore fund assets hit record NT$16.17tn as ETFs reach 62% share",
+   "id": "2026-11-03-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"folded back\" mean?",
+   "options": [
+    "included again in the taxable estate",
+    "removed from the tax calculation",
+    "saved for future use",
+    "given as a gift to someone else"
+   ],
+   "answer": 0,
+   "explain_en": "\"Folded back\" means the assets are counted again as part of the taxable estate.",
+   "explain_zh": "「folded back」是指資產再次被算入應稅遺產中。",
+   "news_title_en": "Estate-tax reform shifts liability to gift recipients on pre-death transfers",
+   "id": "2026-11-03-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the reform, who must pay the tax on assets gifted within two years before death?",
+   "options": [
+    "The government directly",
+    "The estate of the deceased",
     "The recipient of the gift",
-    "The spouse of the recipient",
-    "The original owner of the asset"
+    "The spouse who receives the gift"
    ],
-   "answer": 1,
-   "explain_en": "The summary states that the recipient now has to pay the related estate tax.",
-   "explain_zh": "摘要說明，收到贈與的人現在需要負擔相關的遺產稅。",
-   "news_title_en": "Taiwan tightens estate-tax rules on gifts made before death",
-   "id": "2026-11-02-08"
+   "answer": 2,
+   "explain_en": "The new rule makes the recipient of the gift liable for the tax, not the estate.",
+   "explain_zh": "新規定是由受贈人負擔稅款，而不是遺產本身。",
+   "news_title_en": "Estate-tax reform shifts liability to gift recipients on pre-death transfers",
+   "id": "2026-11-03-09"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"buoyed\" mean?",
+   "question": "In the summary, what does the word \"momentum\" mean?",
    "options": [
-    "Calculated",
-    "Ignored",
-    "Supported or lifted up",
-    "Sunk down"
+    "A steady increase in activity",
+    "A government policy",
+    "A type of financial instrument",
+    "A sudden drop in prices"
    ],
-   "answer": 2,
-   "explain_en": "\"Buoyed\" means that something was supported or helped, in this case AI-driven exports and private investment helped the economy.",
-   "explain_zh": "「buoyed」指受到支撐或提升，這裡是說 AI 相關的出口與民間投資讓經濟得到幫助。",
-   "news_title_en": "Central bank holds rates again, lifts 2026 growth forecast",
-   "id": "2026-11-02-09"
+   "answer": 0,
+   "explain_en": "Here \"momentum\" refers to the continued upward movement or growth that is expected to slow down later.",
+   "explain_zh": "這裡的「momentum」指的是持續的成長或上升勢頭，預計之後會放緩。",
+   "news_title_en": "DBS keeps Taiwan 2026 GDP forecast at 11.6%, sees Q4 growth cooling",
+   "id": "2026-11-03-10"
   },
   {
    "type": "comprehension",
-   "question": "How many consecutive quarters has Taiwan's central bank kept policy rates unchanged?",
+   "question": "What GDP growth rate does DBS forecast for Taiwan in 2026?",
    "options": [
-    "Eleven quarters",
-    "Eight quarters",
-    "Ten quarters",
-    "Nine quarters"
+    "5.6%",
+    "8%",
+    "2%",
+    "11.6%"
    ],
-   "answer": 2,
-   "explain_en": "The summary states the hold has been extended to ten straight quarters.",
-   "explain_zh": "摘要中說明政策利率已連續保持十個季度不變。",
-   "news_title_en": "Central bank holds rates again, lifts 2026 growth forecast",
-   "id": "2026-11-02-10"
+   "answer": 3,
+   "explain_en": "The summary states DBS kept its 2026 GDP growth forecast at 11.6%.",
+   "explain_zh": "摘要中說 DBS 將 2026 年台灣的 GDP 成長預測維持在 11.6%。",
+   "news_title_en": "DBS keeps Taiwan 2026 GDP forecast at 11.6%, sees Q4 growth cooling",
+   "id": "2026-11-03-11"
   }
  ]
 }
