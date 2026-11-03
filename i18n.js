@@ -9,10 +9,14 @@
 
   /* ---------- 語言模式：both=中英對照 / en=全英文 / zh=純中文 ---------- */
   const MODE = (function () {
-    /* 2026-08-06 起預設全英文：沒設定過就是 'en'，存過 'both'/'zh' 才是對照或純中文 */
+    /* 2026-11-03 起預設中英對照 both（用戶反映看不到對照）；一次性把既有裝置從 en 重設為 both */
     try {
+      if (!localStorage.getItem('mbe_reset_20261103')) {
+        localStorage.setItem('mbe_reset_20261103', '1');
+        localStorage.setItem('mbe_mode', 'both');
+      }
       const m = localStorage.getItem('mbe_mode');
-      return (m === 'both' || m === 'zh') ? m : 'en';
+      return (m === 'en' || m === 'zh') ? m : 'both';
     } catch (e) { return 'both'; }
   })();
   const EN_ONLY = MODE === 'en';
