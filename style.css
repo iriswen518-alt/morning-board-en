@@ -3205,10 +3205,10 @@ th .mbe-en, .sortable-th .mbe-en { display: block; margin-left: 0; font-size: .7
   background: var(--bg-alt);
   border-radius: 8px;
 }
-.mbe-news-en { font-weight: 700; font-size: 1.18em; line-height: 1.55; }
-.mbe-news-zh { font-weight: 700; font-size: 1.02em; line-height: 1.55; margin-top: .2em; color: var(--text-mute); }
-.mbe-news-sum { font-size: 1.06em; color: var(--text); margin-top: .6em; line-height: 1.65; }
-.mbe-news-sum-zh { font-size: 1em; color: var(--text-mute); margin-top: .3em; line-height: 1.65; }
+.mbe-news-en { font-weight: 700; font-size: 1.08em; line-height: 1.45; }
+.mbe-news-zh { font-weight: 700; font-size: .96em; line-height: 1.45; margin-top: .15em; color: var(--text-mute); }
+.mbe-news-sum { font-size: .98em; color: var(--text); margin-top: .45em; line-height: 1.5; }
+.mbe-news-sum-zh { font-size: .94em; color: var(--text-mute); margin-top: .2em; line-height: 1.5; }
 .mbe-news-zh:empty, .mbe-news-sum-zh:empty { display: none; }
 .mbe-btns { display: flex; gap: .5rem; margin-top: .55rem; flex-wrap: wrap; align-items: center; }
 .mbe-btn {
