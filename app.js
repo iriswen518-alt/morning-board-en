@@ -6489,8 +6489,10 @@ function cnyesCatSection(label, inner, open) {
 
 // 單則全文（站內直接顯示，不外連）：逐段中英對照，一段一組（英文在上、中文在下），
 // 方便對照學英文；全英文模式只出英文（缺英文退回中文）。
+// 2026-11-04 用戶要求：鉅亨新聞版型改與「市場焦點」一致——
+// 灰底對照框：英文標題（粗）→ 中文標題（灰）→ 逐段「英文摘要 / 中文摘要」。
+// 播放／慢速／跟讀按鈕由 i18n.js 依 data-tts-* 補在框內最後。
 function cnyesItemBody(it) {
-  // mbe_mode 三值：both=中英對照 / zh=純中文 / 其餘=全英文
   const mbeMode = (() => {
     try {
       const m = localStorage.getItem("mbe_mode");
@@ -6499,26 +6501,20 @@ function cnyesItemBody(it) {
   })();
   const zh = it.paras || [];
   const en = it.paras_en || [];
-  const zhP = (t) => `<p>${escapeHtml(t)}</p>`;
-  const enP = (t) => `<p class="cnyes-en">${escapeHtml(t)}</p>`;
-  let paras;
+  const row = (cls, t) => `<div class="${cls}">${escapeHtml(t)}</div>`;
+  let rows = "";
   if (mbeMode === "en" && en.length) {
-    paras = en.map(enP).join("");
+    rows = en.map(t => row("mbe-news-sum", t)).join("");
   } else if (mbeMode === "zh" || !en.length) {
-    // 純中文（或缺英文退回中文）：只出中文段
-    paras = zh.map(zhP).join("");
+    rows = zh.map(t => row("mbe-news-sum-zh", t)).join("");
   } else {
-    // 中英對照：段數不一致時仍以索引配對，多出來的段落單獨成組
+    rows = (it.title_en ? row("mbe-news-en", it.title_en) : "") + row("mbe-news-zh", it.title);
     const n = Math.max(zh.length, en.length);
-    paras = "";
     for (let i = 0; i < n; i++) {
-      const pair = (en[i] ? enP(en[i]) : "") + (zh[i] ? zhP(zh[i]) : "");
-      paras += `<div class="cnyes-pair">${pair}</div>`;
+      rows += (en[i] ? row("mbe-news-sum", en[i]) : "") + (zh[i] ? row("mbe-news-sum-zh", zh[i]) : "");
     }
   }
-  const enTitle = mbeMode === "both" && it.title_en
-    ? `<p class="cnyes-en cnyes-en-title">${escapeHtml(it.title_en)}</p>` : "";
-  return `<div class="news-body">${enTitle}${paras}</div>`;
+  return `<div class="mbe-news">${rows}</div>`;
 }
 
 function renderCnyesNews() {
@@ -6539,9 +6535,11 @@ function renderCnyesNews() {
       const t = cnyesTimeFmt(it.publish_at);
       // data-mbe=1：告知 i18n 層此則已自帶中英，不需再比對 news.json 加工
       const headTitle = enOnly && it.title_en ? it.title_en : it.title;
+      const tts = it.title_en && (it.paras_en || []).length
+        ? ` data-tts-title="${escapeHtml(it.title_en)}" data-tts-text="${escapeHtml((it.paras_en || []).join(" "))}"` : "";
       return `
         <div class="news-item">
-          <details data-mbe="1">
+          <details data-mbe="1"${tts}>
             <summary>${escapeHtml(headTitle)}${t ? `<span class="news-date">${escapeHtml(t)}</span>` : ""}</summary>
             ${cnyesItemBody(it)}
           </details>

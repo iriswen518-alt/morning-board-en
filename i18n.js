@@ -412,10 +412,16 @@
       d.querySelector('.mbe-news-sum-zh').textContent = it.summary_zh || '';
     }
     d.querySelector('.mbe-news-sum').textContent = it.summary_en || '';
-    const full = it.title_en + '. ' + (it.summary_en || '');
+    attachTts(d, it.title_en, it.summary_en || '');
+    return d;
+  }
+
+  /* 按鈕列（播放／慢速／跟讀）＋評分：重要新聞與鉅亨新聞共用 */
+  function attachTts(d, title, text) {
+    const full = title + '. ' + (text || '');
     d.querySelector('.b-play').addEventListener('click', e => { e.stopPropagation(); speak(full, 0.95); });
     d.querySelector('.b-slow').addEventListener('click', e => { e.stopPropagation(); speak(full, 0.65); });
-    const target = it.title_en;
+    const target = title;
     const recBtn = d.querySelector('.b-rec');
     let rec = null, recTimer = null;
     recBtn.addEventListener('click', e => {
@@ -455,10 +461,25 @@
         recTimer = setTimeout(() => { try { if (rec) rec.stop(); } catch (_) {} }, 15000);
       } catch (_) { recBtn.textContent = L('跟讀', 'Read Aloud'); rec = null; }
     });
-    return d;
+  }
+
+  /* 鉅亨新聞：app.js 已渲染對照框，這裡只補按鈕列 */
+  function enhanceCnyesTts() {
+    document.querySelectorAll('.news-item > details[data-tts-title]:not([data-tts-done])').forEach(det => {
+      det.dataset.ttsDone = '1';
+      const box = det.querySelector(':scope > .mbe-news');
+      if (!box) return;
+      box.insertAdjacentHTML('beforeend', '<div class="mbe-btns">' +
+        '<button type="button" class="mbe-btn b-play">' + L('播放', 'Play') + '</button>' +
+        '<button type="button" class="mbe-btn b-slow">' + L('慢速', 'Slow') + '</button>' +
+        '<button type="button" class="mbe-btn b-rec">' + L('跟讀', 'Read Aloud') + '</button>' +
+        '</div><div class="mbe-result"></div><div class="mbe-heard"></div>');
+      attachTts(box, det.dataset.ttsTitle, det.dataset.ttsText);
+    });
   }
 
   async function enhanceNews() {
+    enhanceCnyesTts();
     const items = Array.from(document.querySelectorAll('.news-item > details:not([data-mbe])'));
     if (!items.length) return;
     /* 先同步標記再等資料，避免 news.json 下載期間重複插入 */
