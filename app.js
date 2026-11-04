@@ -6620,37 +6620,15 @@ function sectionCategory(section) {
 }
 
 // 全文優先：有 body_zh 就直接顯示整篇（無圖片），否則退回短摘要。
-// 2026-11-04 用戶要求：重要新聞版型與鉅亨新聞一致——
-// both：英文標題（藍粗）→ 每段「英文在上、中文在下」一組；en：純英文；zh：純中文。
-// 播放／慢速／跟讀按鈕由 i18n.js 依 data-tts-* 補在內文之後。
-function mbeModeNow() {
-  try {
-    const m = localStorage.getItem("mbe_mode");
-    return (m === "both" || m === "zh") ? m : "en";
-  } catch (_) { return "en"; }
-}
 function newsBodyHtml(it) {
-  const mode = mbeModeNow();
-  const splitParas = (t) => String(t || "").split("\n").map(p => p.trim()).filter(Boolean);
-  const zh = (it.body_zh || "").trim() ? splitParas(it.body_zh) : splitParas(it.summary_zh);
-  const en = splitParas(it.summary_en);
-  const zhP = (t) => `<p>${escapeHtml(t)}</p>`;
-  const enP = (t) => `<p class="cnyes-en">${escapeHtml(t)}</p>`;
-  let paras = "";
-  if (mode === "en" && en.length) {
-    paras = en.map(enP).join("");
-  } else if (mode === "zh" || !en.length) {
-    paras = zh.map(zhP).join("");
-  } else {
-    const n = Math.max(zh.length, en.length);
-    for (let i = 0; i < n; i++) {
-      const pair = (en[i] ? enP(en[i]) : "") + (zh[i] ? zhP(zh[i]) : "");
-      paras += `<div class="cnyes-pair">${pair}</div>`;
-    }
+  const body = (it.body_zh || "").trim();
+  if (body) {
+    const paras = body.split("\n")
+      .map(p => p.trim()).filter(Boolean)
+      .map(p => `<p>${escapeHtml(p)}</p>`).join("");
+    return `<div class="news-body">${paras}</div>`;
   }
-  const enTitle = mode === "both" && it.title_en
-    ? `<p class="cnyes-en cnyes-en-title">${escapeHtml(it.title_en)}</p>` : "";
-  return `<div class="news-body">${enTitle}${paras}</div>`;
+  return `<div class="summary">${escapeHtml(it.summary_zh || "")}</div>`;
 }
 
 // 新聞區塊折疊：原生 details，標題列可點；狀態存 localStorage（下次打開仍記得）
@@ -6746,13 +6724,10 @@ function renderNewsByCategory(cat) {
     const sectionTitle = newsSectionLabel(s.section_zh || s.section);
     const inner = items.map(it => {
       const itemDateFmt = newsItemDate(it) || dateFmt;
-      // data-mbe=1：已自帶中英，i18n 層不再加工；data-tts-*：給播放／跟讀按鈕用
-      const headTitle = mbeModeNow() === "en" && it.title_en ? it.title_en : it.title_zh;
-      const tts = it.title_en ? ` data-tts-title="${escapeHtml(it.title_en)}" data-tts-text="${escapeHtml(it.summary_en || "")}"` : "";
       return `
         <div class="news-item">
-          <details data-mbe="1"${tts}>
-            <summary>${escapeHtml(headTitle)}${itemDateFmt ? `<span class="news-date">${escapeHtml(itemDateFmt)}</span>` : ""}</summary>
+          <details>
+            <summary>${escapeHtml(it.title_zh)}${itemDateFmt ? `<span class="news-date">${escapeHtml(itemDateFmt)}</span>` : ""}</summary>
             ${newsBodyHtml(it)}
             ${it.source_url ? `<a class="source" href="${it.source_url}" target="_blank" rel="noopener">${escapeHtml(it.source_name || "來源")}</a>` : ""}
           </details>

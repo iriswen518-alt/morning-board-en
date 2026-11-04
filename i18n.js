@@ -371,21 +371,51 @@
   }
 
   /* ---------- 重要新聞：英文原文＋播放/慢速/跟讀 ---------- */
+  let NEWS_MAP_PROMISE = null;
+  function loadNewsMap() {
+    /* 用 promise 快取：多次同時呼叫只 fetch 一次 */
+    if (!NEWS_MAP_PROMISE) {
+      NEWS_MAP_PROMISE = fetch(MBE_DATA_BASE + 'news.json?t=' + Date.now())
+        .then(r => r.json())
+        .then(d => {
+          const m = new Map();
+          (d.sections || []).forEach(s => (s.items || []).forEach(it => {
+            if (it.title_zh && it.title_en) m.set(it.title_zh.trim(), it);
+          }));
+          return m;
+        })
+        .catch(() => new Map());
+    }
+    return NEWS_MAP_PROMISE;
+  }
+
   const L = (zh, en) => (EN_ONLY ? en : zh);
 
-  /* 2026-11-04：中英內文已由 app.js 以鉅亨同版型渲染，這裡只補「播放／慢速／跟讀」按鈕列 */
-  function makeTtsBlock(title, text) {
+  function makeShadowBlock(it) {
     const d = document.createElement('div');
     d.className = 'mbe-news';
-    d.innerHTML = '<div class="mbe-btns">' +
+    d.innerHTML = '<div class="mbe-news-en"></div><div class="mbe-news-zh"></div>' +
+      '<div class="mbe-news-sum"></div><div class="mbe-news-sum-zh"></div>' +
+      '<div class="mbe-btns">' +
       '<button type="button" class="mbe-btn b-play">' + L('播放', 'Play') + '</button>' +
       '<button type="button" class="mbe-btn b-slow">' + L('慢速', 'Slow') + '</button>' +
       '<button type="button" class="mbe-btn b-rec">' + L('跟讀', 'Read Aloud') + '</button>' +
       '</div><div class="mbe-result"></div><div class="mbe-heard"></div>';
-    const full = title + '. ' + (text || '');
+    /* 中英對照：一段英文、一段中文（英標題→中標題→英摘要→中摘要） */
+    if (EN_ONLY) {
+      d.querySelector('.mbe-news-en').style.display = 'none';
+      d.querySelector('.mbe-news-zh').style.display = 'none';
+      d.querySelector('.mbe-news-sum-zh').style.display = 'none';
+    } else {
+      d.querySelector('.mbe-news-en').textContent = it.title_en;
+      d.querySelector('.mbe-news-zh').textContent = it.title_zh || '';
+      d.querySelector('.mbe-news-sum-zh').textContent = it.summary_zh || '';
+    }
+    d.querySelector('.mbe-news-sum').textContent = it.summary_en || '';
+    const full = it.title_en + '. ' + (it.summary_en || '');
     d.querySelector('.b-play').addEventListener('click', e => { e.stopPropagation(); speak(full, 0.95); });
     d.querySelector('.b-slow').addEventListener('click', e => { e.stopPropagation(); speak(full, 0.65); });
-    const target = title;
+    const target = it.title_en;
     const recBtn = d.querySelector('.b-rec');
     let rec = null, recTimer = null;
     recBtn.addEventListener('click', e => {
@@ -428,12 +458,27 @@
     return d;
   }
 
-  function enhanceNews() {
-    document.querySelectorAll('.news-item > details[data-tts-title]:not([data-tts-done])').forEach(det => {
-      det.dataset.ttsDone = '1';
-      const body = det.querySelector(':scope > .news-body');
-      if (!body) return;
-      body.insertAdjacentElement('afterend', makeTtsBlock(det.dataset.ttsTitle, det.dataset.ttsText));
+  async function enhanceNews() {
+    const items = Array.from(document.querySelectorAll('.news-item > details:not([data-mbe])'));
+    if (!items.length) return;
+    /* 先同步標記再等資料，避免 news.json 下載期間重複插入 */
+    items.forEach(det => { det.dataset.mbe = '1'; });
+    const map = await loadNewsMap();
+    items.forEach(det => {
+      if (!det.isConnected || det.querySelector(':scope > .mbe-news')) return;
+      const sum = det.querySelector('summary');
+      if (!sum || !sum.firstChild || sum.firstChild.nodeType !== 3) return;
+      const it = map.get((sum.firstChild.nodeValue || '').trim());
+      if (!it) return;
+      const block = makeShadowBlock(it);
+      /* 全英文：把中文標題換成英文原標題（全尺寸） */
+      if (EN_ONLY && it.title_en) sum.firstChild.nodeValue = it.title_en;
+      sum.insertAdjacentElement('afterend', block);
+      /* 對照模式：中文摘要已併入對照區，原本下方的中文摘要隱藏避免重複 */
+      if (!EN_ONLY && it.summary_zh) {
+        const orig = det.querySelector(':scope > .summary');
+        if (orig) orig.style.display = 'none';
+      }
     });
   }
 
