@@ -8,17 +8,9 @@
   const processed = new WeakSet();
 
   /* ---------- 語言模式：both=中英對照 / en=全英文 / zh=純中文 ---------- */
-  const MODE = (function () {
-    /* 2026-11-03 起預設中英對照 both（用戶反映看不到對照）；一次性把既有裝置從 en 重設為 both */
-    try {
-      if (!localStorage.getItem('mbe_reset_20261104')) {
-        localStorage.setItem('mbe_reset_20261104', '1');
-        localStorage.setItem('mbe_mode', 'both');
-      }
-      const m = localStorage.getItem('mbe_mode');
-      return (m === 'en' || m === 'zh') ? m : 'both';
-    } catch (e) { return 'both'; }
-  })();
+  /* 2026-11-04 用戶定案：本站只有「中英對照」一種模式，不再提供語言選擇；舊裝置殘留的 mbe_mode 一律覆寫 */
+  const MODE = 'both';
+  try { localStorage.setItem('mbe_mode', 'both'); } catch (e) {}
   const EN_ONLY = MODE === 'en';
   const ZH_ONLY = MODE === 'zh';
   /* 全英文專用：標籤+數值黏在同一文字節點（字典無法整段命中）時，改用前綴替換 */
@@ -538,8 +530,7 @@
   }
 
   function start() {
-    mountToggle();
-    mountLangFab();
+    /* 語言切換鈕（右上 mountToggle／右下 mountLangFab）已停用：只保留中英對照 */
     restoreOpenState(); /* 換語言 reload 後還原展開狀態（三種模式都要） */
     if (ZH_ONLY) return; /* 純中文＝原站原樣，不補英文、不加新聞英文區塊 */
     translatePage();

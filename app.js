@@ -6496,8 +6496,8 @@ function cnyesItemBody(it) {
   const mbeMode = (() => {
     try {
       const m = localStorage.getItem("mbe_mode");
-      return (m === "both" || m === "zh") ? m : "en";
-    } catch (_) { return "en"; }
+      return (m === "both" || m === "zh") ? m : "both"; // 2026-11-04 起固定中英對照
+    } catch (_) { return "both"; }
   })();
   const zh = it.paras || [];
   const en = it.paras_en || [];
@@ -6523,7 +6523,7 @@ function renderCnyesNews() {
     try {
       const m = localStorage.getItem("mbe_mode");
       return m !== "both" && m !== "zh";
-    } catch (_) { return true; }
+    } catch (_) { return false; } // 2026-11-04 起固定中英對照
   })();
   const cats = (cn.categories || []).filter(c => (c.items || []).some(it => it.title && (it.paras || []).length));
   if (!cats.length) {
