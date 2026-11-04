@@ -3650,3 +3650,17 @@ html[data-mbe-mode="en"] .main-tab {
   .main-tab:hover { color: var(--brand-deep); border-color: var(--brand-primary); background: var(--surface-hover); }
   .main-tab.active { background: var(--brand-deep); border-color: var(--brand-deep); color: #fff; font-weight: 500; }
 }
+
+/* ===== 2026-11-04 新聞內文：字級不大於標題、欄寬不寬於標題 =====
+   標題 summary 有 12px 左右內距，內文沒有 → 內文比標題寬；手機上內文看起來又比標題大。
+   內文一律比標題小 2px，並比照標題補左右內距（含右側箭頭留白）。 */
+.news-item .summary,
+.news-item .news-body,
+.news-item .news-body p { font-size: 16px; }
+.news-item .summary,
+.news-item .news-body { padding: 0 20px 0 12px; box-sizing: border-box; }
+@media (max-width: 768px) {
+  .news-item .summary,
+  .news-item .news-body,
+  .news-item .news-body p { font-size: 18px; line-height: 1.8; }
+}
