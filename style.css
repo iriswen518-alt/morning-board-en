@@ -3205,9 +3205,9 @@ th .mbe-en, .sortable-th .mbe-en { display: block; margin-left: 0; font-size: .7
   background: var(--bg-alt);
   border-radius: 8px;
 }
-.mbe-news-en { font-weight: 700; font-size: 1.08em; line-height: 1.45; }
+.mbe-news-en { font-weight: 700; font-size: 1.15em; line-height: 1.45; }
 .mbe-news-zh { font-weight: 700; font-size: .96em; line-height: 1.45; margin-top: .15em; color: var(--text-mute); }
-.mbe-news-sum { font-size: .98em; color: var(--text); margin-top: .45em; line-height: 1.5; }
+.mbe-news-sum { font-size: 1.1em; color: var(--text); margin-top: .45em; line-height: 1.5; }
 .mbe-news-sum-zh { font-size: .94em; color: var(--text-mute); margin-top: .2em; line-height: 1.5; }
 /* 鉅亨多段對照：段與段之間留白 */
 .mbe-news-sum + .mbe-news-sum, .mbe-news-sum-zh + .mbe-news-sum, .mbe-news-sum-zh + .mbe-news-sum-zh { margin-top: .7em; }
