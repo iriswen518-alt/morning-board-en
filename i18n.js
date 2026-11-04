@@ -11,8 +11,8 @@
   const MODE = (function () {
     /* 2026-11-03 起預設中英對照 both（用戶反映看不到對照）；一次性把既有裝置從 en 重設為 both */
     try {
-      if (!localStorage.getItem('mbe_reset_20261103')) {
-        localStorage.setItem('mbe_reset_20261103', '1');
+      if (!localStorage.getItem('mbe_reset_20261104')) {
+        localStorage.setItem('mbe_reset_20261104', '1');
         localStorage.setItem('mbe_mode', 'both');
       }
       const m = localStorage.getItem('mbe_mode');
@@ -107,7 +107,7 @@
     try { localStorage.setItem('mbe_mode', next); } catch (e) {}
     const toast = document.createElement('div');
     toast.className = 'mbe-mode-toast';
-    toast.textContent = next === 'zh' ? '切換純中文' : 'English Only';
+    toast.textContent = next === 'zh' ? '切換純中文' : next === 'both' ? '中英對照' : 'English Only';
     document.body.appendChild(toast);
     setTimeout(() => location.reload(), 450);
   }
@@ -117,9 +117,11 @@
     fab.type = 'button';
     fab.id = 'mbe-lang-fab';
     fab.className = 'mbe-lang-fab';
-    fab.textContent = EN_ONLY ? '中' : 'EN';
-    fab.setAttribute('aria-label', EN_ONLY ? '切換純中文版' : 'Switch to English');
-    fab.addEventListener('click', () => setMode(EN_ONLY ? 'zh' : 'en'));
+    /* 2026-11-04：三模式循環 對照→EN→中→對照（原本 both→en→zh 後回不到對照）；鈕面顯示「按下去會切到」的模式 */
+    const next = EN_ONLY ? 'zh' : ZH_ONLY ? 'both' : 'en';
+    fab.textContent = next === 'zh' ? '中' : next === 'both' ? '中英' : 'EN';
+    fab.setAttribute('aria-label', next === 'zh' ? '切換純中文版' : next === 'both' ? '切換中英對照' : 'Switch to English');
+    fab.addEventListener('click', () => setMode(next));
     document.body.appendChild(fab);
   }
 
