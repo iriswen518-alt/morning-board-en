@@ -3199,17 +3199,8 @@ html[data-mbe-mode="en"] .mbe-en { display: none !important; }
 .nav-current .mbe-en { font-size: .68em; }
 h1 .mbe-en, h2 .mbe-en, h3 .mbe-en { font-size: .78em; }
 th .mbe-en, .sortable-th .mbe-en { display: block; margin-left: 0; font-size: .72em; }
-.mbe-news {
-  margin: 8px 0 4px;
-  padding: 10px 12px;
-  background: var(--bg-alt);
-  border-radius: 8px;
-}
-.mbe-news-en { font-weight: 700; font-size: 1.08em; line-height: 1.45; }
-.mbe-news-zh { font-weight: 700; font-size: .96em; line-height: 1.45; margin-top: .15em; color: var(--text-mute); }
-.mbe-news-sum { font-size: .98em; color: var(--text); margin-top: .45em; line-height: 1.5; }
-.mbe-news-sum-zh { font-size: .94em; color: var(--text-mute); margin-top: .2em; line-height: 1.5; }
-.mbe-news-zh:empty, .mbe-news-sum-zh:empty { display: none; }
+/* 重要新聞：內文已與鉅亨同版型，這裡只剩按鈕列，不另包底色框 */
+.mbe-news { margin: 10px 0 4px; padding: 0; background: none; border-radius: 0; }
 .mbe-btns { display: flex; gap: .5rem; margin-top: .55rem; flex-wrap: wrap; align-items: center; }
 .mbe-btn {
   font-family: inherit; font-size: .8rem; font-weight: 700;
