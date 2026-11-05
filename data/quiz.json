@@ -1,170 +1,185 @@
 {
- "date": "2026-11-04",
+ "date": "2026-11-05",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"battered\" mean?",
+   "question": "In the summary, what does the word \"slipped\" mean?",
    "options": [
-    "increased sharply",
-    "sold quickly",
-    "damaged or hurt",
-    "ignored"
-   ],
-   "answer": 2,
-   "explain_en": "\"Battered\" here means the market was damaged or hurt by the sell‑off.",
-   "explain_zh": "「battered」在文中指的是市場受到賣壓而受損。",
-   "news_title_en": "TAIEX suffers 7th-steepest point drop, diving 3.59% in global tech sell-off",
-   "id": "2026-11-04-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "On which date did the TAIEX drop 1,612.60 points?",
-   "options": [
-    "Nov. 3",
-    "Nov. 1",
-    "Nov. 2",
-    "Nov. 4"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states the plunge happened on Tuesday, Nov. 3.",
-   "explain_zh": "摘要說明跌幅發生在 11 月 3 日（星期二）。",
-   "news_title_en": "TAIEX suffers 7th-steepest point drop, diving 3.59% in global tech sell-off",
-   "id": "2026-11-04-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"capital‑expenditure\" mean?",
-   "options": [
-    "Money saved for future use",
-    "Money spent on buying equipment and building facilities",
-    "Money given as a donation",
-    "Money earned from selling products"
-   ],
-   "answer": 1,
-   "explain_en": "It refers to money a company spends to buy equipment or build facilities, not profit or savings.",
-   "explain_zh": "指公司用來購買設備或建設設施的支出，而不是利潤或儲蓄。",
-   "news_title_en": "NDC head says AI-spending jitters to rattle TAIEX only briefly",
-   "id": "2026-11-04-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, why should the impact on local shares be short‑lived?",
-   "options": [
-    "Because the AI technology is being banned",
-    "Because hardware makers still have strong order backlogs",
-    "Because the government will lower taxes",
-    "Because foreign investors are leaving Taiwan"
-   ],
-   "answer": 1,
-   "explain_en": "The officials said strong order backlogs at hardware makers will keep the AI‑driven export engine strong, limiting the share drop.",
-   "explain_zh": "官員指出硬體製造商仍有強勁的訂單積壓，將維持 AI 出口引擎的活力，因而使股價下跌影響有限。",
-   "news_title_en": "NDC head says AI-spending jitters to rattle TAIEX only briefly",
-   "id": "2026-11-04-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"high-asset\" mean?",
-   "options": [
-    "Having a high credit score",
-    "Being physically tall",
-    "Owning many stocks",
-    "Having a lot of money or valuable assets"
-   ],
-   "answer": 3,
-   "explain_en": "\"High-asset\" describes clients who hold a large amount of wealth, in this case more than NT$100 million each.",
-   "explain_zh": "「high-asset」指的是擁有大量資產的客戶，本文指的是每位客戶持有超過1億新台幣的財富。",
-   "news_title_en": "High-asset bank clients top 32,000 as FSC wealth push gains traction",
-   "id": "2026-11-04-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many banks were approved to offer high-asset wealth management by the end of September?",
-   "options": [
-    "22",
-    "20",
-    "30",
-    "25"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that 25 banks are now approved to offer high-asset wealth management.",
-   "explain_zh": "摘要中提到目前有 25 家銀行獲准提供高資產理財服務。",
-   "news_title_en": "High-asset bank clients top 32,000 as FSC wealth push gains traction",
-   "id": "2026-11-04-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"diverged\" mean?",
-   "options": [
-    "became more similar",
-    "increased in value",
+    "moved quickly upward",
+    "increased dramatically",
     "stayed the same",
-    "moved apart or became different"
+    "fell slightly in price"
    ],
    "answer": 3,
-   "explain_en": "\"Diverged\" means the performance of the ETFs moved apart, showing different results.",
-   "explain_zh": "「diverged」指的是表現分歧，變得不同。",
-   "news_title_en": "Active ETFs near NT$1 trillion as Taiwan's fund boom rolls on",
-   "id": "2026-11-04-06"
+   "explain_en": "\"Slipped\" means the price went down a little, as TSMC's share fell 1.53%.",
+   "explain_zh": "「slipped」在此指價格稍微下跌，正如台積電股價下跌了1.53%。",
+   "news_title_en": "TAIEX extends losing streak to five sessions, closing at 42,948.91 (2026-11-04)",
+   "id": "2026-11-05-00"
   },
   {
    "type": "comprehension",
-   "question": "How much net inflow did domestic issuers pull in from January to May?",
+   "question": "How many trading sessions in a row did the TAIEX decline according to the summary?",
    "options": [
-    "US$590 million",
-    "US$5.2 billion",
-    "NT$988.6 billion",
-    "US$13.6 billion"
+    "Three",
+    "Five",
+    "Six",
+    "Four"
    ],
-   "answer": 3,
-   "explain_en": "The summary states domestic issuers attracted about US$13.6 billion during that period.",
-   "explain_zh": "摘要中說，國內發行人從 1 月到 5 月吸引了約 13.6 億美元的資金流入。",
-   "news_title_en": "Active ETFs near NT$1 trillion as Taiwan's fund boom rolls on",
-   "id": "2026-11-04-07"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, when must recipients of gifts made within two years of a giver's death pay estate tax?",
-   "options": [
-    "Only if the gift exceeds a certain amount",
-    "Only if they decline to inherit",
-    "Regardless of whether they inherit, based on their share",
-    "Only if they inherit the whole estate"
-   ],
-   "answer": 2,
-   "explain_en": "The amendment requires recipients to pay estate tax on those gifts in proportion to their share, even if they decline to inherit.",
-   "explain_zh": "修正案規定，受贈人在贈與人死亡前兩年內的贈與，必須按其份額繳納遺產稅，即使他們拒絕繼承也要繳稅。",
-   "news_title_en": "Cabinet estate- and gift-tax overhaul targets pre-death gifting loopholes",
-   "id": "2026-11-04-08"
+   "answer": 1,
+   "explain_en": "The summary states it was the fifth straight decline, so five sessions in a row.",
+   "explain_zh": "摘要說是連續第五個交易日下跌，代表連續五個交易日。",
+   "news_title_en": "TAIEX extends losing streak to five sessions, closing at 42,948.91 (2026-11-04)",
+   "id": "2026-11-05-01"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"normalize\" mean?",
+   "question": "In the summary, what does the phrase \"doubled\" mean?",
    "options": [
-    "to increase something quickly",
-    "to remove all regulations",
-    "to make something usual or standard",
-    "to predict future values"
+    "It stayed the same",
+    "It increased to twice the original amount",
+    "It decreased by half",
+    "It was cancelled"
    ],
-   "answer": 2,
-   "explain_en": "Here \"normalize\" means to bring the discount rate back to a normal level, i.e., make it usual or standard.",
-   "explain_zh": "在文中 \"normalize\" 指的是把貼現率恢復到正常水平，也就是讓它變得常見或標準。",
-   "news_title_en": "Central bank minutes reveal board split over whether to lift 2% rate",
-   "id": "2026-11-04-09"
+   "answer": 1,
+   "explain_en": "The summary says the weekly AI server rack capacity has doubled to 2,000 units, meaning it is now twice as many as before.",
+   "explain_zh": "文中說每週 AI 伺服器機架容量翻倍到 2,000 台，表示數量是原來的兩倍。",
+   "news_title_en": "Foxconn doubles AI server rack capacity, lifts AI revenue outlook (2026-11-04)",
+   "id": "2026-11-05-02"
   },
   {
    "type": "comprehension",
-   "question": "What is the central bank's CPI forecast for 2026?",
+   "question": "According to the summary, what share of Foxconn's total revenue could AI-related products reach next year?",
    "options": [
-    "2.03 percent",
-    "2.10 percent",
-    "2.00 percent",
-    "1.95 percent"
+    "70–80%",
+    "10–20%",
+    "90–100%",
+    "40–50%"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that AI-related revenue could potentially reach 40–50% of the total next year.",
+   "explain_zh": "摘要中提到 AI 相關營收有可能佔下一年度總營收的 40%~50%。",
+   "news_title_en": "Foxconn doubles AI server rack capacity, lifts AI revenue outlook (2026-11-04)",
+   "id": "2026-11-05-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the phrase \"trading time for space\" mean?",
+   "options": [
+    "Increasing interest rates quickly",
+    "Buying more foreign currency now to sell later",
+    "Giving up short‑term profit to keep more flexibility later",
+    "Reducing the amount of money in the market"
+   ],
+   "answer": 2,
+   "explain_en": "It means the central bank accepts short‑term pressure now so it can have more room to act later.",
+   "explain_zh": "意思是央行先忍受短期壓力，換取未來更大的操作空間。",
+   "news_title_en": "Central bank chooses to \"trade time for space\" as outflows weaken the NT dollar (2026-11-04)",
+   "id": "2026-11-05-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what happened to the Taiwan dollar when foreign investors withdrew funds?",
+   "options": [
+    "It fell to an 18‑month low and tested the 33‑per‑dollar level",
+    "It became the strongest currency in Asia",
+    "It stayed unchanged",
+    "It rose to a new high"
    ],
    "answer": 0,
-   "explain_en": "The summary states the bank's 2026 CPI forecast is 2.03 percent.",
-   "explain_zh": "摘要中說明央行對2026年的消費者物價指數預測是2.03%。",
-   "news_title_en": "Central bank minutes reveal board split over whether to lift 2% rate",
-   "id": "2026-11-04-10"
+   "explain_en": "The summary states the Taiwan dollar fell to an 18‑month low and tested the 33‑per‑dollar level.",
+   "explain_zh": "摘要中說台幣跌至 18 個月低點，測試 33 元兌 1 美元的關卡。",
+   "news_title_en": "Central bank chooses to \"trade time for space\" as outflows weaken the NT dollar (2026-11-04)",
+   "id": "2026-11-05-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"offshore assets\" mean?",
+   "options": [
+    "Government bonds issued by the local government",
+    "Investments located outside one's home country",
+    "Money kept in a bank's safe deposit box",
+    "Cash held only in the local currency"
+   ],
+   "answer": 1,
+   "explain_en": "\"Offshore assets\" are investments or holdings that are placed in another country, not in the investor's own country.",
+   "explain_zh": "「offshore assets」指的是投資或資產放在投資人所在國以外的國家。",
+   "news_title_en": "Taiwan's wealthy keep shifting into offshore assets as high-asset AUM climbs",
+   "id": "2026-11-05-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many high‑net‑worth clients did banks have by the end of May, according to the FSC data?",
+   "options": [
+    "12,400",
+    "25,290",
+    "70,000",
+    "124,000"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that banks' high‑net‑worth clients reached 25,290 by end‑May.",
+   "explain_zh": "摘要中說明截至5月底，銀行的高資產客戶數量為25,290人。",
+   "news_title_en": "Taiwan's wealthy keep shifting into offshore assets as high-asset AUM climbs",
+   "id": "2026-11-05-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"custody\" mean?",
+   "options": [
+    "Owning a pet",
+    "Writing a legal document",
+    "Running a business",
+    "Keeping assets safe for someone else"
+   ],
+   "answer": 3,
+   "explain_en": "\"Custody\" refers to the responsibility of holding and protecting assets on behalf of others.",
+   "explain_zh": "「custody」指的是代替他人保管資產的責任。",
+   "news_title_en": "FSC unveils VASP licensing and anti-money-laundering draft rules (2026-11-03)",
+   "id": "2026-11-05-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "When is the Virtual Asset Service Act expected to take effect?",
+   "options": [
+    "Q2 2028",
+    "Q3 2025",
+    "Q1 2027",
+    "Q4 2026"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the law is expected to take effect as early as the first quarter of 2027.",
+   "explain_zh": "摘要中說該法案最早會在 2027 年第一季生效。",
+   "news_title_en": "FSC unveils VASP licensing and anti-money-laundering draft rules (2026-11-03)",
+   "id": "2026-11-05-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the phrase \"sticky service-sector prices\" mean?",
+   "options": [
+    "Prices that stay high for a long time",
+    "Prices that are only temporary",
+    "Prices that are low compared to other sectors",
+    "Prices that are easy to change"
+   ],
+   "answer": 0,
+   "explain_en": "\"Sticky\" means the prices are not falling quickly; they remain high or stable, especially in the service sector.",
+   "explain_zh": "「sticky」在此指價格長時間維持高位或不易下降，尤其是服務業的價格。",
+   "news_title_en": "Taiwan inflation picks up to 2.73% as October CPI is due Nov. 5",
+   "id": "2026-11-05-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "When is the October consumer price index reading scheduled to be released?",
+   "options": [
+    "October 5",
+    "December 1",
+    "November 5",
+    "November 30"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the October reading is scheduled for release on Nov. 5.",
+   "explain_zh": "摘要中說十月份的 CPI 讀數預計於 11 月 5 日公布。",
+   "news_title_en": "Taiwan inflation picks up to 2.73% as October CPI is due Nov. 5",
+   "id": "2026-11-05-11"
   }
  ]
 }
