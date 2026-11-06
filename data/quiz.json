@@ -1,185 +1,185 @@
 {
- "date": "2026-11-05",
+ "date": "2026-11-06",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"slipped\" mean?",
+   "question": "In the news summary, what does the word \"dived\" mean?",
    "options": [
-    "moved quickly upward",
-    "increased dramatically",
+    "increased quickly",
+    "fell sharply",
     "stayed the same",
-    "fell slightly in price"
+    "swam underwater"
    ],
-   "answer": 3,
-   "explain_en": "\"Slipped\" means the price went down a little, as TSMC's share fell 1.53%.",
-   "explain_zh": "「slipped」在此指價格稍微下跌，正如台積電股價下跌了1.53%。",
-   "news_title_en": "TAIEX extends losing streak to five sessions, closing at 42,948.91 (2026-11-04)",
-   "id": "2026-11-05-00"
+   "answer": 1,
+   "explain_en": "Here \"dived\" means the index fell sharply, not literally swimming.",
+   "explain_zh": "此處的 \"dived\" 指的是指數大幅下跌，而不是實際游泳。",
+   "news_title_en": "TAIEX plunges 1,374 points to 41,574.72, breaking below 42,000 in a sixth straight loss (2026-11-05)",
+   "id": "2026-11-06-00"
   },
   {
    "type": "comprehension",
-   "question": "How many trading sessions in a row did the TAIEX decline according to the summary?",
+   "question": "How many consecutive days has the TAIEX fallen as mentioned in the summary?",
    "options": [
-    "Three",
-    "Five",
-    "Six",
-    "Four"
+    "Eight days",
+    "Five days",
+    "Seven days",
+    "Six days"
    ],
-   "answer": 1,
-   "explain_en": "The summary states it was the fifth straight decline, so five sessions in a row.",
-   "explain_zh": "摘要說是連續第五個交易日下跌，代表連續五個交易日。",
-   "news_title_en": "TAIEX extends losing streak to five sessions, closing at 42,948.91 (2026-11-04)",
-   "id": "2026-11-05-01"
+   "answer": 3,
+   "explain_en": "The summary states it was the sixth consecutive decline.",
+   "explain_zh": "摘要中說明這是第六天連續下跌。",
+   "news_title_en": "TAIEX plunges 1,374 points to 41,574.72, breaking below 42,000 in a sixth straight loss (2026-11-05)",
+   "id": "2026-11-06-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"doubled\" mean?",
+   "question": "In the text, what does the word \"crowded\" mean?",
    "options": [
-    "It stayed the same",
-    "It increased to twice the original amount",
-    "It decreased by half",
-    "It was cancelled"
-   ],
-   "answer": 1,
-   "explain_en": "The summary says the weekly AI server rack capacity has doubled to 2,000 units, meaning it is now twice as many as before.",
-   "explain_zh": "文中說每週 AI 伺服器機架容量翻倍到 2,000 台，表示數量是原來的兩倍。",
-   "news_title_en": "Foxconn doubles AI server rack capacity, lifts AI revenue outlook (2026-11-04)",
-   "id": "2026-11-05-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what share of Foxconn's total revenue could AI-related products reach next year?",
-   "options": [
-    "70–80%",
-    "10–20%",
-    "90–100%",
-    "40–50%"
+    "Having a lot of physical space",
+    "Being noisy and chaotic",
+    "Being difficult to understand",
+    "Having many investors and trades in the same market"
    ],
    "answer": 3,
-   "explain_en": "The summary states that AI-related revenue could potentially reach 40–50% of the total next year.",
-   "explain_zh": "摘要中提到 AI 相關營收有可能佔下一年度總營收的 40%~50%。",
-   "news_title_en": "Foxconn doubles AI server rack capacity, lifts AI revenue outlook (2026-11-04)",
-   "id": "2026-11-05-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the phrase \"trading time for space\" mean?",
-   "options": [
-    "Increasing interest rates quickly",
-    "Buying more foreign currency now to sell later",
-    "Giving up short‑term profit to keep more flexibility later",
-    "Reducing the amount of money in the market"
-   ],
-   "answer": 2,
-   "explain_en": "It means the central bank accepts short‑term pressure now so it can have more room to act later.",
-   "explain_zh": "意思是央行先忍受短期壓力，換取未來更大的操作空間。",
-   "news_title_en": "Central bank chooses to \"trade time for space\" as outflows weaken the NT dollar (2026-11-04)",
-   "id": "2026-11-05-04"
+   "explain_en": "\"Crowded\" describes a market where many participants are trading the same assets, making it tightly packed with activity.",
+   "explain_zh": "「crowded」指的是市場上有很多投資人同時交易，使得市場非常擁擠。",
+   "news_title_en": "AI and tech heavyweights lead the sell-off dragging the TAIEX down nearly 1,400 points (2026-11-05)",
+   "id": "2026-11-06-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what happened to the Taiwan dollar when foreign investors withdrew funds?",
+   "question": "Which two Taiwanese companies were mentioned as dropping in price on Nov. 5?",
    "options": [
-    "It fell to an 18‑month low and tested the 33‑per‑dollar level",
-    "It became the strongest currency in Asia",
-    "It stayed unchanged",
-    "It rose to a new high"
+    "MediaTek and Delta Electronics",
+    "HTC and Asus",
+    "Pegatron and Acer",
+    "TSMC and Foxconn"
    ],
    "answer": 0,
-   "explain_en": "The summary states the Taiwan dollar fell to an 18‑month low and tested the 33‑per‑dollar level.",
-   "explain_zh": "摘要中說台幣跌至 18 個月低點，測試 33 元兌 1 美元的關卡。",
-   "news_title_en": "Central bank chooses to \"trade time for space\" as outflows weaken the NT dollar (2026-11-04)",
-   "id": "2026-11-05-05"
+   "explain_en": "The summary states that MediaTek fell 6.86% and Delta Electronics fell 7.38% on that day.",
+   "explain_zh": "摘要中說明 11 月 5 日 MediaTek 跌 6.86%，Delta Electronics 跌 7.38%。",
+   "news_title_en": "AI and tech heavyweights lead the sell-off dragging the TAIEX down nearly 1,400 points (2026-11-05)",
+   "id": "2026-11-06-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"offshore assets\" mean?",
+   "question": "In the summary, what does the phrase \"trim the slide\" mean?",
    "options": [
-    "Government bonds issued by the local government",
-    "Investments located outside one's home country",
-    "Money kept in a bank's safe deposit box",
-    "Cash held only in the local currency"
+    "Ignore the decline",
+    "Make the decline smaller",
+    "Increase the decline",
+    "Stop the decline completely"
    ],
    "answer": 1,
-   "explain_en": "\"Offshore assets\" are investments or holdings that are placed in another country, not in the investor's own country.",
-   "explain_zh": "「offshore assets」指的是投資或資產放在投資人所在國以外的國家。",
-   "news_title_en": "Taiwan's wealthy keep shifting into offshore assets as high-asset AUM climbs",
-   "id": "2026-11-05-06"
+   "explain_en": "\"Trim the slide\" means to reduce how much the currency falls.",
+   "explain_zh": "「trim the slide」是指把匯率下跌的幅度縮小。",
+   "news_title_en": "Taiwan dollar slides to 32.876, the weakest Asian currency, on foreign outflows (2026-11-05)",
+   "id": "2026-11-06-04"
   },
   {
    "type": "comprehension",
-   "question": "How many high‑net‑worth clients did banks have by the end of May, according to the FSC data?",
+   "question": "How much net foreign selling of Taiwanese equities occurred in a single day, according to the summary?",
    "options": [
-    "12,400",
-    "25,290",
-    "70,000",
-    "124,000"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states that banks' high‑net‑worth clients reached 25,290 by end‑May.",
-   "explain_zh": "摘要中說明截至5月底，銀行的高資產客戶數量為25,290人。",
-   "news_title_en": "Taiwan's wealthy keep shifting into offshore assets as high-asset AUM climbs",
-   "id": "2026-11-05-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"custody\" mean?",
-   "options": [
-    "Owning a pet",
-    "Writing a legal document",
-    "Running a business",
-    "Keeping assets safe for someone else"
+    "NT$32.876 billion",
+    "5.5 cents",
+    "US$3.66 billion",
+    "NT$149.9 billion"
    ],
    "answer": 3,
-   "explain_en": "\"Custody\" refers to the responsibility of holding and protecting assets on behalf of others.",
-   "explain_zh": "「custody」指的是代替他人保管資產的責任。",
-   "news_title_en": "FSC unveils VASP licensing and anti-money-laundering draft rules (2026-11-03)",
-   "id": "2026-11-05-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "When is the Virtual Asset Service Act expected to take effect?",
-   "options": [
-    "Q2 2028",
-    "Q3 2025",
-    "Q1 2027",
-    "Q4 2026"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the law is expected to take effect as early as the first quarter of 2027.",
-   "explain_zh": "摘要中說該法案最早會在 2027 年第一季生效。",
-   "news_title_en": "FSC unveils VASP licensing and anti-money-laundering draft rules (2026-11-03)",
-   "id": "2026-11-05-09"
+   "explain_en": "The summary states a single‑day net foreign sell of NT$149.9 billion in equities.",
+   "explain_zh": "摘要中說明單日外資賣出新台幣股票總額為149.9億新台幣。",
+   "news_title_en": "Taiwan dollar slides to 32.876, the weakest Asian currency, on foreign outflows (2026-11-05)",
+   "id": "2026-11-06-05"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the phrase \"sticky service-sector prices\" mean?",
+   "question": "In the summary, what does the phrase \"cross‑border value creation\" mean?",
    "options": [
-    "Prices that stay high for a long time",
-    "Prices that are only temporary",
-    "Prices that are low compared to other sectors",
-    "Prices that are easy to change"
+    "Creating new products for domestic markets",
+    "Reducing taxes within Taiwan",
+    "Investing only in local real estate",
+    "Making profit by doing business in other countries"
    ],
-   "answer": 0,
-   "explain_en": "\"Sticky\" means the prices are not falling quickly; they remain high or stable, especially in the service sector.",
-   "explain_zh": "「sticky」在此指價格長時間維持高位或不易下降，尤其是服務業的價格。",
-   "news_title_en": "Taiwan inflation picks up to 2.73% as October CPI is due Nov. 5",
-   "id": "2026-11-05-10"
+   "answer": 3,
+   "explain_en": "It refers to generating wealth by operating or investing across different countries.",
+   "explain_zh": "指的是透過在不同國家進行營運或投資來創造財富。",
+   "news_title_en": "KPMG–E.Sun report sees Taiwan's high-asset population reaching 124,000 with NT$46.1 trillion",
+   "id": "2026-11-06-06"
   },
   {
    "type": "comprehension",
-   "question": "When is the October consumer price index reading scheduled to be released?",
+   "question": "According to the report, what percentage of high‑asset clients have already allocated offshore assets?",
    "options": [
-    "October 5",
-    "December 1",
-    "November 5",
-    "November 30"
+    "100%",
+    "More than 70%",
+    "Exactly 50%",
+    "Less than 30%"
    ],
-   "answer": 2,
-   "explain_en": "The summary states the October reading is scheduled for release on Nov. 5.",
-   "explain_zh": "摘要中說十月份的 CPI 讀數預計於 11 月 5 日公布。",
-   "news_title_en": "Taiwan inflation picks up to 2.73% as October CPI is due Nov. 5",
-   "id": "2026-11-05-11"
+   "answer": 1,
+   "explain_en": "The summary states that more than 70% of these clients are already allocating offshore.",
+   "explain_zh": "摘要中說明超過 70% 的高資產客戶已經配置離岸資產。",
+   "news_title_en": "KPMG–E.Sun report sees Taiwan's high-asset population reaching 124,000 with NT$46.1 trillion",
+   "id": "2026-11-06-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"apportioned\" mean?",
+   "options": [
+    "Divided and assigned",
+    "Sold at a discount",
+    "Hidden from view",
+    "Ignored completely"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"apportioned\" means the tax is divided and assigned to each recipient based on their share of the inherited assets.",
+   "explain_zh": "此處的「apportioned」指的是稅金依照每位受贈人繼承的比例分配。",
+   "news_title_en": "Estate-and-gift tax reform folds pre-death gifts into the taxable estate",
+   "id": "2026-11-06-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, who will collect the tax on pre‑death gifts?",
+   "options": [
+    "The original donor",
+    "All heirs together",
+    "The Ministry of Finance directly",
+    "The recipient of the gift"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the tax is collected from the recipient rather than being split among all heirs.",
+   "explain_zh": "摘要中說明稅金由受贈人直接繳納，而不是由所有繼承人分擔。",
+   "news_title_en": "Estate-and-gift tax reform folds pre-death gifts into the taxable estate",
+   "id": "2026-11-06-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"alert\" mean?",
+   "options": [
+    "a warning signal",
+    "a type of tax",
+    "a financial profit",
+    "a government department"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"alert\" refers to a warning level set by the central bank for inflation.",
+   "explain_zh": "此處的「alert」指的是央行設定的通膨警戒線，意即警告訊號。",
+   "news_title_en": "Taiwan's October CPI rises 2.33%, a sixth month above the 2% alert line (2026-11-05)",
+   "id": "2026-11-06-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "For how many consecutive months has the CPI stayed above the central bank's 2% alert line?",
+   "options": [
+    "Seven months",
+    "Five months",
+    "Four months",
+    "Six months"
+   ],
+   "answer": 3,
+   "explain_en": "The summary says the CPI has been above the 2% alert line for a sixth straight month.",
+   "explain_zh": "摘要指出 CPI 已連續第六個月高於 2% 警戒線。",
+   "news_title_en": "Taiwan's October CPI rises 2.33%, a sixth month above the 2% alert line (2026-11-05)",
+   "id": "2026-11-06-11"
   }
  ]
 }
