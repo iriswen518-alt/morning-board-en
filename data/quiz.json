@@ -1,185 +1,170 @@
 {
- "date": "2026-11-06",
+ "date": "2026-11-07",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the news summary, what does the word \"dived\" mean?",
+   "question": "In the summary, what does the phrase \"panic selling\" mean?",
    "options": [
-    "increased quickly",
-    "fell sharply",
-    "stayed the same",
-    "swam underwater"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"dived\" means the index fell sharply, not literally swimming.",
-   "explain_zh": "此處的 \"dived\" 指的是指數大幅下跌，而不是實際游泳。",
-   "news_title_en": "TAIEX plunges 1,374 points to 41,574.72, breaking below 42,000 in a sixth straight loss (2026-11-05)",
-   "id": "2026-11-06-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many consecutive days has the TAIEX fallen as mentioned in the summary?",
-   "options": [
-    "Eight days",
-    "Five days",
-    "Seven days",
-    "Six days"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states it was the sixth consecutive decline.",
-   "explain_zh": "摘要中說明這是第六天連續下跌。",
-   "news_title_en": "TAIEX plunges 1,374 points to 41,574.72, breaking below 42,000 in a sixth straight loss (2026-11-05)",
-   "id": "2026-11-06-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"crowded\" mean?",
-   "options": [
-    "Having a lot of physical space",
-    "Being noisy and chaotic",
-    "Being difficult to understand",
-    "Having many investors and trades in the same market"
-   ],
-   "answer": 3,
-   "explain_en": "\"Crowded\" describes a market where many participants are trading the same assets, making it tightly packed with activity.",
-   "explain_zh": "「crowded」指的是市場上有很多投資人同時交易，使得市場非常擁擠。",
-   "news_title_en": "AI and tech heavyweights lead the sell-off dragging the TAIEX down nearly 1,400 points (2026-11-05)",
-   "id": "2026-11-06-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "Which two Taiwanese companies were mentioned as dropping in price on Nov. 5?",
-   "options": [
-    "MediaTek and Delta Electronics",
-    "HTC and Asus",
-    "Pegatron and Acer",
-    "TSMC and Foxconn"
+    "Selling stocks quickly because of fear",
+    "Buying stocks quickly because they are cheap",
+    "Holding stocks for a long time",
+    "Trading stocks only on weekends"
    ],
    "answer": 0,
-   "explain_en": "The summary states that MediaTek fell 6.86% and Delta Electronics fell 7.38% on that day.",
-   "explain_zh": "摘要中說明 11 月 5 日 MediaTek 跌 6.86%，Delta Electronics 跌 7.38%。",
-   "news_title_en": "AI and tech heavyweights lead the sell-off dragging the TAIEX down nearly 1,400 points (2026-11-05)",
-   "id": "2026-11-06-03"
+   "explain_en": "\"Panic selling\" means investors are quickly selling their holdings because they are scared of further losses.",
+   "explain_zh": "「panic selling」指的是投資人因為害怕繼續下跌而快速賣出股票。",
+   "news_title_en": "TAIEX crashes a record intraday 3,737 points before closing down 1,873 at 39,701, losing the 40,000 mark (2026-11-06)",
+   "id": "2026-11-07-00"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"trim the slide\" mean?",
+   "question": "In the summary, what does the word \"relentless\" mean?",
    "options": [
-    "Ignore the decline",
-    "Make the decline smaller",
-    "Increase the decline",
-    "Stop the decline completely"
+    "slow and hesitant",
+    "temporary and brief",
+    "continuous and unyielding",
+    "friendly and easygoing"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"relentless\" describes the outflow as continuous and unyielding, not stopping.",
+   "explain_zh": "此處的「relentless」指的是持續且不間斷的資金外流。",
+   "news_title_en": "Foreigners cut TSMC and MediaTek for a 21st straight session, pulling NT$524 billion from stocks this week (2026-11-06)",
+   "id": "2026-11-07-01"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many consecutive sessions have foreigners been cutting TSMC and MediaTek as of Nov. 6?",
+   "options": [
+    "10",
+    "5",
+    "21",
+    "15"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the reduction continued for a 21st straight session on Nov. 6.",
+   "explain_zh": "摘要中說明外資已連續第21天拋售台積電與聯發科。",
+   "news_title_en": "Foreigners cut TSMC and MediaTek for a 21st straight session, pulling NT$524 billion from stocks this week (2026-11-06)",
+   "id": "2026-11-07-02"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"roared\" mean?",
+   "options": [
+    "decreased slowly",
+    "made a loud animal sound",
+    "moved very quickly upward",
+    "stayed unchanged"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"roared back\" means the Taiwan dollar moved sharply upward in price.",
+   "explain_zh": "此處的 \"roared back\" 指的是台幣價格快速上升。",
+   "news_title_en": "Taiwan dollar stages a V-shaped reversal, closing up 1.08 cents at 32.768 after breaching 33 (2026-11-06)",
+   "id": "2026-11-07-03"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, how much did the Taiwan dollar close up on Nov. 6?",
+   "options": [
+    "four days",
+    "0.9%",
+    "33.04 dollars",
+    "1.08 cents"
+   ],
+   "answer": 3,
+   "explain_en": "The text says it closed up 1.08 cents at 32.768.",
+   "explain_zh": "文中說台幣收盤上漲了 1.08 分。",
+   "news_title_en": "Taiwan dollar stages a V-shaped reversal, closing up 1.08 cents at 32.768 after breaching 33 (2026-11-06)",
+   "id": "2026-11-07-04"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word “succession” mean?",
+   "options": [
+    "The process of hiring new staff",
+    "A series of bank branches opening",
+    "Passing wealth or assets to the next generation",
+    "A type of investment fund"
+   ],
+   "answer": 2,
+   "explain_en": "Here “succession” refers to planning for the transfer of wealth or assets to heirs.",
+   "explain_zh": "在此句中，「succession」指的是將財產或資產傳給下一代的規劃。",
+   "news_title_en": "Taishin opens Asia Bay private-banking flagship, partnering Switzerland's UBP (2026-10-23)",
+   "id": "2026-11-07-05"
+  },
+  {
+   "type": "comprehension",
+   "question": "Which Swiss bank did Taishin partner with for its new private‑banking flagship?",
+   "options": [
+    "Julius Baer",
+    "Credit Suisse",
+    "UBS",
+    "Union Bancaire Privée (UBP)"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that Taishin signed an MOU with Union Bancaire Privée (UBP) of Switzerland.",
+   "explain_zh": "摘要中說明台新與瑞士的 Union Bancaire Privée (UBP) 簽署合作備忘錄。",
+   "news_title_en": "Taishin opens Asia Bay private-banking flagship, partnering Switzerland's UBP (2026-10-23)",
+   "id": "2026-11-07-06"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"deemed estate\" mean?",
+   "options": [
+    "A type of investment fund for estates",
+    "Assets that are considered part of the estate for tax purposes",
+    "A special tax exemption for gifts",
+    "A legal term for a will that has been approved by the court"
    ],
    "answer": 1,
-   "explain_en": "\"Trim the slide\" means to reduce how much the currency falls.",
-   "explain_zh": "「trim the slide」是指把匯率下跌的幅度縮小。",
-   "news_title_en": "Taiwan dollar slides to 32.876, the weakest Asian currency, on foreign outflows (2026-11-05)",
-   "id": "2026-11-06-04"
+   "explain_en": "It refers to assets that are treated as part of the taxable estate, even if they were given as gifts before death.",
+   "explain_zh": "「deemed estate」指的是即使在死亡前已贈與，仍被視為遺產課稅的資產。",
+   "news_title_en": "Legislature passes \"deemed estate\" rule tightening gift-tax avoidance (2026-08-21)",
+   "id": "2026-11-07-07"
   },
   {
    "type": "comprehension",
-   "question": "How much net foreign selling of Taiwanese equities occurred in a single day, according to the summary?",
+   "question": "According to the summary, how long before death must a gift be given to be counted in the taxable estate?",
    "options": [
-    "NT$32.876 billion",
-    "5.5 cents",
-    "US$3.66 billion",
-    "NT$149.9 billion"
+    "Within five years before death",
+    "Any time during the person's life",
+    "Only after death",
+    "Within two years before death"
    ],
    "answer": 3,
-   "explain_en": "The summary states a single‑day net foreign sell of NT$149.9 billion in equities.",
-   "explain_zh": "摘要中說明單日外資賣出新台幣股票總額為149.9億新台幣。",
-   "news_title_en": "Taiwan dollar slides to 32.876, the weakest Asian currency, on foreign outflows (2026-11-05)",
-   "id": "2026-11-06-05"
+   "explain_en": "The summary states that gifts given to certain relatives within two years before death are included in the taxable estate.",
+   "explain_zh": "摘要說明，死前兩年內贈與給特定親屬的資產會被計入遺產課稅。",
+   "news_title_en": "Legislature passes \"deemed estate\" rule tightening gift-tax avoidance (2026-08-21)",
+   "id": "2026-11-07-08"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"cross‑border value creation\" mean?",
+   "question": "In the summary, what does the word \"consensus\" mean?",
    "options": [
-    "Creating new products for domestic markets",
-    "Reducing taxes within Taiwan",
-    "Investing only in local real estate",
-    "Making profit by doing business in other countries"
-   ],
-   "answer": 3,
-   "explain_en": "It refers to generating wealth by operating or investing across different countries.",
-   "explain_zh": "指的是透過在不同國家進行營運或投資來創造財富。",
-   "news_title_en": "KPMG–E.Sun report sees Taiwan's high-asset population reaching 124,000 with NT$46.1 trillion",
-   "id": "2026-11-06-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the report, what percentage of high‑asset clients have already allocated offshore assets?",
-   "options": [
-    "100%",
-    "More than 70%",
-    "Exactly 50%",
-    "Less than 30%"
+    "A financial loss",
+    "Everyone agreed",
+    "A legal contract",
+    "A type of market index"
    ],
    "answer": 1,
-   "explain_en": "The summary states that more than 70% of these clients are already allocating offshore.",
-   "explain_zh": "摘要中說明超過 70% 的高資產客戶已經配置離岸資產。",
-   "news_title_en": "KPMG–E.Sun report sees Taiwan's high-asset population reaching 124,000 with NT$46.1 trillion",
-   "id": "2026-11-06-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"apportioned\" mean?",
-   "options": [
-    "Divided and assigned",
-    "Sold at a discount",
-    "Hidden from view",
-    "Ignored completely"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"apportioned\" means the tax is divided and assigned to each recipient based on their share of the inherited assets.",
-   "explain_zh": "此處的「apportioned」指的是稅金依照每位受贈人繼承的比例分配。",
-   "news_title_en": "Estate-and-gift tax reform folds pre-death gifts into the taxable estate",
-   "id": "2026-11-06-08"
+   "explain_en": "The text says the committee approved the mandate \"by consensus,\" meaning all members agreed on the decision.",
+   "explain_zh": "文中說委員會「by consensus」批准，表示大家都同意這項決策。",
+   "news_title_en": "National Stabilization Fund authorized for a 10th rescue as the market plunges (2026-11-06)",
+   "id": "2026-11-07-09"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, who will collect the tax on pre‑death gifts?",
+   "question": "How many points did the TAIEX lose over the five sessions mentioned?",
    "options": [
-    "The original donor",
-    "All heirs together",
-    "The Ministry of Finance directly",
-    "The recipient of the gift"
+    "10 points",
+    "5,510 points",
+    "2,500 points",
+    "1,000 points"
    ],
-   "answer": 3,
-   "explain_en": "The summary states the tax is collected from the recipient rather than being split among all heirs.",
-   "explain_zh": "摘要中說明稅金由受贈人直接繳納，而不是由所有繼承人分擔。",
-   "news_title_en": "Estate-and-gift tax reform folds pre-death gifts into the taxable estate",
-   "id": "2026-11-06-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"alert\" mean?",
-   "options": [
-    "a warning signal",
-    "a type of tax",
-    "a financial profit",
-    "a government department"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"alert\" refers to a warning level set by the central bank for inflation.",
-   "explain_zh": "此處的「alert」指的是央行設定的通膨警戒線，意即警告訊號。",
-   "news_title_en": "Taiwan's October CPI rises 2.33%, a sixth month above the 2% alert line (2026-11-05)",
-   "id": "2026-11-06-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "For how many consecutive months has the CPI stayed above the central bank's 2% alert line?",
-   "options": [
-    "Seven months",
-    "Five months",
-    "Four months",
-    "Six months"
-   ],
-   "answer": 3,
-   "explain_en": "The summary says the CPI has been above the 2% alert line for a sixth straight month.",
-   "explain_zh": "摘要指出 CPI 已連續第六個月高於 2% 警戒線。",
-   "news_title_en": "Taiwan's October CPI rises 2.33%, a sixth month above the 2% alert line (2026-11-05)",
-   "id": "2026-11-06-11"
+   "answer": 1,
+   "explain_en": "The summary states the TAIEX had shed 5,510 points over the week's five sessions.",
+   "explain_zh": "摘要中說台股指數在五個交易日內下跌了 5,510 點。",
+   "news_title_en": "National Stabilization Fund authorized for a 10th rescue as the market plunges (2026-11-06)",
+   "id": "2026-11-07-10"
   }
  ]
 }
