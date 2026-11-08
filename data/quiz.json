@@ -1,170 +1,170 @@
 {
- "date": "2026-11-07",
+ "date": "2026-11-08",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"panic selling\" mean?",
+   "question": "In the text, what does the word \"outflows\" mean?",
    "options": [
-    "Selling stocks quickly because of fear",
-    "Buying stocks quickly because they are cheap",
-    "Holding stocks for a long time",
-    "Trading stocks only on weekends"
+    "Money leaving the market",
+    "Money entering the market",
+    "A rise in stock prices",
+    "A type of financial report"
    ],
    "answer": 0,
-   "explain_en": "\"Panic selling\" means investors are quickly selling their holdings because they are scared of further losses.",
-   "explain_zh": "「panic selling」指的是投資人因為害怕繼續下跌而快速賣出股票。",
-   "news_title_en": "TAIEX crashes a record intraday 3,737 points before closing down 1,873 at 39,701, losing the 40,000 mark (2026-11-06)",
-   "id": "2026-11-07-00"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"relentless\" mean?",
-   "options": [
-    "slow and hesitant",
-    "temporary and brief",
-    "continuous and unyielding",
-    "friendly and easygoing"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"relentless\" describes the outflow as continuous and unyielding, not stopping.",
-   "explain_zh": "此處的「relentless」指的是持續且不間斷的資金外流。",
-   "news_title_en": "Foreigners cut TSMC and MediaTek for a 21st straight session, pulling NT$524 billion from stocks this week (2026-11-06)",
-   "id": "2026-11-07-01"
+   "explain_en": "\"Outflows\" refers to investors taking money out of the market, i.e., selling assets.",
+   "explain_zh": "「outflows」指的是資金流出市場，也就是投資人賣出資產。",
+   "news_title_en": "National Stabilization Fund enters Monday to counter foreign outflows as the market seeks a bottom above the yearly line (2026-11-08)",
+   "id": "2026-11-08-00"
   },
   {
    "type": "comprehension",
-   "question": "How many consecutive sessions have foreigners been cutting TSMC and MediaTek as of Nov. 6?",
+   "question": "How much did foreign investors sell in equities during the worst \"Black Friday\"?",
    "options": [
-    "10",
-    "5",
-    "21",
-    "15"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the reduction continued for a 21st straight session on Nov. 6.",
-   "explain_zh": "摘要中說明外資已連續第21天拋售台積電與聯發科。",
-   "news_title_en": "Foreigners cut TSMC and MediaTek for a 21st straight session, pulling NT$524 billion from stocks this week (2026-11-06)",
-   "id": "2026-11-07-02"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"roared\" mean?",
-   "options": [
-    "decreased slowly",
-    "made a loud animal sound",
-    "moved very quickly upward",
-    "stayed unchanged"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"roared back\" means the Taiwan dollar moved sharply upward in price.",
-   "explain_zh": "此處的 \"roared back\" 指的是台幣價格快速上升。",
-   "news_title_en": "Taiwan dollar stages a V-shaped reversal, closing up 1.08 cents at 32.768 after breaching 33 (2026-11-06)",
-   "id": "2026-11-07-03"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, how much did the Taiwan dollar close up on Nov. 6?",
-   "options": [
-    "four days",
-    "0.9%",
-    "33.04 dollars",
-    "1.08 cents"
-   ],
-   "answer": 3,
-   "explain_en": "The text says it closed up 1.08 cents at 32.768.",
-   "explain_zh": "文中說台幣收盤上漲了 1.08 分。",
-   "news_title_en": "Taiwan dollar stages a V-shaped reversal, closing up 1.08 cents at 32.768 after breaching 33 (2026-11-06)",
-   "id": "2026-11-07-04"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word “succession” mean?",
-   "options": [
-    "The process of hiring new staff",
-    "A series of bank branches opening",
-    "Passing wealth or assets to the next generation",
-    "A type of investment fund"
-   ],
-   "answer": 2,
-   "explain_en": "Here “succession” refers to planning for the transfer of wealth or assets to heirs.",
-   "explain_zh": "在此句中，「succession」指的是將財產或資產傳給下一代的規劃。",
-   "news_title_en": "Taishin opens Asia Bay private-banking flagship, partnering Switzerland's UBP (2026-10-23)",
-   "id": "2026-11-07-05"
-  },
-  {
-   "type": "comprehension",
-   "question": "Which Swiss bank did Taishin partner with for its new private‑banking flagship?",
-   "options": [
-    "Julius Baer",
-    "Credit Suisse",
-    "UBS",
-    "Union Bancaire Privée (UBP)"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that Taishin signed an MOU with Union Bancaire Privée (UBP) of Switzerland.",
-   "explain_zh": "摘要中說明台新與瑞士的 Union Bancaire Privée (UBP) 簽署合作備忘錄。",
-   "news_title_en": "Taishin opens Asia Bay private-banking flagship, partnering Switzerland's UBP (2026-10-23)",
-   "id": "2026-11-07-06"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"deemed estate\" mean?",
-   "options": [
-    "A type of investment fund for estates",
-    "Assets that are considered part of the estate for tax purposes",
-    "A special tax exemption for gifts",
-    "A legal term for a will that has been approved by the court"
+    "NT$33 billion",
+    "NT$524.4 billion",
+    "NT$5,510 points",
+    "NT$534.1 billion"
    ],
    "answer": 1,
-   "explain_en": "It refers to assets that are treated as part of the taxable estate, even if they were given as gifts before death.",
-   "explain_zh": "「deemed estate」指的是即使在死亡前已贈與，仍被視為遺產課稅的資產。",
-   "news_title_en": "Legislature passes \"deemed estate\" rule tightening gift-tax avoidance (2026-08-21)",
-   "id": "2026-11-07-07"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, how long before death must a gift be given to be counted in the taxable estate?",
-   "options": [
-    "Within five years before death",
-    "Any time during the person's life",
-    "Only after death",
-    "Within two years before death"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that gifts given to certain relatives within two years before death are included in the taxable estate.",
-   "explain_zh": "摘要說明，死前兩年內贈與給特定親屬的資產會被計入遺產課稅。",
-   "news_title_en": "Legislature passes \"deemed estate\" rule tightening gift-tax avoidance (2026-08-21)",
-   "id": "2026-11-07-08"
+   "explain_en": "The summary states foreign investors sold a net NT$524.4 billion in equities.",
+   "explain_zh": "摘要中說外資在「黑色星期五」賣出淨值為 524.4 億新台幣的股票。",
+   "news_title_en": "National Stabilization Fund enters Monday to counter foreign outflows as the market seeks a bottom above the yearly line (2026-11-08)",
+   "id": "2026-11-08-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"consensus\" mean?",
+   "question": "In the summary, what does the word \"squeezed\" mean?",
    "options": [
-    "A financial loss",
-    "Everyone agreed",
-    "A legal contract",
-    "A type of market index"
+    "reduced or pressed tightly",
+    "made larger",
+    "increased dramatically",
+    "expanded rapidly"
    ],
-   "answer": 1,
-   "explain_en": "The text says the committee approved the mandate \"by consensus,\" meaning all members agreed on the decision.",
-   "explain_zh": "文中說委員會「by consensus」批准，表示大家都同意這項決策。",
-   "news_title_en": "National Stabilization Fund authorized for a 10th rescue as the market plunges (2026-11-06)",
-   "id": "2026-11-07-09"
+   "answer": 0,
+   "explain_en": "Here \"squeezed\" means that device makers' profit margins were reduced because of the shortage.",
+   "explain_zh": "在此句中「squeezed」指的是因為記憶體短缺，裝置製造商的利潤空間被壓縮。",
+   "news_title_en": "TSMC said to weigh entering the 3D DRAM market at Nvidia's request amid an AI memory shortage (2026-11-07)",
+   "id": "2026-11-08-02"
   },
   {
    "type": "comprehension",
-   "question": "How many points did the TAIEX lose over the five sessions mentioned?",
+   "question": "According to the summary, which company asked TSMC to consider making 3D DRAM chips?",
    "options": [
-    "10 points",
-    "5,510 points",
-    "2,500 points",
-    "1,000 points"
+    "Nvidia",
+    "Microsoft",
+    "Apple",
+    "Google"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that Nvidia prompted TSMC to evaluate production of advanced 3D DRAM memory chips.",
+   "explain_zh": "摘要中提到是 Nvidia 要求 TSMC 評估生產先進的 3D DRAM 記憶體晶片。",
+   "news_title_en": "TSMC said to weigh entering the 3D DRAM market at Nvidia's request amid an AI memory shortage (2026-11-07)",
+   "id": "2026-11-08-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"sell‑off\" mean?",
+   "options": [
+    "A large amount of selling causing prices to drop",
+    "A new product launch",
+    "A government policy to reduce taxes",
+    "A rise in stock prices"
+   ],
+   "answer": 0,
+   "explain_en": "\"Sell‑off\" refers to many investors selling their shares, which pushes the price down.",
+   "explain_zh": "「sell‑off」指的是大量拋售，導致股價下跌。",
+   "news_title_en": "AI stock rout rattles Asian markets; Taiwan dollar briefly breaks 33 as the yen gains on haven demand (2026-11-06)",
+   "id": "2026-11-08-04"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the phrase \"high-asset business\" mean?",
+   "options": [
+    "A service for customers with a large amount of money to invest",
+    "A program for buying cheap assets",
+    "A department that sells low‑price products",
+    "A team that manages government assets"
+   ],
+   "answer": 0,
+   "explain_en": "\"High-asset business\" refers to services aimed at clients who have a lot of assets under management, i.e., wealthy investors.",
+   "explain_zh": "「high-asset business」指的是針對資產龐大、財富較高的客戶提供的服務。",
+   "news_title_en": "State banks pile into the high-asset zone at the Kaohsiung Financial Expo, pushing ETFs, TISA and family offices (2026-11-07)",
+   "id": "2026-11-08-05"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many clients does First Bank have in its Kaohsiung‑zone high‑asset business, according to the summary?",
+   "options": [
+    "About 200",
+    "About 800",
+    "About 500",
+    "About 350"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that First Bank's Kaohsiung‑zone clients have topped 500.",
+   "explain_zh": "摘要中提到第一銀行在高資產業務的高雄區客戶已超過 500 位。",
+   "news_title_en": "State banks pile into the high-asset zone at the Kaohsiung Financial Expo, pushing ETFs, TISA and family offices (2026-11-07)",
+   "id": "2026-11-08-06"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"latitude\" mean?",
+   "options": [
+    "Height above sea level",
+    "Freedom to act",
+    "A type of financial instrument",
+    "Geographic coordinate"
    ],
    "answer": 1,
-   "explain_en": "The summary states the TAIEX had shed 5,510 points over the week's five sessions.",
-   "explain_zh": "摘要中說台股指數在五個交易日內下跌了 5,510 點。",
-   "news_title_en": "National Stabilization Fund authorized for a 10th rescue as the market plunges (2026-11-06)",
-   "id": "2026-11-07-10"
+   "explain_en": "Here \"latitude\" refers to the freedom or discretion the executive has to set tariffs.",
+   "explain_zh": "此處的「latitude」指的是行政部門在設定關稅時的自由裁量權。",
+   "news_title_en": "Democrats' congressional sweep unlikely to reverse Trump's tariffs; EV subsidies and AI rules back in play (2026-11-07)",
+   "id": "2026-11-08-07"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, why is it unlikely that Democrats will change Trump's tariff policy?",
+   "options": [
+    "Because the tariffs are popular with voters",
+    "Because they lack any support in Congress",
+    "Because the tariffs are based on existing legal authority",
+    "Because the Supreme Court banned changes"
+   ],
+   "answer": 2,
+   "explain_en": "The summary says the duties rest on Section 301 and Section 232, giving the president wide authority, so Congress would face a veto risk.",
+   "explain_zh": "摘要指出關稅依據既有法律（第301條與第232條），賦予總統廣泛權限，因而難以由民主黨改變。",
+   "news_title_en": "Democrats' congressional sweep unlikely to reverse Trump's tariffs; EV subsidies and AI rules back in play (2026-11-07)",
+   "id": "2026-11-08-08"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"resilient\" mean as used in the text?",
+   "options": [
+    "Related to the government",
+    "Uncertain or vague",
+    "Very expensive",
+    "Able to recover quickly from difficulties"
+   ],
+   "answer": 3,
+   "explain_en": "In the article, \"resilient labor market\" means the job market can bounce back and stay strong despite challenges.",
+   "explain_zh": "文中「resilient labor market」指的是勞動市場能快速恢復、保持韌性。",
+   "news_title_en": "Strong October jobs push December Fed hike odds to ~80% as Daly flags room to fight inflation (2026-11-07)",
+   "id": "2026-11-08-09"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what is the market's estimated probability of a 25 basis‑point Fed rate hike in December?",
+   "options": [
+    "About 80%",
+    "About 30%",
+    "About 50%",
+    "About 95%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that markets now price about an 80% chance of a 25bp hike at the Dec 8‑9 meeting.",
+   "explain_zh": "摘要中提到市場預估 12 月加息 25 基點的機率約為 80%。",
+   "news_title_en": "Strong October jobs push December Fed hike odds to ~80% as Daly flags room to fight inflation (2026-11-07)",
+   "id": "2026-11-08-10"
   }
  ]
 }
