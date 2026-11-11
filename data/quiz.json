@@ -1,185 +1,185 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"short-covering\" mean?",
+   "question": "In the summary, what does the word \"rotated\" mean?",
    "options": [
-    "Buying stocks to close a short position",
-    "Holding stocks for a long time",
-    "Borrowing money to buy stocks",
-    "Selling stocks to open a short position"
-   ],
-   "answer": 0,
-   "explain_en": "Short‑covering is when traders who previously sold stocks short buy them back to close the position.",
-   "explain_zh": "「short‑covering」指的是先做空股票的投資人買回股票，以平倉結束部位。",
-   "news_title_en": "TAIEX rockets 1,960 points to 41,661, its second-largest gain on record, as curbs and rescue fund kick in (2026-11-09)",
-   "id": "2026-11-10-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many points did the TAIEX index rise on November 9?",
-   "options": [
-    "4.94 points",
-    "1,960.06 points",
-    "41,661.70 points",
-    "837.9 billion NT$"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the index surged 1,960.06 points, which is the amount of the rise.",
-   "explain_zh": "摘要中說指數上漲了 1,960.06 點，這就是當天的漲幅。",
-   "news_title_en": "TAIEX rockets 1,960 points to 41,661, its second-largest gain on record, as curbs and rescue fund kick in (2026-11-09)",
-   "id": "2026-11-10-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"bounce\" mean?",
-   "options": [
-    "a stable price level",
-    "a sudden drop in price",
-    "a quick recovery in price",
-    "a gradual decline"
+    "Went in circles",
+    "Stopped completely",
+    "Changed to a different type of investment",
+    "Spun around quickly"
    ],
    "answer": 2,
-   "explain_en": "Here \"bounce\" refers to a quick recovery in price after a fall.",
-   "explain_zh": "此處的「bounce」指的是價格在下跌後快速回升。",
-   "news_title_en": "Friday rebound in US chips powers Taiwan's tech-led recovery, TSMC ADR up 6.33% (2026-11-09)",
-   "id": "2026-11-10-02"
+   "explain_en": "Here \"rotated\" means investors moved their money into a different kind of investment, namely high‑dividend ETFs.",
+   "explain_zh": "此處的「rotated」指的是投資人把資金轉向另一種投資，亦即高股息ETF。",
+   "news_title_en": "TAIEX swings wildly as AI names steer the market, investors seek shelter in dividend ETFs",
+   "id": "2026-11-11-00"
   },
   {
    "type": "comprehension",
-   "question": "By how many points did Taiwan index futures rise in the overnight session?",
+   "question": "According to the summary, why are investors buying high‑dividend ETFs?",
    "options": [
-    "546 points",
-    "746 points",
-    "846 points",
-    "646 points"
+    "They expect AI stocks to keep rising",
+    "They want a defensive shelter during market turbulence",
+    "They want to invest in US tech companies",
+    "They need to meet regulatory requirements"
    ],
-   "answer": 3,
-   "explain_en": "The summary states that Taiwan index futures rose 646 points overnight.",
-   "explain_zh": "摘要中說明台灣指數期貨在隔夜上漲了 646 點。",
-   "news_title_en": "Friday rebound in US chips powers Taiwan's tech-led recovery, TSMC ADR up 6.33% (2026-11-09)",
-   "id": "2026-11-10-03"
+   "answer": 1,
+   "explain_en": "The text says investors rotated into high‑dividend ETFs as defensive shelters amid the turbulence.",
+   "explain_zh": "文中說投資人因市場波動而將資金轉入高股息ETF，作為防禦性避風港。",
+   "news_title_en": "TAIEX swings wildly as AI names steer the market, investors seek shelter in dividend ETFs",
+   "id": "2026-11-11-01"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"curb\" mean?",
+   "question": "In the text, what does the word \"spillover\" mean?",
    "options": [
-    "to encourage",
-    "to ignore",
-    "to limit",
-    "to celebrate"
+    "A new AI technology",
+    "A financial loss",
+    "A type of semiconductor defect",
+    "Extra orders that go to other companies"
+   ],
+   "answer": 3,
+   "explain_en": "\"Spillover\" refers to orders that overflow from TSMC to other companies, like OSAT players.",
+   "explain_zh": "「spillover」指的是超出 TSMC 的訂單流向其他公司，例如 OSAT 廠商。",
+   "news_title_en": "TSMC CoWoS expansion still short of demand, OSAT players reap spillover orders",
+   "id": "2026-11-11-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, which company is expected to book more than half of the CoWoS capacity in 2026?",
+   "options": [
+    "AMD",
+    "Nvidia",
+    "Broadcom",
+    "Intel"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states Nvidia will book more than half of the CoWoS capacity.",
+   "explain_zh": "摘要中說明 Nvidia 將預訂超過一半的 CoWoS 產能。",
+   "news_title_en": "TSMC CoWoS expansion still short of demand, OSAT players reap spillover orders",
+   "id": "2026-11-11-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"solvency\" mean?",
+   "options": [
+    "The number of employees a company has",
+    "The speed at which a market trades",
+    "The ability to pay debts and meet financial obligations",
+    "The amount of profit a company makes"
    ],
    "answer": 2,
-   "explain_en": "Here \"curb\" means to limit or restrain something, such as short‑selling activity.",
-   "explain_zh": "此處的 \"curb\" 意指限制或抑制，例如限制賣空行為。",
-   "news_title_en": "Short-selling curbs take effect Nov. 9: securities-lending cap cut to 3%, margin ratio raised to 130% (2026-11-09)",
-   "id": "2026-11-10-04"
+   "explain_en": "Solvency refers to an insurer's ability to meet its financial obligations and pay claims.",
+   "explain_zh": "「solvency」指的是保險公司能夠償付債務與理賠的能力。",
+   "news_title_en": "FSC pushes to strengthen insurers and channel funds into public construction",
+   "id": "2026-11-11-04"
   },
   {
    "type": "comprehension",
-   "question": "What was the new daily cap on securities‑lending short sales after the measures took effect?",
+   "question": "According to the summary, what is one of the three main goals of the FSC's new policy?",
    "options": [
-    "3% of the prior 30‑session average",
-    "130% of the prior 30‑session average",
-    "90% of the prior 30‑session average",
-    "30% of the prior 30‑session average"
+    "Eliminating all public construction projects",
+    "Increasing the number of life insurers",
+    "Improving solvency and asset‑liability management",
+    "Reducing taxes for foreign investors"
    ],
-   "answer": 0,
-   "explain_en": "The summary states the cap was slashed to 3% of the prior 30‑session average volume.",
-   "explain_zh": "摘要中說明，日常證券借貸賣空的上限被削減至過去30個交易日平均量的3%。",
-   "news_title_en": "Short-selling curbs take effect Nov. 9: securities-lending cap cut to 3%, margin ratio raised to 130% (2026-11-09)",
-   "id": "2026-11-10-05"
+   "answer": 2,
+   "explain_en": "The summary states the policy aims to improve solvency and asset‑liability management before new capital standards.",
+   "explain_zh": "摘要中說明，政策的目標之一是提升償付能力與資產負債管理。",
+   "news_title_en": "FSC pushes to strengthen insurers and channel funds into public construction",
+   "id": "2026-11-11-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"consensus\" mean?",
+   "question": "In the summary, what does the word \"defensive\" mean?",
    "options": [
-    "A type of investment product",
-    "A complete agreement among family members",
-    "A legal document for inheritance",
-    "A financial loss"
-   ],
-   "answer": 1,
-   "explain_en": "\"Consensus\" means that the family members all agree on something, here the succession plan.",
-   "explain_zh": "「consensus」指的是家族成員之間對繼承計畫達成一致意見。",
-   "news_title_en": "Taipei Fubon pushes \"Wealth Blueprint\" as only 16.9% of families reach succession consensus (2026)",
-   "id": "2026-11-10-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what percentage of families have reached succession consensus?",
-   "options": [
-    "16.9%",
-    "25%",
-    "75%",
-    "50%"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that only 16.9% of families have reached consensus on succession.",
-   "explain_zh": "摘要中說只有 16.9% 的家族在繼承上達成共識。",
-   "news_title_en": "Taipei Fubon pushes \"Wealth Blueprint\" as only 16.9% of families reach succession consensus (2026)",
-   "id": "2026-11-10-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"deemed\" mean?",
-   "options": [
-    "removed from taxes",
-    "ignored by the law",
-    "given as a gift",
-    "considered as legally existing"
+    "Being aggressive in buying stocks",
+    "Increasing the dividend payout",
+    "Having high growth potential",
+    "Providing protection against market drops"
    ],
    "answer": 3,
-   "explain_en": "Here \"deemed\" means that the assets are treated as if they belong to the estate for tax purposes.",
-   "explain_zh": "「deemed」在此指的是資產被視為屬於遺產，依法計算稅額。",
-   "news_title_en": "Legislature's \"deemed estate\" rule tightens near-death gift-tax avoidance (2026-08-21)",
-   "id": "2026-11-10-08"
+   "explain_en": "Here \"defensive\" describes investments that are expected to hold value or perform well when the market is volatile.",
+   "explain_zh": "「defensive」指的是在市場波動時能提供保護、較不易受跌影響的投資。",
+   "news_title_en": "High-dividend ETF 00939 leads 2026 performance, prized for defense",
+   "id": "2026-11-11-06"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what happened to the NT$300,000 threshold?",
+   "question": "Which ETF had the highest total return up to late October 2026?",
    "options": [
-    "It was changed to a new tax rate",
-    "It was increased to NT$500,000",
-    "It was applied to more people",
-    "It was removed completely"
+    "UPAMC Taiwan High Dividend Momentum (00939)",
+    "Another high-yield ETF",
+    "Cathay Sustainability High Dividend (00878)",
+    "All ETFs had the same return"
    ],
-   "answer": 3,
-   "explain_en": "The summary states the threshold was scrapped, meaning it was removed.",
-   "explain_zh": "摘要說明，原本的 NT$300,000 門檻被取消，已不再適用。",
-   "news_title_en": "Legislature's \"deemed estate\" rule tightens near-death gift-tax avoidance (2026-08-21)",
-   "id": "2026-11-10-09"
+   "answer": 0,
+   "explain_en": "The summary states that 00939 led performance with a total return near 80%, ahead of 00878 and peers.",
+   "explain_zh": "摘要說明 00939 的總回報率接近 80%，領先於 00878 及其他同業。",
+   "news_title_en": "High-dividend ETF 00939 leads 2026 performance, prized for defense",
+   "id": "2026-11-11-07"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"mandate\" mean?",
+   "question": "In the summary, what does the word \"folded\" mean?",
    "options": [
-    "A permission to act or a task given",
-    "A type of financial instrument",
-    "A market index",
-    "A government tax"
+    "sent to court",
+    "ignored completely",
+    "included as part of",
+    "wrapped tightly"
    ],
-   "answer": 0,
-   "explain_en": "Here \"mandate\" refers to an authorized task or permission, not a financial product.",
-   "explain_zh": "這裡的「mandate」指的是授權的任務或許可，而不是金融商品。",
-   "news_title_en": "National Stabilization Fund gets 10th rescue mandate with up to NT$500 billion of firepower (2026-11-09)",
-   "id": "2026-11-10-10"
+   "answer": 2,
+   "explain_en": "Here \"folded into\" means the gifts are counted as part of the taxable estate.",
+   "explain_zh": "此處的「folded into」是指把贈與算入遺產稅的計算中。",
+   "news_title_en": "Estate-and-gift tax overhaul nears rollout, reshaping year-end wealth transfer",
+   "id": "2026-11-11-08"
   },
   {
    "type": "comprehension",
-   "question": "How much money did the National Stabilization Fund authorize to potentially use for market support?",
+   "question": "According to the summary, what change did the legislature make about installment payments?",
    "options": [
-    "NT$500 million",
-    "NT$500 billion",
-    "NT$5 billion",
-    "NT$50 billion"
+    "They increased the interest rate",
+    "They limited them to relatives only",
+    "They made them optional",
+    "They removed the threshold for them"
    ],
-   "answer": 1,
-   "explain_en": "The summary states the fund can deploy up to NT$500 billion.",
-   "explain_zh": "摘要中說明基金最高可動用新台幣 5000 億元。",
-   "news_title_en": "National Stabilization Fund gets 10th rescue mandate with up to NT$500 billion of firepower (2026-11-09)",
-   "id": "2026-11-10-11"
+   "answer": 3,
+   "explain_en": "The summary says the threshold for installment payments is removed, meaning the previous limit no longer applies.",
+   "explain_zh": "摘要指出，已取消分期付款的門檻，表示之前的限制不再存在。",
+   "news_title_en": "Estate-and-gift tax overhaul nears rollout, reshaping year-end wealth transfer",
+   "id": "2026-11-11-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"gainers\" mean?",
+   "options": [
+    "Things that increase in value",
+    "People who win a competition",
+    "Objects that are hidden",
+    "Items that are removed"
+   ],
+   "answer": 0,
+   "explain_en": "\"Gainers\" refers to items that have risen, such as gasoline and airfares whose prices went up.",
+   "explain_zh": "「gainers」指的是價格上漲的項目，例如汽油和機票的價格上升。",
+   "news_title_en": "Taiwan October CPI holds at 2.33%, a sixth month above the 2% alert line",
+   "id": "2026-11-11-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many consecutive months has Taiwan's CPI been above the 2% watch line?",
+   "options": [
+    "Seven months",
+    "Five months",
+    "Six months",
+    "Four months"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states it is a sixth straight month above the 2% alert line.",
+   "explain_zh": "摘要中說已連續第六個月 CPI 超過 2% 警戒線。",
+   "news_title_en": "Taiwan October CPI holds at 2.33%, a sixth month above the 2% alert line",
+   "id": "2026-11-11-11"
   }
  ]
 }
