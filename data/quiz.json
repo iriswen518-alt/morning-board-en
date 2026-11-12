@@ -1,185 +1,185 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"rotated\" mean?",
+   "question": "In the summary, what does the term \"capex\" mean?",
    "options": [
-    "Went in circles",
-    "Stopped completely",
-    "Changed to a different type of investment",
-    "Spun around quickly"
+    "Capacity expansion, increasing production speed",
+    "Cash expense, daily operating costs",
+    "Capital expenditure, money spent to buy or improve assets",
+    "Capital export, goods sent abroad"
    ],
    "answer": 2,
-   "explain_en": "Here \"rotated\" means investors moved their money into a different kind of investment, namely high‑dividend ETFs.",
-   "explain_zh": "此處的「rotated」指的是投資人把資金轉向另一種投資，亦即高股息ETF。",
-   "news_title_en": "TAIEX swings wildly as AI names steer the market, investors seek shelter in dividend ETFs",
-   "id": "2026-11-11-00"
+   "explain_en": "\"Capex\" is short for capital expenditure, the money a company spends to acquire or upgrade physical assets.",
+   "explain_zh": "「capex」是 capital expenditure（資本支出）的縮寫，指公司用來購買或升級實體資產的費用。",
+   "news_title_en": "Pre-market highlights: Quanta, Wistron and CTBC all post AI-era strength",
+   "id": "2026-11-12-00"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, why are investors buying high‑dividend ETFs?",
+   "question": "What was Wistron's nine‑month net profit reported in the summary?",
    "options": [
-    "They expect AI stocks to keep rising",
-    "They want a defensive shelter during market turbulence",
-    "They want to invest in US tech companies",
-    "They need to meet regulatory requirements"
+    "NT$148.8 billion",
+    "NT$13.54 billion",
+    "NT$42.86 billion",
+    "NT$13.4 billion"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that Wistron's nine‑month net profit more than doubled to NT$42.86 bn.",
+   "explain_zh": "摘要中提到，Wistron 的九個月淨利增至 42.86 億新台幣。",
+   "news_title_en": "Pre-market highlights: Quanta, Wistron and CTBC all post AI-era strength",
+   "id": "2026-11-12-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"ramp\" mean?",
+   "options": [
+    "to lower the price",
+    "to increase production speed",
+    "to change the design",
+    "to stop the project"
    ],
    "answer": 1,
-   "explain_en": "The text says investors rotated into high‑dividend ETFs as defensive shelters amid the turbulence.",
-   "explain_zh": "文中說投資人因市場波動而將資金轉入高股息ETF，作為防禦性避風港。",
-   "news_title_en": "TAIEX swings wildly as AI names steer the market, investors seek shelter in dividend ETFs",
-   "id": "2026-11-11-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"spillover\" mean?",
-   "options": [
-    "A new AI technology",
-    "A financial loss",
-    "A type of semiconductor defect",
-    "Extra orders that go to other companies"
-   ],
-   "answer": 3,
-   "explain_en": "\"Spillover\" refers to orders that overflow from TSMC to other companies, like OSAT players.",
-   "explain_zh": "「spillover」指的是超出 TSMC 的訂單流向其他公司，例如 OSAT 廠商。",
-   "news_title_en": "TSMC CoWoS expansion still short of demand, OSAT players reap spillover orders",
-   "id": "2026-11-11-02"
+   "explain_en": "Here \"ramps\" means the production is increasing or scaling up in Q2.",
+   "explain_zh": "此處的「ramps」指的是在第二季提升產量或擴大規模。",
+   "news_title_en": "Youtong ships first robotics project; third to run on NVIDIA Thor in 2027",
+   "id": "2026-11-12-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, which company is expected to book more than half of the CoWoS capacity in 2026?",
+   "question": "When is the third robotics project expected to reach volume production?",
    "options": [
-    "AMD",
-    "Nvidia",
-    "Broadcom",
-    "Intel"
+    "Q1 2026",
+    "Q4 2028",
+    "Q3 2027",
+    "Q2 2026"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the third project targets volume production in Q3 2027.",
+   "explain_zh": "摘要中說第三個專案目標是在2027年第三季達到量產。",
+   "news_title_en": "Youtong ships first robotics project; third to run on NVIDIA Thor in 2027",
+   "id": "2026-11-12-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"adequacy\" mean?",
+   "options": [
+    "Popularity",
+    "Sufficiency",
+    "Speed",
+    "Complexity"
    ],
    "answer": 1,
-   "explain_en": "The summary states Nvidia will book more than half of the CoWoS capacity.",
-   "explain_zh": "摘要中說明 Nvidia 將預訂超過一半的 CoWoS 產能。",
-   "news_title_en": "TSMC CoWoS expansion still short of demand, OSAT players reap spillover orders",
-   "id": "2026-11-11-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"solvency\" mean?",
-   "options": [
-    "The number of employees a company has",
-    "The speed at which a market trades",
-    "The ability to pay debts and meet financial obligations",
-    "The amount of profit a company makes"
-   ],
-   "answer": 2,
-   "explain_en": "Solvency refers to an insurer's ability to meet its financial obligations and pay claims.",
-   "explain_zh": "「solvency」指的是保險公司能夠償付債務與理賠的能力。",
-   "news_title_en": "FSC pushes to strengthen insurers and channel funds into public construction",
-   "id": "2026-11-11-04"
+   "explain_en": "Here \"adequacy\" refers to having enough capital to meet regulatory requirements.",
+   "explain_zh": "此處的「adequacy」指的是資本足夠以符合監管要求。",
+   "news_title_en": "FSC eases financial-holding capital rules to steady insurance-led groups",
+   "id": "2026-11-12-04"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what is one of the three main goals of the FSC's new policy?",
+   "question": "How many insurance-type holding companies received a one‑month extension for filing?",
    "options": [
-    "Eliminating all public construction projects",
-    "Increasing the number of life insurers",
-    "Improving solvency and asset‑liability management",
-    "Reducing taxes for foreign investors"
+    "Twenty",
+    "Eleven",
+    "Fifteen",
+    "Eight"
    ],
-   "answer": 2,
-   "explain_en": "The summary states the policy aims to improve solvency and asset‑liability management before new capital standards.",
-   "explain_zh": "摘要中說明，政策的目標之一是提升償付能力與資產負債管理。",
-   "news_title_en": "FSC pushes to strengthen insurers and channel funds into public construction",
-   "id": "2026-11-11-05"
+   "answer": 1,
+   "explain_en": "The summary states that the filing deadline was extended for eleven insurance-type holdings.",
+   "explain_zh": "摘要中說明有十一家保險類控股公司獲得了延長一個月的申報期限。",
+   "news_title_en": "FSC eases financial-holding capital rules to steady insurance-led groups",
+   "id": "2026-11-12-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"defensive\" mean?",
+   "question": "In the summary, what does the word \"payouts\" mean?",
    "options": [
-    "Being aggressive in buying stocks",
-    "Increasing the dividend payout",
-    "Having high growth potential",
-    "Providing protection against market drops"
+    "Profits earned by the company",
+    "Taxes paid to the government",
+    "Fees charged by the broker",
+    "Payments made to investors"
    ],
    "answer": 3,
-   "explain_en": "Here \"defensive\" describes investments that are expected to hold value or perform well when the market is volatile.",
-   "explain_zh": "「defensive」指的是在市場波動時能提供保護、較不易受跌影響的投資。",
-   "news_title_en": "High-dividend ETF 00939 leads 2026 performance, prized for defense",
-   "id": "2026-11-11-06"
+   "explain_en": "\"Payouts\" refers to the money that is paid out to investors, such as dividends from the ETFs.",
+   "explain_zh": "「payouts」指的是發放給投資人的金額，例如ETF的股息。",
+   "news_title_en": "Taiwan ETF ex-dividend wave clusters in mid-November",
+   "id": "2026-11-12-06"
   },
   {
    "type": "comprehension",
-   "question": "Which ETF had the highest total return up to late October 2026?",
+   "question": "Which ETF is mentioned as having the highest per-unit payout among those already announced?",
    "options": [
-    "UPAMC Taiwan High Dividend Momentum (00939)",
-    "Another high-yield ETF",
-    "Cathay Sustainability High Dividend (00878)",
-    "All ETFs had the same return"
+    "00851",
+    "00890",
+    "00878",
+    "006208"
    ],
    "answer": 0,
-   "explain_en": "The summary states that 00939 led performance with a total return near 80%, ahead of 00878 and peers.",
-   "explain_zh": "摘要說明 00939 的總回報率接近 80%，領先於 00878 及其他同業。",
-   "news_title_en": "High-dividend ETF 00939 leads 2026 performance, prized for defense",
-   "id": "2026-11-11-07"
+   "explain_en": "The summary states that 00851 tops the per-unit table among payouts already announced.",
+   "explain_zh": "摘要中說已公告的派息中，00851的每單位金額最高。",
+   "news_title_en": "Taiwan ETF ex-dividend wave clusters in mid-November",
+   "id": "2026-11-12-07"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"folded\" mean?",
+   "question": "In the text, what does the word \"installments\" mean?",
    "options": [
-    "sent to court",
-    "ignored completely",
-    "included as part of",
-    "wrapped tightly"
+    "Receiving money as a gift",
+    "Paying the amount in several smaller parts over time",
+    "Removing a tax rule",
+    "Paying the whole amount at once"
    ],
-   "answer": 2,
-   "explain_en": "Here \"folded into\" means the gifts are counted as part of the taxable estate.",
-   "explain_zh": "此處的「folded into」是指把贈與算入遺產稅的計算中。",
-   "news_title_en": "Estate-and-gift tax overhaul nears rollout, reshaping year-end wealth transfer",
-   "id": "2026-11-11-08"
+   "answer": 1,
+   "explain_en": "\"Installments\" means paying the tax in several smaller payments over a period of time, not all at once.",
+   "explain_zh": "「installments」指的是分期付款，也就是把稅款分成多次、在一段時間內付清，而不是一次付清。",
+   "news_title_en": "Estate-and-gift tax amendments clear the legislature",
+   "id": "2026-11-12-08"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what change did the legislature make about installment payments?",
+   "question": "According to the summary, who will bear the tax on gifts given within two years before death?",
    "options": [
-    "They increased the interest rate",
-    "They limited them to relatives only",
-    "They made them optional",
-    "They removed the threshold for them"
+    "The government",
+    "The estate executor",
+    "The donor",
+    "The recipients proportionally"
    ],
    "answer": 3,
-   "explain_en": "The summary says the threshold for installment payments is removed, meaning the previous limit no longer applies.",
-   "explain_zh": "摘要指出，已取消分期付款的門檻，表示之前的限制不再存在。",
-   "news_title_en": "Estate-and-gift tax overhaul nears rollout, reshaping year-end wealth transfer",
-   "id": "2026-11-11-09"
+   "explain_en": "The summary states that recipients will bear the tax proportionally for gifts given within two years before death.",
+   "explain_zh": "摘要說明，兩年內的贈與稅由受贈人按比例負擔。",
+   "news_title_en": "Estate-and-gift tax amendments clear the legislature",
+   "id": "2026-11-12-09"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"gainers\" mean?",
+   "question": "In the summary, what does the word \"drivers\" mean?",
    "options": [
-    "Things that increase in value",
-    "People who win a competition",
-    "Objects that are hidden",
-    "Items that are removed"
+    "Factors that cause something to happen",
+    "Machines that move goods",
+    "People who operate vehicles",
+    "People who drive cars"
    ],
    "answer": 0,
-   "explain_en": "\"Gainers\" refers to items that have risen, such as gasoline and airfares whose prices went up.",
-   "explain_zh": "「gainers」指的是價格上漲的項目，例如汽油和機票的價格上升。",
-   "news_title_en": "Taiwan October CPI holds at 2.33%, a sixth month above the 2% alert line",
-   "id": "2026-11-11-10"
+   "explain_en": "Here \"drivers\" refers to the factors (like dining-out, rents, fuel, and airfares) that cause the CPI to rise.",
+   "explain_zh": "這裡的「drivers」指的是導致 CPI 上升的因素，例如外食、租金、燃料和機票。",
+   "news_title_en": "Taiwan's October CPI holds at 2.33%, above 2% for a sixth month",
+   "id": "2026-11-12-10"
   },
   {
    "type": "comprehension",
-   "question": "How many consecutive months has Taiwan's CPI been above the 2% watch line?",
+   "question": "According to the summary, how many consecutive months has Taiwan's CPI stayed above the 2% alert line?",
    "options": [
-    "Seven months",
+    "Four months",
     "Five months",
     "Six months",
-    "Four months"
+    "Seven months"
    ],
    "answer": 2,
-   "explain_en": "The summary states it is a sixth straight month above the 2% alert line.",
-   "explain_zh": "摘要中說已連續第六個月 CPI 超過 2% 警戒線。",
-   "news_title_en": "Taiwan October CPI holds at 2.33%, a sixth month above the 2% alert line",
-   "id": "2026-11-11-11"
+   "explain_en": "The text says the CPI has been above the 2% alert line for a sixth straight month.",
+   "explain_zh": "文中說 CPI 已連續六個月高於 2% 警戒線。",
+   "news_title_en": "Taiwan's October CPI holds at 2.33%, above 2% for a sixth month",
+   "id": "2026-11-12-11"
   }
  ]
 }
