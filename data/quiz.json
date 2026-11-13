@@ -1,185 +1,185 @@
 {
- "date": "2026-11-12",
+ "date": "2026-11-13",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the term \"capex\" mean?",
+   "question": "In the summary, what does the phrase \"profit‑taking\" mean?",
    "options": [
-    "Capacity expansion, increasing production speed",
-    "Cash expense, daily operating costs",
-    "Capital expenditure, money spent to buy or improve assets",
-    "Capital export, goods sent abroad"
-   ],
-   "answer": 2,
-   "explain_en": "\"Capex\" is short for capital expenditure, the money a company spends to acquire or upgrade physical assets.",
-   "explain_zh": "「capex」是 capital expenditure（資本支出）的縮寫，指公司用來購買或升級實體資產的費用。",
-   "news_title_en": "Pre-market highlights: Quanta, Wistron and CTBC all post AI-era strength",
-   "id": "2026-11-12-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was Wistron's nine‑month net profit reported in the summary?",
-   "options": [
-    "NT$148.8 billion",
-    "NT$13.54 billion",
-    "NT$42.86 billion",
-    "NT$13.4 billion"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that Wistron's nine‑month net profit more than doubled to NT$42.86 bn.",
-   "explain_zh": "摘要中提到，Wistron 的九個月淨利增至 42.86 億新台幣。",
-   "news_title_en": "Pre-market highlights: Quanta, Wistron and CTBC all post AI-era strength",
-   "id": "2026-11-12-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"ramp\" mean?",
-   "options": [
-    "to lower the price",
-    "to increase production speed",
-    "to change the design",
-    "to stop the project"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"ramps\" means the production is increasing or scaling up in Q2.",
-   "explain_zh": "此處的「ramps」指的是在第二季提升產量或擴大規模。",
-   "news_title_en": "Youtong ships first robotics project; third to run on NVIDIA Thor in 2027",
-   "id": "2026-11-12-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "When is the third robotics project expected to reach volume production?",
-   "options": [
-    "Q1 2026",
-    "Q4 2028",
-    "Q3 2027",
-    "Q2 2026"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the third project targets volume production in Q3 2027.",
-   "explain_zh": "摘要中說第三個專案目標是在2027年第三季達到量產。",
-   "news_title_en": "Youtong ships first robotics project; third to run on NVIDIA Thor in 2027",
-   "id": "2026-11-12-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"adequacy\" mean?",
-   "options": [
-    "Popularity",
-    "Sufficiency",
-    "Speed",
-    "Complexity"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"adequacy\" refers to having enough capital to meet regulatory requirements.",
-   "explain_zh": "此處的「adequacy」指的是資本足夠以符合監管要求。",
-   "news_title_en": "FSC eases financial-holding capital rules to steady insurance-led groups",
-   "id": "2026-11-12-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many insurance-type holding companies received a one‑month extension for filing?",
-   "options": [
-    "Twenty",
-    "Eleven",
-    "Fifteen",
-    "Eight"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states that the filing deadline was extended for eleven insurance-type holdings.",
-   "explain_zh": "摘要中說明有十一家保險類控股公司獲得了延長一個月的申報期限。",
-   "news_title_en": "FSC eases financial-holding capital rules to steady insurance-led groups",
-   "id": "2026-11-12-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"payouts\" mean?",
-   "options": [
-    "Profits earned by the company",
-    "Taxes paid to the government",
-    "Fees charged by the broker",
-    "Payments made to investors"
-   ],
-   "answer": 3,
-   "explain_en": "\"Payouts\" refers to the money that is paid out to investors, such as dividends from the ETFs.",
-   "explain_zh": "「payouts」指的是發放給投資人的金額，例如ETF的股息。",
-   "news_title_en": "Taiwan ETF ex-dividend wave clusters in mid-November",
-   "id": "2026-11-12-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "Which ETF is mentioned as having the highest per-unit payout among those already announced?",
-   "options": [
-    "00851",
-    "00890",
-    "00878",
-    "006208"
+    "Investors selling stocks to lock in gains",
+    "Analysts predicting higher future earnings",
+    "Regulators imposing taxes on profits",
+    "Companies increasing their profit margins"
    ],
    "answer": 0,
-   "explain_en": "The summary states that 00851 tops the per-unit table among payouts already announced.",
-   "explain_zh": "摘要中說已公告的派息中，00851的每單位金額最高。",
-   "news_title_en": "Taiwan ETF ex-dividend wave clusters in mid-November",
-   "id": "2026-11-12-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"installments\" mean?",
-   "options": [
-    "Receiving money as a gift",
-    "Paying the amount in several smaller parts over time",
-    "Removing a tax rule",
-    "Paying the whole amount at once"
-   ],
-   "answer": 1,
-   "explain_en": "\"Installments\" means paying the tax in several smaller payments over a period of time, not all at once.",
-   "explain_zh": "「installments」指的是分期付款，也就是把稅款分成多次、在一段時間內付清，而不是一次付清。",
-   "news_title_en": "Estate-and-gift tax amendments clear the legislature",
-   "id": "2026-11-12-08"
+   "explain_en": "Profit‑taking refers to investors selling shares after prices have risen, to secure the profit they have made.",
+   "explain_zh": "「profit‑taking」指的是投資人在股價上漲後賣出股票，將已獲得的獲利鎖定。",
+   "news_title_en": "Taiwan's TAIEX tumbles 1,165 points as AI heavyweights retreat",
+   "id": "2026-11-13-00"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, who will bear the tax on gifts given within two years before death?",
+   "question": "By how many points did the TAIEX fall on Thursday, Nov 12?",
    "options": [
-    "The government",
-    "The estate executor",
-    "The donor",
-    "The recipients proportionally"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states that recipients will bear the tax proportionally for gifts given within two years before death.",
-   "explain_zh": "摘要說明，兩年內的贈與稅由受贈人按比例負擔。",
-   "news_title_en": "Estate-and-gift tax amendments clear the legislature",
-   "id": "2026-11-12-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"drivers\" mean?",
-   "options": [
-    "Factors that cause something to happen",
-    "Machines that move goods",
-    "People who operate vehicles",
-    "People who drive cars"
+    "1,165.28 points",
+    "43,091.87 points",
+    "1.01 trillion points",
+    "2.63 points"
    ],
    "answer": 0,
-   "explain_en": "Here \"drivers\" refers to the factors (like dining-out, rents, fuel, and airfares) that cause the CPI to rise.",
-   "explain_zh": "這裡的「drivers」指的是導致 CPI 上升的因素，例如外食、租金、燃料和機票。",
-   "news_title_en": "Taiwan's October CPI holds at 2.33%, above 2% for a sixth month",
-   "id": "2026-11-12-10"
+   "explain_en": "The summary states that the TAIEX fell 1,165.28 points on that day.",
+   "explain_zh": "摘要中說明台股指數在當天下跌了 1,165.28 點。",
+   "news_title_en": "Taiwan's TAIEX tumbles 1,165 points as AI heavyweights retreat",
+   "id": "2026-11-13-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"accelerators\" mean?",
+   "options": [
+    "Marketing campaigns to boost sales",
+    "Financial incentives for investors",
+    "Devices that make cars go faster",
+    "AI chips that speed up processing"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"accelerators\" refers to AI chips designed to accelerate (speed up) computing tasks.",
+   "explain_zh": "此處的「accelerators」指的是用來加速運算的 AI 晶片。",
+   "news_title_en": "TSMC's October revenue jumps 59.7% on resilient AI chip demand",
+   "id": "2026-11-13-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, how many consecutive months has Taiwan's CPI stayed above the 2% alert line?",
+   "question": "By what percentage did TSMC's October revenue increase compared with the same month last year?",
    "options": [
-    "Four months",
-    "Five months",
-    "Six months",
-    "Seven months"
+    "43.3%",
+    "63%",
+    "59.7%",
+    "14.7%"
    ],
    "answer": 2,
-   "explain_en": "The text says the CPI has been above the 2% alert line for a sixth straight month.",
-   "explain_zh": "文中說 CPI 已連續六個月高於 2% 警戒線。",
-   "news_title_en": "Taiwan's October CPI holds at 2.33%, above 2% for a sixth month",
-   "id": "2026-11-12-11"
+   "explain_en": "The summary states October revenue was up 59.7% from a year earlier.",
+   "explain_zh": "摘要中說十月營收較去年同期成長了 59.7%。",
+   "news_title_en": "TSMC's October revenue jumps 59.7% on resilient AI chip demand",
+   "id": "2026-11-13-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"pilot\" mean?",
+   "options": [
+    "A legal document",
+    "A type of aircraft",
+    "A test program before full implementation",
+    "A financial loss"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"pilot\" refers to a trial or test phase of the asset‑management rules before they become permanent.",
+   "explain_zh": "這裡的「pilot」指的是在正式實施前的試驗或測試階段。",
+   "news_title_en": "Taiwan relaxes Kaohsiung asset-hub rules, benefiting 58 institutions",
+   "id": "2026-11-13-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many life insurers are among the 58 firms that qualify under the new rules?",
+   "options": [
+    "6",
+    "4",
+    "8",
+    "10"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that 6 life insurers are included in the 58 qualifying firms.",
+   "explain_zh": "摘要中說明有 6 家壽險公司在符合條件的 58 家機構中。",
+   "news_title_en": "Taiwan relaxes Kaohsiung asset-hub rules, benefiting 58 institutions",
+   "id": "2026-11-13-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word “shelf” mean when it says “product shelf”?",
+   "options": [
+    "A marketing slogan",
+    "A list of products a bank can sell",
+    "A physical storage rack for items",
+    "A type of financial regulation"
+   ],
+   "answer": 1,
+   "explain_en": "Here “shelf” is a metaphor for the range or selection of products that a bank can offer to customers.",
+   "explain_zh": "這裡的「shelf」是比喻，指銀行可以提供給客戶的產品種類或選擇。",
+   "news_title_en": "High-net-worth clients gain access to foreign crypto ETFs and private equity",
+   "id": "2026-11-13-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what happened to the 99‑investor ceiling for qualifying offshore and private‑equity funds?",
+   "options": [
+    "It was lowered to 50 investors",
+    "It was completely removed",
+    "It was kept unchanged",
+    "It was raised to 150 investors"
+   ],
+   "answer": 1,
+   "explain_en": "The summary says the 99‑investor ceiling is lifted, meaning the limit is removed.",
+   "explain_zh": "摘要中說明，99 位投資人上限被取消，也就是不再有限制。",
+   "news_title_en": "High-net-worth clients gain access to foreign crypto ETFs and private equity",
+   "id": "2026-11-13-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"consolidated\" mean?",
+   "options": [
+    "increased rapidly",
+    "ignored completely",
+    "combined into one total",
+    "separated into parts"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"consolidated\" means the taxes are added together into a single total amount.",
+   "explain_zh": "這裡的「consolidated」指的是把稅收合併成一個總額。",
+   "news_title_en": "October property-transaction tax turns positive year-to-date as housing taxes rise",
+   "id": "2026-11-13-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the year‑to‑date total amount of the individual housing‑and‑land income tax collected up to October?",
+   "options": [
+    "NT$4.8 billion",
+    "NT$40.0 billion",
+    "NT$43.3 billion",
+    "NT$5.5 billion"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the cumulative total from January to October is NT$43.3 billion.",
+   "explain_zh": "摘要中說明，從一月到十月的累計總額為新台幣433億。",
+   "news_title_en": "October property-transaction tax turns positive year-to-date as housing taxes rise",
+   "id": "2026-11-13-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"surged\" mean?",
+   "options": [
+    "was cancelled",
+    "decreased slightly",
+    "remained the same",
+    "increased sharply"
+   ],
+   "answer": 3,
+   "explain_en": "\"Surged\" means the exports went up a lot, as shown by the 60% increase.",
+   "explain_zh": "「surged」表示出口大幅上升，文中提到增長約60%。",
+   "news_title_en": "Taiwan's October exports hit a record, jumping nearly 60% on AI demand",
+   "id": "2026-11-13-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the finance ministry, how much are November exports expected to be?",
+   "options": [
+    "US$47.6 billion",
+    "US$60 billion",
+    "US$120 billion",
+    "US$94.2–96.7 billion"
+   ],
+   "answer": 3,
+   "explain_en": "The ministry projects November exports at US$94.2–96.7 billion, which is 47%–51% higher than a year earlier.",
+   "explain_zh": "財政部預估十一月出口額為94.2至96.7億美元，較去年同期增長47%至51%。",
+   "news_title_en": "Taiwan's October exports hit a record, jumping nearly 60% on AI demand",
+   "id": "2026-11-13-11"
   }
  ]
 }
