@@ -1,185 +1,185 @@
 {
- "date": "2026-11-14",
+ "date": "2026-11-15",
  "questions": [
   {
    "type": "vocab",
    "question": "In the summary, what does the word \"rebound\" mean?",
    "options": [
-    "to recover after a decline",
-    "to fall further",
-    "to stay the same",
-    "to increase slowly"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"rebound\" means the index recovered and went up after dropping earlier.",
-   "explain_zh": "在此文中「rebound」指的是指數在下跌後回升。",
-   "news_title_en": "Taiwan stocks rebound sharply, TAIEX reclaims 44,000",
-   "id": "2026-11-14-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "By how many points did the TAIEX close above 44,000?",
-   "options": [
-    "1,545 points",
-    "44,000 points",
-    "44,257 points",
-    "3.62%"
-   ],
-   "answer": 0,
-   "explain_en": "The index surged 1,545 points to close at 44,257, which is above 44,000 by that amount.",
-   "explain_zh": "指數上漲了1,545點，收於44,257點，超過44,000點的幅度即為1,545點。",
-   "news_title_en": "Taiwan stocks rebound sharply, TAIEX reclaims 44,000",
-   "id": "2026-11-14-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"surge\" mean?",
-   "options": [
-    "a rapid increase",
-    "a small change",
-    "a steady decline",
-    "a sudden decrease"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"surge\" refers to a rapid increase in revenue caused by AI demand.",
-   "explain_zh": "此處的「surge」指的是因 AI 需求而導致的營收快速上升。",
-   "news_title_en": "TSMC posts record October revenue on AI demand",
-   "id": "2026-11-14-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is TSMC's fourth‑quarter revenue guidance range in US dollars?",
-   "options": [
-    "$50.0–52.0 billion",
-    "$55.0–57.0 billion",
-    "$45.0–47.0 billion",
-    "$52.3–54.3 billion"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the guidance is US$52.3–54.3 billion for the fourth quarter.",
-   "explain_zh": "摘要中提到第四季的營收指引為 52.3 至 54.3 億美元。",
-   "news_title_en": "TSMC posts record October revenue on AI demand",
-   "id": "2026-11-14-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"buoyant\" mean?",
-   "options": [
-    "sad and gloomy",
-    "rising and lively",
-    "cold and distant",
-    "slow and steady"
+    "A new product launch",
+    "A rise after a decline",
+    "A type of financial report",
+    "A government regulation"
    ],
    "answer": 1,
-   "explain_en": "Here \"buoyant\" describes equities that are rising and lively, helping profits grow.",
-   "explain_zh": "「buoyant」在文中指的是股市上漲、活躍，對獲利有幫助。",
-   "news_title_en": "Financial sector profits hit record on market boom",
-   "id": "2026-11-14-04"
+   "explain_en": "Here \"rebound\" describes the market going up again after falling earlier.",
+   "explain_zh": "在文中「rebound」指的是股市在先前下跌後再次上升。",
+   "news_title_en": "Taiwan stocks rally 583 points as ASIC names lead Friday rebound",
+   "id": "2026-11-15-00"
   },
   {
    "type": "comprehension",
-   "question": "How much pre‑tax profit did Taiwan's financial sectors earn in the first eight months?",
+   "question": "By how many points did the TAIEX close higher on Friday, Nov 13?",
    "options": [
-    "NT$2.00 trillion",
-    "NT$1.17 trillion",
-    "NT$0.93 trillion",
-    "NT$0.50 trillion"
+    "1.35 points",
+    "9,163 points",
+    "583.25 points",
+    "2,350 points"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the TAIEX closed up 583.25 points on that day.",
+   "explain_zh": "摘要中說明台股指數在 11 月 13 日收盤上漲了 583.25 點。",
+   "news_title_en": "Taiwan stocks rally 583 points as ASIC names lead Friday rebound",
+   "id": "2026-11-15-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"high double-digit sequential growth\" mean?",
+   "options": [
+    "Growth of less than 10% compared with the previous period",
+    "Growth of about 10% to 99% compared with the previous period",
+    "No growth at all",
+    "Growth of exactly 100% compared with the previous period"
    ],
    "answer": 1,
-   "explain_en": "The summary states the combined pre‑tax profit was NT$1.17 trillion.",
-   "explain_zh": "摘要中說金融業在前八個月的稅前盈餘為新台幣1.17兆元。",
-   "news_title_en": "Financial sector profits hit record on market boom",
-   "id": "2026-11-14-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"hub\" mean?",
-   "options": [
-    "A legal document",
-    "A type of financial instrument",
-    "A central place where many related activities happen",
-    "A small island"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"hub\" refers to a central location that coordinates or attracts many asset‑management activities.",
-   "explain_zh": "此處的「hub」指的是一個聚集、協調許多資產管理活動的中心位置。",
-   "news_title_en": "FSC pushes Asian asset-management hub as high-net-worth banking expands",
-   "id": "2026-11-14-06"
+   "explain_en": "\"High double-digit\" means a percentage between 10% and 99%, and \"sequential\" means compared with the prior quarter.",
+   "explain_zh": "「high double-digit」指的是 10% 到 99% 之間的成長，「sequential」表示與前一季比較。",
+   "news_title_en": "Foxconn posts record third-quarter profit on AI server boom",
+   "id": "2026-11-15-02"
   },
   {
    "type": "comprehension",
-   "question": "How many banks have been approved for high‑asset‑client business?",
+   "question": "What was Foxconn's earnings per share (EPS) for the third quarter?",
    "options": [
-    "zero",
-    "23,206",
-    "21",
-    "dozens"
+    "NT$3.02 trillion",
+    "NT$4.15",
+    "NT$5.51",
+    "NT$4.27"
    ],
    "answer": 2,
-   "explain_en": "The summary states that twenty‑one banks have been approved for that business.",
-   "explain_zh": "摘要中說明有二十一家銀行獲准從事高資產客戶業務。",
-   "news_title_en": "FSC pushes Asian asset-management hub as high-net-worth banking expands",
-   "id": "2026-11-14-07"
+   "explain_en": "The summary states that Foxconn reported a third‑quarter EPS of NT$5.51.",
+   "explain_zh": "摘要中說明富士康第三季每股盈餘為 NT$5.51。",
+   "news_title_en": "Foxconn posts record third-quarter profit on AI server boom",
+   "id": "2026-11-15-03"
   },
   {
    "type": "vocab",
-   "question": "What does the word \"easing\" mean as used in the text?",
+   "question": "In the summary, what does the word \"sweep\" mean?",
    "options": [
-    "Removing something completely",
-    "Increasing the difficulty of something",
-    "Making something less strict or burdensome",
-    "Delaying the implementation"
+    "to gather data",
+    "to win all the seats in an election",
+    "to clean a floor",
+    "to move quickly across a surface"
    ],
-   "answer": 2,
-   "explain_en": "Here \"easing\" means reducing the tax burden, making it less strict.",
-   "explain_zh": "此處的「easing」指減輕稅負，使規定變得不那麼嚴格。",
-   "news_title_en": "Property-transaction tax rules eased for share deals",
-   "id": "2026-11-14-08"
+   "answer": 1,
+   "explain_en": "Here \"sweep\" refers to winning all the seats, as the Democrats won the midterm elections.",
+   "explain_zh": "這裡的「sweep」指的是在選舉中全勝，民主黨贏得了所有席次。",
+   "news_title_en": "US Democratic midterm sweep stokes AI data-center regulation fears (2026-11-13)",
+   "id": "2026-11-15-04"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, the new tax rule can apply to cases that have not yet been what?",
+   "question": "According to the summary, what could tighter permitting and regulation affect?",
    "options": [
-    "Fully paid",
-    "Internationally approved",
-    "Finally assessed",
-    "Publicly announced"
+    "The speed of building AI data centers",
+    "The popularity of social media",
+    "The number of elections",
+    "The price of oil"
    ],
-   "answer": 2,
-   "explain_en": "The text says the change can apply to cases not yet finally assessed.",
-   "explain_zh": "文中說此變更可適用於尚未最終評估的案件。",
-   "news_title_en": "Property-transaction tax rules eased for share deals",
-   "id": "2026-11-14-09"
+   "answer": 0,
+   "explain_en": "The text says tighter permitting and regulation could slow the AI infrastructure build‑out, i.e., the speed of building data centers.",
+   "explain_zh": "文中指出更嚴格的許可和規範可能會減緩 AI 基礎建設的建設速度，也就是資料中心的建設速度。",
+   "news_title_en": "US Democratic midterm sweep stokes AI data-center regulation fears (2026-11-13)",
+   "id": "2026-11-15-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"forecast\" mean?",
+   "question": "In the summary, what does the phrase \"reprice policy\" mean?",
    "options": [
-    "A type of computer program",
-    "A report of past financial results",
-    "A legal document for companies",
-    "A prediction about future economic numbers"
+    "Cancel previous policy decisions",
+    "Adjust expectations about future policy actions",
+    "Increase the price of policy documents",
+    "Set a new fixed price for all goods"
+   ],
+   "answer": 1,
+   "explain_en": "It means the market is changing its expectations about future policy actions, such as interest rates.",
+   "explain_zh": "意思是市場正在調整對未來政策（例如利率）的預期。",
+   "news_title_en": "US producer prices jump 6.5%, fastest since 2022 (2026-11-13)",
+   "id": "2026-11-15-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, how much did US producer prices increase year‑on‑year in October?",
+   "options": [
+    "0.3%",
+    "0.4%",
+    "6.5%",
+    "5.0%"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that October US producer prices rose 6.5% year on year.",
+   "explain_zh": "摘要中說十月美國生產者物價指數年增率為6.5%。",
+   "news_title_en": "US producer prices jump 6.5%, fastest since 2022 (2026-11-13)",
+   "id": "2026-11-15-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word “ripple” mean?",
+   "options": [
+    "to spread gradually to other areas",
+    "to make a loud noise",
+    "to increase sharply",
+    "to disappear completely"
+   ],
+   "answer": 0,
+   "explain_en": "Here “ripple” describes how the AI‑driven tech weakness spreads slowly to other markets.",
+   "explain_zh": "這裡的「ripple」指的是 AI 相關科技弱勢逐漸傳到其他市場。",
+   "news_title_en": "Asian markets mostly fall Friday as tech leads losses (2026-11-13)",
+   "id": "2026-11-15-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "Which Asian stock index rose on the day described in the summary?",
+   "options": [
+    "South Korea's Kospi",
+    "Hong Kong's Hang Seng",
+    "China's CSI 300",
+    "Japan's Nikkei 225"
    ],
    "answer": 3,
-   "explain_en": "Here \"forecast\" refers to a prediction of future GDP growth, not a past report or legal paper.",
-   "explain_zh": "「forecast」在文中指的是對未來 GDP 成長的預測，而不是過去的報告或法律文件。",
-   "news_title_en": "Think tank lifts Taiwan's 2026 growth forecast above 12%",
-   "id": "2026-11-14-10"
+   "explain_en": "The summary states that Japan's Nikkei 225 increased 0.53%, while the other indices fell.",
+   "explain_zh": "摘要說日本的日經225上漲 0.53%，其他指數皆下跌。",
+   "news_title_en": "Asian markets mostly fall Friday as tech leads losses (2026-11-13)",
+   "id": "2026-11-15-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"slipped\" mean?",
+   "options": [
+    "fell slightly",
+    "rose sharply",
+    "stayed the same",
+    "went up slightly"
+   ],
+   "answer": 0,
+   "explain_en": "\"Slipped\" means the index fell a little, as shown by the 0.4% drop.",
+   "explain_zh": "「slipped」在文中指指數稍微下跌，例子是下跌0.4%。",
+   "news_title_en": "US stocks close mixed Friday, hold weekly gains (2026-11-13)",
+   "id": "2026-11-15-10"
   },
   {
    "type": "comprehension",
-   "question": "What is the Taiwan Institute of Economic Research's projected CPI for 2027?",
+   "question": "Which index had the smallest change on Friday?",
    "options": [
-    "10.00%",
-    "6.45%",
-    "12.34%",
-    "1.94%"
+    "Dow Jones Industrial Average",
+    "All had the same change",
+    "S&P 500",
+    "Nasdaq Composite"
    ],
-   "answer": 3,
-   "explain_en": "The summary states that the 2027 Consumer Price Index (CPI) is seen at a mild 1.94%.",
-   "explain_zh": "摘要中提到 2027 年的消費者物價指數（CPI）預估為 1.94%。",
-   "news_title_en": "Think tank lifts Taiwan's 2026 growth forecast above 12%",
-   "id": "2026-11-14-11"
+   "answer": 0,
+   "explain_en": "The Dow only moved up about 0.1%, which is less than the S&P's 0.4% drop and Nasdaq's 0.9% fall.",
+   "explain_zh": "道瓊指數只上升約0.1%，變化幅度最小，低於標普500的0.4%跌幅和納斯達克的0.9%跌幅。",
+   "news_title_en": "US stocks close mixed Friday, hold weekly gains (2026-11-13)",
+   "id": "2026-11-15-11"
   }
  ]
 }
