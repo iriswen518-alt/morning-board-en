@@ -1,185 +1,185 @@
 {
- "date": "2026-11-15",
+ "date": "2026-11-16",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"rebound\" mean?",
+   "question": "In the summary, what does the word \"turnover\" mean?",
    "options": [
-    "A new product launch",
-    "A rise after a decline",
-    "A type of financial report",
-    "A government regulation"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"rebound\" describes the market going up again after falling earlier.",
-   "explain_zh": "在文中「rebound」指的是股市在先前下跌後再次上升。",
-   "news_title_en": "Taiwan stocks rally 583 points as ASIC names lead Friday rebound",
-   "id": "2026-11-15-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "By how many points did the TAIEX close higher on Friday, Nov 13?",
-   "options": [
-    "1.35 points",
-    "9,163 points",
-    "583.25 points",
-    "2,350 points"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states the TAIEX closed up 583.25 points on that day.",
-   "explain_zh": "摘要中說明台股指數在 11 月 13 日收盤上漲了 583.25 點。",
-   "news_title_en": "Taiwan stocks rally 583 points as ASIC names lead Friday rebound",
-   "id": "2026-11-15-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"high double-digit sequential growth\" mean?",
-   "options": [
-    "Growth of less than 10% compared with the previous period",
-    "Growth of about 10% to 99% compared with the previous period",
-    "No growth at all",
-    "Growth of exactly 100% compared with the previous period"
-   ],
-   "answer": 1,
-   "explain_en": "\"High double-digit\" means a percentage between 10% and 99%, and \"sequential\" means compared with the prior quarter.",
-   "explain_zh": "「high double-digit」指的是 10% 到 99% 之間的成長，「sequential」表示與前一季比較。",
-   "news_title_en": "Foxconn posts record third-quarter profit on AI server boom",
-   "id": "2026-11-15-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was Foxconn's earnings per share (EPS) for the third quarter?",
-   "options": [
-    "NT$3.02 trillion",
-    "NT$4.15",
-    "NT$5.51",
-    "NT$4.27"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that Foxconn reported a third‑quarter EPS of NT$5.51.",
-   "explain_zh": "摘要中說明富士康第三季每股盈餘為 NT$5.51。",
-   "news_title_en": "Foxconn posts record third-quarter profit on AI server boom",
-   "id": "2026-11-15-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"sweep\" mean?",
-   "options": [
-    "to gather data",
-    "to win all the seats in an election",
-    "to clean a floor",
-    "to move quickly across a surface"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"sweep\" refers to winning all the seats, as the Democrats won the midterm elections.",
-   "explain_zh": "這裡的「sweep」指的是在選舉中全勝，民主黨贏得了所有席次。",
-   "news_title_en": "US Democratic midterm sweep stokes AI data-center regulation fears (2026-11-13)",
-   "id": "2026-11-15-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what could tighter permitting and regulation affect?",
-   "options": [
-    "The speed of building AI data centers",
-    "The popularity of social media",
-    "The number of elections",
-    "The price of oil"
-   ],
-   "answer": 0,
-   "explain_en": "The text says tighter permitting and regulation could slow the AI infrastructure build‑out, i.e., the speed of building data centers.",
-   "explain_zh": "文中指出更嚴格的許可和規範可能會減緩 AI 基礎建設的建設速度，也就是資料中心的建設速度。",
-   "news_title_en": "US Democratic midterm sweep stokes AI data-center regulation fears (2026-11-13)",
-   "id": "2026-11-15-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"reprice policy\" mean?",
-   "options": [
-    "Cancel previous policy decisions",
-    "Adjust expectations about future policy actions",
-    "Increase the price of policy documents",
-    "Set a new fixed price for all goods"
-   ],
-   "answer": 1,
-   "explain_en": "It means the market is changing its expectations about future policy actions, such as interest rates.",
-   "explain_zh": "意思是市場正在調整對未來政策（例如利率）的預期。",
-   "news_title_en": "US producer prices jump 6.5%, fastest since 2022 (2026-11-13)",
-   "id": "2026-11-15-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, how much did US producer prices increase year‑on‑year in October?",
-   "options": [
-    "0.3%",
-    "0.4%",
-    "6.5%",
-    "5.0%"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that October US producer prices rose 6.5% year on year.",
-   "explain_zh": "摘要中說十月美國生產者物價指數年增率為6.5%。",
-   "news_title_en": "US producer prices jump 6.5%, fastest since 2022 (2026-11-13)",
-   "id": "2026-11-15-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word “ripple” mean?",
-   "options": [
-    "to spread gradually to other areas",
-    "to make a loud noise",
-    "to increase sharply",
-    "to disappear completely"
-   ],
-   "answer": 0,
-   "explain_en": "Here “ripple” describes how the AI‑driven tech weakness spreads slowly to other markets.",
-   "explain_zh": "這裡的「ripple」指的是 AI 相關科技弱勢逐漸傳到其他市場。",
-   "news_title_en": "Asian markets mostly fall Friday as tech leads losses (2026-11-13)",
-   "id": "2026-11-15-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "Which Asian stock index rose on the day described in the summary?",
-   "options": [
-    "South Korea's Kospi",
-    "Hong Kong's Hang Seng",
-    "China's CSI 300",
-    "Japan's Nikkei 225"
+    "The number of shares a company issued",
+    "The number of new companies listed on the exchange",
+    "The profit earned by a single company",
+    "The total amount of money traded in the market that day"
    ],
    "answer": 3,
-   "explain_en": "The summary states that Japan's Nikkei 225 increased 0.53%, while the other indices fell.",
-   "explain_zh": "摘要說日本的日經225上漲 0.53%，其他指數皆下跌。",
-   "news_title_en": "Asian markets mostly fall Friday as tech leads losses (2026-11-13)",
-   "id": "2026-11-15-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"slipped\" mean?",
-   "options": [
-    "fell slightly",
-    "rose sharply",
-    "stayed the same",
-    "went up slightly"
-   ],
-   "answer": 0,
-   "explain_en": "\"Slipped\" means the index fell a little, as shown by the 0.4% drop.",
-   "explain_zh": "「slipped」在文中指指數稍微下跌，例子是下跌0.4%。",
-   "news_title_en": "US stocks close mixed Friday, hold weekly gains (2026-11-13)",
-   "id": "2026-11-15-10"
+   "explain_en": "Turnover refers to the total value of all trades that occurred in the market that day.",
+   "explain_zh": "「turnover」指的是當天市場所有成交的總金額。",
+   "news_title_en": "Taiwan stocks rally 583 points as ASIC names lead Friday rebound",
+   "id": "2026-11-16-00"
   },
   {
    "type": "comprehension",
-   "question": "Which index had the smallest change on Friday?",
+   "question": "Which sector's stocks led the advance on Friday, according to the summary?",
    "options": [
-    "Dow Jones Industrial Average",
-    "All had the same change",
-    "S&P 500",
-    "Nasdaq Composite"
+    "ASIC-related technology",
+    "Automotive",
+    "Retail",
+    "Energy"
    ],
    "answer": 0,
-   "explain_en": "The Dow only moved up about 0.1%, which is less than the S&P's 0.4% drop and Nasdaq's 0.9% fall.",
-   "explain_zh": "道瓊指數只上升約0.1%，變化幅度最小，低於標普500的0.4%跌幅和納斯達克的0.9%跌幅。",
-   "news_title_en": "US stocks close mixed Friday, hold weekly gains (2026-11-13)",
-   "id": "2026-11-15-11"
+   "explain_en": "The summary says MediaTek and other ASIC-related names led the advance.",
+   "explain_zh": "摘要指出，MediaTek 以及其他 ASIC 相關的股票帶動了上漲。",
+   "news_title_en": "Taiwan stocks rally 583 points as ASIC names lead Friday rebound",
+   "id": "2026-11-16-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"boom\" mean?",
+   "options": [
+    "a financial loss",
+    "a type of computer hardware",
+    "a sudden increase in demand",
+    "a new product line"
+   ],
+   "answer": 2,
+   "explain_en": "\"Boom\" refers to a rapid rise or surge, here describing the strong growth in AI server sales.",
+   "explain_zh": "「boom」指的是快速的增長或激增，這裡說的是 AI 伺服器需求的強勁上升。",
+   "news_title_en": "Foxconn posts record third-quarter profit on AI server boom",
+   "id": "2026-11-16-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was Foxconn's third‑quarter earnings per share (EPS) in New Taiwan dollars?",
+   "options": [
+    "NT$4.27",
+    "NT$5.51",
+    "NT$3.02 trillion",
+    "NT$4.15"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the EPS was NT$5.51 for the third quarter.",
+   "explain_zh": "摘要中說明第三季每股盈餘為新台幣 5.51 元。",
+   "news_title_en": "Foxconn posts record third-quarter profit on AI server boom",
+   "id": "2026-11-16-03"
+  },
+  {
+   "type": "vocab",
+   "question": "What does the word \"cushions\" mean as used in the text?",
+   "options": [
+    "Makes something softer",
+    "Adds extra weight",
+    "Reduces the impact of something",
+    "Increases the speed"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"cushions\" means it reduces the impact of currency swings on insurers.",
+   "explain_zh": "此處的「cushions」指的是減輕匯率波動對保險公司的衝擊。",
+   "news_title_en": "Life insurers' FX reserves climb to a fresh record as profit pressure persists",
+   "id": "2026-11-16-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what happened to the cumulative pre‑tax profit of Taiwan's life insurers year on year?",
+   "options": [
+    "It doubled",
+    "It fell sharply",
+    "It stayed the same",
+    "It increased slightly"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states that cumulative pre‑tax profit fell sharply year on year.",
+   "explain_zh": "摘要中說明累計稅前盈餘較去年大幅下降。",
+   "news_title_en": "Life insurers' FX reserves climb to a fresh record as profit pressure persists",
+   "id": "2026-11-16-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"surged\" mean?",
+   "options": [
+    "was measured accurately",
+    "remained unchanged",
+    "increased quickly",
+    "decreased slightly"
+   ],
+   "answer": 2,
+   "explain_en": "\"Surged\" means to rise or increase rapidly, as the AUM did in the article.",
+   "explain_zh": "「surged」表示快速上升，正如文中資產管理規模的快速成長。",
+   "news_title_en": "High-asset wealth management AUM tops NT$2 trillion, up about 50%",
+   "id": "2026-11-16-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "By approximately what percentage did the AUM increase year‑on‑year?",
+   "options": [
+    "10%",
+    "50%",
+    "25%",
+    "75%"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the AUM grew about 50% compared with the previous year.",
+   "explain_zh": "摘要中提到資產規模較去年增長約 50%。",
+   "news_title_en": "High-asset wealth management AUM tops NT$2 trillion, up about 50%",
+   "id": "2026-11-16-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"scrapping\" mean?",
+   "options": [
+    "Keeping something the same",
+    "Increasing the amount of something",
+    "Removing or getting rid of something",
+    "Delaying the implementation of something"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"scrapping\" means that the NT$300,000 threshold is being removed.",
+   "explain_zh": "在此句中「scrapping」指的是把 NT$300,000 的門檻取消。",
+   "news_title_en": "Estate-and-gift tax amendments clear the legislature",
+   "id": "2026-11-16-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, who will bear the levy for gifts made to specific relatives within two years before death?",
+   "options": [
+    "The recipients of the gifts",
+    "The government",
+    "The donor’s estate",
+    "The Ministry of Finance"
+   ],
+   "answer": 0,
+   "explain_en": "The summary says the recipients will bear the levy proportionally.",
+   "explain_zh": "摘要中說明，受贈人會按比例負擔稅款。",
+   "news_title_en": "Estate-and-gift tax amendments clear the legislature",
+   "id": "2026-11-16-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"accelerating\" mean?",
+   "options": [
+    "Staying the same",
+    "Stopping completely",
+    "Increasing speed",
+    "Getting slower"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"accelerating\" means the growth rate is increasing faster than before.",
+   "explain_zh": "這裡的「accelerating」指的是成長速度在加快。",
+   "news_title_en": "Taiwan's Q3 growth estimate surges to 14.36% on AI exports",
+   "id": "2026-11-16-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the year‑on‑year increase in exports according to the summary?",
+   "options": [
+    "44.6%",
+    "12.93%",
+    "14.22%",
+    "14.36%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that exports jumped 44.6% year on year.",
+   "explain_zh": "摘要中說出口較去年同期增長了44.6%。",
+   "news_title_en": "Taiwan's Q3 growth estimate surges to 14.36% on AI exports",
+   "id": "2026-11-16-11"
   }
  ]
 }
