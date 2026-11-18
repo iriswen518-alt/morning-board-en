@@ -1,185 +1,80 @@
 {
- "date": "2026-11-16",
+ "date": "2026-11-18",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"turnover\" mean?",
+   "question": "In the summary, what does the word \"jitters\" mean?",
    "options": [
-    "The number of shares a company issued",
-    "The number of new companies listed on the exchange",
-    "The profit earned by a single company",
-    "The total amount of money traded in the market that day"
+    "A sudden increase in price",
+    "Nervousness or anxiety",
+    "A type of computer chip",
+    "Excitement about a new technology"
+   ],
+   "answer": 1,
+   "explain_en": "Here \"jitters\" refers to nervousness or anxiety among investors about AI valuations.",
+   "explain_zh": "此處的 \"jitters\" 指的是投資人對 AI 估值感到的緊張或不安。",
+   "news_title_en": "TAIEX tumbles 2.31% as AI jitters and Nvidia-earnings nerves weigh",
+   "id": "2026-11-18-00"
+  },
+  {
+   "type": "comprehension",
+   "question": "By how many points did the TAIEX close on November 17?",
+   "options": [
+    "2,170 points",
+    "40,092.11 points",
+    "8.2 points",
+    "947.97 points"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the index closed at 40,092.11 points after falling 947.97 points.",
+   "explain_zh": "摘要說明指數在下跌 947.97 點後收於 40,092.11 點。",
+   "news_title_en": "TAIEX tumbles 2.31% as AI jitters and Nvidia-earnings nerves weigh",
+   "id": "2026-11-18-01"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much market value did Taiwan's chip bellwether lose over two sessions?",
+   "options": [
+    "US$170 million",
+    "US$142 million",
+    "US$2.17 billion",
+    "US$142 billion"
    ],
    "answer": 3,
-   "explain_en": "Turnover refers to the total value of all trades that occurred in the market that day.",
-   "explain_zh": "「turnover」指的是當天市場所有成交的總金額。",
-   "news_title_en": "Taiwan stocks rally 583 points as ASIC names lead Friday rebound",
-   "id": "2026-11-16-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "Which sector's stocks led the advance on Friday, according to the summary?",
-   "options": [
-    "ASIC-related technology",
-    "Automotive",
-    "Retail",
-    "Energy"
-   ],
-   "answer": 0,
-   "explain_en": "The summary says MediaTek and other ASIC-related names led the advance.",
-   "explain_zh": "摘要指出，MediaTek 以及其他 ASIC 相關的股票帶動了上漲。",
-   "news_title_en": "Taiwan stocks rally 583 points as ASIC names lead Friday rebound",
-   "id": "2026-11-16-01"
+   "explain_en": "The summary states the company lost roughly US$142 billion in market capitalization over two sessions.",
+   "explain_zh": "摘要中說明該公司在兩個交易日內損失約 142 億美元的市值。",
+   "news_title_en": "TSMC sheds about US$142bn in value in two days ahead of Nvidia report",
+   "id": "2026-11-18-02"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"boom\" mean?",
+   "question": "In the summary, what does the word \"capping\" mean?",
    "options": [
-    "a financial loss",
-    "a type of computer hardware",
-    "a sudden increase in demand",
-    "a new product line"
-   ],
-   "answer": 2,
-   "explain_en": "\"Boom\" refers to a rapid rise or surge, here describing the strong growth in AI server sales.",
-   "explain_zh": "「boom」指的是快速的增長或激增，這裡說的是 AI 伺服器需求的強勁上升。",
-   "news_title_en": "Foxconn posts record third-quarter profit on AI server boom",
-   "id": "2026-11-16-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was Foxconn's third‑quarter earnings per share (EPS) in New Taiwan dollars?",
-   "options": [
-    "NT$4.27",
-    "NT$5.51",
-    "NT$3.02 trillion",
-    "NT$4.15"
+    "Increasing the amount",
+    "Setting a maximum limit",
+    "Removing a limit",
+    "Eliminating the rule"
    ],
    "answer": 1,
-   "explain_en": "The summary states the EPS was NT$5.51 for the third quarter.",
-   "explain_zh": "摘要中說明第三季每股盈餘為新台幣 5.51 元。",
-   "news_title_en": "Foxconn posts record third-quarter profit on AI server boom",
-   "id": "2026-11-16-03"
+   "explain_en": "\"Capping\" means setting a maximum limit, as the authorities limited intraday borrowed‑share sell orders.",
+   "explain_zh": "「capping」指的是設定上限，因為當局限制了當日借入股票的賣出量。",
+   "news_title_en": "Regulators cut short-selling to steady volatile market",
+   "id": "2026-11-18-03"
   },
   {
    "type": "vocab",
-   "question": "What does the word \"cushions\" mean as used in the text?",
+   "question": "In the summary, what does the word \"parred\" mean?",
    "options": [
-    "Makes something softer",
-    "Adds extra weight",
-    "Reduces the impact of something",
-    "Increases the speed"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"cushions\" means it reduces the impact of currency swings on insurers.",
-   "explain_zh": "此處的「cushions」指的是減輕匯率波動對保險公司的衝擊。",
-   "news_title_en": "Life insurers' FX reserves climb to a fresh record as profit pressure persists",
-   "id": "2026-11-16-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what happened to the cumulative pre‑tax profit of Taiwan's life insurers year on year?",
-   "options": [
-    "It doubled",
-    "It fell sharply",
-    "It stayed the same",
-    "It increased slightly"
+    "Predicted accurately",
+    "Reduced or lessened",
+    "Increased sharply",
+    "Ignored completely"
    ],
    "answer": 1,
-   "explain_en": "The summary states that cumulative pre‑tax profit fell sharply year on year.",
-   "explain_zh": "摘要中說明累計稅前盈餘較去年大幅下降。",
-   "news_title_en": "Life insurers' FX reserves climb to a fresh record as profit pressure persists",
-   "id": "2026-11-16-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"surged\" mean?",
-   "options": [
-    "was measured accurately",
-    "remained unchanged",
-    "increased quickly",
-    "decreased slightly"
-   ],
-   "answer": 2,
-   "explain_en": "\"Surged\" means to rise or increase rapidly, as the AUM did in the article.",
-   "explain_zh": "「surged」表示快速上升，正如文中資產管理規模的快速成長。",
-   "news_title_en": "High-asset wealth management AUM tops NT$2 trillion, up about 50%",
-   "id": "2026-11-16-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "By approximately what percentage did the AUM increase year‑on‑year?",
-   "options": [
-    "10%",
-    "50%",
-    "25%",
-    "75%"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the AUM grew about 50% compared with the previous year.",
-   "explain_zh": "摘要中提到資產規模較去年增長約 50%。",
-   "news_title_en": "High-asset wealth management AUM tops NT$2 trillion, up about 50%",
-   "id": "2026-11-16-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"scrapping\" mean?",
-   "options": [
-    "Keeping something the same",
-    "Increasing the amount of something",
-    "Removing or getting rid of something",
-    "Delaying the implementation of something"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"scrapping\" means that the NT$300,000 threshold is being removed.",
-   "explain_zh": "在此句中「scrapping」指的是把 NT$300,000 的門檻取消。",
-   "news_title_en": "Estate-and-gift tax amendments clear the legislature",
-   "id": "2026-11-16-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, who will bear the levy for gifts made to specific relatives within two years before death?",
-   "options": [
-    "The recipients of the gifts",
-    "The government",
-    "The donor’s estate",
-    "The Ministry of Finance"
-   ],
-   "answer": 0,
-   "explain_en": "The summary says the recipients will bear the levy proportionally.",
-   "explain_zh": "摘要中說明，受贈人會按比例負擔稅款。",
-   "news_title_en": "Estate-and-gift tax amendments clear the legislature",
-   "id": "2026-11-16-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"accelerating\" mean?",
-   "options": [
-    "Staying the same",
-    "Stopping completely",
-    "Increasing speed",
-    "Getting slower"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"accelerating\" means the growth rate is increasing faster than before.",
-   "explain_zh": "這裡的「accelerating」指的是成長速度在加快。",
-   "news_title_en": "Taiwan's Q3 growth estimate surges to 14.36% on AI exports",
-   "id": "2026-11-16-10"
-  },
-  {
-   "type": "comprehension",
-   "question": "What was the year‑on‑year increase in exports according to the summary?",
-   "options": [
-    "44.6%",
-    "12.93%",
-    "14.22%",
-    "14.36%"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that exports jumped 44.6% year on year.",
-   "explain_zh": "摘要中說出口較去年同期增長了44.6%。",
-   "news_title_en": "Taiwan's Q3 growth estimate surges to 14.36% on AI exports",
-   "id": "2026-11-16-11"
+   "explain_en": "Here \"parred\" means investors reduced their AI exposure, i.e., they cut back on it.",
+   "explain_zh": "這裡的「parred」指的是投資人減少 AI 的持倉，也就是降低了敞口。",
+   "news_title_en": "Wall Street extends slide; S&P 500 posts lowest close since July",
+   "id": "2026-11-18-04"
   }
  ]
 }
