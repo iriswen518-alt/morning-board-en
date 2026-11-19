@@ -1,80 +1,185 @@
 {
- "date": "2026-11-18",
+ "date": "2026-11-19",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"jitters\" mean?",
+   "question": "In the summary, what does the word \"squeeze\" mean?",
    "options": [
-    "A sudden increase in price",
-    "Nervousness or anxiety",
-    "A type of computer chip",
-    "Excitement about a new technology"
+    "A sudden drop in price",
+    "A strong upward movement caused by many traders buying",
+    "A situation where traders are forced to buy because they cannot sell further",
+    "A reduction in trading volume"
    ],
-   "answer": 1,
-   "explain_en": "Here \"jitters\" refers to nervousness or anxiety among investors about AI valuations.",
-   "explain_zh": "此處的 \"jitters\" 指的是投資人對 AI 估值感到的緊張或不安。",
-   "news_title_en": "TAIEX tumbles 2.31% as AI jitters and Nvidia-earnings nerves weigh",
-   "id": "2026-11-18-00"
+   "answer": 2,
+   "explain_en": "Here \"squeeze\" refers to a short-covering squeeze, where traders who were short must buy to close their positions, pushing the price up.",
+   "explain_zh": "這裡的「squeeze」指的是空頭被迫回補的情況，因為無法再賣出而必須買進，導致價格上升。",
+   "news_title_en": "Taiex edges up as futures settlement sparks late short-covering rally",
+   "id": "2026-11-19-00"
   },
   {
    "type": "comprehension",
-   "question": "By how many points did the TAIEX close on November 17?",
+   "question": "What was the closing level of the Taiex index?",
    "options": [
-    "2,170 points",
-    "40,092.11 points",
-    "8.2 points",
-    "947.97 points"
+    "40,291.03",
+    "40,194.91",
+    "40,092.11",
+    "40,500.00"
    ],
    "answer": 1,
-   "explain_en": "The summary states the index closed at 40,092.11 points after falling 947.97 points.",
-   "explain_zh": "摘要說明指數在下跌 947.97 點後收於 40,092.11 點。",
-   "news_title_en": "TAIEX tumbles 2.31% as AI jitters and Nvidia-earnings nerves weigh",
-   "id": "2026-11-18-01"
+   "explain_en": "The summary states the Taiex closed at 40,194.91.",
+   "explain_zh": "摘要中說台股指數收盤在 40,194.91 點。",
+   "news_title_en": "Taiex edges up as futures settlement sparks late short-covering rally",
+   "id": "2026-11-19-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"excellence\" mean?",
+   "options": [
+    "The name of a supplier",
+    "A type of financial report",
+    "Very high quality or outstanding performance",
+    "A new technology for chips"
+   ],
+   "answer": 2,
+   "explain_en": "The summary says TSMC named suppliers for \"excellence awards,\" meaning they were recognized for very high quality work.",
+   "explain_zh": "文中說 TSMC 為供應商頒發「卓越獎」，表示他們的表現非常優秀。",
+   "news_title_en": "TSMC honors record 35 suppliers at \"grand alliance\" forum",
+   "id": "2026-11-19-02"
   },
   {
    "type": "comprehension",
-   "question": "How much market value did Taiwan's chip bellwether lose over two sessions?",
+   "question": "How many suppliers received awards at the 2026 Supply Chain Management Forum?",
    "options": [
-    "US$170 million",
-    "US$142 million",
-    "US$2.17 billion",
-    "US$142 billion"
+    "45",
+    "15",
+    "35",
+    "25"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states that a record 35 suppliers were named for excellence awards.",
+   "explain_zh": "摘要中提到有創紀錄的 35 家供應商獲得卓越獎。",
+   "news_title_en": "TSMC honors record 35 suppliers at \"grand alliance\" forum",
+   "id": "2026-11-19-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the news summary, what does the phrase \"systemically important\" mean?",
+   "options": [
+    "Very large and essential to the whole financial system",
+    "A bank that only serves local customers",
+    "A bank that has the highest profit margin",
+    "A bank that focuses on technology services"
+   ],
+   "answer": 0,
+   "explain_en": "\"Systemically important\" refers to banks whose failure would affect the entire financial system, so they are considered very large and essential.",
+   "explain_zh": "「systemically important」指的是若該銀行倒閉會影響整個金融體系，屬於非常大且關鍵的銀行。",
+   "news_title_en": "FSC keeps six \"too big to fail\" banks for a seventh year",
+   "id": "2026-11-19-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many banks were kept on the list of domestic systemically important banks for a seventh straight year?",
+   "options": [
+    "Six",
+    "Four",
+    "Ten",
+    "Eight"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that the same six lenders were kept on the list for a seventh year.",
+   "explain_zh": "摘要中說明，同樣的六家銀行連續第七年被列入清單。",
+   "news_title_en": "FSC keeps six \"too big to fail\" banks for a seventh year",
+   "id": "2026-11-19-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"allocation\" mean?",
+   "options": [
+    "A stock market index",
+    "A legal document",
+    "A type of bank account",
+    "Choosing where to put money"
    ],
    "answer": 3,
-   "explain_en": "The summary states the company lost roughly US$142 billion in market capitalization over two sessions.",
-   "explain_zh": "摘要中說明該公司在兩個交易日內損失約 142 億美元的市值。",
-   "news_title_en": "TSMC sheds about US$142bn in value in two days ahead of Nvidia report",
-   "id": "2026-11-18-02"
+   "explain_en": "Here \"allocation\" means deciding how to distribute or invest money into different assets.",
+   "explain_zh": "在文中「allocation」指的是決定把資金分配到哪些投資標的。",
+   "news_title_en": "CTBC upgrades personal trusts to hold domestic ETFs",
+   "id": "2026-11-19-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "When will CTCT Bank's upgraded personal trust service become effective?",
+   "options": [
+    "October 2026",
+    "December 2026",
+    "October 2025",
+    "January 2027"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states the service is effective from October 2026.",
+   "explain_zh": "摘要中說明此服務將於2026年10月生效。",
+   "news_title_en": "CTBC upgrades personal trusts to hold domestic ETFs",
+   "id": "2026-11-19-07"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"capping\" mean?",
+   "question": "In the summary, what does the word \"exemption\" mean?",
    "options": [
-    "Increasing the amount",
-    "Setting a maximum limit",
-    "Removing a limit",
-    "Eliminating the rule"
+    "A government grant for businesses",
+    "A rule that allows you to pay less tax",
+    "A type of investment account",
+    "A penalty for not paying tax"
    ],
    "answer": 1,
-   "explain_en": "\"Capping\" means setting a maximum limit, as the authorities limited intraday borrowed‑share sell orders.",
-   "explain_zh": "「capping」指的是設定上限，因為當局限制了當日借入股票的賣出量。",
-   "news_title_en": "Regulators cut short-selling to steady volatile market",
-   "id": "2026-11-18-03"
+   "explain_en": "An exemption is a rule that lets a person or amount be excluded from tax, so they pay less.",
+   "explain_zh": "「exemption」指的是免稅規定，讓某人或某金額免繳稅，減少稅負。",
+   "news_title_en": "Taiwan set to raise estate- and gift-tax exemptions",
+   "id": "2026-11-19-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "When will the higher estate‑tax and gift‑tax thresholds start to apply?",
+   "options": [
+    "Immediately after the announcement",
+    "Only for gifts made in 2025",
+    "From 2027 onward",
+    "Starting in 2030"
+   ],
+   "answer": 2,
+   "explain_en": "The summary says the higher thresholds will apply to inheritances and gifts occurring from 2027.",
+   "explain_zh": "摘要指出，較高的免稅額將於 2027 年起適用於遺產與贈與。",
+   "news_title_en": "Taiwan set to raise estate- and gift-tax exemptions",
+   "id": "2026-11-19-09"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"parred\" mean?",
+   "question": "In the summary, what does the phrase \"supply-chain build-out\" mean?",
    "options": [
-    "Predicted accurately",
-    "Reduced or lessened",
-    "Increased sharply",
-    "Ignored completely"
+    "Closing factories permanently",
+    "Reducing the number of suppliers",
+    "Selling products directly to consumers",
+    "Expanding the network of suppliers and manufacturers"
    ],
-   "answer": 1,
-   "explain_en": "Here \"parred\" means investors reduced their AI exposure, i.e., they cut back on it.",
-   "explain_zh": "這裡的「parred」指的是投資人減少 AI 的持倉，也就是降低了敞口。",
-   "news_title_en": "Wall Street extends slide; S&P 500 posts lowest close since July",
-   "id": "2026-11-18-04"
+   "answer": 3,
+   "explain_en": "It refers to expanding or constructing the supply chain needed for AI production.",
+   "explain_zh": "指的是擴大或建設 AI 產業所需的供應鏈網絡。",
+   "news_title_en": "AI boom drives record upgrades to Taiwan's growth forecast",
+   "id": "2026-11-19-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the projected inflation rate (CPI) for this year according to the summary?",
+   "options": [
+    "About 1.5%",
+    "Around 3%",
+    "Near 2.07%",
+    "Exactly 2.5%"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states CPI is projected near 2.07% this year.",
+   "explain_zh": "摘要中說今年的消費者物價指數預計約為 2.07%。",
+   "news_title_en": "AI boom drives record upgrades to Taiwan's growth forecast",
+   "id": "2026-11-19-11"
   }
  ]
 }
