@@ -1,185 +1,185 @@
 {
- "date": "2026-11-19",
+ "date": "2026-11-20",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"squeeze\" mean?",
+   "question": "In the summary, what does the word \"sank\" mean?",
    "options": [
-    "A sudden drop in price",
-    "A strong upward movement caused by many traders buying",
-    "A situation where traders are forced to buy because they cannot sell further",
-    "A reduction in trading volume"
+    "Stayed the same",
+    "Moved sideways",
+    "Fell down",
+    "Went up sharply"
    ],
    "answer": 2,
-   "explain_en": "Here \"squeeze\" refers to a short-covering squeeze, where traders who were short must buy to close their positions, pushing the price up.",
-   "explain_zh": "這裡的「squeeze」指的是空頭被迫回補的情況，因為無法再賣出而必須買進，導致價格上升。",
-   "news_title_en": "Taiex edges up as futures settlement sparks late short-covering rally",
-   "id": "2026-11-19-00"
+   "explain_en": "\"Sank\" means the index fell down in value.",
+   "explain_zh": "「sank」在文中表示指數下跌。",
+   "news_title_en": "Taiex plunges 1,768 points as AI jitters trigger seventh-largest point drop",
+   "id": "2026-11-20-00"
   },
   {
    "type": "comprehension",
-   "question": "What was the closing level of the Taiex index?",
+   "question": "How many points did the Taiex drop at its lowest intraday level?",
    "options": [
-    "40,291.03",
-    "40,194.91",
-    "40,092.11",
-    "40,500.00"
+    "4.4 points",
+    "895.3 billion points",
+    "1,935 points",
+    "1,768 points"
+   ],
+   "answer": 2,
+   "explain_en": "The summary says the index sank as much as 1,935 points intraday.",
+   "explain_zh": "摘要中提到指數盤中最低跌幅為 1,935 點。",
+   "news_title_en": "Taiex plunges 1,768 points as AI jitters trigger seventh-largest point drop",
+   "id": "2026-11-20-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"stake\" mean?",
+   "options": [
+    "A share or ownership interest in a company",
+    "A marketing strategy",
+    "A legal penalty",
+    "A type of financial loan"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"stake\" refers to the amount of ownership TSMC has bought in Anthropic.",
+   "explain_zh": "這裡的「stake」指的是台積電在 Anthropic 所持有的股份。",
+   "news_title_en": "TSMC takes a roughly $500 million stake in Anthropic at IPO price",
+   "id": "2026-11-20-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many shares of Anthropic did TSMC Partners purchase?",
+   "options": [
+    "6,024,096 shares",
+    "5,000,000 shares",
+    "7,500,000 shares",
+    "8,200,123 shares"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states TSMC Partners bought 6,024,096 common shares.",
+   "explain_zh": "摘要中說明台積電子公司購買了 6,024,096 股普通股。",
+   "news_title_en": "TSMC takes a roughly $500 million stake in Anthropic at IPO price",
+   "id": "2026-11-20-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"cushion\" mean?",
+   "options": [
+    "Cover something completely",
+    "Reduce the impact of something",
+    "Make something softer",
+    "Add a layer of material"
    ],
    "answer": 1,
-   "explain_en": "The summary states the Taiex closed at 40,194.91.",
-   "explain_zh": "摘要中說台股指數收盤在 40,194.91 點。",
-   "news_title_en": "Taiex edges up as futures settlement sparks late short-covering rally",
-   "id": "2026-11-19-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"excellence\" mean?",
-   "options": [
-    "The name of a supplier",
-    "A type of financial report",
-    "Very high quality or outstanding performance",
-    "A new technology for chips"
-   ],
-   "answer": 2,
-   "explain_en": "The summary says TSMC named suppliers for \"excellence awards,\" meaning they were recognized for very high quality work.",
-   "explain_zh": "文中說 TSMC 為供應商頒發「卓越獎」，表示他們的表現非常優秀。",
-   "news_title_en": "TSMC honors record 35 suppliers at \"grand alliance\" forum",
-   "id": "2026-11-19-02"
+   "explain_en": "Here \"cushion\" means to lessen or soften the effect of the transition for insurers.",
+   "explain_zh": "此處的「cushion」是指減輕或緩和過渡對保險公司的衝擊。",
+   "news_title_en": "Insurers get three transitional measures to ease ICS capital strain",
+   "id": "2026-11-20-04"
   },
   {
    "type": "comprehension",
-   "question": "How many suppliers received awards at the 2026 Supply Chain Management Forum?",
+   "question": "When will Taiwan's life insurers adopt the new ICS solvency regime?",
    "options": [
-    "45",
-    "15",
-    "35",
-    "25"
-   ],
-   "answer": 2,
-   "explain_en": "The summary states that a record 35 suppliers were named for excellence awards.",
-   "explain_zh": "摘要中提到有創紀錄的 35 家供應商獲得卓越獎。",
-   "news_title_en": "TSMC honors record 35 suppliers at \"grand alliance\" forum",
-   "id": "2026-11-19-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the news summary, what does the phrase \"systemically important\" mean?",
-   "options": [
-    "Very large and essential to the whole financial system",
-    "A bank that only serves local customers",
-    "A bank that has the highest profit margin",
-    "A bank that focuses on technology services"
-   ],
-   "answer": 0,
-   "explain_en": "\"Systemically important\" refers to banks whose failure would affect the entire financial system, so they are considered very large and essential.",
-   "explain_zh": "「systemically important」指的是若該銀行倒閉會影響整個金融體系，屬於非常大且關鍵的銀行。",
-   "news_title_en": "FSC keeps six \"too big to fail\" banks for a seventh year",
-   "id": "2026-11-19-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many banks were kept on the list of domestic systemically important banks for a seventh straight year?",
-   "options": [
-    "Six",
-    "Four",
-    "Ten",
-    "Eight"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states that the same six lenders were kept on the list for a seventh year.",
-   "explain_zh": "摘要中說明，同樣的六家銀行連續第七年被列入清單。",
-   "news_title_en": "FSC keeps six \"too big to fail\" banks for a seventh year",
-   "id": "2026-11-19-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"allocation\" mean?",
-   "options": [
-    "A stock market index",
-    "A legal document",
-    "A type of bank account",
-    "Choosing where to put money"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"allocation\" means deciding how to distribute or invest money into different assets.",
-   "explain_zh": "在文中「allocation」指的是決定把資金分配到哪些投資標的。",
-   "news_title_en": "CTBC upgrades personal trusts to hold domestic ETFs",
-   "id": "2026-11-19-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "When will CTCT Bank's upgraded personal trust service become effective?",
-   "options": [
-    "October 2026",
-    "December 2026",
-    "October 2025",
-    "January 2027"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states the service is effective from October 2026.",
-   "explain_zh": "摘要中說明此服務將於2026年10月生效。",
-   "news_title_en": "CTBC upgrades personal trusts to hold domestic ETFs",
-   "id": "2026-11-19-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"exemption\" mean?",
-   "options": [
-    "A government grant for businesses",
-    "A rule that allows you to pay less tax",
-    "A type of investment account",
-    "A penalty for not paying tax"
+    "2027",
+    "2026",
+    "2025",
+    "2024"
    ],
    "answer": 1,
-   "explain_en": "An exemption is a rule that lets a person or amount be excluded from tax, so they pay less.",
-   "explain_zh": "「exemption」指的是免稅規定，讓某人或某金額免繳稅，減少稅負。",
-   "news_title_en": "Taiwan set to raise estate- and gift-tax exemptions",
-   "id": "2026-11-19-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "When will the higher estate‑tax and gift‑tax thresholds start to apply?",
-   "options": [
-    "Immediately after the announcement",
-    "Only for gifts made in 2025",
-    "From 2027 onward",
-    "Starting in 2030"
-   ],
-   "answer": 2,
-   "explain_en": "The summary says the higher thresholds will apply to inheritances and gifts occurring from 2027.",
-   "explain_zh": "摘要指出，較高的免稅額將於 2027 年起適用於遺產與贈與。",
-   "news_title_en": "Taiwan set to raise estate- and gift-tax exemptions",
-   "id": "2026-11-19-09"
+   "explain_en": "The summary states the new regime will be adopted in its first year in 2026.",
+   "explain_zh": "摘要中說明新制度的第一年是2026年，即保險公司將於2026年採用。",
+   "news_title_en": "Insurers get three transitional measures to ease ICS capital strain",
+   "id": "2026-11-20-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"supply-chain build-out\" mean?",
+   "question": "In the summary, what does the word \"propelled\" mean?",
    "options": [
-    "Closing factories permanently",
-    "Reducing the number of suppliers",
-    "Selling products directly to consumers",
-    "Expanding the network of suppliers and manufacturers"
+    "pushed forward",
+    "ignored",
+    "stopped",
+    "measured"
    ],
-   "answer": 3,
-   "explain_en": "It refers to expanding or constructing the supply chain needed for AI production.",
-   "explain_zh": "指的是擴大或建設 AI 產業所需的供應鏈網絡。",
-   "news_title_en": "AI boom drives record upgrades to Taiwan's growth forecast",
-   "id": "2026-11-19-10"
+   "answer": 0,
+   "explain_en": "\"Propelled\" means to drive or push something forward, as the market growth was driven by ETFs and other factors.",
+   "explain_zh": "「propelled」指的是推動、促進，就像文中說ETF等因素推動了市場成長。",
+   "news_title_en": "Taiwan's wealth-management pool swells to NT$36 trillion, says KPMG",
+   "id": "2026-11-20-06"
   },
   {
    "type": "comprehension",
-   "question": "What is the projected inflation rate (CPI) for this year according to the summary?",
+   "question": "According to the report, what is the estimated size of Taiwan's wealth‑management market by the end of 2025?",
    "options": [
-    "About 1.5%",
-    "Around 3%",
-    "Near 2.07%",
-    "Exactly 2.5%"
+    "under NT$20 trillion",
+    "NT$439.2 billion",
+    "NT$36 trillion",
+    "NT$2 trillion"
    ],
    "answer": 2,
-   "explain_en": "The summary states CPI is projected near 2.07% this year.",
-   "explain_zh": "摘要中說今年的消費者物價指數預計約為 2.07%。",
-   "news_title_en": "AI boom drives record upgrades to Taiwan's growth forecast",
-   "id": "2026-11-19-11"
+   "explain_en": "The summary states the market is estimated to reach NT$36 trillion by the end of 2025.",
+   "explain_zh": "摘要中說到到2025年底，台灣的財富管理市場規模預估為新台幣 3600 億元。",
+   "news_title_en": "Taiwan's wealth-management pool swells to NT$36 trillion, says KPMG",
+   "id": "2026-11-20-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"succession\" mean?",
+   "options": [
+    "The process of passing something on to the next generation",
+    "A type of financial investment",
+    "A government election",
+    "A legal penalty for tax evasion"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"succession\" refers to the passing of assets or titles from one generation to the next.",
+   "explain_zh": "在此文中，「succession」指的是資產或頭銜在世代之間的傳承。",
+   "news_title_en": "New estate-tax rule makes recipients liable for death-bed gifts",
+   "id": "2026-11-20-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "When will the new estate‑tax rule become effective?",
+   "options": [
+    "January 1, 2025",
+    "Immediately after the amendment was announced",
+    "2026",
+    "September 11, 2023"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the change is effective for 2026.",
+   "explain_zh": "摘要中說明此規定將於2026年生效。",
+   "news_title_en": "New estate-tax rule makes recipients liable for death-bed gifts",
+   "id": "2026-11-20-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word “momentum” mean?",
+   "options": [
+    "A government policy",
+    "A computer program",
+    "A steady increase or driving force",
+    "A type of financial instrument"
+   ],
+   "answer": 2,
+   "explain_en": "Here “momentum” refers to the continuing strong push or acceleration of AI‑driven export and investment.",
+   "explain_zh": "此處的「momentum」指的是 AI 相關出口與投資持續的強勁推動力。",
+   "news_title_en": "TIER lifts Taiwan's 2026 growth forecast to 12.34% on AI boom",
+   "id": "2026-11-20-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is the Taiwan Institute of Economic Research's forecast for Taiwan's GDP growth in 2026?",
+   "options": [
+    "6.45%",
+    "10.00%",
+    "12.34%",
+    "8.02%"
+   ],
+   "answer": 2,
+   "explain_en": "The summary states the institute raised the 2026 growth forecast to 12.34%.",
+   "explain_zh": "摘要中說明該機構將 2026 年的 GDP 成長預測提升至 12.34%。",
+   "news_title_en": "TIER lifts Taiwan's 2026 growth forecast to 12.34% on AI boom",
+   "id": "2026-11-20-11"
   }
  ]
 }
