@@ -1,185 +1,185 @@
 {
- "date": "2026-11-20",
+ "date": "2026-11-21",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"sank\" mean?",
+   "question": "In the summary, what does the word \"battered\" mean?",
    "options": [
-    "Stayed the same",
-    "Moved sideways",
-    "Fell down",
-    "Went up sharply"
+    "Hit hard and damaged",
+    "Paused temporarily",
+    "Increased in value",
+    "Sold quickly"
    ],
-   "answer": 2,
-   "explain_en": "\"Sank\" means the index fell down in value.",
-   "explain_zh": "「sank」在文中表示指數下跌。",
-   "news_title_en": "Taiex plunges 1,768 points as AI jitters trigger seventh-largest point drop",
-   "id": "2026-11-20-00"
+   "answer": 0,
+   "explain_en": "Here \"battered\" describes the market being hit hard by the selloff, meaning it was damaged or weakened.",
+   "explain_zh": "這裡的「battered」指的是市場受到拋售衝擊，受到嚴重打擊或受損。",
+   "news_title_en": "Taiex plunges 6.23% to cap its worst week since 1991",
+   "id": "2026-11-21-00"
   },
   {
    "type": "comprehension",
-   "question": "How many points did the Taiex drop at its lowest intraday level?",
+   "question": "By how much did the Taiex index fall during the week ending Nov 20?",
    "options": [
-    "4.4 points",
-    "895.3 billion points",
-    "1,935 points",
-    "1,768 points"
+    "About 2,393.60 points",
+    "About NT$877.35 billion",
+    "About 17.5%",
+    "About 6.23%"
    ],
    "answer": 2,
-   "explain_en": "The summary says the index sank as much as 1,935 points intraday.",
-   "explain_zh": "摘要中提到指數盤中最低跌幅為 1,935 點。",
-   "news_title_en": "Taiex plunges 1,768 points as AI jitters trigger seventh-largest point drop",
-   "id": "2026-11-20-01"
+   "explain_en": "The summary states the index shed roughly 17.5% for the week, its steepest drop since 1991.",
+   "explain_zh": "摘要中說明指數在當週下跌約 17.5%，為自 1991 年以來最大的跌幅。",
+   "news_title_en": "Taiex plunges 6.23% to cap its worst week since 1991",
+   "id": "2026-11-21-01"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"stake\" mean?",
+   "question": "In the summary, what does the word \"derating\" mean?",
    "options": [
-    "A share or ownership interest in a company",
-    "A marketing strategy",
-    "A legal penalty",
-    "A type of financial loan"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"stake\" refers to the amount of ownership TSMC has bought in Anthropic.",
-   "explain_zh": "這裡的「stake」指的是台積電在 Anthropic 所持有的股份。",
-   "news_title_en": "TSMC takes a roughly $500 million stake in Anthropic at IPO price",
-   "id": "2026-11-20-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many shares of Anthropic did TSMC Partners purchase?",
-   "options": [
-    "6,024,096 shares",
-    "5,000,000 shares",
-    "7,500,000 shares",
-    "8,200,123 shares"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states TSMC Partners bought 6,024,096 common shares.",
-   "explain_zh": "摘要中說明台積電子公司購買了 6,024,096 股普通股。",
-   "news_title_en": "TSMC takes a roughly $500 million stake in Anthropic at IPO price",
-   "id": "2026-11-20-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"cushion\" mean?",
-   "options": [
-    "Cover something completely",
-    "Reduce the impact of something",
-    "Make something softer",
-    "Add a layer of material"
+    "Rating something as the highest possible",
+    "Lowering the valuation or rating of something",
+    "Removing a rating completely",
+    "Increasing the value of something"
    ],
    "answer": 1,
-   "explain_en": "Here \"cushion\" means to lessen or soften the effect of the transition for insurers.",
-   "explain_zh": "此處的「cushion」是指減輕或緩和過渡對保險公司的衝擊。",
-   "news_title_en": "Insurers get three transitional measures to ease ICS capital strain",
-   "id": "2026-11-20-04"
+   "explain_en": "Here \"derating\" means investors are lowering the valuation of the hardware supply chain.",
+   "explain_zh": "這裡的「derating」指的是投資人降低硬體供應鏈的估值。",
+   "news_title_en": "Asian tech and chip stocks plunge despite Anthropic's strong Wall Street debut",
+   "id": "2026-11-21-02"
   },
   {
    "type": "comprehension",
-   "question": "When will Taiwan's life insurers adopt the new ICS solvency regime?",
+   "question": "According to the summary, why did Asian tech and chip stocks fall?",
    "options": [
-    "2027",
-    "2026",
-    "2025",
-    "2024"
+    "Because AI spending was expected to be very profitable",
+    "Because Anthropic's debut was weak in the US market",
+    "Because investors were worried about the scale and payback of AI spending",
+    "Because TSMC sold its stake in Anthropic"
+   ],
+   "answer": 2,
+   "explain_en": "The summary says the fall was due to worries over the scale and payback of AI spending.",
+   "explain_zh": "摘要指出，股價下跌是因為投資人擔心 AI 支出的規模與回報。",
+   "news_title_en": "Asian tech and chip stocks plunge despite Anthropic's strong Wall Street debut",
+   "id": "2026-11-21-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"pegged\" mean?",
+   "options": [
+    "Sold at a discount",
+    "Converted to cash",
+    "Fixed to a specific value",
+    "Issued by a bank"
+   ],
+   "answer": 2,
+   "explain_en": "\"Pegged\" means the stablecoin is fixed to a specific value, such as 1:1 with a currency.",
+   "explain_zh": "「pegged」表示穩定幣的價值被固定在特定的匯率上，例如 1:1 與某種貨幣。",
+   "news_title_en": "FSC previews stablecoin and virtual-asset sub-laws under new VASP Act",
+   "id": "2026-11-21-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "How much capital must non‑bank issuers have to issue stablecoins under the draft rules?",
+   "options": [
+    "NT$3 billion",
+    "NT$300 million",
+    "NT$300,000",
+    "NT$30 million"
    ],
    "answer": 1,
-   "explain_en": "The summary states the new regime will be adopted in its first year in 2026.",
-   "explain_zh": "摘要中說明新制度的第一年是2026年，即保險公司將於2026年採用。",
-   "news_title_en": "Insurers get three transitional measures to ease ICS capital strain",
-   "id": "2026-11-20-05"
+   "explain_en": "The summary states non‑bank issuers need NT$300 million in capital.",
+   "explain_zh": "摘要中說明非銀行發行者必須擁有新台幣三億的資本。",
+   "news_title_en": "FSC previews stablecoin and virtual-asset sub-laws under new VASP Act",
+   "id": "2026-11-21-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"propelled\" mean?",
+   "question": "In the summary, what does the phrase \"cross‑generational succession planning\" mean?",
    "options": [
-    "pushed forward",
-    "ignored",
-    "stopped",
-    "measured"
+    "Planning to invest in foreign markets",
+    "Planning how wealth will be passed to the next generation",
+    "Planning to reduce taxes for the current year",
+    "Planning to start a new business venture"
    ],
-   "answer": 0,
-   "explain_en": "\"Propelled\" means to drive or push something forward, as the market growth was driven by ETFs and other factors.",
-   "explain_zh": "「propelled」指的是推動、促進，就像文中說ETF等因素推動了市場成長。",
-   "news_title_en": "Taiwan's wealth-management pool swells to NT$36 trillion, says KPMG",
-   "id": "2026-11-20-06"
+   "answer": 1,
+   "explain_en": "The text says affluent clients move toward cross‑generational succession planning, which means they are preparing how their wealth will be transferred to their children or heirs.",
+   "explain_zh": "文中提到富裕客戶轉向跨世代接續規劃，指的是他們在安排財富如何傳給下一代。",
+   "news_title_en": "High-net-worth population seen rising to 124,000 holding NT$46 trillion",
+   "id": "2026-11-21-06"
   },
   {
    "type": "comprehension",
-   "question": "According to the report, what is the estimated size of Taiwan's wealth‑management market by the end of 2025?",
+   "question": "According to the study, how many people in Taiwan are expected to have assets of NT$100 million or more by 2026?",
    "options": [
-    "under NT$20 trillion",
-    "NT$439.2 billion",
-    "NT$36 trillion",
-    "NT$2 trillion"
+    "200,000",
+    "93,000",
+    "124,000",
+    "150,000"
    ],
    "answer": 2,
-   "explain_en": "The summary states the market is estimated to reach NT$36 trillion by the end of 2025.",
-   "explain_zh": "摘要中說到到2025年底，台灣的財富管理市場規模預估為新台幣 3600 億元。",
-   "news_title_en": "Taiwan's wealth-management pool swells to NT$36 trillion, says KPMG",
-   "id": "2026-11-20-07"
+   "explain_en": "The summary states the number will grow to an estimated 124,000 in 2026.",
+   "explain_zh": "摘要說到到2026年，資產達新台幣1億以上的人數預估會是124,000人。",
+   "news_title_en": "High-net-worth population seen rising to 124,000 holding NT$46 trillion",
+   "id": "2026-11-21-07"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"succession\" mean?",
+   "question": "In the summary, what does the word \"retroactively\" mean?",
    "options": [
-    "The process of passing something on to the next generation",
-    "A type of financial investment",
-    "A government election",
-    "A legal penalty for tax evasion"
+    "Starting from a future date",
+    "Applying to the past as if it had always been true",
+    "Being optional for taxpayers",
+    "Increasing the amount gradually"
    ],
-   "answer": 0,
-   "explain_en": "Here \"succession\" refers to the passing of assets or titles from one generation to the next.",
-   "explain_zh": "在此文中，「succession」指的是資產或頭銜在世代之間的傳承。",
-   "news_title_en": "New estate-tax rule makes recipients liable for death-bed gifts",
-   "id": "2026-11-20-08"
+   "answer": 1,
+   "explain_en": "The text says the change will apply retroactively from Jan 1, meaning it takes effect from that past date as if it were in force then.",
+   "explain_zh": "文中說「retroactively」是指從 1 月 1 日起追溯生效，彷彿當時就已經實施。",
+   "news_title_en": "Long-term care tax deduction set to rise to NT$180,000, backdated to 2026",
+   "id": "2026-11-21-08"
   },
   {
    "type": "comprehension",
-   "question": "When will the new estate‑tax rule become effective?",
+   "question": "What is the new amount of the long‑term care special deduction per qualifying person?",
    "options": [
-    "January 1, 2025",
-    "Immediately after the amendment was announced",
-    "2026",
-    "September 11, 2023"
+    "NT$200,000",
+    "NT$120,000",
+    "NT$150,000",
+    "NT$180,000"
    ],
-   "answer": 2,
-   "explain_en": "The summary states the change is effective for 2026.",
-   "explain_zh": "摘要中說明此規定將於2026年生效。",
-   "news_title_en": "New estate-tax rule makes recipients liable for death-bed gifts",
-   "id": "2026-11-20-09"
+   "answer": 3,
+   "explain_en": "The summary states the deduction will be raised from NT$120,000 to NT$180,000 per qualifying person.",
+   "explain_zh": "摘要說，特別扣除額將從 12 萬元提升至 18 萬元。",
+   "news_title_en": "Long-term care tax deduction set to rise to NT$180,000, backdated to 2026",
+   "id": "2026-11-21-09"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word “momentum” mean?",
+   "question": "In the summary, what does the word \"robust\" mean?",
    "options": [
-    "A government policy",
-    "A computer program",
-    "A steady increase or driving force",
-    "A type of financial instrument"
+    "uncertain",
+    "strong",
+    "moderate",
+    "weak"
    ],
-   "answer": 2,
-   "explain_en": "Here “momentum” refers to the continuing strong push or acceleration of AI‑driven export and investment.",
-   "explain_zh": "此處的「momentum」指的是 AI 相關出口與投資持續的強勁推動力。",
-   "news_title_en": "TIER lifts Taiwan's 2026 growth forecast to 12.34% on AI boom",
-   "id": "2026-11-20-10"
+   "answer": 1,
+   "explain_en": "Here \"robust\" describes demand that is strong and vigorous.",
+   "explain_zh": "此處的「robust」指需求強勁、活躍。",
+   "news_title_en": "Central bank's latest forecast sees 2026 growth above 11% on AI boom",
+   "id": "2026-11-21-10"
   },
   {
    "type": "comprehension",
-   "question": "What is the Taiwan Institute of Economic Research's forecast for Taiwan's GDP growth in 2026?",
+   "question": "What GDP growth rate does Taiwan's central bank forecast for 2026?",
    "options": [
-    "6.45%",
-    "10.00%",
-    "12.34%",
-    "8.02%"
+    "12.5%",
+    "14.15%",
+    "10%",
+    "11.48%"
    ],
-   "answer": 2,
-   "explain_en": "The summary states the institute raised the 2026 growth forecast to 12.34%.",
-   "explain_zh": "摘要中說明該機構將 2026 年的 GDP 成長預測提升至 12.34%。",
-   "news_title_en": "TIER lifts Taiwan's 2026 growth forecast to 12.34% on AI boom",
-   "id": "2026-11-20-11"
+   "answer": 3,
+   "explain_en": "The summary states the 2026 forecast is about 11.48%.",
+   "explain_zh": "摘要中提到 2026 年的 GDP 成長預測約為 11.48%。",
+   "news_title_en": "Central bank's latest forecast sees 2026 growth above 11% on AI boom",
+   "id": "2026-11-21-11"
   }
  ]
 }
