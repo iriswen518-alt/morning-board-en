@@ -1,185 +1,185 @@
 {
- "date": "2026-11-21",
+ "date": "2026-11-22",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"battered\" mean?",
+   "question": "In the summary, what does the word \"plunged\" mean?",
    "options": [
-    "Hit hard and damaged",
-    "Paused temporarily",
-    "Increased in value",
-    "Sold quickly"
+    "fell dramatically",
+    "stayed the same",
+    "rose sharply",
+    "moved slowly"
    ],
    "answer": 0,
-   "explain_en": "Here \"battered\" describes the market being hit hard by the selloff, meaning it was damaged or weakened.",
-   "explain_zh": "這裡的「battered」指的是市場受到拋售衝擊，受到嚴重打擊或受損。",
-   "news_title_en": "Taiex plunges 6.23% to cap its worst week since 1991",
-   "id": "2026-11-21-00"
+   "explain_en": "\"Plunged\" means the index fell dramatically, as described by the large point drop.",
+   "explain_zh": "「plunged」表示指數大幅下跌，正如文中所說的點數大跌。",
+   "news_title_en": "Taiwan shares suffer one of their worst sessions on record (2026-11-20)",
+   "id": "2026-11-22-00"
   },
   {
    "type": "comprehension",
-   "question": "By how much did the Taiex index fall during the week ending Nov 20?",
+   "question": "What caused heavy foreign selling of TSMC according to the summary?",
    "options": [
-    "About 2,393.60 points",
-    "About NT$877.35 billion",
-    "About 17.5%",
-    "About 6.23%"
+    "A new government regulation in Taiwan",
+    "A slide of more than 10% in the Philadelphia Semiconductor Index",
+    "A rise in the Nasdaq index",
+    "A sudden increase in oil prices"
    ],
-   "answer": 2,
-   "explain_en": "The summary states the index shed roughly 17.5% for the week, its steepest drop since 1991.",
-   "explain_zh": "摘要中說明指數在當週下跌約 17.5%，為自 1991 年以來最大的跌幅。",
-   "news_title_en": "Taiex plunges 6.23% to cap its worst week since 1991",
-   "id": "2026-11-21-01"
+   "answer": 1,
+   "explain_en": "The summary states that a slide of more than 10% in the Philadelphia Semiconductor Index triggered heavy foreign selling of TSMC.",
+   "explain_zh": "摘要說明，費城半導體指數下跌超過10%導致外資大量拋售台積電。",
+   "news_title_en": "Taiwan shares suffer one of their worst sessions on record (2026-11-20)",
+   "id": "2026-11-22-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"derating\" mean?",
+   "question": "In the summary, what does the phrase \"going all-out\" mean?",
    "options": [
-    "Rating something as the highest possible",
-    "Lowering the valuation or rating of something",
-    "Removing a rating completely",
-    "Increasing the value of something"
+    "Leaving the office early",
+    "Trying very hard to achieve something",
+    "Selling all their products",
+    "Ignoring the problem"
    ],
    "answer": 1,
-   "explain_en": "Here \"derating\" means investors are lowering the valuation of the hardware supply chain.",
-   "explain_zh": "這裡的「derating」指的是投資人降低硬體供應鏈的估值。",
-   "news_title_en": "Asian tech and chip stocks plunge despite Anthropic's strong Wall Street debut",
-   "id": "2026-11-21-02"
+   "explain_en": "\"Going all-out\" means trying very hard or putting in maximum effort.",
+   "explain_zh": "「going all-out」表示全力以赴、非常努力地去做某件事。",
+   "news_title_en": "TSMC leadership visits Nvidia as supply chain ramps",
+   "id": "2026-11-22-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, why did Asian tech and chip stocks fall?",
+   "question": "What forward revenue‑growth outlook did Nvidia lift to about 75%?",
    "options": [
-    "Because AI spending was expected to be very profitable",
-    "Because Anthropic's debut was weak in the US market",
-    "Because investors were worried about the scale and payback of AI spending",
-    "Because TSMC sold its stake in Anthropic"
+    "Its dividend payout ratio",
+    "Its earnings per share forecast",
+    "Its revenue‑growth outlook",
+    "Its profit margin target"
    ],
    "answer": 2,
-   "explain_en": "The summary says the fall was due to worries over the scale and payback of AI spending.",
-   "explain_zh": "摘要指出，股價下跌是因為投資人擔心 AI 支出的規模與回報。",
-   "news_title_en": "Asian tech and chip stocks plunge despite Anthropic's strong Wall Street debut",
-   "id": "2026-11-21-03"
+   "explain_en": "The summary says Nvidia lifted its forward revenue‑growth outlook toward about 75%.",
+   "explain_zh": "摘要中說 Nvidia 把未來的營收成長預期提升到約 75%。",
+   "news_title_en": "TSMC leadership visits Nvidia as supply chain ramps",
+   "id": "2026-11-22-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"pegged\" mean?",
+   "question": "In the summary, what does the word \"globalization\" mean?",
    "options": [
-    "Sold at a discount",
-    "Converted to cash",
-    "Fixed to a specific value",
-    "Issued by a bank"
+    "Making something worldwide or international",
+    "Increasing the speed of trading",
+    "Reducing taxes for investors",
+    "Creating new financial products"
    ],
-   "answer": 2,
-   "explain_en": "\"Pegged\" means the stablecoin is fixed to a specific value, such as 1:1 with a currency.",
-   "explain_zh": "「pegged」表示穩定幣的價值被固定在特定的匯率上，例如 1:1 與某種貨幣。",
-   "news_title_en": "FSC previews stablecoin and virtual-asset sub-laws under new VASP Act",
-   "id": "2026-11-21-04"
+   "answer": 0,
+   "explain_en": "Here, \"globalization\" refers to expanding Taiwanese ETFs so they are used and recognized internationally.",
+   "explain_zh": "此處的「globalization」指的是將台灣的ETF推向國際，使其在全球範圍內被使用與認可。",
+   "news_title_en": "FSC pushes Taiwan asset-management hub and ETF globalization",
+   "id": "2026-11-22-04"
   },
   {
    "type": "comprehension",
-   "question": "How much capital must non‑bank issuers have to issue stablecoins under the draft rules?",
+   "question": "What is one of the goals of the FSC's policy mentioned in the summary?",
    "options": [
-    "NT$3 billion",
-    "NT$300 million",
-    "NT$300,000",
-    "NT$30 million"
+    "To build an asset‑management center with Taiwanese characteristics",
+    "To lower interest rates for all borrowers",
+    "To ban foreign investment in Taiwan",
+    "To eliminate all ETFs from the market"
    ],
-   "answer": 1,
-   "explain_en": "The summary states non‑bank issuers need NT$300 million in capital.",
-   "explain_zh": "摘要中說明非銀行發行者必須擁有新台幣三億的資本。",
-   "news_title_en": "FSC previews stablecoin and virtual-asset sub-laws under new VASP Act",
-   "id": "2026-11-21-05"
+   "answer": 0,
+   "explain_en": "The summary states the FSC aims to build an asset‑management center with Taiwanese characteristics and internationalize local ETFs.",
+   "explain_zh": "摘要中指出，金融監督管理委員會的目標是建立具有台灣特色的資產管理中心，並使本地ETF國際化。",
+   "news_title_en": "FSC pushes Taiwan asset-management hub and ETF globalization",
+   "id": "2026-11-22-05"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"cross‑generational succession planning\" mean?",
+   "question": "In the summary, what does the word \"appetite\" mean?",
    "options": [
-    "Planning to invest in foreign markets",
-    "Planning how wealth will be passed to the next generation",
-    "Planning to reduce taxes for the current year",
-    "Planning to start a new business venture"
+    "desire or interest",
+    "hunger for food",
+    "ability to taste",
+    "a type of financial product"
    ],
-   "answer": 1,
-   "explain_en": "The text says affluent clients move toward cross‑generational succession planning, which means they are preparing how their wealth will be transferred to their children or heirs.",
-   "explain_zh": "文中提到富裕客戶轉向跨世代接續規劃，指的是他們在安排財富如何傳給下一代。",
-   "news_title_en": "High-net-worth population seen rising to 124,000 holding NT$46 trillion",
-   "id": "2026-11-21-06"
+   "answer": 0,
+   "explain_en": "Here \"appetite\" refers to the investors' desire or interest in something, specifically global diversification.",
+   "explain_zh": "此處的「appetite」指的是投資人對全球多元化的欲望或興趣。",
+   "news_title_en": "Overseas-equity ETF holders hit record for a ninth straight week",
+   "id": "2026-11-22-06"
   },
   {
    "type": "comprehension",
-   "question": "According to the study, how many people in Taiwan are expected to have assets of NT$100 million or more by 2026?",
+   "question": "How many consecutive weeks have overseas-equity ETF beneficiaries set fresh highs?",
    "options": [
-    "200,000",
-    "93,000",
-    "124,000",
-    "150,000"
+    "Eight weeks",
+    "Nine weeks",
+    "Seven weeks",
+    "Ten weeks"
    ],
-   "answer": 2,
-   "explain_en": "The summary states the number will grow to an estimated 124,000 in 2026.",
-   "explain_zh": "摘要說到到2026年，資產達新台幣1億以上的人數預估會是124,000人。",
-   "news_title_en": "High-net-worth population seen rising to 124,000 holding NT$46 trillion",
-   "id": "2026-11-21-07"
+   "answer": 1,
+   "explain_en": "The summary states the number of beneficiaries has set fresh highs for nine consecutive weeks.",
+   "explain_zh": "摘要中說受益人數連續九週創下新高。",
+   "news_title_en": "Overseas-equity ETF holders hit record for a ninth straight week",
+   "id": "2026-11-22-07"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"retroactively\" mean?",
+   "question": "In the summary, what does the word \"exemption\" mean?",
    "options": [
-    "Starting from a future date",
-    "Applying to the past as if it had always been true",
-    "Being optional for taxpayers",
-    "Increasing the amount gradually"
-   ],
-   "answer": 1,
-   "explain_en": "The text says the change will apply retroactively from Jan 1, meaning it takes effect from that past date as if it were in force then.",
-   "explain_zh": "文中說「retroactively」是指從 1 月 1 日起追溯生效，彷彿當時就已經實施。",
-   "news_title_en": "Long-term care tax deduction set to rise to NT$180,000, backdated to 2026",
-   "id": "2026-11-21-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the new amount of the long‑term care special deduction per qualifying person?",
-   "options": [
-    "NT$200,000",
-    "NT$120,000",
-    "NT$150,000",
-    "NT$180,000"
+    "A type of investment",
+    "A tax that must be paid",
+    "A penalty for late payment",
+    "A reduction or removal of a tax requirement"
    ],
    "answer": 3,
-   "explain_en": "The summary states the deduction will be raised from NT$120,000 to NT$180,000 per qualifying person.",
-   "explain_zh": "摘要說，特別扣除額將從 12 萬元提升至 18 萬元。",
-   "news_title_en": "Long-term care tax deduction set to rise to NT$180,000, backdated to 2026",
-   "id": "2026-11-21-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"robust\" mean?",
-   "options": [
-    "uncertain",
-    "strong",
-    "moderate",
-    "weak"
-   ],
-   "answer": 1,
-   "explain_en": "Here \"robust\" describes demand that is strong and vigorous.",
-   "explain_zh": "此處的「robust」指需求強勁、活躍。",
-   "news_title_en": "Central bank's latest forecast sees 2026 growth above 11% on AI boom",
-   "id": "2026-11-21-10"
+   "explain_en": "An exemption means a reduction or removal of a tax that would otherwise be required.",
+   "explain_zh": "「exemption」指的是免除或減免本應繳納的稅款。",
+   "news_title_en": "Estate-tax exemption may rise with inflation in 2027",
+   "id": "2026-11-22-08"
   },
   {
    "type": "comprehension",
-   "question": "What GDP growth rate does Taiwan's central bank forecast for 2026?",
+   "question": "According to the summary, what is the current estate‑tax exemption amount in Taiwan?",
    "options": [
-    "12.5%",
-    "14.15%",
-    "10%",
-    "11.48%"
+    "NT$560,000",
+    "NT$14.92 million",
+    "NT$2.44 million",
+    "NT$13.33 million"
    ],
    "answer": 3,
-   "explain_en": "The summary states the 2026 forecast is about 11.48%.",
-   "explain_zh": "摘要中提到 2026 年的 GDP 成長預測約為 11.48%。",
-   "news_title_en": "Central bank's latest forecast sees 2026 growth above 11% on AI boom",
-   "id": "2026-11-21-11"
+   "explain_en": "The summary states the current exemption is NT$13.33 million.",
+   "explain_zh": "摘要中說明目前的遺產稅免稅額是新台幣 1,333 萬元。",
+   "news_title_en": "Estate-tax exemption may rise with inflation in 2027",
+   "id": "2026-11-22-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the news summary, what does the word \"rediscount\" mean?",
+   "options": [
+    "The rate at which the central bank lends money to commercial banks",
+    "A fee banks pay to the central bank for borrowing money",
+    "A discount given to customers who pay early",
+    "The interest rate that banks charge each other for short‑term loans"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"rediscount rate\" is the rate the central bank charges commercial banks when it lends them money.",
+   "explain_zh": "在文中「rediscount rate」指的是央行借給商業銀行的利率。",
+   "news_title_en": "Central bank holds rates for a tenth straight meeting",
+   "id": "2026-11-22-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "How many consecutive meetings has the CBC held the policy rate steady?",
+   "options": [
+    "Eleven",
+    "Ten",
+    "Eight",
+    "Nine"
+   ],
+   "answer": 1,
+   "explain_en": "The summary says the CBC kept the rate unchanged for ten consecutive holds.",
+   "explain_zh": "摘要中提到央行已連續十次維持利率不變。",
+   "news_title_en": "Central bank holds rates for a tenth straight meeting",
+   "id": "2026-11-22-11"
   }
  ]
 }
