@@ -1,185 +1,185 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"plunged\" mean?",
+   "question": "In the summary, what does the word \"de‑risking\" mean?",
    "options": [
-    "fell dramatically",
-    "stayed the same",
-    "rose sharply",
-    "moved slowly"
+    "Selling all stocks completely",
+    "Reducing exposure to potential losses",
+    "Buying more AI‑related stocks",
+    "Increasing investment in risky assets"
    ],
-   "answer": 0,
-   "explain_en": "\"Plunged\" means the index fell dramatically, as described by the large point drop.",
-   "explain_zh": "「plunged」表示指數大幅下跌，正如文中所說的點數大跌。",
-   "news_title_en": "Taiwan shares suffer one of their worst sessions on record (2026-11-20)",
-   "id": "2026-11-22-00"
+   "answer": 1,
+   "explain_en": "De‑risking means lowering the amount of risk in a portfolio, such as selling assets that might lose value.",
+   "explain_zh": "「de‑risking」是指降低投資組合的風險，例如賣出可能虧損的資產。",
+   "news_title_en": "Foreign funds extend heavy selling as AI-chip valuations reset (2026-11-12)",
+   "id": "2026-11-23-00"
   },
   {
    "type": "comprehension",
-   "question": "What caused heavy foreign selling of TSMC according to the summary?",
+   "question": "How many consecutive sessions have overseas investors been net sellers of Taiwan shares?",
    "options": [
-    "A new government regulation in Taiwan",
-    "A slide of more than 10% in the Philadelphia Semiconductor Index",
-    "A rise in the Nasdaq index",
-    "A sudden increase in oil prices"
+    "Eleven",
+    "Ten",
+    "Nine",
+    "Eight"
    ],
    "answer": 1,
-   "explain_en": "The summary states that a slide of more than 10% in the Philadelphia Semiconductor Index triggered heavy foreign selling of TSMC.",
-   "explain_zh": "摘要說明，費城半導體指數下跌超過10%導致外資大量拋售台積電。",
-   "news_title_en": "Taiwan shares suffer one of their worst sessions on record (2026-11-20)",
-   "id": "2026-11-22-01"
+   "explain_en": "The summary states they have been net sellers for ten straight sessions.",
+   "explain_zh": "摘要中說明海外投資者已連續十個交易日淨賣出台股。",
+   "news_title_en": "Foreign funds extend heavy selling as AI-chip valuations reset (2026-11-12)",
+   "id": "2026-11-23-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"going all-out\" mean?",
+   "question": "In the text, what does the word \"fabrication\" mean?",
    "options": [
-    "Leaving the office early",
-    "Trying very hard to achieve something",
-    "Selling all their products",
-    "Ignoring the problem"
+    "Making a product in a factory",
+    "Shipping goods overseas",
+    "Designing a marketing plan",
+    "Testing a software program"
    ],
-   "answer": 1,
-   "explain_en": "\"Going all-out\" means trying very hard or putting in maximum effort.",
-   "explain_zh": "「going all-out」表示全力以赴、非常努力地去做某件事。",
-   "news_title_en": "TSMC leadership visits Nvidia as supply chain ramps",
-   "id": "2026-11-22-02"
+   "answer": 0,
+   "explain_en": "Here \"fabrication\" refers to the process of making semiconductor wafers in a factory.",
+   "explain_zh": "此處的「fabrication」指的是在工廠內製造半導體晶圓的過程。",
+   "news_title_en": "Nvidia unveils broad supply-chain pact spanning Taiwan's AI ecosystem (2026-11-17)",
+   "id": "2026-11-23-02"
   },
   {
    "type": "comprehension",
-   "question": "What forward revenue‑growth outlook did Nvidia lift to about 75%?",
+   "question": "When did Nvidia's Vera Rubin NVL72 system start volume shipments?",
    "options": [
-    "Its dividend payout ratio",
-    "Its earnings per share forecast",
-    "Its revenue‑growth outlook",
-    "Its profit margin target"
+    "Q4 2026",
+    "Q3 2026",
+    "Q1 2026",
+    "Q2 2026"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the system began volume shipments in Q3 2026.",
+   "explain_zh": "摘要中說明該系統於2026年第三季開始大量出貨。",
+   "news_title_en": "Nvidia unveils broad supply-chain pact spanning Taiwan's AI ecosystem (2026-11-17)",
+   "id": "2026-11-23-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"supervised\" mean?",
+   "options": [
+    "Made illegal and banned",
+    "Hidden from public view",
+    "Controlled and monitored by an authority",
+    "Sold at a discount"
    ],
    "answer": 2,
-   "explain_en": "The summary says Nvidia lifted its forward revenue‑growth outlook toward about 75%.",
-   "explain_zh": "摘要中說 Nvidia 把未來的營收成長預期提升到約 75%。",
-   "news_title_en": "TSMC leadership visits Nvidia as supply chain ramps",
-   "id": "2026-11-22-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"globalization\" mean?",
-   "options": [
-    "Making something worldwide or international",
-    "Increasing the speed of trading",
-    "Reducing taxes for investors",
-    "Creating new financial products"
-   ],
-   "answer": 0,
-   "explain_en": "Here, \"globalization\" refers to expanding Taiwanese ETFs so they are used and recognized internationally.",
-   "explain_zh": "此處的「globalization」指的是將台灣的ETF推向國際，使其在全球範圍內被使用與認可。",
-   "news_title_en": "FSC pushes Taiwan asset-management hub and ETF globalization",
-   "id": "2026-11-22-04"
+   "explain_en": "The text says Taiwan wants to bring stablecoins into a supervised framework, meaning the government will control and monitor them.",
+   "explain_zh": "文中說要把穩定幣納入受監督的框架，表示政府會對其進行管控與監測。",
+   "news_title_en": "FSC previews stablecoin licensing rules and tightens AML standards (2026-11-03)",
+   "id": "2026-11-23-04"
   },
   {
    "type": "comprehension",
-   "question": "What is one of the goals of the FSC's policy mentioned in the summary?",
+   "question": "According to the summary, what did the Banking Bureau pre‑announce?",
    "options": [
-    "To build an asset‑management center with Taiwanese characteristics",
-    "To lower interest rates for all borrowers",
-    "To ban foreign investment in Taiwan",
-    "To eliminate all ETFs from the market"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states the FSC aims to build an asset‑management center with Taiwanese characteristics and internationalize local ETFs.",
-   "explain_zh": "摘要中指出，金融監督管理委員會的目標是建立具有台灣特色的資產管理中心，並使本地ETF國際化。",
-   "news_title_en": "FSC pushes Taiwan asset-management hub and ETF globalization",
-   "id": "2026-11-22-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"appetite\" mean?",
-   "options": [
-    "desire or interest",
-    "hunger for food",
-    "ability to taste",
-    "a type of financial product"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"appetite\" refers to the investors' desire or interest in something, specifically global diversification.",
-   "explain_zh": "此處的「appetite」指的是投資人對全球多元化的欲望或興趣。",
-   "news_title_en": "Overseas-equity ETF holders hit record for a ninth straight week",
-   "id": "2026-11-22-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many consecutive weeks have overseas-equity ETF beneficiaries set fresh highs?",
-   "options": [
-    "Eight weeks",
-    "Nine weeks",
-    "Seven weeks",
-    "Ten weeks"
+    "A partnership with foreign banks to issue stablecoins",
+    "A draft regulation for stablecoin licensing and AML amendments",
+    "The removal of all anti‑money‑laundering rules",
+    "A new tax on cryptocurrency trading"
    ],
    "answer": 1,
-   "explain_en": "The summary states the number of beneficiaries has set fresh highs for nine consecutive weeks.",
-   "explain_zh": "摘要中說受益人數連續九週創下新高。",
-   "news_title_en": "Overseas-equity ETF holders hit record for a ninth straight week",
-   "id": "2026-11-22-07"
+   "explain_en": "The summary states the Banking Bureau pre‑announced a draft \"Stablecoin Issuance Permit and Management Regulations\" together with AML requirement changes.",
+   "explain_zh": "摘要中提到金融局預先公布了《穩定幣發行許可與管理規則》草案以及反洗錢要求的修訂。",
+   "news_title_en": "FSC previews stablecoin licensing rules and tightens AML standards (2026-11-03)",
+   "id": "2026-11-23-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the term \"Lombard lending\" mean?",
+   "options": [
+    "A special tax exemption for foreign investors",
+    "Loans secured by a borrower’s financial assets such as stocks or bonds",
+    "A government grant for small businesses",
+    "A type of insurance for high‑value jewelry"
+   ],
+   "answer": 1,
+   "explain_en": "Lombard lending is a loan that uses the borrower’s financial assets (like stocks or bonds) as collateral.",
+   "explain_zh": "Lombard lending 是以借款人的金融資產（如股票或債券）作為抵押的貸款。",
+   "news_title_en": "High-asset wealth management scales up sharply (2026)",
+   "id": "2026-11-23-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, what was the approximate size of Taiwan's high‑asset wealth‑management scheme at the end of November 2025?",
+   "options": [
+    "NT$3.5 trillion",
+    "NT$2.08 trillion",
+    "NT$4.2 trillion",
+    "NT$1.0 trillion"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the scheme was roughly NT$2.08 trillion at that time.",
+   "explain_zh": "摘要中提到該方案在2025年11月底約為新台幣 20.8 億元。",
+   "news_title_en": "High-asset wealth management scales up sharply (2026)",
+   "id": "2026-11-23-07"
   },
   {
    "type": "vocab",
    "question": "In the summary, what does the word \"exemption\" mean?",
    "options": [
-    "A type of investment",
-    "A tax that must be paid",
-    "A penalty for late payment",
-    "A reduction or removal of a tax requirement"
+    "a loan given by the government",
+    "the amount of money that is not taxed",
+    "a fee that must be paid",
+    "a penalty for breaking a law"
    ],
-   "answer": 3,
-   "explain_en": "An exemption means a reduction or removal of a tax that would otherwise be required.",
-   "explain_zh": "「exemption」指的是免除或減免本應繳納的稅款。",
-   "news_title_en": "Estate-tax exemption may rise with inflation in 2027",
-   "id": "2026-11-22-08"
+   "answer": 1,
+   "explain_en": "An exemption is the portion of income or value that is not subject to tax.",
+   "explain_zh": "「exemption」指的是免稅額，也就是不需要繳稅的那一部分金額。",
+   "news_title_en": "Taiwan reshapes how pre-death gifts are taxed in estates",
+   "id": "2026-11-23-08"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what is the current estate‑tax exemption amount in Taiwan?",
+   "question": "What is the projected estate‑tax exemption amount for 2027?",
    "options": [
-    "NT$560,000",
-    "NT$14.92 million",
-    "NT$2.44 million",
-    "NT$13.33 million"
+    "NT$15 million",
+    "NT$13.33 million",
+    "NT$12 million",
+    "NT$14.78 million"
    ],
    "answer": 3,
-   "explain_en": "The summary states the current exemption is NT$13.33 million.",
-   "explain_zh": "摘要中說明目前的遺產稅免稅額是新台幣 1,333 萬元。",
-   "news_title_en": "Estate-tax exemption may rise with inflation in 2027",
-   "id": "2026-11-22-09"
+   "explain_en": "The summary says the exemption is expected to rise toward NT$14.78 million in 2027.",
+   "explain_zh": "摘要中提到，2027 年的遺產稅免稅額預計會升至約 NT$14.78 百萬。",
+   "news_title_en": "Taiwan reshapes how pre-death gifts are taxed in estates",
+   "id": "2026-11-23-09"
   },
   {
    "type": "vocab",
-   "question": "In the news summary, what does the word \"rediscount\" mean?",
+   "question": "In the summary, what does the phrase \"capital formation\" mean?",
    "options": [
-    "The rate at which the central bank lends money to commercial banks",
-    "A fee banks pay to the central bank for borrowing money",
-    "A discount given to customers who pay early",
-    "The interest rate that banks charge each other for short‑term loans"
+    "The increase in the number of employees",
+    "The creation of new laws by the government",
+    "The rise in consumer spending",
+    "The process of building new factories and equipment"
    ],
-   "answer": 0,
-   "explain_en": "Here \"rediscount rate\" is the rate the central bank charges commercial banks when it lends them money.",
-   "explain_zh": "在文中「rediscount rate」指的是央行借給商業銀行的利率。",
-   "news_title_en": "Central bank holds rates for a tenth straight meeting",
-   "id": "2026-11-22-10"
+   "answer": 3,
+   "explain_en": "Here, \"capital formation\" refers to investment in physical assets like factories and equipment that help produce goods.",
+   "explain_zh": "在此「capital formation」指的是投資於工廠、設備等實體資產的過程。",
+   "news_title_en": "Taiwan's Q3 growth hits 48-year high on AI exports",
+   "id": "2026-11-23-10"
   },
   {
    "type": "comprehension",
-   "question": "How many consecutive meetings has the CBC held the policy rate steady?",
+   "question": "What was Taiwan's third‑quarter GDP growth rate according to the budget agency's advance estimate?",
    "options": [
-    "Eleven",
-    "Ten",
-    "Eight",
-    "Nine"
+    "10.00%",
+    "14.36%",
+    "8.75%",
+    "12.50%"
    ],
    "answer": 1,
-   "explain_en": "The summary says the CBC kept the rate unchanged for ten consecutive holds.",
-   "explain_zh": "摘要中提到央行已連續十次維持利率不變。",
-   "news_title_en": "Central bank holds rates for a tenth straight meeting",
-   "id": "2026-11-22-11"
+   "explain_en": "The summary states the advance estimate put Q3 GDP growth at 14.36%, the highest in 48 years.",
+   "explain_zh": "摘要中說明，預估的第三季 GDP 成長率為 14.36%，為 48 年來最高。",
+   "news_title_en": "Taiwan's Q3 growth hits 48-year high on AI exports",
+   "id": "2026-11-23-11"
   }
  ]
 }
