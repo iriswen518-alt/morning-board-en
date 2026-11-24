@@ -1,185 +1,185 @@
 {
- "date": "2026-11-23",
+ "date": "2026-11-24",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"de‑risking\" mean?",
+   "question": "In the summary, what does the word \"dovish\" mean?",
    "options": [
-    "Selling all stocks completely",
-    "Reducing exposure to potential losses",
-    "Buying more AI‑related stocks",
-    "Increasing investment in risky assets"
-   ],
-   "answer": 1,
-   "explain_en": "De‑risking means lowering the amount of risk in a portfolio, such as selling assets that might lose value.",
-   "explain_zh": "「de‑risking」是指降低投資組合的風險，例如賣出可能虧損的資產。",
-   "news_title_en": "Foreign funds extend heavy selling as AI-chip valuations reset (2026-11-12)",
-   "id": "2026-11-23-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "How many consecutive sessions have overseas investors been net sellers of Taiwan shares?",
-   "options": [
-    "Eleven",
-    "Ten",
-    "Nine",
-    "Eight"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states they have been net sellers for ten straight sessions.",
-   "explain_zh": "摘要中說明海外投資者已連續十個交易日淨賣出台股。",
-   "news_title_en": "Foreign funds extend heavy selling as AI-chip valuations reset (2026-11-12)",
-   "id": "2026-11-23-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the word \"fabrication\" mean?",
-   "options": [
-    "Making a product in a factory",
-    "Shipping goods overseas",
-    "Designing a marketing plan",
-    "Testing a software program"
-   ],
-   "answer": 0,
-   "explain_en": "Here \"fabrication\" refers to the process of making semiconductor wafers in a factory.",
-   "explain_zh": "此處的「fabrication」指的是在工廠內製造半導體晶圓的過程。",
-   "news_title_en": "Nvidia unveils broad supply-chain pact spanning Taiwan's AI ecosystem (2026-11-17)",
-   "id": "2026-11-23-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "When did Nvidia's Vera Rubin NVL72 system start volume shipments?",
-   "options": [
-    "Q4 2026",
-    "Q3 2026",
-    "Q1 2026",
-    "Q2 2026"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the system began volume shipments in Q3 2026.",
-   "explain_zh": "摘要中說明該系統於2026年第三季開始大量出貨。",
-   "news_title_en": "Nvidia unveils broad supply-chain pact spanning Taiwan's AI ecosystem (2026-11-17)",
-   "id": "2026-11-23-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"supervised\" mean?",
-   "options": [
-    "Made illegal and banned",
-    "Hidden from public view",
-    "Controlled and monitored by an authority",
-    "Sold at a discount"
+    "neutral about interest rates",
+    "opposing any rate changes",
+    "favoring lower interest rates",
+    "supporting higher interest rates"
    ],
    "answer": 2,
-   "explain_en": "The text says Taiwan wants to bring stablecoins into a supervised framework, meaning the government will control and monitor them.",
-   "explain_zh": "文中說要把穩定幣納入受監督的框架，表示政府會對其進行管控與監測。",
-   "news_title_en": "FSC previews stablecoin licensing rules and tightens AML standards (2026-11-03)",
-   "id": "2026-11-23-04"
+   "explain_en": "\"Dovish\" describes a stance that prefers lower interest rates to stimulate the economy.",
+   "explain_zh": "「dovish」指的是傾向降低利率以刺激經濟的立場。",
+   "news_title_en": "Taiwan stocks steady near quarterly line as Fed rate-cut odds rebound",
+   "id": "2026-11-24-00"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what did the Banking Bureau pre‑announce?",
+   "question": "According to the summary, what is the market-implied probability of a December US rate cut?",
    "options": [
-    "A partnership with foreign banks to issue stablecoins",
-    "A draft regulation for stablecoin licensing and AML amendments",
-    "The removal of all anti‑money‑laundering rules",
-    "A new tax on cryptocurrency trading"
+    "About 30%",
+    "About 90%",
+    "About 70%",
+    "About 50%"
    ],
-   "answer": 1,
-   "explain_en": "The summary states the Banking Bureau pre‑announced a draft \"Stablecoin Issuance Permit and Management Regulations\" together with AML requirement changes.",
-   "explain_zh": "摘要中提到金融局預先公布了《穩定幣發行許可與管理規則》草案以及反洗錢要求的修訂。",
-   "news_title_en": "FSC previews stablecoin licensing rules and tightens AML standards (2026-11-03)",
-   "id": "2026-11-23-05"
+   "answer": 2,
+   "explain_en": "The summary says the odds of a December rate cut are back up to roughly 70%.",
+   "explain_zh": "摘要中提到，12 月降息的市場隱含機率大約是 70%。",
+   "news_title_en": "Taiwan stocks steady near quarterly line as Fed rate-cut odds rebound",
+   "id": "2026-11-24-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the term \"Lombard lending\" mean?",
+   "question": "In the summary, what does the phrase \"advanced nodes\" mean?",
    "options": [
-    "A special tax exemption for foreign investors",
-    "Loans secured by a borrower’s financial assets such as stocks or bonds",
-    "A government grant for small businesses",
-    "A type of insurance for high‑value jewelry"
-   ],
-   "answer": 1,
-   "explain_en": "Lombard lending is a loan that uses the borrower’s financial assets (like stocks or bonds) as collateral.",
-   "explain_zh": "Lombard lending 是以借款人的金融資產（如股票或債券）作為抵押的貸款。",
-   "news_title_en": "High-asset wealth management scales up sharply (2026)",
-   "id": "2026-11-23-06"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what was the approximate size of Taiwan's high‑asset wealth‑management scheme at the end of November 2025?",
-   "options": [
-    "NT$3.5 trillion",
-    "NT$2.08 trillion",
-    "NT$4.2 trillion",
-    "NT$1.0 trillion"
-   ],
-   "answer": 1,
-   "explain_en": "The summary states the scheme was roughly NT$2.08 trillion at that time.",
-   "explain_zh": "摘要中提到該方案在2025年11月底約為新台幣 20.8 億元。",
-   "news_title_en": "High-asset wealth management scales up sharply (2026)",
-   "id": "2026-11-23-07"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"exemption\" mean?",
-   "options": [
-    "a loan given by the government",
-    "the amount of money that is not taxed",
-    "a fee that must be paid",
-    "a penalty for breaking a law"
-   ],
-   "answer": 1,
-   "explain_en": "An exemption is the portion of income or value that is not subject to tax.",
-   "explain_zh": "「exemption」指的是免稅額，也就是不需要繳稅的那一部分金額。",
-   "news_title_en": "Taiwan reshapes how pre-death gifts are taxed in estates",
-   "id": "2026-11-23-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "What is the projected estate‑tax exemption amount for 2027?",
-   "options": [
-    "NT$15 million",
-    "NT$13.33 million",
-    "NT$12 million",
-    "NT$14.78 million"
+    "A type of financial market index",
+    "A software development framework",
+    "A brand of smartphones",
+    "The newest versions of computer chips with smaller, more efficient designs"
    ],
    "answer": 3,
-   "explain_en": "The summary says the exemption is expected to rise toward NT$14.78 million in 2027.",
-   "explain_zh": "摘要中提到，2027 年的遺產稅免稅額預計會升至約 NT$14.78 百萬。",
-   "news_title_en": "Taiwan reshapes how pre-death gifts are taxed in estates",
-   "id": "2026-11-23-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"capital formation\" mean?",
-   "options": [
-    "The increase in the number of employees",
-    "The creation of new laws by the government",
-    "The rise in consumer spending",
-    "The process of building new factories and equipment"
-   ],
-   "answer": 3,
-   "explain_en": "Here, \"capital formation\" refers to investment in physical assets like factories and equipment that help produce goods.",
-   "explain_zh": "在此「capital formation」指的是投資於工廠、設備等實體資產的過程。",
-   "news_title_en": "Taiwan's Q3 growth hits 48-year high on AI exports",
-   "id": "2026-11-23-10"
+   "explain_en": "\"Advanced nodes\" refers to the latest, smallest-geometry semiconductor manufacturing processes that make chips faster and more power‑efficient.",
+   "explain_zh": "「advanced nodes」指的是最新、製程更小的半導體製造技術，使晶片更快且更省電。",
+   "news_title_en": "TSMC posts record October revenue as AI demand stays hot",
+   "id": "2026-11-24-02"
   },
   {
    "type": "comprehension",
-   "question": "What was Taiwan's third‑quarter GDP growth rate according to the budget agency's advance estimate?",
+   "question": "According to the summary, when is leading‑edge capacity expected to stay tight?",
    "options": [
-    "10.00%",
-    "14.36%",
-    "8.75%",
-    "12.50%"
+    "Only during the first quarter of 2026",
+    "Into 2027",
+    "Throughout 2025",
+    "After 2030"
    ],
    "answer": 1,
-   "explain_en": "The summary states the advance estimate put Q3 GDP growth at 14.36%, the highest in 48 years.",
-   "explain_zh": "摘要中說明，預估的第三季 GDP 成長率為 14.36%，為 48 年來最高。",
-   "news_title_en": "Taiwan's Q3 growth hits 48-year high on AI exports",
-   "id": "2026-11-23-11"
+   "explain_en": "The text says the capacity will stay tight into 2027 because hyperscalers are continuing to build AI infrastructure.",
+   "explain_zh": "文中指出，由於超大型雲端業者持續建置 AI 基礎建設，先進產能將持續緊張至 2027 年。",
+   "news_title_en": "TSMC posts record October revenue as AI demand stays hot",
+   "id": "2026-11-24-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"permit-based\" mean?",
+   "options": [
+    "It describes a type of cryptocurrency",
+    "It refers to a financial profit margin",
+    "It requires a special permission before issuing stablecoins",
+    "It means the system is free of regulation"
+   ],
+   "answer": 2,
+   "explain_en": "\"Permit-based\" means that issuers must obtain an official permit or license before they can issue stablecoins.",
+   "explain_zh": "「permit-based」指的是發行者必須先取得官方許可或執照才能發行穩定幣。",
+   "news_title_en": "FSC pre-announces draft rules for stablecoin issuance",
+   "id": "2026-11-24-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "What new requirement did the FSC propose for financial institutions?",
+   "options": [
+    "Mandatory use of blockchain for all payments",
+    "Lower taxes on digital assets",
+    "Higher interest rates on loans",
+    "Stricter anti‑money‑laundering rules"
+   ],
+   "answer": 3,
+   "explain_en": "The FSC proposed amendments that tighten anti‑money‑laundering requirements for financial institutions.",
+   "explain_zh": "金融監督管理委員會提出了加強金融機構反洗錢規定的修正案。",
+   "news_title_en": "FSC pre-announces draft rules for stablecoin issuance",
+   "id": "2026-11-24-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"CAGR\" mean?",
+   "options": [
+    "Current Annual Gross Return",
+    "Compound Annual Growth Rate",
+    "Cumulative Asset Gain Ratio",
+    "Corporate Annual Growth Report"
+   ],
+   "answer": 1,
+   "explain_en": "CAGR stands for Compound Annual Growth Rate, the yearly growth rate over a period.",
+   "explain_zh": "CAGR 代表複合年增長率，是指在一段時間內的年均增長率。",
+   "news_title_en": "Global ETF assets near $24tn, on track to pass mutual funds",
+   "id": "2026-11-24-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, when could US ETF assets overtake mutual funds?",
+   "options": [
+    "Early 2026",
+    "Early 2028",
+    "Early 2027",
+    "Early 2025"
+   ],
+   "answer": 2,
+   "explain_en": "The CEO projected that US ETF assets could overtake mutual funds by early 2027.",
+   "explain_zh": "CEO 預測美國 ETF 資產有望在 2027 年初超過共同基金。",
+   "news_title_en": "Global ETF assets near $24tn, on track to pass mutual funds",
+   "id": "2026-11-24-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the phrase \"folded back into\" mean?",
+   "options": [
+    "Given to the government for free",
+    "Removed from the taxable estate",
+    "Added to the taxable estate",
+    "Sent to a different country"
+   ],
+   "answer": 2,
+   "explain_en": "\"Folded back into\" means the gifts are counted as part of the estate for tax purposes.",
+   "explain_zh": "「folded back into」表示這些贈與會被算入遺產，成為應課稅的部分。",
+   "news_title_en": "Taiwan tightens estate-tax treatment of pre-death gifts",
+   "id": "2026-11-24-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, who will pay the tax on gifts made within two years before death?",
+   "options": [
+    "The recipient of the gift",
+    "The Ministry of Finance",
+    "The deceased's spouse",
+    "The donor who gave the gift"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that the recipient bears the corresponding tax.",
+   "explain_zh": "摘要說明，收到贈與的人需要負擔相應的稅款。",
+   "news_title_en": "Taiwan tightens estate-tax treatment of pre-death gifts",
+   "id": "2026-11-24-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the term \"discount rate\" mean?",
+   "options": [
+    "The rate at which a currency loses value over time",
+    "A reduction in price for early payment of a bill",
+    "The tax rate applied to imported goods",
+    "The interest rate the central bank charges commercial banks for short‑term loans"
+   ],
+   "answer": 3,
+   "explain_en": "The discount rate is the rate the central bank sets for banks to borrow money for a short period, usually overnight.",
+   "explain_zh": "貼現率是指央行給予商業銀行短期借款（通常隔夜）的利率。",
+   "news_title_en": "Taiwan's central bank holds rates for a 10th meeting, lifts growth forecast",
+   "id": "2026-11-24-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What is this year's GDP growth forecast announced by the CBC?",
+   "options": [
+    "9.50%",
+    "11.48%",
+    "2.03%",
+    "10.00%"
+   ],
+   "answer": 1,
+   "explain_en": "The summary states the central bank raised the GDP growth forecast sharply to 11.48% for this year.",
+   "explain_zh": "摘要中說明央行把本年度的 GDP 成長預測大幅提升至 11.48%。",
+   "news_title_en": "Taiwan's central bank holds rates for a 10th meeting, lifts growth forecast",
+   "id": "2026-11-24-11"
   }
  ]
 }
