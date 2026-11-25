@@ -1,185 +1,185 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"dovish\" mean?",
+   "question": "In the summary, what does the word \"reinstated\" mean?",
    "options": [
-    "neutral about interest rates",
-    "opposing any rate changes",
-    "favoring lower interest rates",
-    "supporting higher interest rates"
-   ],
-   "answer": 2,
-   "explain_en": "\"Dovish\" describes a stance that prefers lower interest rates to stimulate the economy.",
-   "explain_zh": "「dovish」指的是傾向降低利率以刺激經濟的立場。",
-   "news_title_en": "Taiwan stocks steady near quarterly line as Fed rate-cut odds rebound",
-   "id": "2026-11-24-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, what is the market-implied probability of a December US rate cut?",
-   "options": [
-    "About 30%",
-    "About 90%",
-    "About 70%",
-    "About 50%"
-   ],
-   "answer": 2,
-   "explain_en": "The summary says the odds of a December rate cut are back up to roughly 70%.",
-   "explain_zh": "摘要中提到，12 月降息的市場隱含機率大約是 70%。",
-   "news_title_en": "Taiwan stocks steady near quarterly line as Fed rate-cut odds rebound",
-   "id": "2026-11-24-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the phrase \"advanced nodes\" mean?",
-   "options": [
-    "A type of financial market index",
-    "A software development framework",
-    "A brand of smartphones",
-    "The newest versions of computer chips with smaller, more efficient designs"
-   ],
-   "answer": 3,
-   "explain_en": "\"Advanced nodes\" refers to the latest, smallest-geometry semiconductor manufacturing processes that make chips faster and more power‑efficient.",
-   "explain_zh": "「advanced nodes」指的是最新、製程更小的半導體製造技術，使晶片更快且更省電。",
-   "news_title_en": "TSMC posts record October revenue as AI demand stays hot",
-   "id": "2026-11-24-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, when is leading‑edge capacity expected to stay tight?",
-   "options": [
-    "Only during the first quarter of 2026",
-    "Into 2027",
-    "Throughout 2025",
-    "After 2030"
+    "to promote someone to a higher rank",
+    "to restore someone to a previous position",
+    "to remove someone from a position",
+    "to give someone a new job"
    ],
    "answer": 1,
-   "explain_en": "The text says the capacity will stay tight into 2027 because hyperscalers are continuing to build AI infrastructure.",
-   "explain_zh": "文中指出，由於超大型雲端業者持續建置 AI 基礎建設，先進產能將持續緊張至 2027 年。",
-   "news_title_en": "TSMC posts record October revenue as AI demand stays hot",
-   "id": "2026-11-24-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"permit-based\" mean?",
-   "options": [
-    "It describes a type of cryptocurrency",
-    "It refers to a financial profit margin",
-    "It requires a special permission before issuing stablecoins",
-    "It means the system is free of regulation"
-   ],
-   "answer": 2,
-   "explain_en": "\"Permit-based\" means that issuers must obtain an official permit or license before they can issue stablecoins.",
-   "explain_zh": "「permit-based」指的是發行者必須先取得官方許可或執照才能發行穩定幣。",
-   "news_title_en": "FSC pre-announces draft rules for stablecoin issuance",
-   "id": "2026-11-24-04"
+   "explain_en": "The text says Nvidia's board reinstated Jensen Huang to his executive roles, meaning they put him back into the positions he previously held.",
+   "explain_zh": "文中說 Nvidia 董事會 reinstated Jensen Huang，表示把他恢復到先前的執行職位。",
+   "news_title_en": "TAIEX posts record single-day point gain as Nvidia news sparks a rally",
+   "id": "2026-11-25-00"
   },
   {
    "type": "comprehension",
-   "question": "What new requirement did the FSC propose for financial institutions?",
+   "question": "How many points did the TAIEX gain on November 24?",
    "options": [
-    "Mandatory use of blockchain for all payments",
-    "Lower taxes on digital assets",
-    "Higher interest rates on loans",
-    "Stricter anti‑money‑laundering rules"
+    "600 points",
+    "419.4 billion NT dollars",
+    "2,230 points",
+    "3,310.46 points"
    ],
    "answer": 3,
-   "explain_en": "The FSC proposed amendments that tighten anti‑money‑laundering requirements for financial institutions.",
-   "explain_zh": "金融監督管理委員會提出了加強金融機構反洗錢規定的修正案。",
-   "news_title_en": "FSC pre-announces draft rules for stablecoin issuance",
-   "id": "2026-11-24-05"
+   "explain_en": "The summary states the TAIEX surged 3,310.46 points, which was an 8.99% increase.",
+   "explain_zh": "摘要中說 TAIEX 在 11 月 24 日上漲了 3,310.46 點，漲幅 8.99%。",
+   "news_title_en": "TAIEX posts record single-day point gain as Nvidia news sparks a rally",
+   "id": "2026-11-25-01"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"CAGR\" mean?",
+   "question": "In the summary, what does the word \"anchor\" mean?",
    "options": [
-    "Current Annual Gross Return",
-    "Compound Annual Growth Rate",
-    "Cumulative Asset Gain Ratio",
-    "Corporate Annual Growth Report"
+    "to sink a ship",
+    "to cancel a plan",
+    "to support or hold something firmly",
+    "to write a news article"
    ],
-   "answer": 1,
-   "explain_en": "CAGR stands for Compound Annual Growth Rate, the yearly growth rate over a period.",
-   "explain_zh": "CAGR 代表複合年增長率，是指在一段時間內的年均增長率。",
-   "news_title_en": "Global ETF assets near $24tn, on track to pass mutual funds",
-   "id": "2026-11-24-06"
+   "answer": 2,
+   "explain_en": "Here \"anchor\" means to support or hold something firmly, like Taiwan's semiconductor supply chain is held steady until 2027.",
+   "explain_zh": "此處的「anchor」指的是支撐或穩固，使台灣半導體供應鏈穩定到2027年。",
+   "news_title_en": "TSMC says global AI demand keeps advanced-node capacity tight",
+   "id": "2026-11-25-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, when could US ETF assets overtake mutual funds?",
+   "question": "According to the summary, until what year does TSMC expect its advanced-node capacity to stay in short supply?",
    "options": [
-    "Early 2026",
-    "Early 2028",
-    "Early 2027",
-    "Early 2025"
+    "2025",
+    "2028",
+    "2027",
+    "2026"
    ],
    "answer": 2,
-   "explain_en": "The CEO projected that US ETF assets could overtake mutual funds by early 2027.",
-   "explain_zh": "CEO 預測美國 ETF 資產有望在 2027 年初超過共同基金。",
-   "news_title_en": "Global ETF assets near $24tn, on track to pass mutual funds",
-   "id": "2026-11-24-07"
+   "explain_en": "The summary says the supply chain is anchored into 2027, indicating the tight capacity is expected through that year.",
+   "explain_zh": "摘要提到供應鏈被固定到2027年，表示先進製程產能緊張將持續到那一年。",
+   "news_title_en": "TSMC says global AI demand keeps advanced-node capacity tight",
+   "id": "2026-11-25-03"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"folded back into\" mean?",
+   "question": "What does the word \"issuance\" mean as used in the text?",
    "options": [
-    "Given to the government for free",
-    "Removed from the taxable estate",
-    "Added to the taxable estate",
-    "Sent to a different country"
-   ],
-   "answer": 2,
-   "explain_en": "\"Folded back into\" means the gifts are counted as part of the estate for tax purposes.",
-   "explain_zh": "「folded back into」表示這些贈與會被算入遺產，成為應課稅的部分。",
-   "news_title_en": "Taiwan tightens estate-tax treatment of pre-death gifts",
-   "id": "2026-11-24-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, who will pay the tax on gifts made within two years before death?",
-   "options": [
-    "The recipient of the gift",
-    "The Ministry of Finance",
-    "The deceased's spouse",
-    "The donor who gave the gift"
+    "The process of creating and distributing something, such as a stablecoin",
+    "A type of financial loss",
+    "A meeting of regulators",
+    "A legal penalty for breaking rules"
    ],
    "answer": 0,
-   "explain_en": "The summary states that the recipient bears the corresponding tax.",
-   "explain_zh": "摘要說明，收到贈與的人需要負擔相應的稅款。",
-   "news_title_en": "Taiwan tightens estate-tax treatment of pre-death gifts",
-   "id": "2026-11-24-09"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the term \"discount rate\" mean?",
-   "options": [
-    "The rate at which a currency loses value over time",
-    "A reduction in price for early payment of a bill",
-    "The tax rate applied to imported goods",
-    "The interest rate the central bank charges commercial banks for short‑term loans"
-   ],
-   "answer": 3,
-   "explain_en": "The discount rate is the rate the central bank sets for banks to borrow money for a short period, usually overnight.",
-   "explain_zh": "貼現率是指央行給予商業銀行短期借款（通常隔夜）的利率。",
-   "news_title_en": "Taiwan's central bank holds rates for a 10th meeting, lifts growth forecast",
-   "id": "2026-11-24-10"
+   "explain_en": "\"Issuance\" refers to the act of creating and releasing a financial instrument, here a stablecoin, to the market.",
+   "explain_zh": "「issuance」指的是發行或推出金融工具，在文中是指穩定幣的創建與發行。",
+   "news_title_en": "FSC pre-announces draft rules for stablecoin issuance",
+   "id": "2026-11-25-04"
   },
   {
    "type": "comprehension",
-   "question": "What is this year's GDP growth forecast announced by the CBC?",
+   "question": "According to the summary, what is one of the goals of the new draft regulation?",
    "options": [
-    "9.50%",
-    "11.48%",
-    "2.03%",
-    "10.00%"
+    "To increase taxes on stablecoin issuers",
+    "To eliminate all anti‑money‑laundering rules",
+    "To ban all digital assets in Taiwan",
+    "To balance financial innovation with investor protection"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states the regulator wants to balance financial innovation with investor protection and systemic stability.",
+   "explain_zh": "摘要說明監管機關的目標是兼顧金融創新與投資人保護，並維持系統穩定。",
+   "news_title_en": "FSC pre-announces draft rules for stablecoin issuance",
+   "id": "2026-11-25-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"penetration\" mean?",
+   "options": [
+    "The level of market presence",
+    "The speed of trading",
+    "The amount of money invested",
+    "The number of new funds"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"penetration\" refers to how much professional management is present in the market.",
+   "explain_zh": "此處的「penetration」指的是專業管理在市場中的滲透程度，即佔有率。",
+   "news_title_en": "FSC pushes Taiwan as an Asian asset-management hub and ETF internationalization",
+   "id": "2026-11-25-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, which region has the fastest asset‑management growth?",
+   "options": [
+    "North America",
+    "Asia‑Pacific",
+    "Europe",
+    "South America"
    ],
    "answer": 1,
-   "explain_en": "The summary states the central bank raised the GDP growth forecast sharply to 11.48% for this year.",
-   "explain_zh": "摘要中說明央行把本年度的 GDP 成長預測大幅提升至 11.48%。",
-   "news_title_en": "Taiwan's central bank holds rates for a 10th meeting, lifts growth forecast",
-   "id": "2026-11-24-11"
+   "explain_en": "The summary states that Asia‑Pacific has the world's fastest asset‑management growth.",
+   "explain_zh": "摘要中說明亞太地區的資產管理增長速度是全球最快的。",
+   "news_title_en": "FSC pushes Taiwan as an Asian asset-management hub and ETF internationalization",
+   "id": "2026-11-25-07"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"overhaul\" mean?",
+   "options": [
+    "to approve a new law",
+    "to completely change or restructure",
+    "to calculate taxes",
+    "to delay a decision"
+   ],
+   "answer": 1,
+   "explain_en": "Here \"overhaul\" means the tax law is being completely changed or restructured.",
+   "explain_zh": "此處的「overhaul」指的是對稅法進行全面的改變或重組。",
+   "news_title_en": "2026 estate-and-gift-tax overhaul reshapes gifting and succession",
+   "id": "2026-11-25-08"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, who will pay the estate tax on property gifted within two years before death?",
+   "options": [
+    "The original owner who gave the gift",
+    "The spouse of the deceased",
+    "The government automatically",
+    "The recipient of the gift"
+   ],
+   "answer": 3,
+   "explain_en": "The summary states that the recipient of the gifted property will bear the estate tax.",
+   "explain_zh": "摘要說明，收到贈與財產的人需要負擔遺產稅。",
+   "news_title_en": "2026 estate-and-gift-tax overhaul reshapes gifting and succession",
+   "id": "2026-11-25-09"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word “engine” mean?",
+   "options": [
+    "a type of vehicle",
+    "a mechanical device that moves",
+    "the main cause or driving force",
+    "the fuel used by a machine"
+   ],
+   "answer": 2,
+   "explain_en": "Here “engine” is used metaphorically to mean the main cause that drives the growth, i.e., AI‑driven exports.",
+   "explain_zh": "此處的「engine」是比喻，用來表示帶動成長的主要原因，也就是 AI 促進的出口。",
+   "news_title_en": "Taiwan Q3 GDP growth estimated at 14.36%, a 48-year high",
+   "id": "2026-11-25-10"
+  },
+  {
+   "type": "comprehension",
+   "question": "What was the estimated third‑quarter GDP growth rate for Taiwan?",
+   "options": [
+    "14.36%",
+    "12.90%",
+    "13.22%",
+    "15.48%"
+   ],
+   "answer": 0,
+   "explain_en": "The summary states that the DGBAS pegged third‑quarter economic growth at 14.36%.",
+   "explain_zh": "摘要中說明，行政院主計總處將第三季 GDP 成長率估計為 14.36%。",
+   "news_title_en": "Taiwan Q3 GDP growth estimated at 14.36%, a 48-year high",
+   "id": "2026-11-25-11"
   }
  ]
 }
