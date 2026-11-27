@@ -1,185 +1,185 @@
 {
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the phrase \"bargain hunters\" mean?",
+   "question": "In the summary, what does the word \"rebounded\" mean?",
    "options": [
-    "People who buy groceries on sale",
-    "Traders who sell at high prices",
-    "Investors looking for cheap stocks",
-    "Analysts who predict market trends"
+    "Stayed the same",
+    "Went down sharply",
+    "Went up again after falling",
+    "Closed at the same level as yesterday"
    ],
    "answer": 2,
-   "explain_en": "\"Bargain hunters\" refers to investors trying to buy stocks that have dropped in price, hoping for a good deal.",
-   "explain_zh": "「bargain hunters」指的是想以較低價格買進股票、尋求好交易的投資人。",
-   "news_title_en": "TAIEX plunges 4.8% as foreign funds flee, index heads for worst month since 2008",
-   "id": "2026-11-26-00"
+   "explain_en": "Here \"rebounded\" means the index rose again after a previous drop.",
+   "explain_zh": "在文中「rebounded」指的是指數在跌後再次上升。",
+   "news_title_en": "TAIEX rebounds 2.50% to close above 39,000 after Wednesday's chip rout",
+   "id": "2026-11-27-00"
   },
   {
    "type": "comprehension",
-   "question": "How much did foreign institutions sell on the main board in net terms?",
+   "question": "By how many points did the TAIEX increase on Thursday, Nov 26?",
    "options": [
-    "NT$123.65 billion",
-    "NT$123.65 million",
-    "NT$1.2365 billion",
-    "NT$12.365 billion"
+    "About 39,000 points",
+    "About 480 points",
+    "About 2,500 points",
+    "About 956 points"
+   ],
+   "answer": 3,
+   "explain_en": "The summary says the index closed at 39,151.81, up about 956 points.",
+   "explain_zh": "摘要說指數收在 39,151.81 點，上漲約 956 點。",
+   "news_title_en": "TAIEX rebounds 2.50% to close above 39,000 after Wednesday's chip rout",
+   "id": "2026-11-27-01"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"pivot\" mean?",
+   "options": [
+    "a type of computer chip",
+    "a financial loss",
+    "a government policy",
+    "the main point or focus"
+   ],
+   "answer": 3,
+   "explain_en": "Here \"pivot\" means the main point or focus that the market is revolving around.",
+   "explain_zh": "這裡的「pivot」指的是市場的核心或焦點。",
+   "news_title_en": "AI chip stocks stay the market's pivot as TSMC slips even on rebound day",
+   "id": "2026-11-27-02"
+  },
+  {
+   "type": "comprehension",
+   "question": "According to the summary, how did TSMC's stock move on the rebound day?",
+   "options": [
+    "It fell about 0.2%",
+    "It stayed unchanged",
+    "It rose more than 1%",
+    "It rose about 0.2%"
    ],
    "answer": 0,
-   "explain_en": "The summary states foreign institutions sold a net NT$123.65 billion on the main board.",
-   "explain_zh": "摘要中說外資機構在主板淨賣出 123.65 億新台幣。",
-   "news_title_en": "TAIEX plunges 4.8% as foreign funds flee, index heads for worst month since 2008",
-   "id": "2026-11-26-01"
+   "explain_en": "The summary says TSMC edged about 0.2% lower even as the broader index bounced.",
+   "explain_zh": "摘要指出，儘管大盤回升，台積電仍下跌約0.2%。",
+   "news_title_en": "AI chip stocks stay the market's pivot as TSMC slips even on rebound day",
+   "id": "2026-11-27-03"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"hammered\" mean?",
+   "question": "In the text, what does the word \"issuance\" mean?",
    "options": [
-    "Increased demand",
-    "Caused a big drop in price",
-    "Improved performance",
-    "Made cheaper"
+    "The process of creating and releasing something, such as a stablecoin",
+    "A method of measuring market volatility",
+    "The act of destroying a financial product",
+    "A type of banking fee"
    ],
-   "answer": 1,
-   "explain_en": "Here \"hammered\" means the stocks fell sharply because of the worries.",
-   "explain_zh": "此處的「hammered」指的是因擔憂而導致股價大幅下跌。",
-   "news_title_en": "AI-bubble fears sink TSMC and SK Hynix as the 'Huang boost' fades fast",
-   "id": "2026-11-26-02"
+   "answer": 0,
+   "explain_en": "\"Issuance\" refers to the creation and distribution of a financial instrument, here a stablecoin.",
+   "explain_zh": "「issuance」指的是創造並發行金融工具，在本文中是指穩定幣的發行。",
+   "news_title_en": "FSC advances stablecoin issuance rules limited to banks and bank-led ventures",
+   "id": "2026-11-27-04"
   },
   {
    "type": "comprehension",
-   "question": "Which two companies led the regional declines after the rally faded?",
+   "question": "According to the summary, who is allowed to issue stablecoins under the new draft rules?",
    "options": [
-    "Samsung and Micron",
-    "TSMC and SK Hynix",
-    "Nvidia and AMD",
-    "Intel and Qualcomm"
-   ],
-   "answer": 1,
-   "explain_en": "The summary says TSMC and memory maker SK Hynix led the declines.",
-   "explain_zh": "摘要指出台積電（TSMC）與記憶體製造商 SK Hynix 引領了區域跌勢。",
-   "news_title_en": "AI-bubble fears sink TSMC and SK Hynix as the 'Huang boost' fades fast",
-   "id": "2026-11-26-03"
-  },
-  {
-   "type": "vocab",
-   "question": "In the text, what does the phrase \"cross-disciplinary expertise\" mean?",
-   "options": [
-    "Ability to work only within the insurance industry",
-    "Knowledge in one specific field only",
-    "Experience in managing cross-border projects",
-    "Skills that combine knowledge from several different fields"
-   ],
-   "answer": 3,
-   "explain_en": "It refers to skills that draw from multiple different areas of knowledge, not just one specialty.",
-   "explain_zh": "指的是結合多個不同領域知識的技能，而非單一專業。",
-   "news_title_en": "FSC widens the talent pool for insurer executives from 7 to 12 fields",
-   "id": "2026-11-26-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "When will the new talent pool rules for insurer executives become effective?",
-   "options": [
-    "October 1",
-    "December 31",
-    "January 1",
-    "November 22"
-   ],
-   "answer": 3,
-   "explain_en": "The summary states the change is effective on Nov 22.",
-   "explain_zh": "摘要中說明此變更於 11 月 22 日生效。",
-   "news_title_en": "FSC widens the talent pool for insurer executives from 7 to 12 fields",
-   "id": "2026-11-26-05"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"discretionary\" mean?",
-   "options": [
-    "managed by a computer algorithm",
-    "required by law",
-    "selected by a professional manager based on judgment",
-    "chosen by the investor themselves"
+    "Individual investors",
+    "Only foreign governments",
+    "Only banks or bank‑led ventures",
+    "Any company that wants to"
    ],
    "answer": 2,
-   "explain_en": "Here \"discretionary\" refers to mandates where a professional manager decides how to invest, using their judgment.",
-   "explain_zh": "此處的「discretionary」指的是由專業經理人自行判斷、決定投資方式的委託。",
-   "news_title_en": "Active ETFs multiply as asset managers roll out new AI and equity strategies",
-   "id": "2026-11-26-06"
+   "explain_en": "The draft rules limit stablecoin issuance to banks or ventures led by banks.",
+   "explain_zh": "草案規定只有銀行或由銀行領導的事業體才能發行穩定幣。",
+   "news_title_en": "FSC advances stablecoin issuance rules limited to banks and bank-led ventures",
+   "id": "2026-11-27-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the phrase \"high‑asset\" mean?",
+   "options": [
+    "Being a government agency",
+    "Being a new bank",
+    "Having a low amount of money",
+    "Having a large amount of money or wealth"
+   ],
+   "answer": 3,
+   "explain_en": "\"High‑asset\" describes clients or programs that manage a large amount of assets, as shown by the trillions of NT$ mentioned.",
+   "explain_zh": "「high‑asset」指的是資產規模很大的客戶或方案，文中提到的資產金額就說明了這點。",
+   "news_title_en": "High-asset AUM at banks tops NT$2 trillion, up more than 50% year-on-year",
+   "id": "2026-11-27-06"
   },
   {
    "type": "comprehension",
-   "question": "What is the ticker symbol of the actively managed AI-technology Taiwan-equity ETF mentioned in the summary?",
+   "question": "According to the summary, how much did the assets managed by the 20 banks increase year‑on‑year?",
    "options": [
-    "00321C",
-    "00418B",
-    "00500D",
-    "00419A"
+    "Less than 10%",
+    "More than 50%",
+    "Exactly 20%",
+    "No increase"
    ],
-   "answer": 3,
-   "explain_en": "The summary states the ticker for that ETF is 00419A.",
-   "explain_zh": "摘要中提到該主動式 AI 科技台灣股票 ETF 的代號是 00419A。",
-   "news_title_en": "Active ETFs multiply as asset managers roll out new AI and equity strategies",
-   "id": "2026-11-26-07"
+   "answer": 1,
+   "explain_en": "The summary states the assets are up more than 50% year‑on‑year.",
+   "explain_zh": "摘要中說明資產較去年增長超過 50%。",
+   "news_title_en": "High-asset AUM at banks tops NT$2 trillion, up more than 50% year-on-year",
+   "id": "2026-11-27-07"
   },
   {
    "type": "vocab",
    "question": "In the summary, what does the word \"exemption\" mean?",
    "options": [
-    "a government subsidy",
-    "a tax that must be paid",
-    "a type of investment",
-    "a reduction or removal of a tax requirement"
+    "A government subsidy",
+    "A tax that must be paid",
+    "A type of investment",
+    "A reduction or removal of a tax requirement"
    ],
    "answer": 3,
-   "explain_en": "An exemption is a reduction or removal of a tax requirement, as used for estate‑tax and gift‑tax exemptions.",
-   "explain_zh": "「exemption」指的是減免稅負，文中是指遺產稅與贈與稅的免稅額。",
-   "news_title_en": "Estate- and gift-tax exemptions set to rise in 2027 as inflation crosses threshold",
-   "id": "2026-11-26-08"
+   "explain_en": "An exemption is a reduction or removal of a tax that would otherwise be required.",
+   "explain_zh": "「exemption」指的是免除或減免本應繳納的稅款。",
+   "news_title_en": "Estate and gift tax exemptions set to rise for 2027 as CPI crosses threshold",
+   "id": "2026-11-27-08"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, by how much could heirs save in estate tax after the exemption increase?",
+   "question": "According to the summary, when will Taiwan's estate‑tax exemption increase to about NT$14.78 million?",
    "options": [
-    "NT$1.5 million",
-    "NT$15,000",
-    "NT$15 million",
-    "NT$150,000"
+    "In 2027",
+    "In 2028",
+    "In 2026",
+    "In 2025"
    ],
-   "answer": 3,
-   "explain_en": "The text states the change could save heirs over NT$150,000 in estate tax.",
-   "explain_zh": "文中說，稅額調整後，繼承人可節省超過 15 萬新台幣的遺產稅。",
-   "news_title_en": "Estate- and gift-tax exemptions set to rise in 2027 as inflation crosses threshold",
-   "id": "2026-11-26-09"
+   "answer": 0,
+   "explain_en": "The summary states the increase is set for cases arising from 2027.",
+   "explain_zh": "摘要中說明，遺產稅免稅額的提升將於 2027 年起生效。",
+   "news_title_en": "Estate and gift tax exemptions set to rise for 2027 as CPI crosses threshold",
+   "id": "2026-11-27-09"
   },
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"gauge\" mean?",
+   "question": "In the text, what does the word \"repatriation\" mean?",
    "options": [
-    "a type of financial instrument",
-    "a tool for measuring something",
-    "a forecast model",
-    "a government agency"
+    "Increasing interest rates",
+    "Reducing taxes",
+    "Investing in foreign stocks",
+    "Sending money back to its home country"
    ],
-   "answer": 1,
-   "explain_en": "Here \"gauge\" refers to a measurement tool, specifically the Fed's preferred inflation gauge measures inflation.",
-   "explain_zh": "這裡的 \"gauge\" 指的是測量工具，也就是美聯儲用來衡量通膨的指標。",
-   "news_title_en": "US October PCE accelerates to 3.8%, a near three-year high",
-   "id": "2026-11-26-10"
+   "answer": 3,
+   "explain_en": "Repatriation here means sending dividend money back to the investors' home country.",
+   "explain_zh": "在文中，repatriation 指的是把股息金額匯回投資者的本國。",
+   "news_title_en": "Taiwan's FX reserves slip below US$600 billion amid record equity outflows",
+   "id": "2026-11-27-10"
   },
   {
    "type": "comprehension",
-   "question": "What was the annual rate of the core PCE in October?",
+   "question": "According to the summary, what happened to Taiwan's foreign‑exchange reserves?",
    "options": [
-    "3.3%",
-    "3.8%",
-    "3.2%",
-    "4.0%"
+    "They were unchanged from last year",
+    "They fell below US$600 billion",
+    "They stayed exactly at US$600 billion",
+    "They rose above US$700 billion"
    ],
-   "answer": 0,
-   "explain_en": "The summary states that core PCE was 3.3% in October.",
-   "explain_zh": "摘要中說明核心個人消費支出（core PCE）在十月是 3.3%。",
-   "news_title_en": "US October PCE accelerates to 3.8%, a near three-year high",
-   "id": "2026-11-26-11"
+   "answer": 1,
+   "explain_en": "The summary states that the reserves have fallen below the US$600 billion mark.",
+   "explain_zh": "摘要中說明，台灣的外匯儲備已跌破 600 億美元大關。",
+   "news_title_en": "Taiwan's FX reserves slip below US$600 billion amid record equity outflows",
+   "id": "2026-11-27-11"
   }
  ]
 }
