@@ -1,185 +1,170 @@
 {
- "date": "2026-11-27",
+ "date": "2026-11-28",
  "questions": [
   {
    "type": "vocab",
-   "question": "In the summary, what does the word \"rebounded\" mean?",
+   "question": "In the summary, what does the phrase \"clawing back\" mean?",
    "options": [
-    "Stayed the same",
-    "Went down sharply",
-    "Went up again after falling",
-    "Closed at the same level as yesterday"
-   ],
-   "answer": 2,
-   "explain_en": "Here \"rebounded\" means the index rose again after a previous drop.",
-   "explain_zh": "在文中「rebounded」指的是指數在跌後再次上升。",
-   "news_title_en": "TAIEX rebounds 2.50% to close above 39,000 after Wednesday's chip rout",
-   "id": "2026-11-27-00"
-  },
-  {
-   "type": "comprehension",
-   "question": "By how many points did the TAIEX increase on Thursday, Nov 26?",
-   "options": [
-    "About 39,000 points",
-    "About 480 points",
-    "About 2,500 points",
-    "About 956 points"
-   ],
-   "answer": 3,
-   "explain_en": "The summary says the index closed at 39,151.81, up about 956 points.",
-   "explain_zh": "摘要說指數收在 39,151.81 點，上漲約 956 點。",
-   "news_title_en": "TAIEX rebounds 2.50% to close above 39,000 after Wednesday's chip rout",
-   "id": "2026-11-27-01"
-  },
-  {
-   "type": "vocab",
-   "question": "In the summary, what does the word \"pivot\" mean?",
-   "options": [
-    "a type of computer chip",
-    "a financial loss",
-    "a government policy",
-    "the main point or focus"
-   ],
-   "answer": 3,
-   "explain_en": "Here \"pivot\" means the main point or focus that the market is revolving around.",
-   "explain_zh": "這裡的「pivot」指的是市場的核心或焦點。",
-   "news_title_en": "AI chip stocks stay the market's pivot as TSMC slips even on rebound day",
-   "id": "2026-11-27-02"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, how did TSMC's stock move on the rebound day?",
-   "options": [
-    "It fell about 0.2%",
-    "It stayed unchanged",
-    "It rose more than 1%",
-    "It rose about 0.2%"
+    "recovering after a loss",
+    "digging deeper into the ground",
+    "cutting costs sharply",
+    "increasing very quickly"
    ],
    "answer": 0,
-   "explain_en": "The summary says TSMC edged about 0.2% lower even as the broader index bounced.",
-   "explain_zh": "摘要指出，儘管大盤回升，台積電仍下跌約0.2%。",
-   "news_title_en": "AI chip stocks stay the market's pivot as TSMC slips even on rebound day",
-   "id": "2026-11-27-03"
+   "explain_en": "\"Clawing back\" means the index recovered after falling earlier.",
+   "explain_zh": "「clawing back」指的是指數在先前下跌後恢復。",
+   "news_title_en": "Taiex ends up 156 points, holds above 39,000 as TSMC rebounds",
+   "id": "2026-11-28-00"
   },
   {
-   "type": "vocab",
-   "question": "In the text, what does the word \"issuance\" mean?",
+   "type": "comprehension",
+   "question": "What was the closing level of the Taiex on Friday?",
    "options": [
-    "The process of creating and releasing something, such as a stablecoin",
-    "A method of measuring market volatility",
-    "The act of destroying a financial product",
-    "A type of banking fee"
+    "39,308.08",
+    "39,000",
+    "39,500",
+    "38,900"
    ],
    "answer": 0,
-   "explain_en": "\"Issuance\" refers to the creation and distribution of a financial instrument, here a stablecoin.",
-   "explain_zh": "「issuance」指的是創造並發行金融工具，在本文中是指穩定幣的發行。",
-   "news_title_en": "FSC advances stablecoin issuance rules limited to banks and bank-led ventures",
-   "id": "2026-11-27-04"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, who is allowed to issue stablecoins under the new draft rules?",
-   "options": [
-    "Individual investors",
-    "Only foreign governments",
-    "Only banks or bank‑led ventures",
-    "Any company that wants to"
-   ],
-   "answer": 2,
-   "explain_en": "The draft rules limit stablecoin issuance to banks or ventures led by banks.",
-   "explain_zh": "草案規定只有銀行或由銀行領導的事業體才能發行穩定幣。",
-   "news_title_en": "FSC advances stablecoin issuance rules limited to banks and bank-led ventures",
-   "id": "2026-11-27-05"
+   "explain_en": "The summary states the Taiex closed at 39,308.08 points.",
+   "explain_zh": "摘要中說台股收盤在 39,308.08 點。",
+   "news_title_en": "Taiex ends up 156 points, holds above 39,000 as TSMC rebounds",
+   "id": "2026-11-28-01"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the phrase \"high‑asset\" mean?",
+   "question": "In the text, what does the word \"curbs\" mean?",
    "options": [
-    "Being a government agency",
-    "Being a new bank",
-    "Having a low amount of money",
-    "Having a large amount of money or wealth"
+    "Restrictions",
+    "Advertisements",
+    "Speed limits",
+    "Rewards"
    ],
-   "answer": 3,
-   "explain_en": "\"High‑asset\" describes clients or programs that manage a large amount of assets, as shown by the trillions of NT$ mentioned.",
-   "explain_zh": "「high‑asset」指的是資產規模很大的客戶或方案，文中提到的資產金額就說明了這點。",
-   "news_title_en": "High-asset AUM at banks tops NT$2 trillion, up more than 50% year-on-year",
-   "id": "2026-11-27-06"
+   "answer": 0,
+   "explain_en": "\"Curbs\" refers to limits or restrictions that are being tightened.",
+   "explain_zh": "「curbs」在此指的是限制或約束，意即加緊的限制措施。",
+   "news_title_en": "Nvidia halts AI server shipments to four Southeast Asian nations",
+   "id": "2026-11-28-02"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, how much did the assets managed by the 20 banks increase year‑on‑year?",
+   "question": "Which countries did Nvidia ask server makers to stop AI server shipments to?",
    "options": [
-    "Less than 10%",
-    "More than 50%",
-    "Exactly 20%",
-    "No increase"
+    "Japan, South Korea, Vietnam, and Philippines",
+    "China, India, Brazil, and Mexico",
+    "Australia, New Zealand, Canada, and United Kingdom",
+    "Singapore, Malaysia, Thailand, and Indonesia"
+   ],
+   "answer": 3,
+   "explain_en": "The summary lists Singapore, Malaysia, Thailand and Indonesia as the four Southeast Asian nations.",
+   "explain_zh": "摘要中明確指出，Nvidia 要求停止出貨的四個東南亞國家是新加坡、馬來西亞、泰國和印尼。",
+   "news_title_en": "Nvidia halts AI server shipments to four Southeast Asian nations",
+   "id": "2026-11-28-03"
+  },
+  {
+   "type": "vocab",
+   "question": "In the summary, what does the word \"harden\" mean?",
+   "options": [
+    "Make stronger",
+    "Make cheaper",
+    "Make smaller",
+    "Make softer"
+   ],
+   "answer": 0,
+   "explain_en": "Here \"harden\" means to make the digital defenses stronger.",
+   "explain_zh": "此處的「harden」指的是讓數位防禦更堅固。",
+   "news_title_en": "FSC orders banks and insurers to self-assess cyber resilience by year-end",
+   "id": "2026-11-28-04"
+  },
+  {
+   "type": "comprehension",
+   "question": "By what year must financial institutions finish the 14 cybersecurity self‑assessment items?",
+   "options": [
+    "2027",
+    "2024",
+    "2026",
+    "2025"
+   ],
+   "answer": 2,
+   "explain_en": "The summary says the items must be reported before the end of 2026.",
+   "explain_zh": "摘要中說這些項目必須在2026年底前完成並報告。",
+   "news_title_en": "FSC orders banks and insurers to self-assess cyber resilience by year-end",
+   "id": "2026-11-28-05"
+  },
+  {
+   "type": "vocab",
+   "question": "In the text, what does the word \"flexibility\" mean?",
+   "options": [
+    "A strict rule that cannot be broken",
+    "A government regulation",
+    "The ability to change or adapt easily",
+    "A type of financial instrument"
+   ],
+   "answer": 2,
+   "explain_en": "Here \"flexibility\" refers to the ability for clients to adjust or choose different ETF positions within the trust.",
+   "explain_zh": "此處的「flexibility」指的是客戶在信託內能靈活調整或選擇不同的ETF持倉。",
+   "news_title_en": "CTBC Bank expands personal trusts to include domestic ETFs",
+   "id": "2026-11-28-06"
+  },
+  {
+   "type": "comprehension",
+   "question": "What new type of asset did CTBC Bank add to its personal trust service?",
+   "options": [
+    "Real estate properties",
+    "Domestic ETFs",
+    "International stocks",
+    "Offshore bonds"
    ],
    "answer": 1,
-   "explain_en": "The summary states the assets are up more than 50% year‑on‑year.",
-   "explain_zh": "摘要中說明資產較去年增長超過 50%。",
-   "news_title_en": "High-asset AUM at banks tops NT$2 trillion, up more than 50% year-on-year",
-   "id": "2026-11-27-07"
+   "explain_en": "The summary states that domestically listed ETFs are now included in the personal trust service.",
+   "explain_zh": "摘要中說明，CTBC銀行將國內上市的ETF納入個人信託服務。",
+   "news_title_en": "CTBC Bank expands personal trusts to include domestic ETFs",
+   "id": "2026-11-28-07"
   },
   {
    "type": "vocab",
    "question": "In the summary, what does the word \"exemption\" mean?",
    "options": [
-    "A government subsidy",
+    "A new tax rate",
     "A tax that must be paid",
-    "A type of investment",
+    "A penalty for late payment",
     "A reduction or removal of a tax requirement"
    ],
    "answer": 3,
    "explain_en": "An exemption is a reduction or removal of a tax that would otherwise be required.",
-   "explain_zh": "「exemption」指的是免除或減免本應繳納的稅款。",
-   "news_title_en": "Estate and gift tax exemptions set to rise for 2027 as CPI crosses threshold",
-   "id": "2026-11-27-08"
-  },
-  {
-   "type": "comprehension",
-   "question": "According to the summary, when will Taiwan's estate‑tax exemption increase to about NT$14.78 million?",
-   "options": [
-    "In 2027",
-    "In 2028",
-    "In 2026",
-    "In 2025"
-   ],
-   "answer": 0,
-   "explain_en": "The summary states the increase is set for cases arising from 2027.",
-   "explain_zh": "摘要中說明，遺產稅免稅額的提升將於 2027 年起生效。",
-   "news_title_en": "Estate and gift tax exemptions set to rise for 2027 as CPI crosses threshold",
-   "id": "2026-11-27-09"
+   "explain_zh": "「exemption」指的是免除或減免本來必須繳納的稅金。",
+   "news_title_en": "Estate-tax exemption set to rise to NT$14.92m as inflation hits threshold",
+   "id": "2026-11-28-08"
   },
   {
    "type": "vocab",
-   "question": "In the text, what does the word \"repatriation\" mean?",
+   "question": "In the news summary, what does the word \"inflation\" mean?",
    "options": [
-    "Increasing interest rates",
-    "Reducing taxes",
-    "Investing in foreign stocks",
-    "Sending money back to its home country"
+    "The amount of money the government spends",
+    "A decrease in the amount of money people earn",
+    "A rise in the general price level of goods and services",
+    "A measure of how many people are unemployed"
    ],
-   "answer": 3,
-   "explain_en": "Repatriation here means sending dividend money back to the investors' home country.",
-   "explain_zh": "在文中，repatriation 指的是把股息金額匯回投資者的本國。",
-   "news_title_en": "Taiwan's FX reserves slip below US$600 billion amid record equity outflows",
-   "id": "2026-11-27-10"
+   "answer": 2,
+   "explain_en": "Inflation refers to the overall increase in prices, which is what the summary discusses.",
+   "explain_zh": "通膨指的是物價普遍上漲，正是摘要中所提到的概念。",
+   "news_title_en": "October CPI at 2.33%, above the 2% alert line for a sixth month",
+   "id": "2026-11-28-09"
   },
   {
    "type": "comprehension",
-   "question": "According to the summary, what happened to Taiwan's foreign‑exchange reserves?",
+   "question": "For how many consecutive months has Taiwan's CPI stayed above the 2% watch level?",
    "options": [
-    "They were unchanged from last year",
-    "They fell below US$600 billion",
-    "They stayed exactly at US$600 billion",
-    "They rose above US$700 billion"
+    "Four months",
+    "Seven months",
+    "Six months",
+    "Five months"
    ],
-   "answer": 1,
-   "explain_en": "The summary states that the reserves have fallen below the US$600 billion mark.",
-   "explain_zh": "摘要中說明，台灣的外匯儲備已跌破 600 億美元大關。",
-   "news_title_en": "Taiwan's FX reserves slip below US$600 billion amid record equity outflows",
-   "id": "2026-11-27-11"
+   "answer": 2,
+   "explain_en": "The summary states the CPI has been above 2% for a sixth straight month.",
+   "explain_zh": "摘要說明消費者物價指數已連續第六個月高於 2% 警戒線。",
+   "news_title_en": "October CPI at 2.33%, above the 2% alert line for a sixth month",
+   "id": "2026-11-28-10"
   }
  ]
 }
